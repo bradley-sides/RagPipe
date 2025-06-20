@@ -1,13 +1,14 @@
 from src.vectorstore import init_index, client, INDEX_NAME
 import argparse
 from src.query import run_query
+from src.ingest import ingest_documents
 
 '''
     Time to run: 
         GPT 4.1 utils: 1:30 - 2 minutes
         GPT 4.0 utils: 30 - 50 seconds 
 
-    Avg cost to run: 2 cents/query
+    Cost to run: 1 - 2 cents/query
 '''
 def main():
     print("main.py executing under: ", __name__)
