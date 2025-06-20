@@ -32,6 +32,10 @@ def build_prompt(chunks_with_meta, query):
     that the data you use is temporally accurate and relevant to the question asked. If asked about a trend or
     evolution of a statistic, consider the temporal context of the data provided.
 
+    It is also important that you understand what time period is referenced by the Quarter and Fiscal Year based on the
+    date of the call and the quarter it references. For instance, if I'm asking about Q1 2026 FY guidance, I want to pull
+    from DOCUMENTS from Q1 2026, but information INSIDE could reference May 2025 and beyond, because that is the time period.
+
     If asked a question about a specific period of time, prioritize the text tagged with that period.
 
 Context:

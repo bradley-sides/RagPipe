@@ -1,0 +1,62 @@
+from src.embedder import embed_query
+from src.vectorstore import init_index, upsert_chunks, query_index, client, INDEX_NAME
+from src.rag import build_prompt, generate_answer
+from src.search_utils  import optimize_query, rerank_chunks
+
+'''
+    query handles the main query we send to GPT to process
+        1. we feed it the optimized query from the other model
+        2. we take the top_k and multiply by 4 to broaden our search and pull closely related docs from vector store
+        3. rerank response data using LLM as well
+        4. construct this into a prompt, send to model and return response
+        
+'''
+def run_query(index, user_query, top_k = 10):
+
+    optimized_q = optimize_query(user_query)
+    print(f"Optimized query: {optimized_q}\n")
+
+    results = query_index(
+        index,
+        embed_query(optimized_q),
+        top_k=top_k * 4
+    )
+    matches = results.get("matches", [])
+    if not matches:
+        print("No matches found for the query.")
+        return  
+    
+    print(f"Retrieved {len(matches)} candidates, now reranking...\n")
+    matches = rerank_chunks(matches, user_query, top_k=top_k)
+
+    display_keys = [
+        "company", "fiscal_year", "quarter",
+        "call_date", "page", "total_pages",
+        "doc_id", "source"
+    ]
+    print("__________________________________________________")
+    for i, m in enumerate(matches, 1):
+        md = m["metadata"]
+        print(f"--- Match #{i} (score {m['score']:.4f}) ---")
+        print("Metadata:")
+        for key in display_keys:
+            if key in md:
+                print(f"  {key}: {md[key]}")
+        #print("\nText:")
+        #print(md.get("text", "[no text]"))
+        print("\n")
+    print("__________________________________________________")
+    
+    chunks_with_meta = []
+    for match in matches:
+        md = match["metadata"]
+        label = f"[{md['company']} | Q{md['quarter']} FY{int(md['fiscal_year'])} • {md['call_date']}]"
+        text = md.get("text", "")
+        chunks_with_meta.append(f"{label}\n{text}")
+
+    print("Generating answer from top texts...")
+    prompt = build_prompt(chunks_with_meta, user_query)
+    print(prompt)
+    answer = generate_answer(prompt)
+    
+    print("Answer:\n", answer)

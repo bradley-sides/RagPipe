@@ -2,6 +2,11 @@ import os
 from langchain_openai import OpenAIEmbeddings
 from dotenv import load_dotenv
 
+#
+'''
+    embedder: contains two functions to embed both docs (on insertion to database)
+              and query (on search)
+'''
 load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 

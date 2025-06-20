@@ -1,3 +1,5 @@
+# TODO: setup watchdog to scan for PDFs in the database, automate some way of scanning OR asking user for 
+#       info to create this metadata
 DOCS = [
     {
       "file_path":   "data/2025_Q2_NVDA.pdf",
@@ -31,5 +33,4 @@ DOCS = [
       "quarter":     "Q1",
       "call_date": "2025-05-28",
     }
-    
 ]
