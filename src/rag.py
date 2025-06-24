@@ -2,28 +2,20 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 
-
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 def build_prompt(chunks_with_meta, query):
-
-    """
-    chunks_with_meta: list of strings, each already prefixed
-                      with metadata info, e.g.
-                      "[NVDA Q1 FY2026 • 2025-09-15]\n<text>"
-    """
-
-    context = "\n\n".join(chunks_with_meta)
+    context = "\\n\\n".join(chunks_with_meta)
     if not context:
         raise ValueError("No context provided for the query.")
-    
+
     return f"""You are an expert analyst of quarterly financial reports. Based only on the following earnings call 
     transcript and provided context, answer the question below. Do NOT guess or fabricate any numbers 
     not explicitly shown in the context. If exact values are not available, say so. 
     Be sure that the numbers you provide are associated with the correct fiscal quarter and year. Be sure 
-    that the numbers you provide are associated with the corret statistic (e.g. revenue, EPS, etc.).
+    that the numbers you provide are associated with the correct statistic (e.g. revenue, EPS, etc.).
     Incorrect or fabricated numbers will result in a penalty.
 
     Information passed in this form: [NVDA | QQ2 FY2025 | 2024-08-28 | page 1/16] references the company,
@@ -53,3 +45,9 @@ def generate_answer(prompt):
         temperature=0
     )
     return response.choices[0].message.content
+
+def summarize_memory(history, max_turns=10):
+    memory = ""
+    for q, a in history[-max_turns:]:
+        memory += f"User: {q}\\nAssistant: {a}\\n"
+    return memory

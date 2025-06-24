@@ -1,20 +1,20 @@
 from src.embedder import embed_query
 from src.vectorstore import init_index, upsert_chunks, query_index, client, INDEX_NAME
-from src.rag import build_prompt, generate_answer
-from src.search_utils  import optimize_query, rerank_chunks
+from src.rag import build_prompt, generate_answer, summarize_memory
+from src.search_utils import optimize_query, rerank_chunks
 
-'''
-    query handles the main query we send to GPT to process
-        1. we feed it the optimized query from the other model
-        2. we take the top_k and multiply by 4 to broaden our search and pull closely related docs from vector store
-        3. rerank response data using LLM as well
-        4. construct this into a prompt, send to model and return response
-        
-'''
-def run_query(index, user_query, top_k = 10):
+def run_query(index, user_query, top_k=10, history=None):
+    history = history or []
 
-    optimized_q = optimize_query(user_query)
-    print(f"Optimized query: {optimized_q}\n")
+    
+    memory = summarize_memory(history)
+    memory_section = f"""The following is a summary of the prior conversation. Use it to maintain context and continuity in your answer if appropriate.
+
+    {memory}
+
+    """
+    optimized_q = optimize_query(user_query, memory = memory)
+    print(f"Optimized query: {optimized_q}\\n")
 
     results = query_index(
         index,
@@ -24,9 +24,9 @@ def run_query(index, user_query, top_k = 10):
     matches = results.get("matches", [])
     if not matches:
         print("No matches found for the query.")
-        return  
-    
-    print(f"Retrieved {len(matches)} candidates, now reranking...\n")
+        return None
+
+    print(f"Retrieved {len(matches)} candidates, now reranking...\\n")
     matches = rerank_chunks(matches, user_query, top_k=top_k)
 
     display_keys = [
@@ -42,21 +42,26 @@ def run_query(index, user_query, top_k = 10):
         for key in display_keys:
             if key in md:
                 print(f"  {key}: {md[key]}")
-        #print("\nText:")
-        #print(md.get("text", "[no text]"))
-        print("\n")
+        print("\\n")
     print("__________________________________________________")
-    
+
     chunks_with_meta = []
     for match in matches:
         md = match["metadata"]
         label = f"[{md['company']} | Q{md['quarter']} FY{int(md['fiscal_year'])} • {md['call_date']}]"
         text = md.get("text", "")
-        chunks_with_meta.append(f"{label}\n{text}")
+        chunks_with_meta.append(f"{label}\\n{text}")
 
     print("Generating answer from top texts...")
-    prompt = build_prompt(chunks_with_meta, user_query)
-    print(prompt)
-    answer = generate_answer(prompt)
-    
-    print("Answer:\n", answer)
+
+    memory = summarize_memory(history)
+    memory_section = f"""The following is a summary of the prior conversation. Use it to maintain context and continuity in your answer if appropriate.
+
+    {memory}
+
+    """
+    full_prompt = memory_section + build_prompt(chunks_with_meta, user_query)
+    print(full_prompt)
+
+    answer = generate_answer(full_prompt)
+    return answer

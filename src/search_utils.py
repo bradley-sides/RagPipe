@@ -18,7 +18,7 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 '''
 
 # Query Rewrite for optimized vector searhc
-def optimize_query(user_query: str) -> str:
+def optimize_query(user_query: str, memory = "") -> str:
     """
     Turn a loose user question into a concise retrieval query.
     """
@@ -27,6 +27,11 @@ def optimize_query(user_query: str) -> str:
     retrieval query. Keep it very short. It is important to include any time frame mentioned by the user. 
     For example, if the user wants results spanning FY 2024 Q1 - 2025 Q2, include all quarter names and 
     years in the query individually (FY 2025 Q1, FY 2025 Q2, FY 2025 Q3, FY 2025 Q4, FY 2026 Q1)
+
+    Here is the conversation so far, if it is empty, disregard, but if there is a summarized conversation, adapt
+    your query to address the user's new question in the context of the previous conversation:
+     
+    {memory}
 
     User question:
     \"{user_query}\"
