@@ -3,10 +3,9 @@ from src.vectorstore import init_index, upsert_chunks, query_index, client, INDE
 from src.rag import build_prompt, generate_answer, summarize_memory
 from src.search_utils import optimize_query, rerank_chunks
 
-def run_query(index, user_query, top_k=10, history=None):
+def run_query(index, user_query, top_k = 10, history = None, company = None):
     history = history or []
 
-    
     memory = summarize_memory(history)
     memory_section = f"""The following is a summary of the prior conversation. Use it to maintain context and continuity in your answer if appropriate.
 
@@ -15,11 +14,12 @@ def run_query(index, user_query, top_k=10, history=None):
     """
     optimized_q = optimize_query(user_query, memory = memory)
     print(f"Optimized query: {optimized_q}\\n")
-
+    search_filter = {"company": company.upper()} if company else None
     results = query_index(
         index,
         embed_query(optimized_q),
-        top_k=top_k * 4
+        top_k=top_k * 4,
+        metadata_filter = search_filter
     )
     matches = results.get("matches", [])
     if not matches:

@@ -44,5 +44,11 @@ def upsert_chunks(index,chunks, embeddings, base_meta: dict):
         })
     index.upsert(payloads)
 
-def query_index(index, query_vector, top_k=5):
-    return index.query(vector= query_vector, top_k = top_k, include_metadata =True)
+def query_index(index, query_vector, top_k = 5, metadata_filter = None):
+    if metadata_filter:
+        print(f"Applying metadata filter: {metadata_filter}")  # 🔍
+    return index.query(vector= query_vector, 
+                       top_k = top_k, 
+                       include_metadata =True, 
+                       filter= metadata_filter
+                    )

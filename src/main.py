@@ -12,6 +12,8 @@ def main():
     p.add_argument("-q", "--query", help = "Question to ask the index")
     p.add_argument("--top_k", type = int, default = 10, help = "Number of top results to return for the query")
     p.add_argument("--reset", action = "store_true", help = "Reset the index before ingesting documents")
+    p.add_argument("--company", type=str, help="Restrict query to this company")
+
     args = p.parse_args()
 
     if not args.ingest and not args.query and not args.reset:
@@ -31,14 +33,14 @@ def main():
     if args.ingest:
         print("Ingesting documents into index")
         ingest_documents(index)
-        print("Documents ingested successfully.")
+        print("Documents Successfully Ingested")
 
     if args.query:
         print("Querying index with provided query")
         history = []
         user_input = args.query
         while user_input.lower() not in {"exit", "quit"}:
-            answer = run_query(index, user_input, top_k=args.top_k, history=history)
+            answer = run_query(index, user_input, top_k=args.top_k, history=history, company = args.company)
             if answer:
                 history.append((user_input, answer))
                 print(f"\nAssistant: {answer}\n")
