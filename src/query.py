@@ -54,14 +54,18 @@ def run_query(index, user_query, top_k = 10, history = None, company = None):
 
     print("Generating answer from top texts...")
 
-    memory = summarize_memory(history)
-    memory_section = f"""The following is a summary of the prior conversation. Use it to maintain context and continuity in your answer if appropriate.
+    #memory = summarize_memory(history)
+    #memory_section = f"""The following is a summary of the prior conversation. Use it to maintain context and continuity in your answer if appropriate.
 
-    {memory}
+    #{memory}
 
-    """
-    full_prompt = memory_section + build_prompt(chunks_with_meta, user_query)
-    print(full_prompt)
+    #"""
+    #full_prompt = memory_section + build_prompt(chunks_with_meta, user_query)
+    #print(full_prompt)
 
-    answer = generate_answer(full_prompt)
-    return answer
+    #answer = generate_answer(full_prompt)
+    print("DEBUGGING")
+    print()
+    print(type(chunks_with_meta))
+    print(chunks_with_meta[:1] if chunks_with_meta else "None")
+    return chunks_with_meta

@@ -52,13 +52,18 @@ def rerank_chunks(chunks: list[dict], user_query: str, top_k: int = 5) -> list[d
     ask the LLM to score each on relevance to user_query, then
     return the top_k by that score.
 
+    The most IMPORTANT THING is to rank the correct TIME PERIOD the highest. If I ask for 2024 Q1, you cannot rank 2024 Q2 higher than ANY Q1 2024 excerpt. Any instance will be penalized heavily.
+
     It is paramount that your top ranking criteria is accuracy. If I ask for 2026 related data, you
     must rank the 2026 data higher than 2025 data, even if the 2025 data is more relevant to the question.
     If I ask for revenue, you must rank chunks with revenue data higher than those without. 
     If I ask for revenue in 2026, you must rank chunks with 2026 revenue data higher than those with 2025 revenue data.
     
-    It is also critical that you are aware of when in TIME the Fiscal Year refers to. For example, if I want Q1 FY 2026 information on 
+    It is also paramount that you are aware of when in TIME the Fiscal Year refers to. For example, if I want Q1 FY 2026 information on 
     supply chain forecast, I am interested in the date of the call onward, which is May 2025. Be very careful about this as it important.
+    
+    If I ask for information from a time range, you MUST provide one reference from EACH quarter in that range before making more additions.
+    These must all be included in the top 10 results after you rank.
     """
     scored = []
     for chunk in chunks:
@@ -73,7 +78,7 @@ def rerank_chunks(chunks: list[dict], user_query: str, top_k: int = 5) -> list[d
         Score:"""
 
         resp = client.chat.completions.create(
-            model="gpt-4",
+            model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": prompt}],
             temperature = 0
         )
@@ -85,4 +90,5 @@ def rerank_chunks(chunks: list[dict], user_query: str, top_k: int = 5) -> list[d
 
     # Pick the top_k by the LLM’s score
     top = heapq.nlargest(top_k, scored, key = lambda x: x[0])
+
     return [chunk for score, chunk in top]
