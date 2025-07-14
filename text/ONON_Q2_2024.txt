@@ -1,0 +1,465 @@
+On Holding (ONON) / 13 Aug 24 / 2024 Q2 Earnings call transcript
+Company Profile
+ Transcript menu
+Jerrit Peter executive
+David Allemann executive
+Martin Hof fmann executive
+Jonathan Komp analyst
+Jim Duf fy analyst
+John Kernan analyst
+Marc Maurer executive
+Jay Sole analyst
+Cristina Fernandez analyst
+Aubrey Tianello analyst
+Michael Binetti analyst
+Alexandra Straton analyst
+Operator
+Thank you for standing by . My name is Krista and I will be your conference operator today . I would like to welcome everyone to the On Holding AG Second
+Quarter 2024 Results Conference Call. [Operator Instructions] I will now turn the conference over to Jerrit, who is Head of Investor Relations.
+Jerrit Peter
+Good afternoon, good morning to our investor community . Thank you for joining On's 2024 Second Quarter Earnings Conference Call and webcast. With
+me today on the call are On's Executive Co-Chairman and Co-Founder , David Allemann; CFO and Co-CEO, Martin Hof fmann; and Co-CEO, Marc Maurer .
+Before we begin, I will briefly remind everyone that today's call will contain forward-looking statements within the meaning of the federal securities laws.
+These forward-looking statements reflect our current expectations and beliefs only and are subject to certain risks and uncertainties that could cause
+actual results to dif fer materially . Please refer to our 20F filed with the SEC on March 12, for a detailed discussion of such risks and uncertainties. W e'll
+further reference certain non-IFRS financial measures such as adjusted EBITDA  and adjusted EBITDA  margin. These measures are not intended to be
+considered in isolation or as a substitute for the financial information presented in accordance with IFRS. Please refer to today's release for a
+reconciliation to the most comparable IFRS measures. W e'll begin with David, followed by Martin leading through today's prepared remarks, after which
+we look forward to opening the call for a Q&A  session. With that I'm very happy to turn over the call to David.
+David Allemann
+A warm welcome to our second quarter 2024 results call. Martin, Marc, and I are coming to you from our improvised studio in the Swiss Alps, and hope
+you had a restful and good summer . Wow. What an exciting summer and quarter it has indeed been for On. Zendaya joined our team as partner , and
+already played an air tennis tournament against Roger Federer in front of On Labs.
+Our groundbreaking innovation, LightSpray , has been equally discussed in 325 media articles around the world over the past weeks. And more
+importantly , this new technology has already been validated by the amazing performance of On athletes in their competitions.
+On the financial scoreboard, the second quarter saw our reported net sales grow by 28%, resulting in net sales of CHF 567.7 million. These very strong
+results keep us well on track to reach our goals set out for the year .
+Importantly , we continue to operate and take decisions for the long-term success and health of On. With that, I would like to point out that we have once
+again increased our profitability levels, both from a gross profit and an adjusted EBITDA  margin perspective.
+Over the last weekend in Paris, it struck me that the Olympics do not measure the performance of athletes in a yearly cycle, as other tournaments do, or
+even over quarterly cycles. The Greeks knew 2,800 years ago that big dreams require a longer period to train, evaluate, and prepare. This is why I want to
+speak to you today about how On's unique ambition to dream big over long cycles leads to extraordinary achievements, breakthrough innovations, and
+ultimately durable growth.
+As a founder led company , our mantra, Dream On, is a rallying cry to pursue the most daring dreams with long-term determination and the diverse,
+incredible group of people who dream together . We dream together to win. The games ended just 2 days ago, yet the extraordinary achievements of all
+athletes will fuel our passion and the inspiration for a long time going forward. It was a true privilege to see the determination, passion, and energy across
+the competition first hand, to be reminded of the 4 years of preparation that many athletes go through for that one big moment. And of course, the
+Olympics stands for more than simply the competition for medals. The game's three values; excellence, respect, and friendship express the unique ability
+the event has to bring people together in a way that only sport and movement can. These Olympic values inspired us to create a standout campaign with
+Print
+our new partner , Zendaya, that you may have seen together with millions of people across social media or through the streets of Paris. Zendaya reminds
+us that winning is never the work of just one individual, but a highly capable team with a long-term commitment to put the work in and see it come to
+fruition over time. Winning together continues to scale with our powerful team and brand.
+We are so fortunate to have the opportunity to Dream On with our incredible team of athletes. 66 On athletes from 25 dif ferent countries made their way to
+Paris to take part in one of the biggest moments of their careers. W e could not be more proud of each and every one of their achievements. On Saturday ,
+Dominic Lobalu, whose quest and dream to run in Paris came true, of fered us all a memorable moment and came incredibly close to the podium, finishing
+fourth in the men's 5,000 meter . And on Sunday , Hellen Obiri raced her way to a bronze medal at one of the final competitions in Paris, the women's
+marathon. Iga Swiatek, made history by securing the first ever tennis medal for On supported athlete, earning a bronze that also marked the first ever
+tennis medal for Poland.
+Our triathlete, Lisa Tertsch, also made her way into the history books in the mixed relay , being the first On supported athlete to ever win gold in the
+Olympic Games. And who could ever forget the Yared Nuguse's final sprint. This incredible performance earned him a bronze just at the hundreds of the
+second behind getting silver .
+So truly historical moments that we'll never forget.
+In fact, 20 athletes from 12 dif ferent countries competed in the games from our very own On Athletics Club alone. The On Athletics club follows a unique
+model that highlights how sports unites rather than divide us. This team of talented and committed individuals trains together year-round to prepare for
+competitions around the world. It's a model where teamwork and the will to win co-exists and strives.
+So even an individual sport like running benefits from athletes motivating, supporting, and inspiring each order to perform at the very highest levels.
+Our commitment to our athlete team extends beyond traditional elements such as supporting them in their physical and mental preparation. Overseen by
+former professional athletes, our program of fers assistance in house and recovery , financial planning, personal branding and media as well as career
+development beyond their athletic years.
+Former triathlon world champion, Nicola Spirig, who won the first Olympic medal for On in Rio in 2016, has now joined On as a team member . She
+supports the unique model of our athletic club, which is already becoming generational. Performance is at the core of On. At On, big dreams leads to
+breakthrough innovation. Dream On, the spirit that drives our athletes is the same mantra that fuels our team's bold innovative ambition and mindset.
+Our new LightSpray technology is proof of that. It came to life after one of our key members saw the potential to use a hot glue gun to spray a shoe, like
+Spiderman would do with web fluid. 40 years ago, we backed this crazy dream as one of our innovation moonshots with resources at On Labs. From there
+on, our team came together to test, challenge, and build on every setback to reach new ideas for what would eventually result in the new Cloudboom
+Strike LightSpray . It features an ultralight upper that is sprayed, not built in a one-step process, automated by a robotic arm in just 3 minutes. W e'll admit
+when marathon star Hellen Obiri saw it for the first time, she was fairly skeptical. It truly doesn't look like a performance running shoe we have ever seen
+before. But after putting them to the test in her training session, she decided they were too good to leave behind for competition. She then stunned us all
+by winning the marathon in Boston earlier this year , wearing this groundbreaking shoe.
+Looking forward, this is just the start of a dream that we believe will challenge the norms of outstanding performance, manufacturing ef ficiency ,
+sustainability , and potentially near-shoring all advance.
+In fact, this marks a turning point in manufacturing with the potential to be brought to many more On products in the future. A few lucky folks might have
+pulled a first-hand glimpse of the innovation, life at our On Labs pop-up in Paris over the past few weeks. I believe it's safe to say that our guest reactions
+to the LightSpray robots were incredibly positive. It left a clear message, On will always be there to take bold bets on our mission towards achieving long-
+term innovation-led success. In essence, innovation and new technology enable us to create the best sports gear available. This allows us to broaden our
+product of fering and reach an even larger community . Or in other words, through our ambition to ignite the human spiritual movement, we inspire others to
+Dream On. On Slide 3 is a look into the future, our innovation pipeline continues to deliver new and exciting products in the short term. An example is the
+Cloudboom Strike, our latest high-performance product for race days. Available in a limited first color range since early July , it will be more broadly
+launched in early September . The shoe revolutionizes the fast-running experience with an innovative ultra-responsive drop in mid-sole construction
+tailored to marathon racing.
+For the everyday run of the newly launched Cloudsurfer Next of fers a dynamic running sensation with our patented CloudT ec Phase technology and an
+aesthetic inspired by the Cloudboom Echo series. W e Dream On with global talents.
+As I mentioned earlier , success is a team sport. Through authentic connections, we built long-lasting relationships with athletes in the On Athletics Club as
+well as partners like Zendaya, FKA  Twigs, Iga Swiatek, and Roger Federer . These partnerships allow us to create incredible momentum for the brand as
+seen most recently in Paris where our presence was felt. From our pop-up On Labs located in the heart of the French capital to our newest and largest
+flagship store on the legendary Champs-Elysees, Paris has given us the opportunity to leave a mark on the world's largest sports stage. Sport remains
+one of the last and ultimate life moments to build cultural relevance for brands in performance and lifestyle. In the last weeks, On store retailing reached a
+global community of millions and together with our global talents, we are just getting started.
+If you remember 3 things from my introduction, I want you to remember this.
+First, On is dreaming and building for the long term with an outstanding team of athletes, talents, and global brand partners. W e dream and win together
+and performance is at the core of On.
+Second, the risk-taking approach of a founder-led company leads to radical innovation that will fuel On's product ramp and durable growth for years to
+come. And third, our bold long-term dreams are creating enduring brand and business value. The 2024 games have ended and On left its mark. The road
+towards 2028 in L.A. starts for us at On today . It's my great pleasure to hand over to Martin for a more detailed review of the quarter . Martin, please.
+Martin Hof fmann
+Thank you, David, and bonjour from my side as well. Please first allow me to begin with how a revolutionary technology like LightSpray links to our most
+important asset, our culture. The level of dedication and energy that our team put into this project became visible to the world over these past weeks.
+Witnessing the team presenting their innovation to global media, star athletes, and leaders in business and politics from around the world was a big
+highlight for us. Their pride and passion nearly matched what we saw from athletes winning medals, and we are thrilled and proud to work with such an
+exceptional team. Not too long ago, we talked about our big dreams for the summer .
+Looking back at the past weeks, it's clear that we have laid the groundwork for what we believe will shape On for many years to come. Zendaya,
+LightSpray , our athletes, our largest flagship store to date, leading community events like On Track Nights. These big moments were not created to boost
+short-term sales, but to build the foundation for the long term, durable and profitable growth that we outlined at our Investor Day 1 year ago. To elevate our
+brand awareness with a wider fan base and to push our credibility as an innovation-led global premium performance sportswear brand. A huge moment in
+themselves, we further boosted them with significant marketing investment across all our channels. And it's clearly working. The brand is maintaining its
+incredible momentum, based on direct customer feedback, continued sell-through strength, our brand awareness tracker , a strong increase in Google
+searches and millions of media impressions.
+Our multichannel strategy allows us to capture the brand momentum globally and to convert it into continued strong sales growth across all channels.
+As a result, we are very pleased to have reached net sales of CHF 567.7 million in Q2, up by 27.8% year-over-year on a reported basis and 29.4% on a
+constant currency basis. With that, we have, for the first time surpassed CHF 1 billion in net sales in the 6 months period and CHF 2 billion when looking
+at the last 12-months period. Both marking incredible milestones and achievements that we are extremely proud of.
+As mentioned, the strong brand momentum converts into strong demand for On across all our channels and partners. The ability to convert this
+momentum to sales, especially in the Americas region would have been even higher . But the ongoing transition of our Atlanta warehouse led to some
+product availability constraints, including key franchises like the Cloud and to delayed on missing deliveries, both towards our DTC and wholesale
+customers.
+As anticipated, we saw a strong growth re-acceleration in our wholesale channel in Q2, in comparison to the last 2 quarters. Wholesale net sales grew by
+27.6% in the quarter on a reported basis and 28.8% on a constant currency basis, reaching CHF 358.2 million.
+We continue to execute on the communicated strategy to focus on our existing distribution partners, driving our ongoing growth path with deeper
+penetration at strategic accounts, same store growth and ongoing market share gains. At the same time, we are adding a lower number of incremental
+wholesale doors than we have over the past years.
+We are pleased to see that the growing brand awareness drives strong full price demand to our existing wholesale partners across key accounts and
+specialty retailers, both in their physical as well as digital channels.
+Our DTC channel continued to outperform wholesale and reached CHF 209.4 million in Q2, growing by 28.1% year-over-year on a reported basis and
+30.4% on a constant currency basis.
+As a result, Q2 DTC share increased versus the prior year period, reaching 36.9%. In our e-com business, we had seen some softer demand in the first
+days of the quarter , followed by a re-acceleration of growth in the second half paired with record high traf fic on our website. This includes a very strong
+start for some of our recent digital channel expansion. The global launch of our first commercial app is now complete with both downloads and
+transactions well ahead of our expectation.
+In addition, we are encouraged to see a very high apparel share on the app, comparable to what is reached in our retail environment. The increasing
+brand awareness is also visible in a wave of new visitors through the expanding network of retail stores in our new Paris location and beyond.
+Our New York City Lafayette store remains a vibrant hotspot, attracting some of the highest traf fic levels among all our retail locations this quarter . We're
+excited to open our second store in Manhattan in a few months, where visitors will have even more space to immerse themselves in the full-on
+experience.
+Just a couple of weeks ago, we also opened our first-ever store in Hong Kong, which we celebrated with some of our closest partners and tastemakers in
+the region. Despite the early days, the store has clearly exceeded our internal expectations, ef fectively doubling the initial projection and showcasing the
+remarkable brand feat that's noticeable in the region. At our Investor Day in last October , we outlined our focus on On retail as a key pillar for global
+growth.
+During the last year , we expanded our network to 12 stores outside of China and 25 stores in China. And we gained a lot of additional confidence in the
+power of the channel to drive growth, high engagement levels with new and existing customers, increasing and strong apparel share and very importantly ,
+additional profitability .
+Now let me switch to the regional performance. EMEA  reached net sales of CHF 138.4 million in the quarter , growing by 21.8% year-over-year or 22.2%
+on a constant currency basis.
+We are very happy with the performance in the region, both from an absolute net sales achievement as well as a product composition perspective.
+We continue to see exceptional momentum in the United Kingdom across all channels. But from a smaller base, sales in France, but also Netherlands and
+Belgium clearly accelerated. But most important is the acceleration and increased share of sales from our performance running range within some of our
+legacy markets in Central Europe, which we see as a result of our strategic prioritization over the past months.
+Moving on to the Americas. The region contributed CHF 370 million in Q2, by far our largest quarter in terms of absolute net sales and representing a
+reported growth rate of 24.8% or 25.8% on a constant currency basis. W e already mentioned the impact of the ongoing transition of our Atlanta
+warehouse, which was even more visible in our DTC than our whole channel. But we are fully focused on improving the situation, we expect a continued
+impact in the second half of the year . But this transition is essential to scale our distribution capabilities in the U.S. in the long term, and to ultimately fulfill
+the incredible brand momentum and demand that we continue to expect in the region. In the APEC region, we continue to win market share fast and
+across more countries than expected. The region grew by an incredible 73.7% in Q2 to reach CHF 59.2 million. On a constant currency basis, the growth
+was even higher at 84.7%. From the continued strong momentum in China, daily queues in front of our store in Japan, record sales in very nascent
+markets such as Indonesia or the Philippines, and of course, the already mentioned success of our new store in Hong Kong, current demand is clearly
+exceeding supply .
+Turning to the performance by product. Shoes grew by 26.7% year-on-year , reaching CHF 542.5 million in Q2. Demand for our products remains strong
+across all product verticals. In line with our strategic priorities, performance running continues to drive a significant part of growth. W e maintained strong
+growth across all our running franchises, including the Cloudmonster , Cloudsurfer , and Cloudrunner and we keep fueling this growth with new products
+and innovations. The newly released Cloudrunner 2 has been a great success and elevates this important franchise, and is stable for the everyday runner .
+The Cloudsurfer Next, which we just launched in early August, extends our successful Cloudsurfer line towards a lower , but still premium price point and
+significantly expands the reach and addressable market. In our performance all day vertical, the Cloudtilt continues to fly of f the shelf. The list index just
+called the Cloudtilt 2.0 of our LOEWE collaboration, the quarter's hottest product. From a smaller base, but growing at a rapid speed is our performance
+tennis category . We're excited to be well positioned to drive and capture the increasing cultural relevance of the sport. The Roger is amongst our fastest-
+growing franchise, but tennis inspires fans to own not only On footwear , but also apparel pieces. The highly successful launch of our tennis apparel
+collections earlier this year , clearly exemplifies this and was further fueled by the excitement surrounding the air tennis match between Zendaya and
+Roger .
+As previewed in our previous public updates, the initiatives we have been taking on the apparel side are beginning to show in the numbers too. Net sales
+in apparel grew by an outstanding 63% in Q2 to reach CHF 21.9 million. Based on the momentum we are seeing in wholesale and even more in our own
+channels, we are confident in the ability to drive significant growth and to increase our apparel share consistently over the coming quarters.
+New products, but also exciting collaborations like the one with LOEWE or South Korean Post Archive Faction drove significant awareness for the
+category , and also allow us to reach a higher level of engagement from our fans.
+For example, we provided members with early access to the Post Archive Faction collections, and the launch was a huge success. In China, the number
+of new members on launch day equals what we typically acquire over a period of 2 weeks. Last but not least, we are very proud of our newest accessories
+offerings, our first bag collection. It's another testimonial to the power of our team to innovate and redefine products. Innovations like the Swiss style grab
+handles or our proprietary fit lock design buckles meet a unique premium design standard around functionality for people on the move. I had the privilege
+to use the bags for my travels over the past year already and keep on receiving positive reactions at almost every security check.
+Moving down the P&L. Gross profit reached CHF 340.2 million in the quarter , representing a strong and premium gross profit margin of 59.9%. Compared
+to the prior year period, which benefited from lower freight rates in Q2 this year , slightly of fset by the higher freight share versus historically low levels last
+year. SG&A  expenses, excluding share-based compensation, were CHF 275.8 million in Q2, equivalent to 48.6% of net sales, flat versus the same period
+last year .
+As planned, we increased marketing expenses to support our big brand building initiatives this summer . At the same time, distribution expenses as a
+percent of sales were lower compared to Q2 2023, as a result of lower warehousing costs, as well as operational ef ficiency gains. The resulting adjusted
+EBITDA  margin for Q2 is 16%, notably up from 14.1% in Q2 2023. The more stable U.S. dollar , Swiss franc FX rate during the quarter supported a less
+volatile foreign exchange result than what we have seen in recent quarters.
+As a result, the strong bottom lines for the quarter truly reflects our operational success and profitability . Net income reached CHF 30.8 million, up from
+CHF 3.3 million in Q2 '23.
+Moving to our balance sheet, capital expenditures were CHF 16.9 million in Q2, equivalent to 3% of net sales, up slightly from 2.5% last year .
+While achieving significantly more net sales, net working capital at the end of Q2 was at CHF 567.1 million, almost flat compared to the CHF 560.2 million
+at the end of March and even lower than the CHF 598.6 million a year ago.
+Our inventory position stands at CHF 401.3 million, a slight increase versus the CHF 365.3 million at the end of Q1, but significantly lower than at the end
+of Q2 last year .
+While we remain laser focused on actively managing our inventory at ef ficient levels, we are willing to lean in on certain key styles in order to capture the
+high demand we are observing around the world.
+As a result of our strong operating cash flow of CHF 102.4 million in the quarter , we have improved our cash position from CHF 584.6 million at the end of
+Q1 '24, up to CHF 652.4 million at the end of Q2.
+Over the past 12 months, we achieved an operating cash flow of CHF 412.2 million and have improved our cash position by CHF 315.3 million. With that, I
+would like to move on to our outlook for the full year 2024. I'm sure you can see it from our remarks today , and hopefully also from what you have been
+seeing and hearing about On over recent weeks and months.
+We continue to experience an incredible amount of momentum around the On brand, from amazing product launches to ground breaking innovations from
+athlete stories and successes to authentic brand partnerships. The summer has definitely lifted up to our expectations, and we couldn't be happier with
+how all of our initiatives came to life. Seeing all the positive feedback and coverage gives our team so much energy and inspiration to continue on our
+journey of relentless innovation, challenging the status quo to deliver the best products and experiences to our fans around the globe. And we are thrilled
+to see that all the attention we are generating is leading to increased brand awareness and converting into online and of fline traf fic. This provides us with a
+lot of confidence for the continued high demand for the On brand and our products, even above our expectations. At the same time, we acknowledge
+some of the ongoing distribution challenges, to ensure we have the right product at the right place at the right time to fulfill the specific and full demand
+that is out there.
+While we build our brand, by relying on a certain level of scarcity , we are not fully and consistently delivering to our own high expectations from an
+operational perspective. That being said, the strong consumer demand as well as actions taken on our end to mitigate impacts from the warehouse
+transition gives us a lot of confidence to reiterate our 2024 constant currency net sales growth rate expectation of at least 30%. On a reported basis, at
+current spot rates and reflecting the most recent strength of the Swiss franc compared to our most meaningful currencies, including the U.S. dollar , this
+implies CHF 2.26 billion in net sales.
+We are further maintaining our gross profit margin guidance for the full year at around 60% and continue to expect an adjusted EBITDA  margin for the full
+year in the range of 16% to 16.5%. An incredible summer is slowly coming to an end.
+So many highlights in Paris and across the board give us even more energy and motivation to pursue our dreams and plans, in the second half and
+beyond.
+As David mentioned, we have and always will be committed to building On for long-term success. A huge thank you and congratulations to our team for all
+the amazing moments as we continue to Dream On. With that, David, Marc, and I would like to open up to your questions.
+Operator
+[Operator Instructions] Your first question comes from the line of Jonathan Komp with Baird.
+Jonathan Komp
+I want to follow-up and just ask a little bit more about some of the constraints in North America. Could you maybe discuss how you're choosing to prioritize
+some of the new launches and products across channels given the constraints? And then how are you thinking about the steps that are needed or the time
+frame that you're looking for to get things fully operational to the standards that you expect them to be?
+Martin Hof fmann
+Hello, John, this is Martin, and welcome from my side here as well.
+So just to put this again into perspective.
+So as you know , we are in the process of building a fully automated warehouse in our Atlanta facility .
+And so as a result, we are temporarily operating out of the space that is simply not optimized.
+And so as a result, we experienced capacity constraints in that warehouse, and this then leads into basically unreliable late deliveries, but also inventory
+shortages.
+We are able to shift some of that capacity to our very well-performing warehouse on the W est Coast, but only to the extent that we have inventory there.
+And so the impact on our business that we are seeing is both in DTC and wholesale. But, it's a bit hard to quantify , but we would expect without those
+impacts that we would have been able to deliver a sales growth on a global level above our full year guidance. And we would have seen a stronger DTC
+share, or higher DTC share as we clearly missed opportunities in the DTC channel.
+While in the wholesale channel, you always have the buf fer of in channel inventory , but then also, we clearly saw that the wholesale channel was able to
+capture some of the traf fic that initially came to our website because of the constraints that we had.
+So we already installed a lot of measures. And as a result, we clearly had seen the strongest impact in our DTC business in the first half of Q2. And ever
+since, we have seen a clear re-acceleration of the growth rate in DTC, and this also continued into the first weeks of the new quarter .
+So we are optimistic that we were able to do the measures to lower the impact, but we still expect the impact. And as I said, for us, it's much more about
+not living up to our high expectations from an operational perspective versus actually losing a few percentage points on the sales numbers.
+So we will clearly prioritize important franchises. W e prioritize our important retail partners. W e clearly prioritize our DTC channel, but there are simply
+limitations by the fact that the inventory is not always at the right place at the right time where the capacity sits. Important for everyone is that we are well
+on track to have our automated warehouse life in the first half of next year . And I think in the end, this is where we want to be as this lays the foundation for
+the years to come.
+Operator
+Your next question comes from the line of James Duf fy with Stifel.
+Jim Duf fy
+I want to talk about marketing. Q2 and Q3 have been big brand-building moments. Are there any metrics you can share about consumer engagement.
+Specifically , I'm curious whether Zendaya led to any shift in demographics and if there are any trends you can share around engagement following the
+Olympics?
+David Allemann
+So you mentioned it, On had an incredible quarter with the visibility of the brand very , very high around Zendaya, but also around LightSpray , innovation
+launching present in Paris, and of course, also a strong presence of our On athletes.
+So just kind of share one step is that Zendaya's air tennis match with Federer was viewed by 15 million -- was viewed over 15 million times on Insta and 7
+million times on TikTok. And of course, you also saw that on our brand trackers and then also on the website visits to our site.
+So On has clearly been in the conversation of a global audience of millions in the last 3 months, always with performance innovation at the core and at the
+same time, reaching a popular culture. And Jim, let me probably just say this in a space where established brands historically had a monopoly almost on
+the headlines of innovation athlete stories, and sporting emotion, we firmly placed ourselves, we believe not just as a contender but a leading sportswear
+brand with a strong point of view .
+So really dreaming together represented a strong point of view that captured the community spirit of the games.
+So this is something that is building for the long term.
+So we're not just looking -- so we feel it's a little bit too early to look back, but we really look forward to how this is going to unfold in the momentum of
+product sales.
+Operator
+Your next question comes from the line of John Kernan with TD Cowen.
+John Kernan
+Congrats on all the success and innovation. Martin, can you talk to the second half EBITDA  -- adjusted EBITDA  margin guidance? It looks like incremental
+EBITDA  dollars are going to start to accelerate on a year-over-year basis in the back half. What gives you that confidence? And obviously , gross margin,
+you've given us a pretty good picture of gross margin and SG&A, but just curious if there's any dynamics between Q3 and Q4 that we should be aware of?
+Martin Hof fmann
+Yes, so our implied guidance -- our guidance for the full year implies a slight re-acceleration in the second half of the year . In general, second half of the
+year will be of a higher volume and therefore, also basically the cost base will be overcompensated by more sales.
+As we reiterated, we see our gross profit margin at a very strong 60% for the full year .
+So a slightly stronger gross profit margin in the second half of the year than in the first half of the year , of course, significantly driven by the holiday
+season, which will deliver and is expected to deliver a very DTC heavy fourth quarter . And then as mentioned, we had significant investments on the
+marketing side in Q2, leading up to all the events that David was just talking about -- so we expect in the second half of the year , a slightly lower
+percentage of net sales flowing into marketing. And this gives us the confidence that we operate in that range of 16% to 16.5%. Also very important for us
+is that we don't restrict our investments into the long-term growth of the company by the temporary warehouse disruptions that we see.
+So for us, this is always a priority , and then has a priority to be in that range of 16% to 16.5%. And this is where we feel very comfortable that we can
+manage the business in the second half.
+John Kernan
+Just one follow-up is just on EMEA  and some of the channel dynamics there. I know Q1, there were some wholesale door closures, EMEA  revenues did
+accelerate on a slightly easier compared in Q2. How should we think about the door closures in EMEA  and wholesale into the back half of the year? Does
+that af fect any one quarter greater than the other?
+Marc Maurer
+Yes, this is Marc speaking. Hello, everyone.
+So indeed, I think we're very happy with a very strong return to much, much stronger growth in EMEA, 22.2% at constant currency .
+And some of the key markets like Germany and Austria delivered positive growth to that.
+And so we see the U.K. accelerating. W e see France, for example, really profiting from the Olympics, but also from the store openings that we had from all
+the brand build that we're doing.
+And so when it comes to the closures, a lot of that impact is more or less over now .
+So we feel we have a way more kind of stabilized perspective on how we can look at EMEA  for Q3 and Q4 as well, and that's also built in the guidance.
+On an overall store growth, we -- historically , we've been growing the store base by roughly 10% year-over-year . We're more looking at 5% right now . And
+this really very much comes from that we feel we're very well on track when it comes to existing store and new store growth in all key markets, and we're
+super happy where we stand with our partners when it comes to basically executing on the guidance that we gave you.
+Operator
+Your next question comes from the line of Jay Sole with UBS.
+Jay Sole
+I have a 2-part question.
+First, you talked a lot about LightSpray . Can you give us an idea of what's the plan for that product? I mean is it going to be just something for elite
+athletes, or is that something that the mass market will have an opportunity to buy? And then secondly , it sounded like the apparel initiatives around sizing,
+and some of the things you've been working on over the last couple of quarters and years have done well, and you're seeing some positive signs there.
+Can you just talk about big picture, how you're feeling about apparel today versus 90 days ago? I mean, you see it on track to becoming a higher
+percentage of total sales, and if you can give us an idea about that, that would be helpful.
+Martin Hof fmann
+Let me take the LightSpray question and then hand over to David, who is -- who will take the apparel question, by the way , which we also see reflected in
+the pre-order growth.
+So a lot of positive signs really for second half year , but also for '25 on the apparel side.
+So I think please think of LightSpray in 3 dimensions.
+I think first, it's really a manufacturing revolution.
+So we're very much moving from an OpEx-led production model to more a CapEx model, and this allows us to basically manufacture shoes way closer to
+the consumer .
+So think about near-shoring and with way less parts.
+So this is the first step.
+And so we have our first station right now . And the goal is very clear that we can expand that significantly . Then secondly , it is very much an upward
+technology that we were able to launch on the peak performance side. W e were able to create a new look that has triggered lots of interest beyond our
+athletes. And it is very clearly our goal that we're able to bring this look and design and this feel to the mass market and not limited just to the top athletes.
+And then thirdly , we're very proud that it allows us to take huge steps in sustainability .
+So this upper has 75% less CO2 emissions than a traditional upper . And obviously , being able to manufacture closer to the consumer with less pieces, it
+allows us to be much, much closer to where the demand is.
+So also optimize from a supply versus demand perspective. And we feel these things taken together and give us a lot of hope that LightSpray will allow us
+to really change some of the things that we're doing. But we're at the very , very beginning of the process, so please don't think in like a 6 months
+perspective here and think about this in a very much long-term perspective. And we're looking forward to bring the products to more consumers in Q4.
+So we have a very clear plan, but sometimes it's nice to keep some surprises for our fans, and we would love to keep this surprise and you'll see it when
+the robot will be basically placed somewhere else across the globe and when our fans will be able to have access to the product.
+David Allemann
+This is David, just coming to apparel.
+You've seen the 63% growth in Q2 for apparel, which is incredible. And of course, that's a result of an incredible brand heat that we already talked about
+and people are now also looking to dress head to toe in the On brand. And that's leading actually to even an increased momentum.
+So Marc already hinted to it, apparel sees doubling in pre-orders for fall winter '24.
+So we see an increased momentum also going forward. And we feel that's not just brand heat, but it's also a factor of, the fact that we learned to
+merchandise apparel in our own channels like in retail and also digital, which leads then to, for example, in Paris, in our new Paris store, every fourth piece
+sold already being an apparel piece. That, of course, increases then also the confidence of our wholesale partner , and as we scale retail, and this will
+happen even more so. And then an additional point is that now we're not just touching running, but through the extension of our verticals -- now , for
+example, also training as an apparel first vertical coming into the picture. W e of course, unlock a lot more communities for apparel. The same is true, of
+course, also for tennis, where we've seen incredible success for tennis gear .
+So expect a lot of launches as well in Q3, where you also see exciting innovations just giving you one example. W e launched all new training gear for
+high-intensity workouts are really focused for the gym. And we introduced there a dry-tech fabric that actually feels like a cotton touch, but it has the
+credibility and the feel of a high-performance fabric.
+And so we bring fabric innovation to apparel as well.
+So this is all scaling it, but at the same time, I feel it's not just about the sales of apparel, but of course apparel is also an incredible opportunity for the
+brand because we're happening head to toe.
+Operator
+Your next question comes from the line of Cristina Fernandez with Telsey Advisory Group.
+Cristina Fernandez
+Congratulations, on the strong demand. I wanted to follow up on the constraints you're seeing on the supply chain.
+As you look at the second half, early in the year , you had talked about stronger DTC growth in wholesale. Should we expect wholesale to be stronger than
+expected in DTC perhaps not as strong? And then can you talk about the impact it's having on the gross margin.
+David Allemann
+Yes, I'd be happy to do so, Cristina.
+We continue to expect that DTC significantly outgrows our wholesale channel despite the impacts that we planned in. And as a result, I mentioned it
+before, we also expect that our gross profit margin comes in higher in the second half of the year than in the first half of the year .
+As I said, there, we certainly don't run at the optimal level of our DTC business, and we could capture more of the demand that is out there. But still even
+with the impact, we will be able to outgrow our wholesale channels or our DTC channel.
+Operator
+Your next question comes from the line of Aubrey Tianello with BNP  Paribas.
+Aubrey Tianello
+I wanted to ask about new products. W e've seen a lot of new products launched over the past year .
+You called out several of them in the prepared remarks like Cloudtilt. I would love to hear which of this year's launches you're most excited about, and
+among the new launches on the footwear side, could one of these new launches become your 8 franchises that reaches 5% revenue share.
+Marc Maurer
+So I'm going to give you a bit of look into history and David will take you into the future.
+So I think very excited definitely about apparel.
+So we still feel, especially on the apparel side, we were not able to capture all the demand from a product availability perspective.
+I think the confidence that we see with retailers also going into the preorders now coming from the products that have already launched is very , very high.
+So I know we're not talking footwear franchise here, but we just want to reiterate that we're very , very happy with what we're seeing on the apparel side.
+Then I'm super happy with how the Cloudrunner 2, and with that the overall cloud order franchise has launched, it's important to us because it really
+captures that core run consumer .
+So for example, it already takes -- or in June, it took 25% of our sales at Fleet Feed, which is very , very strong. W e're also seeing the Cloud Monster
+franchise growing almost at the triple digit rate and then also the Cloudsurfer with the launch of the Cloudsurfer Next. Being able to bring 2 dif ferent price
+points is working well.
+So you see those are 3 franchises that are really in the core running segment, which is -- which reconfirms the ef forts that we're doing with positioning on
+or continuing to position on as a core performance brand. And then we could have sold way , way , way , way more Cloudtilt if we had the inventory .
+So -- so the energy that Zendaya was able to bring to the product is outstanding, and we're looking forward to bring more cloud deals to the market.
+You also started the collaboration we had with Lowe where Martin mentioned it in the prepared remarks.
+And so we really feel we were able to create a couple of new franchises that are performing well. W ell, at the same time, for example, the cloud is still the
+largest franchise.
+So we're not forgetting about the things that have been there.
+And so I really see that we're growing an existing product, but also growing in new products is very , very important for us. And David will give you an
+outlook into what's happening in the second half of the year .
+David Allemann
+So just building on what Marc said, the second half of the year , I can promise will be as packed as the first.
+So first of all, building on the Cloudsurfer Next that Marc mentioned, we will also double down on the Cloudsurfer franchise by launching the Cloudsurfer 2.
+So really building -- renewing the full franchise there, and secondly , kind of not just building on the commercial relevance, but also very much at the
+Pinnacle. W e just launched the Cloudboom Strike, which is a performance marathon shoe pouring from the aesthetic of the LightSpray shoe and flying of f
+the shelf is really broadening the halo of the LightSpray that already happened.
+We have just launched the Cloudnova 2.
+So really our running sneaker that has become a staple, but now we're following up then also early next year -- sorry , now in August with the Cloud over X-
+- so it's a crossover model that crosses over into training.
+So similar how the Nova crosses into running, Nova X into training.
+So we are building really with Nova a full franchise that is for a young consumer that also looks for versatility between all day and their sport. And then, of
+course, Marc mentioned it, the Cloud 6 that's going to be biggie than in February next year , because it's one of our biggest franchises, which will be all
+new again and continue as an internal icon of innovation and design. I can also reveal that there is going to be a special Cloudtilt dropping in Q4 that has
+been conceived together with Zendaya.
+So we're excited about that.
+Operator
+Your next question comes from the line of Michael Binetti with Evercore ISI.
+Michael Binetti
+Thanks for help with all the questions here.
+Let me ask -- let me zero in on a question, maybe asked earlier a little bit of detail on the previous shape of the guidance for the year , I think you were
+saying DTC would gain about 200 basis points of revenue share this year , something similar to what it's done in the past.
+I think that would have put DTC at roughly 30% -- mid-30% type growth for the year , so maybe high 30s in the back half. Is that still a good framework for
+us to think about? Or maybe just some help on shaping considering the comments that Atlanta will impact DTC more? Maybe how you and fourth quarter
+as you balance demand and the direct-to-consumer business improving in the third quarter that you talked about, of fset by some of the self-help initiatives
+in Atlanta.
+Martin Hof fmann
+Yes, thanks, Michael.
+So going a bit back to the big picture. W e -- our DTC channel is extremely healthy . And we see record visits coming to our website, we see that all our key
+DTC metrics.
+So from new customers to repeat purchase rates to average item value, all those things are at historical high levels and basically showcase the strength of
+the channel. And we talked about the app and other new elements that clearly put ourselves in a strong position to capture that customer that is shopping
+online. At the same time, we are then not able to convert all of them at the moment into the final sales. The expectation that we will outgrow our wholesale
+channels, our DTC channel, just confirmed it. And if you look back in the past, we were able to win and increase the DTC share by 1.5 to 2 percentage
+points every year , and we expect that this journey continues. And I also shared that we have seen a re-acceleration of our DTC growth basically already in
+the second half of Q2, but also in the first weeks of Q3.
+So that means a growth rate above the 30% that we had for the full quarter .
+And so I think this provides the confidence that the consumer demand is there and the strength of our DTC channel is there.
+Michael Binetti
+And if I could follow-up with one. Maybe how do you think shareholders will see a return on the investments that you're making and that you've made, in
+the quality of sales initiatives in Europe by exiting some of the non-strategic wholesale doors and some of the limits that you've placed on retailers
+ordering lifestyle products to drive the strong trends you mentioned earlier in the performance products.
+David Allemann
+We're building on in the very long term, right? And we're continuing to build on as a performance brand.
+So we told this a couple of times, we're really focusing on the channels that allow us to reach those consumers, that also allow us to tap into a younger
+consumer segment as well. And what we're clearly seeing with the initiatives that we're doing is that we're not just basically kind of re-accelerating our
+existing consumer base, but we're also tapping into new consumer segments.
+And some of these retailers that we're scaling with now are the best partners to do that. And you see that reflected in our overall wholesale number . We
+see that in the sellout of the likes of JD and Foot Locker as well, where our sellout is going much, much stronger than, for example, on-hand inventory that
+we have with them.
+And so this really allows us to tap into that new consumer , and this will build up over time.
+So I already mentioned it, we see into the pre-order for spring/summer 25, and we can see which accounts in which country are basically placing what
+preorders. And we clearly feel that the messages that we're trying to give to the markets are appreciated by our consumers.
+And so we're very , very happy that we took that step.
+We are very , very happy that we kind of closed those stores and took probably a bit of a short-term hit, but it will allow us to be even stronger in the long
+term, and we have absolutely no signs that this strategy is not working.
+Operator
+And we have time for one more question, and that question comes from Alex Straton with Morgan Stanley .
+Alexandra Straton
+I just wanted to move it big picture here. There's been a lot of fears around a recent potential U.S. consumer step down. Can you just share what you've
+observed on the consumer , either in the quarter or quarter-to-date? And if you've noticed any dif ferences in consumer behavior across the regions that
+you're exposed to? So if there's any dif ferences between the U.S., Europe or Asia, that would be super helpful. Thanks a lot.
+David Allemann
+I think Martin mentioned it, when it comes to the U.S., for example.
+So, I think we confirmed an already strong guidance, and we wouldn't do that if we didn't have confidence in the consumer , we see very positive signs
+over the last couple of weeks.
+So actually , what we see happening within our channels, what we hear from our partners versus what some of the market reaction was is not exactly in
+line, and this gives us also confidence from a U.S. perspective for the rest of the year . We clearly see that the brand ef forts that we're doing in Europe, and
+again, especially France or also the U.K. are working out, we can also capture that in our own channels. W e're, for example, very happy with the
+partnership that we've launched with Zalando and how we're tapping into their consumers, and then going to Asia, Japan, growing very , very strongly .
+There is clearly some uncertainty around kind of the currency and what it does to tourism.
+We have a lot of inbound tourism into Japan and some sales coming from that. But we are aware of that, and we're factoring some of those constraints in
+and we're seeing them going to China that we can capture the demand that is there with the stores that we're opening.
+So we really feel quite positive going into Q3 and Q4. And given the last couple of weeks, we have no concerns around that immediate future.
+Operator
+And ladies and gentlemen, this concludes today's conference call. Thank you for your participation, and you may now disconnect.

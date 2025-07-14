@@ -1,0 +1,329 @@
+Navitas Semiconductor (NVTS) / 9 May 24 / 2024 Q1 Earnings call transcript
+Company Profile
+ Transcript menu
+Stephen Oliver executive
+Eugene Sheridan executive
+Janet Tao Chou executive
+Kevin Cassidy analyst
+Jonathan Tanwantenganalyst
+Jack Egan analyst
+Quinn Bolton analyst
+Richard Gould analyst
+Richard Shannon analyst
+Operator
+Thank you for standing by. My name is Benjamin, and I will be your conference operator today. At this time, I would like to welcome everyone to Navitas
+Semiconductor First Quarter 2024 Results Conference Call. All lines have been pleased with you to prevent any background noise. [Operator
+Instructions] I would like to turn the call over to Stephen Oliver, Vice President of Investor Relations. Please go ahead.
+Stephen Oliver
+Good afternoon, everyone. I'm Stephen Oliver, Vice President of Investor Relations. Thank you for joining Navitas Semiconductor's First Quarter 2024
+Results Conference Call. I'm joined today by Eugene Sheridan, our Chairman, President, CEO and Co-Founder; and Janet Chou, EVP, CFO and
+Treasurer. A replay of this webcast will be available on our website approximately 1 hour following this conference call, and the recorded webcast will be
+available for approximately 30 days following the call.
+Additional information related to our business is also posted on the Investor Relations section of our website.
+Our earnings release includes non-GAAP financial measures. Reconciliations of these non-GAAP financial measures with the most directly comparable
+GAAP measures are included in our first quarter earnings release and also posted on our website in the Investor Relations section. In this conference
+call, we will make forward-looking statements about future events or about the future financial performance of Navitas, including acquisitions.
+You can identify these statements by words like we expect or we believe or similar terms. We wish to caution you that such forward-looking statements
+are subject to risks and uncertainties that could cause actual events or results to differ materially from expectations expressed in our forward-looking
+statements. Important factors that can affect Navitas's business, including factors that could cause actual results to differ from our forward-looking
+statements are described in our earnings release. Please also refer to the Risk Factors sections in our most recent 10-K and 10-Qs.
+Our estimates or other forward-looking statements may change, and Navitas assumes no obligation to update forward-looking statements to reflect
+actual results, changed assumptions or other events that may except as required by law. And now over to Gene Sheridan, CEO.
+Eugene Sheridan
+Thanks, Steve, and thanks to all of you for joining us today. I'm pleased to announce Q1 revenue of $23.2 million, which reflects 73% year-on-year
+growth. These results reflect continued market leadership with our GaN technology displacing silicon in a BTD mobile scarcer market, but also
+expansion into home appliance and AI-based data centers with continuing shipments of our leading-edge Genetic technology into the industrial, EV,
+solar and energy storage segments.
+Let me give further specifics in each of our target markets. In data centers, AI is driving an unprecedented and accelerated increase in power
+requirements. Traditional data center processes required only 300 to 400 watts each last year, while NVIDIA's latest generation demanded 700 box and
+now the recently announced Blackwell chipset requires well over 1,000 lots. This 300% increase in power in just 18 months, in combination with the EU
+driven titanium standard that requires a 96% minimum energy efficiency creates a very big challenge for our power supply customers and a very big
+opportunity for Navitas. In the last 6 months, we have stepped up to that challenge, enabling server power supplies to increase from 3.2 kilowatts and
+96% efficiency to 4.5 kilowatts and 97% efficiency, and now we are well on our way to 8 to 10 kilowatts at 97% to be delivered to our customers later
+this year. These advances are attributable to our leading-edge can safe technology, combined with our industry-leading Gen3 fast silicon carbide and our
+unique data center system design capability.
+We are pleased to announce 3 major design wins at some of the world's largest power supplied companies.
+Taken in combination with over 30 customer projects now in development, in the coming quarters, we expect to enable GaN-based data centers with
+AWS, Azure, Google, Super Micro, Inspur and Baidu. In total, we anticipate multiple millions of revenue this year and $10 million to $20 million in 2025,
+all being accelerated by these recent AI developments, which we expect to continue for years, if not decades to come. In EV, we are seeing a significant
+expansion in our customer pipeline, given strong penetration into mainstream passenger battery EVs and also plug-in hybrids, commercial EVs and even
+fuel cell hydrogen clean industry cars.
+We use cookies on this site to provide a more resp onsive and perso nalized service. Continuing to browse, clicking I Agree, or closing this
+banner indicates agreement. See our Cookie Policy for more information.I Agree
+Print
+Our EV system design team originally created a 6.6 kilowatt onboard charger platform, which has driven significant customer adoption. Recently, we've
+launched a 22-kilowatt OBC platform that enables 3x faster charging, while delivering double the power density up to 30% greater energy savings and
+40% lighter weight relative to comparable solutions on the market. These systems capabilities are once again enabled by a combination of our Gen-3
+fast and silicon carbide and our Gen-3 industry-leading technology. We anticipate these platforms will drive considerable new revenues with additional
+silicon carbide customer projects ramping in the first half of '25 and again, EV adoption on track to ramp in the second half of '25. In total, we are now
+engaged with over 160 EV-related customer projects across all major regions, which are expected to drive tens of millions of sales in 2025, and these
+projects have already increased our total EV pipeline by over 50% since we reported our $400 million pipeline in December. In the appliance and
+industrial segments, we are also making excellent progress.
+Our latest motor optimized Dansie Carige now has over 15 customer projects in development with major wins at a European leader in [indiscernible] that
+will launch at the end of this year, a Tier 1 U.S.-based dishwasher supplier and 2 of the top European leaders in pumps and motors, which will all launch
+in 2025. All told, GaNSense's total pipeline is now over $100 million in home appliance. In more industrial applications, our latest Gen 3 fast GeneSiC
+technology are achieving rapid adoption in over 25 customer developments with over $150 million pipeline potential. Combining these together with
+other opportunities, our appliance and industrial pipeline has grown significantly beyond $360 million that we reported in December. In solar and energy
+storage, we are seeing signs of recovery with 6 new wins across U.S., Europe and Asia for solar optimizers, microinverters, string inverters and energy
+storage applications, all expected to start ramping in 2025. In particular, a major microinverter leader has publicly committed to a major transition to GaN
+double ramp in the first half of '25, which we expect represents tens of millions in annual revenue potential. In total, our solar and energy storage pipeline
+has also increased significantly beyond the $250 million we reported in December. In mobile and consumer markets, we continue to see strength in all
+major mobile OEMs across smartphone, tablet and notebooks, continue to adopt GaN to repay silicon in a growing percentage of their chargers,
+especially those at 65 lots and above a sweet spot for organics. In Q1, we added over 20 new fast chargers into production, taking the total release
+customer products to over 450. This includes 10 of the across mobile OEMs across smartphone and notebooks. Notably, Xiaomi launched another 2
+smartphone models, the Mi 14 Ultra and the CIVI 4Pro using our Gen-4, Gen-3 support ultra-fast charging. And Lenovo launched the ThinkBook 170W
+desktop 5-port charger and docker station with Gen 4, GanSense.
+Finally, I'm excited to announce that all new GaN IC family, we call GanSlim. GanSlim offers all the effective features of our existing GaNSense
+technology, such as Integrated Drive and losses crusting, but also slims down the solution by integrating additional external components, further
+simplifying the system design and reducing customer manufacturing costs. GaNSlim is a major step forward that could increase our GaN TAM by
+enabling lower system costs compared to silicon design for many applications. GaNSlim targets applications under 500 lots across mobile, consumer
+and home appliances.
+While the formal product launch will not occur until June, we started sampling just 2 months ago and already have over 20 customer projects in
+development and added over $20 million to our pipeline. We anticipate over $10 million in new revenue for 2025 from our GaNSlim product line. Overall,
+we have not yet observed any signing of butter market recovery in the second half of the year, and this may translate to a more moderated growth in
+2024. Nonetheless, we're very pleased with the significant success and adoption of our latest industry-leading technologies, GaNSense, GaN power ICs,
+Gen-3 fast silicon carbide and our newest canceling family, all of which are driving important increases in our customer pipeline that has increased nearly
+30% from December to $1.6 billion. Much of that existing opportunity and pipeline growth is coming from new 2025 production programs across all
+major regions and markets, which is increasing our confidence for strong Devers growth for 2025 and beyond. With that, let me turn it over to our CFO,
+Janet Chou, to discuss the financials.
+Janet Tao Chou
+Thank you, Gene. In my comments today, I will first review our first quarter financial results, and I'll take you through our outlook for the second quarter.
+Revenue in the first quarter of 2024 grew 74% year-over-year to $23.2 million, slightly above the midpoint of our guidance range.
+While we are experiencing similar macroeconomic factors as others, in certain of our end markets, such as EV, industrial and solar, our mobile business
+was strong in the first quarter, demonstrating the benefits of our smaller, faster, more energy-efficient technology as we continue to gain significant
+traction in mobile and consumer charging applications.
+Before addressing expenses, I'd like to refer you to the GAAP to non-GAAP reconciliations in our press release earlier today. In the rest of my
+commentary, I will refer to non-GAAP expense measures. Gross margin in the first quarter was 41.1%, the same as the first quarter of 2023 due to
+mobile market product mix as we continue to see strength in that part of our business. Total operating expenses for the first quarter were $21.3 million,
+comprised of SG&A expenses of $8.5 million and R&D expenses of $12.9 million. This expense increase of 20% year-over-year is much slower than our
+revenue growth as we sharpen our focus on profitability while continuing to emphasize investments in new products, technologies and emerging
+markets. The sequential growth was primarily driven by higher payroll taxes and annual salary increases.
+As expected, we sequentially increased our R&D to support significant new product development like Gasoline and many others plan to launch in this
+year and next. Putting all this together, the loss from operations for the first quarter of 2024 was $11.8 million compared to a loss from operations of
+$12.3 million in the first quarter of 2023.
+Our weighted average share count for the first quarter was 180 million shares.
+Turning to the balance sheet. It remains very strong with high levels of liquidity. Cash and cash equivalents at quarter end were $129.7 million, and we
+continue to carry no debt. Accounts receivable declined to $22.2 million compared to $25.9 million in the prior quarter. Inventory increased to $33.2
+million compared to $23.2 million in the prior quarter. The inventory increase reflects additional strategic purchases of silicon carbide materials and
+increases to support major product launches and customer program runs later in the year.
+Moving on to guidance for the second quarter. We currently expect revenues of $20 million, plus or minus $500,000. At the midpoint, this represents
+year-over-year growth of more than 10% compared to the $18.1 million we recorded in the second quarter of 2023. And the guidance is down
+sequentially from the first quarter due to decreased demand in our EV, solar and industrial markets, partially offset by projected continued strength in the
+mobile market and initial rep for data centers. Gross margin for the second quarter is expected to be approximately 40%, plus or minus 50 basis points
+as our mix continues to lean more towards the mobile market in the near term.
+We use cookies on this site to provide a more resp onsive and perso nalized service. Continuing to browse, clicking I Agree, or closing this
+banner indicates agreement. See our Cookie Policy for more information.
+As we move through the year, we expect margin improvement will align with growth in higher-margin markets. In total, our non-GAAP operating
+expenses in the second quarter are expected to be approximately $21.5 million, and this excludes stock-based compensation and amortization of
+intangible assets.
+Although we will continue to invest in growth-oriented initiatives, particularly in R&D, we expect growth in operating expense dollars will be modest
+during 2024. In closing, while we are not new to some of the same macro trends seen by others, we continue to deliver growth that significantly
+outpaces the overall power semiconductor market.
+We are very pleased with the customer reception and adoption of our new products, expansion of our customer pipeline and the outlook for much faster
+growth as some of our end markets recover. Operator, let's begin the Q&A session.
+Operator
+We will now begin the question-and-answer session. [Operator Instructions] And your first question comes from the line of Kevin Cassidy with Rosenblatt
+Securities.
+Kevin Cassidy
+Yes. Congratulations on the great results. And also, congratulations, Gene for a well-deserved nomination as a finalist for entrepreneur of the year in L.A.
+Congratulations. It's exciting news that you're showing about data center. And we did -- we hosted a tour of a CoreSite data center and the clear
+message from the management team was they need more power. And it looks like there's a definite demand from data centers and pretty exciting that
+you're winning the designs now and you're going to start seeing revenue. Is this revenue going to be accretive to gross margin right away? Or does it
+take a while to get the volumes up to get to gross margins that would be above corporate average?
+Eugene Sheridan
+Yes. Good question, Kevin. And it's accretive straightaway running above the average, I think, typical of any of the industrial markets, especially with the
+new products like GaNSafe and Generation 3 fast cellincarbade, and we expect them to be accretive on gross margin straightaway. And as I mentioned
+in my remarks, a few million dollars of ramping already started this first half, but ramping more significantly in the second half and $10 million to $20
+million anticipated at this point for next year.
+Kevin Cassidy
+Okay. Great. And can you give us a ballpark for the dollar content, like if there's a dollar content per watt or per kilowatt for Navitas?
+Eugene Sheridan
+Yes, it's going to depend a lot per power, as you said. But depending upon power level, you could probably assume $15 to $50. It's in that kind of range,
+and it's going up as the power level goes up, our design center delivered a 3.2 kilowatt last year, more recently, 4.5 kilowatts. We're trying to push that to
+5.5-kilowatt customers. And now we're working on 8 to 10 kilowatts. With each of those, that content going up and up on the 8 to 10 is probably in that
+$50 range -- $40 range.
+Operator
+Next question comes from the line of Jon Tanwanteng CGS Securities.
+Jonathan Tanwanteng
+It's actually Charlie trade for John.
+Just a couple of questions for you. When do you expect to see a normalization in demand is 40% to 50% revenue growth still possible this year?
+Eugene Sheridan
+Yes. We're seeing, obviously, continued softness in Q2. It's a good chance Q2 is a bottom. It's a little early to call as we don't have perfect visibility on
+Q3. But I think the general consensus in the industry from our peers who are seeing a lot more dramatic degradation at say, revenue than we are in the
+first half, is that by summer to turn.
+So we're looking forward to those signs to confirm growth. But right now, as we said in our remarks, we would be a little bit more moderate in our growth
+expectations compared to the 40% to 50% we indicated last quarter.
+Jonathan Tanwanteng
+Great. And just one more question for me. Have pipeline opportunities identified in December converted to the designs yet or orders at the expected
+rate.
+Eugene Sheridan
+Yes. It varies by market.
+Of course, mobile and consumers tend to be shorter term. And you can see those adoption rates happened faster.
+For some of the other markets, they're still developing, data center ramping later this year. I did mention a large percentage of the $1.6 billion that we've
+added to it since 1.25 and is already there are concentrated in 25 programs, which is why we're so bullish across each of the markets in the conversion
+rate and indicated tens of millions of new revenue in most of the key markets that we targeted.
+Operator
+Your next question comes from the line of Jack Egan with Charter Equity Research.
+Jack Egan
+We use cookies on this site to provide a more resp onsive and perso nalized service. Continuing to browse, clicking I Agree, or closing this
+banner indicates agreement. See our Cookie Policy for more information.
+So you mentioned that some automotive weakness might be contributing to lower near-term growth, but I thought automotive was more kind of on the
+long-term spectrum and that it wouldn't really kick in for a while.
+So is that more reflective of actual fewer shipments near term? Or is it more just customers kind of slowing their development process?
+Eugene Sheridan
+Yes. No, great question, Jack. And it's definitely -- today, we're only shipping silicon carbide into EV.
+So we have ongoing production there. And with the slower growth rates recognized in the overall industry that traded some pockets of inventory, some
+slowdown in the production pull-through from customers. With that said, we haven't seen any delays in new programs. We announced the joint labs with
+Shine and Geely. Those guys are shipping into major OEMs like Hyundai, BYD, Volvo, Honda, those programs are all tracking for 25 ramp. We're also still
+on track for GaN to go into EVs for the first time in the second half of '25.
+So we don't see much slowdown at all in the overall pipeline. It's actually growing probably the biggest. We highlighted 50% growth, so from $400
+million to $600 million, we don't see a slowdown in the programs, but we certainly feel some slowdown in the short term just on the production shift
+through.
+Jack Egan
+Got it.
+Okay. And then just sticking on the automotive side.
+This quarter and last quarter, you've heard quite a few companies in the automotive supply chain, at least on the semiconductor side. They've talked
+about sentiment kind of shifting away from fully electric vehicles and a bit more towards hybrids.
+And so I understand that, that long term, that would probably be a negative development for silicon carbide since I don't think you really need or really
+can use silicon carbide and the traction of a hybrid. But for some of the smaller, lower power slots like the DC/DC converter, is there still an opportunity
+for GaN or stick for hybrids?
+Eugene Sheridan
+Yes, that's right. We observed the same trend.
+While there's a bit of a slowdown on battery EV in the near term, we've seen plug-in hybrid pickup. Commercial EV still going strong, and I mentioned
+those in my remarks. The content is pretty solid. Battery EV can be up to $400, $500 of GaN or silicon carbide and wideband depth content. But the
+plug-in hybrid can also depending upon the configuration, they can be $200 to $300.
+So it's very significant, albeit smaller, it's very significant, and we've got a number of nice projects in the pipeline that we added.
+Operator
+Your next question comes from the line of Quinn Bolton with Needham.
+Quinn Bolton
+Is Nick [indiscernible] on for Quinn Bolton. Can you talk more about your appliance segment. Any details on the performance and be in the quarter and
+you guide? Are you still on track to hit the $10 million per year run rate exiting the year?
+Eugene Sheridan
+Yes, good questions. Thanks for focusing on that. Appliance is maybe not as sort of exciting or sexy as some of the other segments, but really promising
+progress. I had it at 4 major wins just in the last quarter, one of which includes that leading European hair care product that's still on track to the end of
+the year, and that's expected to be $10 million a year as it ramps starting this year and throughout next year, but we also added the dishwasher, a
+leading dishwasher name. These guys don't want us to release the name yet. We'll release them as soon as we on, but you can probably guess at some
+of these and 2 really top pump and motor leaders in Europe, not surprisingly, Europe tends to be leading in high energy efficiency home appliances.
+So that business actually is pretty stable. We didn't highlight it too much in the short term, but we did say going into Q2, it's pretty stable. And then I
+think we're going to see a nice growth towards the end of the year and definitely next year. That pipeline, by the way, was $360 million in December and
+has grown since then.
+So we're pretty bullish on home appliance and industrial markets.
+Quinn Bolton
+And for my follow-up, gross margin guide come in just a little bit weaker. Is that entirely driven by mix driven by the mobile being a little bit better like you
+talked about in the comments.
+Janet Tao Chou
+Thank you for your question.
+You're absolutely right.
+Our gross margin is heavily dependent on mix. We see very strong momentum going on in the mobile space. And -- but higher mix in mobile actually is
+margin dilutive. We do anticipate margin expansion once we see growth in higher-margin markets like EV, industrial and data center.
+Operator
+Your next question comes from the line of Richard Gould with Gold Tactical.
+We use cookies on this site to provide a more resp onsive and perso nalized service. Continuing to browse, clicking I Agree, or closing this
+banner indicates agreement. See our Cookie Policy for more information.
+Richard Gould
+I just wanted to drill into the customer pipeline a little bit more. If I recall about a year ago, I think that pipeline was a few hundred million. And then into
+the summer, it got up to, I think, $760 million. And then by the year December 12 meeting Investor Meeting in Torrance, California, it was $1.2 billion. And
+I think last quarter, you said it was north of that. And now at $1.6 billion, it's really pretty remarkable. I was wondering if you could give a little bit of detail
+of how you scrub that and if you have any sense of what the conversion is ultimately into revenues?
+Eugene Sheridan
+Yes. Good question. Thanks, Richard, for bringing it up.
+So first of all, on definition, pipeline has a few important criteria. One is that it's a valid committed production program. There's a lot of R&D going on out
+there, especially on gallium nitride and slicerbid.
+So we always scrub it to make sure it's really a valid committed program. Number two, we see a good technical fit for what they require for GaN or
+silicon carbide or for our product to make sure the technical fit is there. And then third is the value prop and a strong opportunity and motivation from the
+customer to use the product. It's not confirmed design wins. It's not a contract, but we consider those to be qualified opportunities. And we track
+unqualified ones, but we don't report them in the $1.6 billion. They have to meet that. And then within that $1.6 billion of qualified opportunities, we're
+tracking them by stage as they go through evaluations, system design, design validation, preproduction and then into production.
+In terms of conversion, it's a little too early to call.
+I think on mobile, where we've seen mobile our conversion rates have been pretty high. 30% or higher, sometimes 40% on the other markets, which are
+really just forming some of those take 2 years to come to market or 18 months or 36 months, we're still seeing that roll out.
+So we'll be able to judge conversion rates a lot better in data center solar than EV later this year and into next year.
+Richard Gould
+And then when you -- of the $1.6 billion, I guess you put that $1.6 billion in different buckets. One bucket would be purchase orders and production. And
+then it goes from there all the way to perhaps just some new program that's just kind of been talked about, but you haven't really -- no, I guess if it's
+committed, it will have to be committed to be part of the qualified, right?
+Eugene Sheridan
+No. qualified meets a criteria set.
+So it's committed to production program, not committed to us, but the customer is committed to going to production.
+We have a good technical fit.
+We have a strong value prop and high interest to use our products. But let me clarify, too. It's a development pipeline.
+So once the products go to production, we actually remove them from the pipeline.
+So it's from the first qualification stage, committed production with high interest in technical fit to our product through to preproduction. Once it goes to
+production, we then count that in our production forecast.
+So for that number to grow, the number of additional programs going into the pipeline needs to exceed those products that are going from the pipeline
+into production.
+Richard Gould
+Okay. Yes, that's remarkable.
+Eugene Sheridan
+One other clarification too, Richard, it's a lifetime estimate.
+So that's not an annual revenue. The lifetime of these programs, we're trying to be super conservative.
+Some could in theory, last 5 or 10 years, but we don't want to be too optimistic.
+So we generally assume about a 3- or 4-year lifetime for the more industrial markets and mobile consumer, we assume they run for about 1 year.
+So they have to factor in the lifetime of the product when you're thinking about how that might translate into our revenue in future periods.
+Operator
+Your next question comes from the line of Richard Shannon with Craig-Hallum.
+Richard Shannon
+Maybe I'll focus on one of the markets that's doing relatively better right now being in the mobile space here.
+I think a couple of quarters ago or maybe it was more than 2.
+You talked about a couple of your target customers committing to like 30% usage of GaN here with higher levels of power. In your conversations you're
+having with both aftermarket guys and I guess, more importantly on the OEM side here, what are you seeing in terms of commitment to ramp with the
+higher the 65 watt and above? I mean, I can tell you from my perspective, having multiple Navitas gifted chargers in my possession looking at what of
+them I hear, I mean, the value proposition is so high. It seems like it'd be a fairly fast conversion.
+We use cookies on this site to provide a more resp onsive and perso nalized service. Continuing to browse, clicking I Agree, or closing this
+banner indicates agreement. See our Cookie Policy for more information.
+So what are you getting a sense in terms of those conversations and what's their pushback or delay in committing to something like that?
+Eugene Sheridan
+Yes. No, those are great observations, and thanks for appreciating the chargers as everybody usually does.
+So -- but you're right, and you know it well, right? 30 watts and below is relatively slow charging again doesn't bring that much of a value profit is already
+a pretty small keep.
+You get into 50 60 watts. That's pretty fast charging for laptop and really fast for a smartphone.
+You've got to 100 watts, now you can charge multiple devices super fast. And that's -- so as you go up in power, that leads you right into the sweet spot
+of organic technology, while also increasing the GaN content from one chip to 2 chips or in many cases, our [indiscenrnible], which is one of our most
+advanced products and one of the things I highlighted.
+So we continue to see the trends to faster and faster charging.
+I think it's an obviously compelling thing. Consumers don't change overnight. -- but Xiaomi and OPO are great examples. The Chinese tend to be early
+adopters and have been the most aggressive. Most of those products I mentioned about the M14 Ultra, the CV4 Pro, these are all 100 watt and up, really
+powerful products, super fast charging. We're seeing those same trends out of the other mobile leaders in the different regions, albeit at a bit slower
+pace. But I think what you're seeing from China is what you're going to see from the others. A lot of it actually comes down to battery technology. The
+battery technology needs to safely accept in your phone 30 watts or 65 was or 100 watts.
+So it's not as simple as just switching from a 30-watt charger to 100 watts.
+You do need to advance that battery technology. The Chinese and others are certainly proving that you can safely accept 100 watts or more, and that's 0
+to 100% charge in under 15 minutes.
+So they're setting the example.
+I think it's just a matter of time.
+You'll see that same trend. And we're already seeing it with Samsung is now up to 45 watts in their fast charger, for example, using our GaN technology.
+So those trends are solid and they're coming, and that's going to lead them right into our NIC strength.
+Richard Shannon
+Okay. I guess I didn't realize about the batteries.
+Second question is just kind of the general competitive dynamics in both the material systems here. We've seen some more suppliers getting into the
+GaN space and increasing capacity, looking to be more aggressive. And then in the silicon carbide space, we've obviously seen a slowdown here.
+And so I just want to get any sense of any change in competitive dynamics pricing, et cetera, that you've seen here in the last 6 months in either of those
+materials.
+Eugene Sheridan
+Yes.As much as if you take GaN as much as there are various start-ups that pop up. I have to admit it doesn't feel like it's changed too much. It's
+primarily Navitas we see Infineon and Infineon GaN systems. We see power integrations. We see Annoscience on the low end, and it trails off pretty
+quickly from there.
+So we haven't seen any change to ASP degradation or anything sort of unusual there. But surprisingly, not much of a change in the competitive
+landscape.
+So that in carbide, you still have the big players, of course, the IDMs, as you might call them. We're a small single-digit market share player with a lot of
+upside, just 1% or 2% market share gains for us can really matter. Last year, things are really tight.
+So there's almost no ASP degradation. This year, I'd say supply and demand with the softening of demand and some increase in supply. I'd say we now
+have sort of normal ASP degradation. But our focus tends to not be on -- obviously, we're not a price leader, we're not going part to part. We're very
+focused on system value. In many cases, we're designing the system or co-designing the system for the customer, with the customer, especially in the
+data center space and the EV space.
+Operator
+[Operator Instructions] And your next question comes from the line of Jon Tanwanteng with CGS Securities.
+Jonathan Tanwanteng
+Just one quick follow-up. But can you provide us an update on cash burn when you think you might achieve breakeven?
+Janet Tao Chou
+We think we can achieve operating margin level breakeven when revenue reached $50 million to $55 million.
+In addition to driving profitable growth as the new CFO on board, I'm shaping focused on driving working capital efficiency and improve process and
+systems. We remain very confident with our long-term target financial model, which we laid out on Investor Day.
+Operator
+We have no further questions at this time. This concludes today's conference. Thank you for participating.
+We use cookies on this site to provide a more resp onsive and perso nalized service. Continuing to browse, clicking I Agree, or closing this
+banner indicates agreement. See our Cookie Policy for more information.
+You may now disconnect.
+For further comments or questions, please email iratnavitassemi.navitafsemi.com.
+We use cookies on this site to provide a more resp onsive and perso nalized service. Continuing to browse, clicking I Agree, or closing this
+banner indicates agreement. See our Cookie Policy for more information.

@@ -1,0 +1,380 @@
+Alignment Healthcare (ALHC) / 27 Feb 25 / 2024 Q4 Earnings call transcript
+Company Profile
+ Transcript menu
+John Kao executive
+Robert Freeman executive
+Scott Fidel analyst
+Adam Ron analyst
+Michael Ha analyst
+Matthew Gillmor analyst
+Jessica Tassan analyst
+Operator
+Good afternoon, and welcome to Alignment Healthcare's Fourth Quarter 2024 Earnings Conference Call and W ebcast. [Operator Instructions]. Please
+note that this event is being recorded. Leading today's call are John Kao, Founder and CEO; and Thomas Freeman, Chief Financial Of ficer.
+Before we begin, we would like to remind you that certain statements made during this call will be forward-looking statements as defined by the Private
+Securities Litigation Reform Act. These forward-looking statements are subject to risks and uncertainties and reflect our current expectations based on
+beliefs, assumptions and information currently available to us. Descriptions of some of the factors that could cause actual results to dif fer materially from
+these forward-looking statements are discussed in more detail in our filings with the SEC, including the Risk Factors section of our annual report on Form
+10-K for the fiscal year ended December 31, 2024.
+Although we believe our expectations are reasonable and undertake no obligation to revise any statements to reflect changes that occur after this call.
+In addition, please note that the company will be discussing certain non-GAAP  financial measures that they believe are important in evaluating
+performance. Details on the relationship between these non-GAAP  measures to the most current comparable GAAP  measures and reconciliation of
+historical non-GAAP  financial measures can be found in a press release that is posted on the company's website and in our Form 10-K for the fiscal year
+ended December 31, 2024. I would now like to hand the call over to your speaker today , John Kao. Please go ahead.
+John Kao
+Hello, and thank you for joining us on our fourth quarter earnings conference call.
+For the fourth quarter 2024, our health plan membership of 189,100 concluded a milestone year where we grew membership approximately 59%.
+Our final result is more than 25,000 members above the high end of our initial guidance range and reflects an additional 21% growth relative to initial
+expectations.
+As a result of our continued membership outperformance, total revenue of $701 million in the quarter grew approximately 51% year-over-year and 61%
+excluding ACO REACH. In the fourth quarter , each of our key margin ratios improved year-over-year even as our membership growth accelerated beyond
+expectations. Adjusted gross profit of $88 million produced a consolidated MBR of 87.5%, a 200 basis point improvement year-over-year and 50 basis
+point improvement, excluding ACO REACH. Combined with substantial scale economies, we delivered adjusted EBITDA  of positive $1 million in the
+quarter and 400 basis points of margin expansion year-over-year .
+For the full year , total revenue of $2.7 billion grew 48% year-over-year and 59% excluding ACO REACH. Adjusted gross profit of $303 million resulted in
+an MBR of 88.8%.
+Lastly , we delivered positive adjusted EBITDA  of $1 million, which reflects 200 basis points of margin expansion year-over-year and marks our first year of
+adjusted EBITDA  profitability as a public company .
+Our exceptional results in 2024 highlight our dif ferentiated ability to navigate a dynamic MA  environment and demonstrate that plans can win by providing
+more care, not less.
+Our success starts with approaching Medicare Advantage as a care management business, not just an actuarial underwriting business. To execute our
+model, we employ more than 400 clinical staf f who represent approximately 25% of our full-time employees and roughly 4% of medical expenses for at-
+risk members. These home and virtual-based resources leverage actionable insights from AVA to create greater control over medical quality and costs.
+As a result, we were able to of fer market-leading benefits and grow confidently in 2024, while others in the industry took a step back to rising star
+standards, the first year of V28 phase-in and changes in utilization patterns.
+Taken together , the results of 2024 are demonstrating our ability to capitalize on a changing MA  environment that will favor plans with low-cost, high-
+quality outcomes.
+Turning to our AEP results. W e entered January 2025 with 209,900 health plan members, representing 35% growth year-over-year . This resulted from a
+combination of 28% growth in California and more than 100% growth in our ex-California markets. Much like 2024 was a breakout year for consolidated
+growth, 2025 is a breakout year for growth outside of California. Nevada now has over 10,000 members, while each of our other ex-California states have
+Print
+between 5,000 and 8,000 seniors.
+Our ex-California growth during AEP was enabled by our industry-leading Stars results, including our 5-star contract in Nevada and North Carolina and
+strong medical management performance, including 2024 admissions per 1,000 of 144 for ex-California markets. These factors increased reimbursement
+from CMS and lower cost by improving the health of our members, both of which allow us to af ford richer product benefits. In total, our successful AEP
+provides us with line of sight to our full year membership guidance of 227,000 to 233,000 members and further positions us to drive greater economies of
+scale and adjusted EBITDA  margin improvement in 2025. Thomas will share more on our 2025 guidance shortly .
+Looking beyond 2025, we believe our relative advantages on Stars and the final phase-in of the V28 risk adjustment model create a multiyear pathway for
+robust growth and continued margin expansion.
+For 2025 payment year , 95% of our California members are in plans rated 4 stars or above compared to 68% for competitors in California. This is already
+27% higher than competitors, and our advantage is further widening for the 2026 payment year when we will have 100% of our California members and
+plans rated 4 stars or above. This will be nearly 40% better than the competitors in the state who are declining to just 61% of members in 4-star or above
+plans.
+We are similarly well positioned at a national level. Approximately 98% of all alignment members are in plans that will be rated 4 stars or above in payment
+year 2026, which is 34% better than the industry of just 64%.
+Beyond our rating year 2025 star scores, which impact our 2026 payment, we see multiple years of meaningful stars tailwinds ahead of us.
+For rating year 2026 impacting payment year 2027, caps and admin weightings will be reduced from 4 to 2. This change would have resulted in an
+increase to our Raw score by approximately 0.23 during the past rating cycle for our California HMO contract, further reinforcing our Stars position.
+For rating year 2027 impacting payment year 2028, CMS is replacing the current reward factor with a health equity index.
+Our California HMO contract doesn't currently receive any benefit from the existing reward factor .
+So this change creates an additional potential tailwind to our raw Star score. Based on our early analysis, we believe we could achieve a star score bonus
+of 0.25 or greater under the new HealthEquity index. Each of these tailwinds increases our confidence in maintaining at least 4 stars and strengthens our
+conviction in growing membership 20% or above over the coming years while balancing margin expansion objectives.
+Lastly , I'd like to spend a moment to talk about the embedded gross margin opportunity within our existing membership. Due to our rapid growth in 2024
+and 2025, over 50% of our members are expected to be in a year 1 or year 2 cohort.
+As we engage our at-risk members with our clinical resources, gross profit grows from $90 PMPM for our at-risk year 1 members to $230 PMPM for our
+at-risk members in year 5 and beyond. This dynamic creates embedded gross profit of approximately $600 million just within our existing membership
+base, creating a pathway to double the $300 million of gross profit we delivered in 2024 without any incremental membership growth. In closing, 2024 was
+a milestone year on growth and profitability improvement, while we again demonstrated the resiliency of our Stars results. By prioritizing health outcomes
+and putting the senior first, we have created a durable cost and quality moat that positions us to win irrespective of the policy and rate environment.
+For their dedication to our seniors, I'd like to thank each of our employees for playing their part in fulfilling our mission for Medicare Advantage done right.
+With that, I'll turn the call over to Thomas to further discuss our financial results and outlook. Thomas?
+Robert Freeman
+Thanks, John.
+For the year ending December 2024, our health plan membership of 189,100 increased 59% year-over-year . This drove total revenue just north of $2.7
+billion for full year 2024, representing 48% growth year-over-year and 59% growth, excluding ACO REACH.
+As membership continued to accelerate during the year , we ultimately exceeded the midpoint of our initial 2024 revenue guidance by over $300 million.
+Full year adjusted gross profit of $303 million exceeded the high end of our latest guidance by $6 million and represented an MBR of 88.8%.
+We continue to demonstrate the strength of our medical management capabilities during the fourth quarter with our MBR of 87.5%, marking our lowest
+MBR quarter of the year .
+Our strong finish drove our full year inpatient admissions per 1,000 for our at-risk members to 149, showing continued improvement from 156 in 2023 and
+159 in 2022.
+Our adjusted gross profit results in the fourth quarter also benefited from the release of prior period IBNP  reserves.
+Given the atypically large cohort of new members we onboarded during 2024, we took a prudent approach to setting initial reserves during the first
+through third quarters.
+As we closed out the year , our favorable claims runout allowed us to deliver upside relative to our prior expectations.
+Our strong admission performance in 2024, combined with our latest visibility into our 2024 claims experience together give us confidence in our 2025
+outlook.
+Turning to OpEx.
+Our operating cost ratios showed year-over-year improvement given our continued growth and the elimination of onetime costs associated with the in-
+sourcing of our member experience functions that we incurred in the second half of last year . Full year 2024 SG&A  was $371 million.
+Our adjusted SG&A  was $301 million, an increase of just 23% year-over-year relative to membership growth of 59% year-over-year . Adjusted SG&A  as a
+percentage of revenue, excluding ACO REACH declined from 14.4% in 2023 to 1 1.1% in 2024, representing an improvement of approximately 330 basis
+points.
+Taken together , we achieved our breakeven profitability goal with full year adjusted EBITDA  of positive $1 million and did so while onboarding more net
+new members in 2024 than in the prior 4 years combined. This demonstrates the dif ferentiated power of our model to scale outcomes and places us on
+track to drive continued adjusted EBITDA  margin expansion in 2025.
+Turning to the balance sheet. W e ended the year with $471 million in cash and investments. This includes net proceeds from the sale of $330 million
+aggregate principal convertible senior notes in the fourth quarter . The funds from this transaction were used to pay down $215 million in outstanding term
+loan principal and added $106 million of cash to the balance sheet, net of transaction costs. This significantly lowers our cost of capital and reduces
+annual interest expense by approximately $10 million moving forward.
+Moving to our guidance.
+For the first quarter , we expect health plan membership to be between 21 1,000 and 215,000 members, revenue to be in the range of $880 million and
+$895 million, adjusted gross profit to be between $89 million and $97 million and adjusted EBITDA  to be between $2 million and $10 million.
+For the full year 2025, we expect health plan membership to be between 227,000 and 233,000 members, revenue to be in the range of $3.72 billion and
+$3.78 billion, adjusted gross profit to be between $415 million and $445 million and adjusted EBITDA  to be in the range of $35 million and $60 million.
+Given our strong sales momentum through the first 2 months of the year , we are raising the midpoint of our year-end health plan membership guidance by
+2,000 relative to our early guidance commentary provided in January .
+Our products continue to resonate across our markets and the strength of our early results give us confidence in our full year trajectory .
+Turning to revenue. The midpoint of our initial revenue guidance range of approximately $3.75 billion represents nearly 40% growth year-over-year .
+Beyond our strong membership growth, our revenue outlook is supported by increases to our Part D revenue PMPM due to changes related to the
+Inflation Reduction Act and the retention of our 2024 new member cohort, partially of fset by the impact of the second phase in of V28 risk model changes.
+Moving to our adjusted gross profit guidance.
+Our midpoint of $430 million represents 42% growth year-over-year . This implies an MBR of 88.5% and compounds of f of our strong 2024 result where we
+grew adjusted gross profit by 45%.
+Our outlook embeds the MBR improvement from the retention of 2024 new members and modifications to our product design. These factors are balanced
+by the impact of the second phase in of the V28 risk model, initial assumptions on Part D changes associated with the Inflation Reduction Act and
+modestly higher utilization volume expectations due to our mix of membership. Progressing down the P&L, we expect to see further improvement in our
+SG&A  ratio as we continue to scale our back-of fice functions and ex-California markets, while driving automation and productivity improvements across
+our shared services.
+Taken together , the midpoint of our adjusted EBITDA  guidance range of $47.5 million implies 130 basis points of margin expansion year-over-year and
+reflects our confidence in underlying cost trends and operating leverage opportunities in 2025.
+In terms of our first quarter guidance, it's worth noting that our MBR seasonality is anticipated to shift in 2025 due to changes related to the Inflation
+Reduction Act. Similar to prior years, we anticipate that our Part D MBR will improve sequentially throughout the year , however , at less of a slope than in
+years past. Accordingly , the change in seasonality will modestly lower MBR in the first half of the year and conversely increase MBR in the second half of
+the year relative to prior year's experience, all else being equal.
+Beyond changes to Part D seasonality , our first quarter guidance broadly reflects our regular seasonality , which incorporates higher utilization in the first
+quarter of the year . In conclusion, our consistent strategy of balancing growth and profitability , combined with our dif ferentiated Medicare Advantage
+platform enabled us to deliver breakout performance in 2024.
+As we step into 2025 with momentum on growth and confidence in our 2025 outlook, we believe we are well positioned to continue distancing ourselves
+from competitors this year as well as looking ahead to 2026 and beyond. With that, let's open the call to questions. Operator?
+Operator
+[Operator Instructions].
+Our first question is going to come from the line of Scott Fidel with Stephens.
+Scott Fidel
+First question, just wanted to maybe unpack the guidance for 2025 for the adjusted EBITDA, which shows solid improvement in profitability , both on the
+top end and the bottom end of the range. There's a reasonable sort of range embedded there between the top and the bottom end.
+So just was hoping maybe you could give us some of your thinking around some of the key assumptions that you may have between -- that could
+ultimately allow you to reach the high end possibly versus the midpoint and the low end of the range.
+Robert Freeman
+Thomas here. Happy to take the question.
+So I guess, first of f, I think it's probably worth noting that we feel just great about where we landed for the fourth quarter and full year 2024, which is not
+only important in terms of the actual outcome looking backwards, but really what it means for us looking forward as we march into 2025.
+And so to your question on sort of what would send us towards sort of the low end of the range versus the high end of the range, I think there's a few
+variables that are kind of key to us this year .
+So the first is, as you've heard many others in the space talk about, we are stepping into some new aspects of the Part D program under the Inflation
+Reduction Act.
+I think we've taken a prudent approach in terms of thinking through what the MLR should look like on that program in 2025. And I would say the low end of
+our range, in particular , has a bit more conservatism on how that would look relative to prior years.
+I think our 2024 experience on Part D ultimately landed within about $1 PMPM of what we expected.
+So I think we feel really good about our ability to forecast what that looks like. But we are being a little more conservative there on the low end just given
+some of the changes coming our way .
+I think beyond that, it's sort of the usual suspects in terms of where our utilization and admissions per 1,000 run for the year , how our growth progresses
+sort of intra-quarter throughout the year and how our overall just cohorts mature from year 1 to year 2, year 2 to year 3 and so forth. But I think big picture,
+we feel very confident in our overall range for the year , particularly given that we do still have 50% of our members in the year 1 or year 2 cohort.
+I think we're in a great place looking ahead to 2025.
+Scott Fidel
+Okay . Great. And then just as my follow-up question, I would be interested if you have this, if you have sort of the breakdown of when looking at the
+guidance you've given for membership growth for the full year of 2025, what do you expect that split would be between California and then non-California.
+Certainly nice to see growth playing out in both of those areas. And then just related to that, just in terms of engagement, are there any sort of initial
+indicators that you have or that you could share with us around how the new members are engaging with Aeva in the non-California markets versus the
+home California market?
+Robert Freeman
+Yes.
+So just on the membership point, I would expect our results for 1/1 through AEP would be kind of a good indicator as to what we expect to occur over the
+duration of 2025.
+So I think from a -- obviously , from a growth percentage standpoint, we would expect ex-California to continue to grow materially faster than California,
+similar to our comments on [indiscernible] and I would say Nevada, for example, would be one area where we expect continued growth during the year in
+addition to our other ex-California markets. That being said, I think from an overall net membership growth, we would still expect California to drive over
+50% of the total net member growth, just given the success we saw during AEP and how we would anticipate that to continue through the rest of the year .
+And I think to your question on sort of engagement, I'd say Aeva and maybe just more generally speaking, sort of replicability of the care model ex-
+California, I think that remains to be one of the things we're hyper focused on and really continuing to demonstrate proof points around.
+And so we mentioned in our prepared remarks that ex-California actually ran about 144 inpatient admissions per 1,000, which is better than that of the
+consolidated enterprise and therefore, California.
+So I think we're doing a nice job at sort of hiring, training, driving adoption of the tools and really making sure we're kind of being consistent market by
+market around how we approach our care teams and care delivery . And I think from an engagement standpoint, it doesn't really matter what the market is.
+From the consumer's perspective or from the seniors' perspective, they're getting ultimately better care for free in a convenient manner , i.e., in the home or
+virtually depending upon what they prefer , really acting as an extension of their primary care relationship.
+And so I don't think we see dif ferences in terms of our ability to engage irrespective of the county or the state.
+Operator
+And the next question is going to come from the line of Adam Ron with Bank of America.
+Adam Ron
+I got 2 questions.
+So first, on the MLR guidance for 2025 based on quick math in the press release, it seems like you're talking about MLR being down 30 basis points in
+2025 after being up 30 basis points in 2024, which was another big growth year . Meanwhile, if I just simplistically look at how United and Humana are
+talking about it, United was mostly Medicare is talking about 100 basis point MLR increase into 2025, while you're saying a decrease and then Humana is
+saying flat, but that includes them exiting markets where it was very unprofitable. At the same time, I presume that they're both cutting benefits more than
+you are.
+And so if you could just bridge -- and you have a lot of new members coming that are more MLR dilutive than they do.
+And so if you could just bridge how they seem to be talking about a more severe MLR increase than you are, that would be helpful. And I have a follow-up.
+Robert Freeman
+Yes, happy to cover that.
+I think I can't comment on sort of the peer universe in terms of what they're seeing. But I think many of those organizations, not necessarily the 2 you
+mentioned per se, but just in general, a lot of these organizations are really struggling with a myriad of factors, including Stars changes impacting payment
+year 2025, the second year of the V28 risk model changes and, of course, the broad utilization challenges that you've seen across the industry for going
+back over the last 12 to 18 months.
+I think 2024 really is the starting point to answer your question as to why we're showing dif ferentiated results versus others. W e shared at a conference
+back in January that our year-to-date -- or excuse me, yes, our year-to-date MBR through the third quarter year-over-year was up about, I want to say , 200
+basis points when you normalize for ACO REACH in 2023 relative to about high 50 percentage membership growth at that point in time.
+If you were to refresh that analysis today , we actually had our MBR for full year 2024 only up about 130 basis points year-over-year relative to 2023, and
+again, while growing membership 59%.
+If you were to contrast that with the industry , you would see that many of the peers were up 200% to 300% in 2024 alone while barely growing or in some
+cases, shrinking membership. And those that did grow more than 10% to 20% saw MBR increasing to the tune of 500 to 600 basis points year-over-year .
+So I think 2024 really demonstrates our ability to kind of control our own destiny and manage MBR while continuing to grow membership.
+I think 2025 is similar as we move forward, where we do have some pluses and minuses like the industry . We do have a couple of headwinds around V28
+and some of the Part D changes in the Inflation Reduction Act I mentioned previously . But conversely , we have a significant number of members maturing
+from a year 1 to year 2 cohort, which is a tailwind year-over-year . We did modestly trim our benefits in certain areas between 2024 and 2025. And of
+course, we have the benchmark rate update for 2025, which does help us.
+So I think given some of those pluses and minuses, we feel very good about our ability to achieve the 2025 guidance we laid out today . That's helpful.
+Adam Ron
+If I could squeeze 2 questions. One, just following up very quickly on what you said and then the second one.
+So on the first one, if you could give one answer as to what you think the biggest delta is versus your peers? Is it like the rate notice? Or is it risk
+adjustment? Or is it something else? And then the actual question is if you guys could just give -- you had mentioned in the release, but your thoughts on
+the 2026 rate bonus from CMS and if you have any thoughts about it?
+Robert Freeman
+I'm not sure you can say it's one thing because all these variables are so interrelated. I mean I think fundamentally , our model starts with our dif ferentiated
+ability to engage members and drive up quality , i.e., stars and control costs by managing care and engaging with that chronic acute high-risk population.
+I think that's the foundation, but it then, I think, flows through how we think about changes around V28. It impacts how we think about the benefits we can
+offer in the market. It impacts our ability to perform on stars to manage utilization and navigate changes such as Part D and Inflation Reduction Act.
+So I'm not sure you can pinpoint one specific variable and say why our trends are dif ferent than others across those dif ferent more financial variables.
+I think it starts with just our fundamental approach to this business being dif ferent than the others. It's not just an actuarial underwriting model for us. It
+really starts from the perspective of care delivery , care management. And I think the other things then kind of flow down from there.
+Operator
+Our next question comes from the line of Michael Ha with Baird.
+Michael Ha
+Congrats on the earnings. It's still rare that I think sitting here in February 2025, there's really so much visibility into tailwinds all the way out to '28.
+You mentioned star rates weightings driving, I think, 0.23 benefit to your rough start rating for '27 and then '28, another tailwind.
+I think you said 0.25 for your reward factor change.
+So my question is, what is your current raw star rating score for that California HMO contract? And would it be fair to assume your competitors likely won't
+see the same magnitude benefit? Some plans might already be getting a reward factor , which means if I'm thinking about it right, just from the star rating
+program changes alone, you have line of sight to moving that contract up from 4 to 4.5 or even 5. And then also your competitive advantage might even
+widen even further .
+So massive tailwind. I just wanted to confirm this thesis and better understand the magnitude.
+Robert Freeman
+Yes, absolutely .
+So I think you sort of hit the nail on the head there.
+I think at minimum, it provides a lot of buf fer for us in terms of maintaining the 4-star rating for that California HMO contract.
+Beyond that, it certainly is a tailwind as we continue to strive towards 4.5 or 5 stars, which remains our objective.
+I think from a competitive standpoint, for 2024, 3 of our toughest competitors were 4 or 4.5 stars, and we still grew membership 59%.
+For 2025, a couple of those continue to fall below 4 stars. And looking ahead to 2026, there's really only one competitor of ours that is above 4 stars or at
+or above 4 stars.
+And so I think from our perspective, we do see a significant opportunity to continue to grow through 2026 just based on that alone. But what I would
+emphasize is that it's not just Stars. And while I think these tailwinds certainly help us with our own Stars visibility , to the extent that any others in the
+industry benefit from some of these changes in the future, I think it goes back to all the variables I was describing previously in terms of our ability to
+differentiate and continue to grow disproportionately relative to our markets.
+And so at the end of the day , I think our ability to be high quality and low cost is the key to success. Things like not relying on the global capitation model
+and really wanting to engage with our seniors directly and manage the risk ourselves are really the secret sauces that allow us to continue to grow faster
+than the market year in, year out.
+I think as you get out into 2027 and 2028, I think we still continue to see a very positive opportunity for us to continue to grow 20% or above based on the
+Stars results and certainly those other variables as well.
+Michael Ha
+And maybe one more question. On your cohort maturation, I know how powerful year 1 to year 2, typically , you see the largest step function MLR
+improvement, I think, 300 bps.
+I think a lot of it is also driven by the risk adjustment itself, like 10% improvement. And the magnitude of this power quite significant. W e estimate it could
+almost be the entire bridge from '24 to '25.
+So -- but that said, in terms of this cohort maturation, everything so far tracking in line with expectations, risk adjustment capture on that '24 cohort, I
+guess, Care Anywhere engagement, nothing really impeding that maturation story , everything sort of moving along as expected and fueling this maturation
+dynamic?
+Robert Freeman
+Yes.
+I think we continue to remain confident in our ability to drive those cohort results over time.
+I think in terms of that 2024 cohort maturing into year 2 and 2025, similarly , we feel very good about how that's continuing to evolve. I would say , keep in
+mind, in the second half of the year alone last year , we grew membership by about 15,000 between end of June and end of December .
+And so what I would say is for some of those members that we've only had on board for a couple of months, we're still continuing to engage with those.
+And so I think that just provides an incremental tailwind for us as we think about not just 2026, but also the margin opportunity moving towards 2027,
+where we are still just continuing to engage some of those members that have been on board for a few months. But big picture, I would say our
+engagement for last year did exceptionally well. W e got close to that 60% goal we had previously described, and that was really a major driver of our
+ability to land at 149 inpatient admissions per 1,000 for full year 2024, including Q4 being our best MBR quarter of the year .
+Operator
+Our next question is going to come from the line of Matthew Gilmore with KeyBanc.
+Matthew Gillmor
+I had the first one on guidance. Thomas had mentioned a modestly higher utilization assumption due to mix of membership. I was hoping you could
+unpack that a little bit. Is that just a reflection of the favorable duals mix or something else underlying that?
+Robert Freeman
+Yes, that's exactly correct.
+So both during 2024 and then through AEP 1125, we have continued to see solid growth in our duals membership, which tends to come with slightly
+higher utilization.
+So I think in total for full year 2025, we wouldn't expect too much of a change in terms of total admissions per 1,000. It might be up a couple of percent
+year-over-year . But it is something that we are mindful of just given the changes in PDP  mix from '23 to '24 and then '24 to '25.
+Matthew Gillmor
+Got it. That's great. And then, Thomas, do you have any commentary for us in terms of expectations for cash flow and sort of how you're thinking about
+CapEx and sort of where that money is going?
+Robert Freeman
+Yes.
+So without kind of getting into full guidance on cash flow for 2025, I guess, a couple of data points worth noting.
+So from an EBITDA  standpoint, obviously , we did share our guidance today with the midpoint of $47.5 million.
+Beyond that, we would expect probably about $14 million of interest expense in 2025 and CapEx probably to the tune of $30 million to $35 million.
+So I think those are sort of the kind of major variables to consider . Working capital tends to not be a major driver of overall cash kind of year in, year out. It
+just kind of depends on how some of the medical expense payables evolve relative to some of the receivables.
+And so I think we feel like we're in a great spot from an overall cash standpoint. W e ended 2024 with over $200 million of cash at hand. And as we think
+about our organic growth pathway over the next several years, I think we're in a great spot to continue to achieve those targets without the need for
+external financing.
+Operator
+Our next question comes from the line of Jessica Tassan with Piper Sandler .
+Jessica Tassan
+Congrats on the guidance raise and the strong results.
+So I wanted to just ask, understanding that new members are drag, obviously , on MBR in the first 1, 2 years, are new members in your markets outside of
+California starting at kind of even lower MBRs than the California -- or sorry , higher MBRs than the California members? And does that MBR trajectory
+eventually converge? And kind of if so, at what point -- at what year would that happen?
+Robert Freeman
+I can take that one.
+So I'd say it depends. It depends on the market. It depends on the product type. It depends on the provider group.
+So it's variable, I think, is the simple answer . There are certain markets, products, provider combinations that do start higher MBR, but what we typically
+see with those is there's just a greater opportunity to drive MBR improvement from year 1 through year 3, year 3 through year 5, et cetera.
+So sort of a steeper slope of improvement curve opportunity . But it does just depend on some of those variables I mentioned earlier .
+Jessica Tassan
+Got it.
+So they eventually do converge at roughly the same level of profitability?
+Robert Freeman
+Yes.
+In fact, I would say we actually see in instances where there's actually a greater opportunity to drive MBR performance ex-California than even inside of
+California.
+Jessica Tassan
+Okay . That's helpful. And then maybe just can you give some comments about retention during AEP? I know you said more than 50% in year 1, 2 cohorts,
+but just any commentary on retention during AEP given that you guys had emphasized margin in the 2025 benefit? So just is AEP churn higher year-over-
+year in '25? Or is it -- did some alternate reality play out?
+Robert Freeman
+No. Actually , so going back a year to 1/1/24, 1/1/24 was our best AEP retention percentage in, I think, the history of the company , certainly in the last 3 or
+4, 5 years before that. 1/1/25 was very similar to the 1/1/24 retention rate.
+So we feel very good about how that evolved during the year . We did make a couple of decisions on certain markets and certain provider contracts that
+were really designed to make sure that our overall MBR trajectory over a multiyear period had durability and that those contracts have -- or contracts or
+products have longevity to them as well.
+So we did lose a couple of few thousand lives associated with some of those decisions. But I think big picture, we feel very good about how the retention
+played out during AEP.
+Jessica Tassan
+That's helpful. And then I want to sneak in just one quick one and ask if you guys have any thoughts or just based on expectations for the final rate notice
+that you would like to share with us.
+John Kao
+Jess, it's John.
+I think the last couple of years have taught us that irrespective of the reimbursement, whether they go up or down, we're just really well positioned on a
+relative basis, not only with what Thomas talked about in terms of stars, but the way that we've approached risk adjustment really from the beginning of
+the company has been not to be too aggressive around it.
+And so I think that's like a second relative advantage to us.
+Now I would expect it to be a little bit higher is what my -- just nothing more than my gut would suggest.
+I think the 5.93% kind of actual benchmark increase on a national basis, I think could go up a little bit. And the only reason I would say that is predicated
+on the ACO rate increase as well as the fee-for-service increase and the potential inclusion of some runout in the first half of 2024. And if you just
+remember , there's a lot of utilization increases in the first part of 2024 that I'm not sure made it into the 5.93%. But other than that, we'll just have to wait
+and see. But I think we feel really good either way .
+Operator
+Our next question comes from the line of Andrew Mok with Barclays.
+Unknown Analyst
+This is Tiffany on for Andrew .
+I think some of your peers are pointing to like a significantly more dramatic upward slope on MLR from 1Q to 4Q due to the Part D IRA  changes. But it
+seems like you guys are still assuming Part D MLR improvement throughout the year just at a flatter slope. Can you help us understand why there might
+be some dif ferences in experience and whether that has anything to do with your Part D like benefit structure versus peers?
+Robert Freeman
+Yes, I'm happy to address that. I don't want to overly speculate on others, but I suspect part of it has to do with the fact that they also have broader stand-
+alone Part D or PDP  offerings, which we don't have.
+I think in terms of our experience, going back to 2024, we shared previously that Q1 tends to be our higher MBR quarter for Part D and then it improves
+sequentially over the course of the year . And as I mentioned earlier , our kind of ability to forecast that and track that is quite strong, including the fact that
+we have sort of real-time claims visibility on Part D. And ultimately , for 2024, as I mentioned earlier , we land within about $1 where we expected PMPM.
+And so moving into 2025, I do think it will be similar to years past, just less of a slope.
+And so as we said in our prepared remarks, I would expect that it would cause the first half to be slightly lower than prior years, all else being equal and
+conversely would be a slight headwind to the second half of the year year-over-year .
+Unknown Analyst
+Okay . That's helpful. And just a quick follow-up on G&A.
+I think 4Q G&A  came in a little bit higher than what was implied in the guide and your 1Q guide implies about a 200 basis point Q-over-Q step down. Like
+can you give a little bit of color on what drove the slightly higher 4Q result and how we should think about quarterly G&A  progression in 2025?
+Robert Freeman
+Yes. Ma'am, I would say , in general, you obviously have sort of a step-up as a percentage of revenue kind of as the quarters progress, typically in the back
+half of the year , in particular , where you have a concentration of the sales and marketing spend.
+I think the fourth quarter for us was a combination of that normal dynamic, including the timing of some of the sales and marketing dollars as well as the
+fact that we did ultimately meaningfully outperform relative to our membership expectations.
+So with that comes higher commission costs and certain other variable expenses that we have to continue to incur to support the incremental membership
+growth. And I guess, I know we've said in our prepared remarks, but worth noting again, I think in terms of sort of where we landed for the full year , I think
+our full year operating leverage improvement from '23 to '24 was about 330 basis points year-over-year , given that significant 59% membership growth.
+So I think our confidence in our ability to continue to control SG&A  and kind of manage it relative to our membership growth in '25 moving forward is quite
+high given the success of 2024.
+Operator
+This is going to conclude our question-and-answer session. Ladies and gentlemen, this is also going to conclude today's conference call. Thank you for
+participating, and you may now disconnect. Everyone, have a great day .

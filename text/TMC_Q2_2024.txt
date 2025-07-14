@@ -1,0 +1,302 @@
+TMC the metals (TMC) / 14 Aug 24 / 2024 Q2 Earnings call transcript
+Company Profile
+ Transcript menu
+Craig Shesky executive
+Gerard Barron executive
+Operator
+Good day , and thank you for standing by . Welcome to the metals company Second Quarter 2024 Corporate Update Conference Call. [Operator
+Instructions] Please be advised that today's conference is being recorded.
+I would now like to hand the conference over to your first speaker today , Craig Shesky , CFO. Please go ahead.
+Craig Shesky
+Thank you. Please note that during this call, certain statements made by the company will be forward-looking and based on management's beliefs and
+assumptions from information available at this time. These statements are subject to known and unknown risks and uncertainties, many of which may be
+beyond our control.
+Additionally , please note that the company's actual results may dif fer materially from those anticipated and, except as required by law , we undertake no
+obligation to update any forward-looking statements.
+Our remarks today may also include non-GAAP  financial measures, including with respect to free cash flows, and additional details regarding these non-
+GAAP  financial measures, including reconciliations to the most directly comparable GAAP  financial measures can be found in our slide deck being used
+with this call. And you can also follow along with our slide deck or , if joining us by phone, you can access it at any time at investors.metals.co.
+I will now turn the conference call over to our Chairman and CEO, Gerard Barron. Gerard, please go ahead.
+Gerard Barron
+Thanks, Craig, and thanks to all of you for joining our second quarter conference call.
+During this call, we're going to spend time setting the record straight on some exaggerated claims picked up by media on the topic of so-called dark
+oxygen. It's funny that studies like this similar to the nonevent of alpha radiation in 2023 are usually coordinated to come out around ISA  meetings. W e
+believe this is another example of activism disguised as science. Rest assured that we have the data to counter on this topic, and we look forward to filing
+our rebuttal soon. And we're pleased to see that other scientists have really begun doing the same.
+We'll also spend some time discussing the progress achieved and the progress they had from the ISA  Council on the mining code, and what the draft
+review process looks like when TMC expects to launch its application for an exploitation contract prior to the next ISA  meeting in March. But I'd like to start
+with our improved liquidity position.
+We had liquidity of $40 million at the end of June, but this liquidity has increased in August due to the upsized borrowing limits on our credit facilities.
+We also used our ATM opportunistically in the second quarter , raising $2.6 million, an average share price of $1.61, and we will continue to be judicious if
+we elect to use this in the future, depending market on conditions. Borrowing capacity from our unsecured credit facilities has increased by $7.5 million by
+$2.5 million each from myself, Allseas, and ERAS Holdings, the family of fice of our Director and largest shareholder , Andrei Karkar .
+We believe we've shown in the last few months that we can reliably draw on these facilities whenever needed, and we intend to draw several million more
+from Allseas facility this month.
+Our credit facilities are being used as intended, as a bridge to what we believe will be attractive financing options after we are able to share more
+information on some of the strategic developments our team has been working on. W e appreciate the further support from our largest shareholders to
+keep our progress on track and minimize dilution amidst a dif ficult market.
+This next slide is a summary since our last quarterly update in mid-May .
+This quarter , I was very pleased to welcome 2 new directors to our Board, both of whom are leaders in their respective fields. Steve Jurvetson brings
+invaluable expertise in disruptive technologies, including investments in pioneering technology companies like Tesla, Planet Labs, SpaceX and
+Commonwealth Fusion Systems that fits well with our mission to revolutionize how critical minerals are sourced and ultimately recycled.
+We also welcomed Sustainability Leader , Brendan May , whose counsel has been sought by leading companies to help them build bridges with the
+environmental community . And as a former CEO of the Marine Stewardship Council and the Europe Chair of the Rainforest Alliance, we look forward to his
+help engaging key stakeholder communities.
+Geopolitical tailwinds continue to create a favorable environment for our industry , as evidenced by the U.S. house proposed allocation of defense
+department funding to assess the feasibility of refining nodule products domestically . Keep in mind that we are eagerly awaiting a response to our
+application for a defense department grant for $9 million for similar feasibility work. And my dance card in D.C. has certainly been filling up, including an
+invitation to speak at a congressional briefing on Capitol Hill in September regarding critical minerals.
+Print
+As the U.S., China, India, Norway and Japan, intensify their focus on seafloor resources, we see a growing recognition of the strategic importance of
+diversifying supply chains away from single jurisdiction terrestrial sources.
+Additionally , the International Seabed Authority recently progressed the consolidated text draft of the mining code. And we will also see a new Secretary
+General in January following the election of Brazil's Leticia Carvalho. On a personal note, I had a chance to meet with Ms. Carvalho, and I really like her .
+And I'm pleased that she, like us, believes that adopting the regulations is the best way to fulfill the ISA's mandate under UNCLOS.
+Now on to the agenda.
+During this call, we're going to touch briefly on our value proposition before reviewing industry headlines. And we will then provide an update on our NORI
+project progress as well as regulatory progress before ending with financial highlights and answering any questions.
+So why nodules as opposed to other resources on land or sea.
+While we believe we'll need many new types of sources of metals in the coming decades, but nodules in particular , are special.
+Sourcing battery metals from nodules requires no digging or blasting or drilling while producing no tailings or near 0 solid waste. And these little rocks
+contain high grades of 4 metals in one ore body . And given that they're far of fshore, we also don't have to displace any human communities nor build the
+costly fixed infrastructure necessary to access mineral resources on land. And this is why we can take a capital-light approach, which is a rarity in the
+world of resource projects.
+As we've said many times before, our resource is an outlier among the world's nickel projects. Not only our NORI and TOML  ranked by mining.com as the
+largest 2 undeveloped nickel projects in the world, that the nickel equivalent grade of roughly 3% with our 4 key metals in one resource means we can
+achieve profitability across the metal price cycle. There is also a remarkable correlation between a nodules mineral composition and the composition of EV
+battery cathodes and wiring. Richer nickel, copper , cobalt and manganese, these nodules closely fit the requirements for the majority of electric vehicle
+battery cathodes being sold today , and many of those that are expected to be sold in the future.
+Some studies estimate that fully autonomous vehicles will require as much battery power for computing as they will for the powertrain. And that means
+nickel batteries with higher energy density to alternatives like [ LSP  ] should come to be in high demand. And while EV demand estimates are changing all
+the time, the metallic composition of nodules means that they are also remarkably suited for use in diverse and other applications across the energy ,
+infrastructure and defense sectors.
+And despite short-term price softening, copper is expected to be a key beneficiary not just as part of a clean transition, but also a beneficiary from the data
+center needs of AI-focused industries. This is where it's so advantageous to have a basket of metal products each of which has exposure to sectors which
+will be geopolitically critical in the coming decades.
+And I'd now like to turn the call over to our CFO, Craig Shesky , to discuss some headlines around the industry .
+Craig Shesky
+Thanks, Gerard.
+This quarter saw yet more momentum created for this emerging industry with the 3 most populous countries on the planet as well as other leading
+industrial economies taking notable action on sea floor resources.
+As concerns over China's dominance of key critical mineral supply chains continues to garner more U.S. government funding and attention in the media,
+the U.S. House announced that it had allocated $2 million towards the studying of the processing of nodule derived intermediate products on U.S. shores.
+China, for its part, is moving forward aggressively on the technology development side and has announced its intention to conduct 2 separate collector
+tests next year through Chinese sponsored contractors. And of course, China is playing an assertive role in driving the regulatory process forward at the
+ISA.
+Meanwhile, other credible industrial economies, including those with significant of fshore industries like Japan and Norway , continue to press ahead with
+plans for seafloor minerals with Norway announcing it would be opening up part of its territorial waters for mineral exploration applications and Japan
+acknowledging the discovery of hundreds of millions of tons of nodules in its waters, which it hopes to collect in trials next year .
+And in another clear win for evidence-based decision-making, we are encouraged to see NGO proposals to support a moratorium on deep-sea mining
+overwhelmingly rejected by the shareholders of 2 of the biggest names in the auto business, Tesla and General Motors. Shareholders agree with both
+Boards with a tally of around 90% rejecting the proposal as both Boards noted that they have been engaging with third parties making science-based
+evaluations on seafloor resources.
+We also pride ourselves on being driven by science, and we question the motives of those pushing companies and major metal consumers to adopt
+activist positions before environmental impact assessments have been completed and then that data reviewed. All projects, whether in our tropical
+rainforests, deserts or on the deep sea floor , must be judged on merit, and we are confident that nodules can provide the metals we need with a fraction of
+the environmental impacts compared to land-based alternatives. And as Benchmark found in their recent life cycle analysis of our NORI-D project, we now
+know nodules would outperform key land-based production routes for nickel and copper in every impact category analyzed.
+On the onshore side, we have made great strides in collaboration with our partner , SGS. And at their facility in Ontario, our pilot scale module processing
+program has produced both nickel and cobalt sulfate, indicating our resource is suitable for battery markets.
+Given the mining industry is by far and away the single largest producer of solid waste on the planet, this program proved that a highly few flow sheet can
+process high-grade nickel-copper-cobalt matte into key raw material inputs for batteries while producing fertilizer byproduct instead of solid waste or
+tailings.
+Considering what we've accomplished since 2021 alone, it's frustrating for us, and I'm sure for many of you to see our market cap sitting at about just 60%
+of the nearly $0.5 billion we spent already since inception to derisk these projects and never mind what might be tens of billions of underlying asset value
+based on the resource itself.
+While the public markets might still be getting it wrong, we are confident that this work will generate significant value as countries and companies
+increasingly turn their focus to nodules in the Clarion-Clipperton Zone, as recent headlines clearly indicate.
+Going back to the beginning of 2021. W e laid out what we wanted to achieve as a public company , and then we got to work. In early 2021, we put out 2
+SEC compliant resource statements and an initial assessment on the NORI-D area signed of f by AMC Consultants, noting at the time a net present value
+of $6.8 billion. In late 2021, we completed our pyro-metallurgical processing pilot, derisking our flow sheet in advance of future onshore operations.
+In 2022, we completed the first successful integrated pilot system test in the Clarion-Clipperton Zone since the 1970s, lifting 3,000 wet tons of nodules and
+helping to derisk our future of fshore operations alongside our partner , Allseas. And as discussed earlier this year , we also finished the last of our 22
+preproduction of fshore campaigns, including the completion of late February of our environmental campaign of 1 year following our pilot collection test.
+And as noted, we've also successfully pivoted to a capital-light approach with the support of key partners like Pacific Metals of Japan onshore and Allseas
+offshore, which can provide production assets to us for our exclusive use and then reduce the preproduction CapEx requirements to a bare minimum.
+On to the environmental impact assessment.
+Our environmental impact assessment will draw on this wealth of data gathered over the past 12 years and is tightly focused on assessing the potential
+impacts of our operations on marine biodiversity and overall ecosystem function. Based on discussions with stakeholders, our team has honed in on 6
+primary concerns related to our operations.
+And with those 22 of fshore research campaigns under our belt, including our pilot collection system test, we now have a far clearer picture of our expected
+impacts which does contradict much of the speculation by activists in the media to date.
+For example, we now know that sediment plumes at the seafloor form a turbidity current hugging the seafloor and settling quickly .
+In fact, between 92% and 98% of sediment stays within 2 meters of the seafloor , a far cry from some of the modeling put forward by opponents to this
+industry , and it just shows that infield observed data needs to trump speculation.
+Likewise, while it was claimed that organisms impacted by the sediment plumes would never recover , the pair of campaigns we wrapped earlier this year
+have proved and provided visual evidence that organisms in these areas most heavily impacted by plumes, and even those right next to the collector
+tracks, were still present and alive 12 months on. And nodules that were covered in sediment only a year before were uncovered and visible.
+While it can be very frustrating to see the media get whipped up into a frenzy over certain extraordinary theories, as publication is often almost
+conveniently timed to coincide with meetings with the regulator , we must be cautious in their interpretation and demand equally extraordinary proof. Last
+year, they warned of dangerously radioactive nodules. And this year , it's dark oxygen. But the scientific process always dilutes the hyperbole and tames
+down those wild claims.
+We will continue to address each and every one of these through rigorous scientific study by leaning on the world's most comprehensive deep-sea data
+set.
+As you can see on the next page, we have just made a huge submission of data to the ISA  in May based on our of fshore research campaigns. And I will
+not claim to understand all of this, but our science team certainly does and they're excited to continue work on the key pillar of our application, the
+environmental impact statement.
+Now some may wonder why NORI hasn't submitted its application already .
+While our top priority is to get it right the first time, ensuring the most accurate and reliable assessment of our expected impacts. And this means waiting
+for the highest resolution data to be validated. W e're currently co-leading and analyzing the extensive data collected during our post-collection monitoring
+campaigns, and the results expected later this year will be crucial to our submission.
+All of this data will continue to be shared with the ISA  and made freely available to the global community via open-source databases.
+Some of you did likely see the global media cycle focused around dark oxygen, the notion that nodules on the abyssal plain created oxygen through
+electrolysis. On one hand, our science team was surprised to see a paper with such clear methodological flaws and sensational claims get published in
+the first place. W e should know because some of our science team was aboard the TMC research campaign where the author began making such claims.
+And the flaws in the methodology were as obvious as they are now . It also backs up what we've been saying for years. TMC does not sensor or edit the
+content of the scientists that are part of our research campaigns despite what some NGOs claim.
+But on the other hand, we are pleased at the conversation that this has started, with those in the scientific community increasingly beginning to push back
+on the media hype. In particular , a recent review of the paper by scientists at a depth noted that the paper lacked the data need to support its claims,
+where we have the data, and we agree that it certainly does not support those claims.
+Ultimately , extraordinary evidence -- excuse me, ultimately , extraordinary claims must be backed by extraordinary evidence, and we look forward to
+sharing the data that these scientists took issue with as part of their own rebuttal, which we expect to be available in just a matter of days. Once we file our
+rebuttal, we'll be running a series of panels and presentations to help people understand the flaws of this paper and why the topic has been completely
+overblown by the media.
+But on to the regulatory update. The ISA  recently wrapped its latest a session in Kingston, Jamaica. And as with every session, our full team on the ground
+was looking for progress and progress is what we got. If the publication of the consolidated regulatory text earlier this year marked the transition to the
+final phase of negotiations, the ISA  Council's completed first reading brings us one large step nearer to bringing the whole process to a close.
+After multiple draft regulatory texts, dozens of technical studies and thousands of hours of in-person meetings, we have a very good idea of what the final
+mining codes looks like. W e believe that regulations are the best way to protect the marine environment and in line with the ISA's road map for adoption in
+2025, our submission prior to its March session next year and the expected 1-year review process that would follow , provide ample time for the regulator
+to adopt regulation ahead of first commercial production.
+And while some of these ISA  meetings can admittedly be quite dry , this year , there is quite a bit of excitement over the election of the new Secretary
+General, Brazil's Leticia Carvalho.
+While the Secretary General will play a major role in ensuring the ISA's primary decision-making organs can fulfill their mandates, it's important to
+remember that it's ultimately the council that is the main driver of the negotiations over the mining code. To that end, the council, led by its Norwegian
+President, has already set out a thorough agenda of 8 intersectional working groups, which will meet over the coming months to address outstanding
+issues ahead of its publication of an updated consolidated text this November .
+As for the process governing the submission and review of an application for an exploitation contract, let me describe how it works as envisioned in the
+draft rules. Upon submission of our application before the ISA's next session in March 2025, the ISA  secretary will briefly review it for completeness, and
+then hand over to the 41-person body of experts at the Legal & Technical Commission.
+The L TC reviews the application in whole, including the wealth of environmental baseline and impact data we've gathered over more than a decade before
+making a decision on whether to approve our project, either by consensus or a simple majority vote. With approval from the L TC, only a 2/3 majority from
+counsel could overturn a positive L TC recommendation, which would also require a simple majority of each of the individual groups of the council.
+One element not highlighted here is the stakeholder consultation component of our application submission, which will be shared by the ISA  for extensive
+public review and consideration as we fit the comment heritage resource.
+And now on to the project economics. In March 2021, AMC Consultants issued our SEC SK1300 initial assessment and that arrived at a net present value
+of $6.8 billion. And running the same level solely updated for current metal prices, the NPV of NORI-D would today be about $8.5 billion, and our current
+market cap would represent just 4% of that number , representing a substantial discount to pure nickel or copper developers at this stage of preproduction.
+Beyond that, our market cap today , as we said earlier , is a significant discount to the money already spent on our projects. And in that time, we've
+achieved historic derisking milestones, and this is at a time when many other large countries are clamoring for access to seafloor resources and expertise
+in this area. And that puts TMC in a very strong position.
+As far as our financial results, TMC reported a net loss of approximately $20.2 million or $0.06 per share in the second quarter of 2024 compared to a net
+loss of $14.1 million or $0.05 per share for the same period in 2023. Exploration evaluation expenses during the second quarter of 2024 were $12.4 million
+compared to $8.1 million for the same period in 2023. The increase was primarily due to an increase in mining and technological and process
+development, resulting from increased engineering work by Allseas and share-based comp due to amortization [indiscernible] and options granted to
+directors and of ficers in the second quarter of 2024 and higher personnel costs.
+This was partially of fset by a decrease in environmental studies as the cost to complete Campaign 8B in the second quarter of 2024 was lower than the
+cost of environmental work [ seen ] in quarter of 2023 to complete the NORI pilot nodule collection system test. General and administrative expenses were
+$7.9 million for the quarter ended June 30, 2024, compared to $5.1 million for the quarter ended June 30, 2023.
+The increase in G&A  expenses was mainly due to an increase in share-based compensation due to amortization of the fair value of RSUs and options
+granted to the directors and of ficers in the second quarter of 2024, higher personnel costs and an increase in legal and consulting costs.
+The second quarter 2024 results included a gain of $0.6 million for the change in fair value of warrants liability and $0.5 million of fees and interest on the
+credit facility . In the comparative quarter of the prior year , the loss due to the change in the fair value of warrants liability was $0.8 million -- was of $0.8
+million. And fees and interest on the credit facility was $0.3 million.
+In the second quarter of 2024, the net cash used in operating activities amounted to $12.1 million compared to $8.4 million for the second quarter in 2023.
+The gap between the net loss for Q2 2024 and the net cash used in operating activities for the same period is due to share-based compensation and
+expenses that have been settled in equity and the change in working capital due to some increase in accounts payable and accrued liabilities. The free
+cash flow for the second quarter of 2024 was negative $12.2 million compared to negative $8.5 million in the second quarter last year .
+Free cash flow is a non-GAAP  measure. And I'd point you to the non-GAAP  reconciliation table included in the slide deck, which is also on our website.
+We do believe that our cash on hand, the undrawn $27.5 million unsecured credit facility from an af filiate of Allseas, the undrawn $20.8 million capacity on
+the unsecured credit facility from Gerard Barron as well as ERAS Capital will be suf ficient to meet our working capital and capital expenditure needs for at
+least the next 12 months from today .
+During the second quarter of 2024, the company had drawn $5.9 million from the credit facilities and short-term debt.
+And with that, we'll turn it back over to the operator for some Q&A.
+Operator
+[Operator Instructions] I'm showing no questions at the time. I would now like to turn it back to Gerard Barron, CEO, for closing remarks.
+Craig Shesky
+Well, we're actually going to wait for a minute or so to see the Q&A  questions compile just to ensure that some of them on the webcast chat have a chance
+to type that out.
+So please stay tuned for just a minute, please. Thank you.
+Operator
+Our first question comes from the line of [ Rich W oninsky ].
+Unknown Analyst
+I was wondering how many nodule collection machines that you own?
+Craig Shesky
+Well, TMC does not own the nodule collection machines. What we want to do as a resource company is explore and develop the resource itself. And
+thankfully , we are blessed to have partners like Allseas who are able to provide the collection technology such as the Hidden Gem vessel as well as the
+collectors themselves.
+So for TMC, it's really less about a technology play or focusing on patents or the ownership of resources and more about ramping up production in a very
+capital-light way . And that capital-light production is something that we can achieve by using existing assets of fshore, such as those provided by Allseas as
+well as using existing facilities to process those modules such as those that exist in Japan with Pacific Metals, or other RKF lines that we know are
+available in India -- or excuse me, Indonesia, China, Malaysia and other locations.
+So while we don't own the collector , we feel very good that by developing this resource on which TMC has exclusive rights to explore. And then once we
+move with commercial production, exclusive rights to collect the nodules commercially for a period of 30 years. W e think that's the right place to be in the
+value chain. But thank you for the question.
+Operator
+[Operator Instructions] I'm showing no questions at this time...
+Craig Shesky
+I'm sorry , operator . We now have some questions that are populating in the chat.
+Given that it's the middle of August, I imagine a lot of people are taking it from the road, so we'll get them from here.
+So Gerard, from Dmitry Silversteyn, the W ater Tower Research analyst, what do we expect in terms of P AMCO completing the trial run of 2,000 tons of
+nodules?
+Gerard Barron
+Dmitry , look, we're making good progress.
+Our Head of Onshore has been up in Japan and in Indonesia over the last weeks, and we'll be doing another run there on August 27, and we're very
+pleased with the progress. And P AMCO, an amazing partner to have given the wealth of experience being -- having processed nodule material, poly metal
+material, particularly nickel laterite since the 1960s.
+And so we expect those trials to be completed during the third quarter and results coming out soon after that. But you're there when it's happening, we're
+getting learnings. W e're getting refinements and having those nodules that we could complete these trials has been a tremendous benefit as we prepare
+to move into commercial production.
+Craig Shesky
+We have a question from [ Ryan Bolle ]. W ondering if we can clarify the statement about the ISA  council groups.
+Certainly , Ryan. The point is if the L TC recommends the approval of the NORI application for a plan of work. In order to, I guess, stop commercial
+production, in order to overturn that positive L TC recommendation, one would need to see the ISA  council states in a majority above 2/3 vote to overturn
+that, in addition to a simple majority of each of the ISA  council groups.
+So said another way , it's quite a high bar to return -- overturn what would otherwise be a positive L TC recommendation.
+I also see a question from Eric Goldstein, one of our shareholders. Can you clarify -- it looks like you raised $1 1.6 million in the first half of 2014 and $9
+million was from the registered direct of fering.
+Yes, Eric, the GAAP  represents the funds that were raised during that period from the use of the ATM. 1.6 million shares issued at an average price of
+$1.61.
+So over the course of the time that the ATM has been out since the end of 2022, I think we've shown quite a bit of discipline in waiting to use it. And when
+we saw a market opportunity and ensuring that we are keeping the project on time and on track as we continue to have strategic discussions, it felt like the
+right time to use it in a very judicious way . But certainly , market conditions are going to dictate that. And we have no desire to be using that anywhere close
+to where the share price is now .
+Gerard, a question from somebody within Manulife Securities. Do you have an indication of where the majority of the council stands on exploitation should
+the current draft mining code end up being the final version. Basically , just wondering how do we think the current makeup of the ISA  council sits with
+respect to their views on the mining code adoption?
+Gerard Barron
+Yes. Thank you. The vast majority of member countries support getting the regulations in place. And obviously , it was very pleasing to see the newly
+elected Secretary General reaf firm her position that she does not support moratoriums. She supports regulations to allow the development of this industry
+while protecting the marine environment. If we look at the council, by far , we have a majority of countries that are supportive. And in fact, even if you look
+at the countries who are supporting our precautionary pause, they're still at the table negotiating those final regulations.
+And so I think those numbers are safe. And I think as we get more environmental evidence, then that is further helping us secure the support of those
+member countries who are encouraged by the results they've seen and the rigor of our science program.
+Craig Shesky
+Thank you. And we'll take one more question here from David Larkam, the analyst at Edison Research. There's been a well-documented slowdown in the
+rate of EV adoption. W e've often spoken of potential partners at the project level. Is the EV adoption slowdown having any impact in the interest of an
+asset level investment for TMC subsidiaries?
+Gerard Barron
+Yes. Look, I think the asset level interest we've had primarily comes in the form of either prepay of ftake and it all comes in the form from a strategic that is
+currently in the resource extraction industry .
+So I guess no is the answer to that question.
+I think the -- it doesn't have an impact other than if you're a consumer-facing brand, you're really wanting to see the results of our environmental program
+before you make long-term commitments.
+We've seen -- you heard us talk about GM and Tesla. The fact that they have resisted any pressure to join moratorium causes, they just want to follow the
+science, and that's what they will continue to do. And I think as the science becomes more watertight around the sort of impacts that you incur when you
+collect nodules and turn them into battery metals, we'll find that category of customers, i.e., consumer-facing brands, wanting to get more of the supply
+because of the lower impact, both from an environmental and a human perspective.
+Craig Shesky
+Yes. And just a follow on to that as well. With nickel, copper , cobalt and manganese, really manganese is focused on steelmaking, carbon steel making
+than nickel, still over 60% of the demand coming from stainless steel.
+So while EVs represent a great growth market, stainless demand is still growing at above GDP  rates globally .
+So truly , the types of metals that we have here and the materials that we will be selling, it's really tough to see a scenario where they're all not in much
+higher demand down the road. Keep in mind that what you see in terms of fluctuations for commodity trading markets is driven by short-term commodity
+trading accounts, many of which have 3- to 6-month time horizons.
+Goldman says quite often -- or [ Jef f Curry ], who's formerly at Goldman, commodities are not anticipatory assets the same way that securities would be.
+So oftentimes, you see overhangs from spot pricing that don't really reflect the long-term secular supply-demand stories. And we think we're seeing a bit of
+that right now . But look, in terms of EV demand estimates, in terms of EV mix, all of that will work itself out. But keep in mind that the majority of our
+revenue will be coming from metals that are majority focused on industrial applications.
+We'll take one more question for Cantor Fitzgerald from analyst Matt O'Keefe. What are we expecting in terms of our feasibility update? And can we
+expect something this year or perhaps in advance of our application to the ISA?
+Yes.
+So on that point, too, it's important to note that the feasibility work, the PFS and FS, is a key tenet of that application. W e feel very good about the
+coordination on that point. And while we don't want to give you a time line, what you can expect is when we next report in November , we're going to have
+quite a bit more to say on that front, and sort of when the public release can be there. That's very important for us as well. W e think it's important for a lot
+of our potential partners.
+So we are laser focused on it. And I would just say stay tuned because that is certainly in the works.
+Gerard Barron
+Okay . Well, with that, I'd like to extend my sincere thanks to my team at TMC, including our partners and contractors and of course, our sponsoring states.
+And thanks to everyone who tuned in for your interest and attention today . And for those now in the northern hemisphere, enjoy the rest of your summer .
+Operator
+Thank you for your participation in today's conference. This does conclude the program.
+You may now disconnect.

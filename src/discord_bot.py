@@ -104,7 +104,7 @@ from src.vectorstore import init_index
 from src.ingest import ingest_documents
 import aiohttp
 
-DATA_DIR = "./data"
+DATA_DIR = "./text"
 
 @bot.command(name="ingest")
 async def ingest_docs(ctx, doc_id=None):
@@ -166,7 +166,7 @@ async def add_metadata(ctx, company, quarter, fiscal_year, call_date):
         return
 
     new_meta = {
-        "file_path": f"data/{company.upper()}_{quarter.upper()}_{fiscal_year}.pdf",
+        "file_path": f"text/{company.upper()}_{quarter.upper()}_{fiscal_year}.txt",
         "doc_id": f"{company.lower()}_{quarter.lower()}_fy{fiscal_year}",
         "company": company.upper(),
         "fiscal_year": int(fiscal_year),

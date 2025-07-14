@@ -1,0 +1,633 @@
+Oklo (OKLO) / 13 May 25 / 2025 Q1 Earnings call transcript
+Company Profile
+ Transcript menu
+Sam Doane executive
+Jacob Dewitte executive
+Richard Bealmear executive
+Ryan Pfingst analyst
+Sherif Elmaghrabi analyst
+Vikram Bagri analyst
+Eric Stine analyst
+Jeffrey Campbell analyst
+Sameer Joshi analyst
+Craig Shere analyst
+Operator
+Thank you for standing by . My name is JL, and I will be your conference operator today . At this time, I would like to welcome everyone to the Oklo First
+Quarter 2025 Financial Results and Business Update Call.Â [Operator Instructions] Â  I would now like to turn the conference over to Sam Doane, Director
+of Investor Relations.
+You may begin.
+Sam Doane
+Thank you, operator . Good afternoon, and welcome, everyone, to Oklo's First Quarter 2025 Earnings and Company Update Call. I'm Sam Doane, Oklo's
+Director of Investor Relations.
+Joining me today are Jacob Dewitte, Oklo's Co-Founder and Chief Executive Of ficer; and Craig Bealmear , Oklo's Chief Financial Of ficer.Â  Â  Before we
+begin, I'd like to remind everyone that today's discussion, including our prepared remarks and the Q&A  session that follows, will include forward-looking
+statements. These statements reflect our current views regarding trends, assumptions, risks, uncertainties, and other factors that could cause actual
+results to dif fer materially from those discussed today .Â  Â  W e encourage you to review the forward-looking statements disclosure included in our
+supplemental slides, which are available on the Investor Relations section of our website.
+Additional details on relevant risk factors can also be found in our most recent filings with the SEC. Please note that Oklo assumes no obligation to update
+any forward-looking statements as a result of new information, future events, or otherwise, except as required by law .Â  Â  With that, I'll now turn the call
+over to Jake Dewitte, Oklo's Co-Founder and Chief Executive Of ficer. Jake?
+Jacob Dewitte
+Thanks, Sam, and thanks to all for joining us today . We're looking forward to sharing our first quarter update and highlighting the progress we've made
+since our last update just 7 weeks ago on March 24 of this year .Â  Â  W e continue to see strong momentum across both the industry and the political
+landscape in support of nuclear energy , and that momentum is accelerating in 2025. The current administration has made it abundantly clear that nuclear
+is a strategic priority .Â  Â  In a recent letter to the Director of the White House Of fice of Science and Technology Policy , the President named Nuclear
+Energy , AI, and Quantum Technologies as central pillars in what he called the Golden Age of American innovation. That message reinforces what we're
+seeing across policy and regulatory activity .Â  Â  The series of recent executive orders underscores the administration's commitment to nuclear energy ,
+ranging from regulatory reform and streamlined permitting to the creation of a federal task force dedicated to next-generation nuclear deployment. This
+includes actions to revoke outdated regulatory barriers, declare national energy emergency to fast-track projects, and establish an energy dominance
+council focused on accelerating technologies like small modular reactors.Â  Â  Other orders reinforce federal oversight to reduce state-level interference
+and direct agencies to conduct cost-benefit reviews of existing rules. And now we're seeing signs that the administration may take its support even further .
+According to recent reporting, several new executive orders are being considered that would aim to quadruple the size of the U.S. nuclear fleet by 2050,
+declare certain data centers as defense-critical infrastructure, and direct the Department of Defense to take a more active role in nuclear procurement.Â 
+Â  These drafts also call for a wholesale revision of NRC regulations to streamline reactor approvals and rebuild domestic nuclear fuel supply chains.
+While still in development, the scope of these proposals signals just how serious the administration is about re-establishing U.S. leadership in nuclear and
+how aligned that ambition is with Oklo's mission and model.Â  Â  Secretary W right, a former Oklo Board member , has been one of the most vocal
+champions of the administration's commitment to expanding and accelerating nuclear deployment. He's made it clear that the U.S. must lead the global
+push to commercialize advanced nuclear technologies and that the federal government is prepared to support that leadership with urgency and
+action.Â W e're encouraged to see that level of alignment at the highest levels, especially from someone who knows Oklo's mission and model first-
+hand.Â  Â  At Oklo, our foundation is built on the belief that advanced nuclear technology can and should play a transformative role in the global energy
+landscape. When we started this company , we saw an industry that had gone dormant, and we set out to reimagine what the nuclear energy industry
+could be. That vision continues to guide us delivering clean, reliable, and af fordable energy at scale.Â  Â  As a reminder , our competitive advantage is built
+on the intersection of 3 key strategies: our business model, our sizing philosophy , and our technology .
+Print
+First, our build-own-operate business model sets us apart. W e sell power , not power plants, under long-term contracts. This structure provides predictable
+recurring revenue and enables a more ef ficient regulatory path.Â  Â  Second, our small-scale modern design allows us to deploy quickly and scale flexibly .
+By leveraging existing supply chains in their factory fabrication, we can meet demand ef ficiently , reduce on-site complexity , and scale in lockstep with our
+customers' evolving needs.Â  Â  Third, our proven and demonstrated technology is backed by over 400 reactor years of operational experience with liquid
+metal-cooled fast reactors. This gives us a robust technical foundation with distinct performance and safety advantages.
+Importantly , it enables us to move directly into commercialization without the need for a costly and time-consuming demonstration plan.Â  Â  Together ,
+these pillars reinforce Oklo's position as a leading next-generation nuclear provider and will enable us to execute with speed, ef ficiency , and confidence. A
+key dif ferentiator for Oklo is our ability to go straight to commercial deployment. W e're not building a demonstration plant.Â  Â  Our Aurora powerhouse is
+built on mature technology derived from the reactors such as the Fast Flux Test Facility or FFTF , and the Experimental Breeder Reactor-II or EBR-II, which
+operated successfully for over 30 years at Idaho National Laboratory . This isn't theoretical. W e're leveraging real, validated operating data that's already
+recognized by the NRC.Â  Â  Importantly , members of our team work directly on both FFTF and EBR-II, bringing deep first-hand experience to the design
+and deployment of the Aurora. W e believe this operational legacy allows us to move with greater speed and confidence through the licensing process and
+positions us to bring our first commercial unit online in late '27 to early '28.Â  Â  While many advanced nuclear companies are still building one-of f
+demonstrations to validate new fuels or designs, Oklo is already focused on delivering a commercial powerhouse. These early-stage ef forts are useful to
+the ecosystem, but they aren't market-ready . We're taking a fundamentally dif ferent path, one that's grounded in experience and optimized for near-term
+deployment.Â  Â  As we continue to execute on our strategy , we remain committed to keeping the market informed with clear and consistent updates on
+our progress.
+Our company updates will continue to be structured around 6 key areas: project execution, licensing progress, fuel recycling and feedstock, customer
+pipeline development, strategic partnerships for corporate and business development, and financial updates.Â  Â  Since our last company update just 7
+weeks ago in March, we have continued progress across key areas of our business, from project execution and licensing to fuel strategy , customer
+positioning, and strategic partnerships.Â  Â  W e advanced field work at key sites, made progress in our NRC engagement, and were selected as a
+qualified vendor through the Department of Defense's procurement process, strengthening our position to pursue future opportunities with military
+installations.Â W e are in the process of formalizing new partnerships to support technology development and deployment of powerhouse and radioisotope
+assets at INL.Â  Â  On the financial front, we remain disciplined and transparent with updates on cash burn, operating expenses, and governance included
+in today's materials. At Oklo, we're executing against our plan and advancing steadily toward commercial deployment.
+We have completed a major milestone in preparing our INL  site for the Aurora powerhouse.Â  Â  Our team wrapped up a comprehensive drilling campaign
+involving seismic and geophysical studies at our proposed site at Idaho National Laboratory . The data we gathered will directly support our combined
+license application to the NRC and represents the final technical siting step ahead of submitting Phase 1 of our application.Â  Â  W e also finalized a
+memorandum of agreement with the Department of Energy and an interface agreement with INL. These agreements ensure that our site development
+efforts are aligned with environmental standards and DOE coordination. With this complete, we're well-positioned to move into the next phase of licensing
+and infrastructure development with plans aiming for the plant to begin operations in late '27 to early '28.Â  Â  W e recently initiated Phase 1 of the pre-
+application readiness assessment for our Aurora INL  powerhouse, reaching an important milestone in our licensing ef forts with the NRC. This process
+essentially addresses rehearsal, enables the NRC andÂ OkloÂ teams to align on scope and expectations ahead of our formal combined license
+application submission.Â The goal is to surface and address feedback early , reduce challenges later , and build confidence and momentum as we move
+toward our formal COLA  submittal.
+We expect we will soon receive an audit report from the NRC summarizing their feedback and recommendations, which will incorporate into Phase 1 of
+the application.Â  Â  The NRC's feedback will be categorized as follows: category A, final safety analysis report or FSAR gaps, where information required
+by regulation may be missing; Category B, items requiring additional information or further clarification or justification is needed; Category C, other
+observations, suggestions or potential issues that could af fect the ef ficiency of review if left unaddressed.Â  Â  W e have worked diligently with the NRC to
+ensure a robust and complete application that should reduce category A observations.
+However , every observation of fers important insight into areas we can further develop to allow for an ef ficient and timely review of our Phase 1
+COLA.Â W e do anticipate some category A, B, and C items, which is entirely expected and consistent with what other reactor developers have seen.
+These are clarifications and refinements, not fundamental application content flaws. This is exactly what the readiness assessment is designed to identify ,
+and it helps both Oklo and the NRC get ahead of potential considerations and areas for alignment.Â  Â  Notably , Oklo is using this audit as an opportunity
+to test several key repeatable licensing pathways and expect valuable NRC guidance on how these novel approaches will best support rapid and cost-
+effective deployment. W e're also encouraged by broader ef forts at the NRC in modernizing its approach to advanced nuclear .Â  Â  For example, the NRC
+finalized the construction exemption for TerraPower's Natrium plant, allowing construction of its Energy Island to begin while licensing continues. That
+decision shows the NRC's increasing embrace of flexible, modern, and risk-informed approaches, setting a precedent that will also benefit Oklo's
+deployment strategy . It supports strong alignment with the NRC and will increase predictability and reduce downstream challenges as we move forward.Â 
+Â  W e also continue to make progress on other regulatory fronts by nearing the submission of the licensing project plan for our Oklo fuel foundry , a key
+step in the broader fuel strategy , and our license operator topical report, which has now been submitted to the NRC. The license operator topical report
+outlines a new licensing approach designed specifically for Oklo's Aurora powerhouses. Today , most U.S. nuclear plant operators are licensed for a single
+plant and must be on site to perform safety-related actions, a model developed for the traditional light water reactor fleet.Â  Â  Oklo is proposing a dif ferent
+approach. Instead of licensing operators for individual sites, operators would be licensed for the Aurora powerhouse technology itself. This should enable
+them to monitor multiple powerhouses from a central location and travel between sites as needed. Because Oklo builds, owns, and operates its
+powerhouses, this licensing strategy is well aligned with its business model and emphasizes ef ficiency and repeatability .Â  Â  Once approved, the licensed
+operator's topical report can be referenced in future applications, significantly reducing the need to rereview previously approved material. This regulatory
+efficiency is central to Oklo's plan for scalable deployment across its fleet. By strategically submitting topical reports like this one, Oklo is laying the
+regulatory foundation for faster licensing pathways that support its broader commercialization goals. Each of these regulatory touchpoints reflects Oklo's
+proactive approach to licensing and our ability to execute ef ficiently .Â  Â  Fuel strategy is a key dif ferentiator in advanced nuclear , and Oklo is setting a
+new standard for flexibility and readiness. W e're the only advanced nuclear company that has secured and is actively working with HALEU for our first
+commercial plant.
+On the commercial side, we've signed an MOU with Centrus, currently the only domestic producer of HALEU, to support our powerhouse deployments
+with a reliable supply source.Â And looking ahead, our technology is designed to take full advantage of recycled fuel, and we're actively developing that
+capability through our in-house fuel recycling program.Â  This 3-pronged approach, government-awarded material, commercial HALEU access, and future
+recycled fuel positions Oklo with one of the most comprehensive and durable fuel strategies in the advanced nuclear sector . It not only strengthens our
+long-term supply chain but will also give us a significant cost and commercialization advantage.Â  Â  W e were recently selected as 1 of 8 qualified vendors
+for the Department of Defense's Advanced Nuclear Power for Installations Program, or ANPI. This is a significant milestone, not just because it opens
+near-term opportunities for deployment on military installations, but because it reinforces Oklo's position as a credible go-to solution for energy resilience
+in high-security environments. The program is led by the Defense Innovation Unit, or DIU, which is focused on fast-tracking commercial technologies for
+national security applications. That means streamlined contracting, faster timelines, and a clear path to scalable deployment.Â  Â  Unlike traditional
+procurement pathways, ANPI uses a contracting mechanism called Other Transaction Authority , or OT A. This allows for a faster milestone-based approach
+from early design through prototyping and ultimately can even end with a power purchase agreement. OT A contracts can also draw funding from DIU in
+the branch of the military or other federal agencies, giving Oklo a versatile and well-supported path to deployment.
+For Oklo, this selection validates our technology , aligns with our commercial road map, and gives us added momentum with both federal and commercial
+partners. It's an endorsement that strengthens our position across the board.Â  Â  W e acquired Atomic Alchemy earlier this year to expand Oklo's reach
+into the high-growth radioisotope market, and this company is already delivering. Founded in 2018, Atomic Alchemy is building a domestic vertically
+integrated supply chain for high-value isotopes used in everything from cancer treatments and medical diagnostics to national security and advanced
+manufacturing. The proprietary technology , including the versatile isotope production reactor or VIPR reactor , is designed specifically for isotope
+production with a focus on ef ficiency , scalability , and simplicity . They've already hit key engineering and regulatory milestones and are working closely with
+Idaho National Laboratory to advance deployment. Â  With strong early customer interest and a proven team in place, Atomic Alchemy gives Oklo a
+capital-light opportunity to drive near-term revenue and long-term market leadership in an essential and underserved space. Today's radioisotope supply
+chain is outdated, fragmented, and increasingly unreliable, stretching across multiple facilities, geographies, and transport modes, making it risky ,
+expensive, and slow .Â  Â  Atomic Alchemy flips this model with a vertically integrated system. The VIPR facility will consolidate reactor operations,
+processing, and manufacturing at a single site, dramatically increasing ef ficiency and reliability . This model is not only better suited to meet modern
+demand, but also allows for global distribution with faster lead times and lower costs.
+As demand for isotopes accelerates, this supply chain advantage will be a major competitive dif ferentiator .Â  Â  The Atomic AlchemyÂ VIPRÂ platform is
+designed to support broad radioisotope production as well as radiation capabilities across medical, industrial, defense, and emerging tech sectors. From
+life-saving cancer therapies and diagnostic imaging to industrial sensors, aerospace applications, and advanced semiconductor manufacturing, these
+isotopes and radiation capabilities are essential to critical systems in our economy . What makes this solution so compelling is not just the diversity of
+isotopes and radiation capabilities we can produce, but the scale and reliability our integrated model of fers. This is a broad and growing market with unmet
+demand, and Atomic Alchemy is built to serve it ef ficiently and at commercial scale.Â  Â  W e believe that Atomic Alchemy is executing a smart multi-project
+approach to market entry .
+The first step is a lab-based demonstration project designed to validate the process and generate revenue quickly , potentially as early as 2026. This will
+involve a low-cost processing infrastructure and customer-ready material using third-party radiation.
+The second project is the launch of a fully commercialÂ VIPRÂ facility , a 4-reactor site dedicated to direct isotope production.Â  Â  Licensing is expected to
+begin in 2025 with operations targeted for 2028. That project is expected to be potentially funded of f balance sheet and supported by long-term supply
+agreements that are already under negotiation. With this road map, Atomic Alchemy brings near-term upside, long-term scalability , and significant value to
+Oklo's broader platform.Â  Â  Shifting to leadership and governance. W e're thrilled to welcome Pat Schweiger as our Chief Technology Of ficer. Pat brings
+deep technical expertise across advanced reactor design, plant systems, and regulatory strategy , and a track record of scaling
+bothÂ fusionÂ andÂ fissionÂ programs from concept through deployment, including his comprehensive experience working at FFTF while it was operating,
+which was one of the fast reactors that Oklo built its design from. He's joining at a pivotal moment to help drive our commercial rollout, bringing the kind of
+strategic and operational leadership that will accelerate Oklo's next phase of growth.Â W e're excited to have him on the team.Â  W e recently announced
+that Sam Altman has stepped down from Oklo's Board of Directors. Caroline and I first met Sam at a dinner in Cambridge, Massachusetts, in April 2013.
+Since that first chance meeting, Sam has played an instrumental role in guiding Oklo, Caroline, myself, and our vision over the years. Sam has been a
+mentor , a leader , a supporter , a champion, and a friend since that meeting. Sam invested in the company and joined our Board in 2015, and he helped us
+grow through challenges and into the incredible opportunities that lay before us.Â W e are deeply grateful for his early conviction, vision, leadership, and
+support.
+As we move closer to commercialization, this transition reflects a natural evolution from the company's early-stage development to where it is today .Â  W e
+are excited about the growth this represents, and I will now turn it over to Craig.
+Richard Bealmear
+Thank you, Jake.
+As we move closer to commercialization, this transition reflects a natural evolution from the company's early-stage development into execution. Sam's
+departure also supports a shift of his role from that of an insider to a potential future commercial partner , removing a possible conflict of interest as we
+advance potential commercial discussions with OpenAI.Â  Â  Importantly , this change does not af fect day-to-day operations. In conjunction with this
+transition, Oklo's Chief Executive Of ficer, Jake DeWitte, has assumed the role of Chairman of the Board, providing continuity and clear leadership as we
+enter this next phase of growth.Â  Â  At our last update, just 7 weeks ago, we discussed the additions of Dan Poneman and Michael Thompson to the
+Board. After now Secretary of Energy Rights confirmation and departure from the Board, we are pleased with how we have grown the Board. The
+experience and expertise in NRC licensing, fuel supply chains, strategic finance, and technology commercialization that Dan and Michael bring to the
+Board are great additions to our team.Â  Â  I will now provide a summary of our financials. Oklo's first quarter operating loss was $17.9 million, inclusive of
+noncash stock-based compensation expense of $2.3 million. Oklo's loss before income taxes was $14.2 million, which reflects our operating loss adjusted
+for net interest income of $3.6 million. When adding back noncash stock-based compensation charges and considering noncash income tax benefit
+recorded for the quarter , you get cash used in operating activities of $12.2 million. W e believe this puts us on track to deliver on our guided range of $65
+million to $80 million for total cash used in operations for the full year 2025. At the end of the quarter , cash and marketable securities were $260.7 million.
+Lastly , we have filed our proxy statement, and we will be holding our Annual General Meeting on W ednesday , June 4, 2025.Â  To close, I'll briefly highlight
+why we believeÂ OkloÂ stands out in the advanced nuclear and energy landscape.
+We are deploying proven fast reactor technology in a compact, scalable form, reducing cost, complexity , and time to market.Â  Â  Our business model is
+built around long-term power sales, delivering recurring revenue and strong margins. W e look to drive superior economics through repeatable deployment
+of a common design asset that can be further enhanced with recycled fuel to drive capital ef ficiency and a competitive levelized cost of energy .
+Our customer pipeline totals over 14 gigawatts and spans sectors like data centers and defense, proof of strong and growing demand. W e've developed a
+streamlined regulatory strategy backed by years of licensing expertise and a repeatable COLA  process aligned to our business model. And finally , we're
+not just building powerhouses. W e're building a platform that integrates generation, fuel recycling, and radioisotope production, unlocking multiple high-
+value markets. Thank you for joining us today .Â  Operator , we're now ready for questions. Thank you.
+Operator
+[Operator Instructions] Your first question comes from the line ofÂ Ryan PfingstÂ of B. Riley .
+Ryan Pfingst
+Jake, you mentioned the recent reports about additional executive actions expected to support nuclear power . It sounds like these could include the DoD
+taking on a greater role in ordering reactors and installing them on military basis. Can you talk about the regulatory authority for nuclear power that the
+DoD has today and your thoughts on the department's ability to potentially accelerate reactor deployments, whether through programs like the ANPI or
+otherwise?
+Jacob Dewitte
+Yes. Thanks for the question, Ryan. I mean, I think DoD does have the authority to regulate nuclear plants on sort of for their use cases and for dif ferent
+opportunities around that.
+So we see some interesting angles there. There's been kind of a mixed approach taken in the department. And I think what we've heard about some
+interest is looking at ways to make sure that they are not going to be held up or held back at all by any kind of - from their need sets from any kind of
+regulatory permitting issues that could happen outside of sort of their control. Obviously , they have the ability to control it all.
+So I think there's some appetite and some potential interest in doing that. That said, their active infrastructure and their capability set hasn't been
+exercised a ton for these kinds of use cases in a while to put it somewhat, I guess, simplistically .Â  Â  So I think there's some significant opportunities for
+them to step up and perhaps provide sort of an alternate pathway for some of those use cases, which is, I think, pretty exciting.
+Additionally , I think it creates a pretty good dynamic to look at ef ficiencies, where if you are citing these military installations or other government
+installations.
+If you see the broad activities across the government today , just trying to find ways to streamline and make the regulatory processes much more ef ficient
+and modern and quick and timely , I think you see opportunity for how these potential activities around sort of expanding DoD roles here could be done.
+But DoD does have that capability set. They do have that authority .
+And so I think it's a matter of looking at how they can sort of best use it to sort of push and accelerate these things.
+Ryan Pfingst
+And then the fuel slide was a helpful reminder of the actions you're taking on that front. Can you give us an update on other parts of the supply chain and
+your confidence in commencing a fairly near-term construction ef fort?
+Jacob Dewitte
+Yes. I mean this is a feature set for - we've designed supply chain capabilities and information heavily since the beginning. There's a lot of ways you can
+design a reactor , a lot of dif ferent materials, fuel types, coolants, all sorts of things you can do, some of which obviously are technologies need a lot more
+R&D and development before they're ready to go.
+Some others just need a lot more supply chain development before you can procure the various parts needed. And then in our case, we've designed
+heavily to leverage what's out there as much as we possibly can. Fuel is obviously the big watch point because that's kind of the biggest, I would say , sort
+of challenge and opportunity , if you will, that we see. But everything else, we try to leverage existing supply chains from in and also outside of nuclear as
+much as we can. And that's a real feature to sodium technologies, right? You can use common stainless materials you can source those from many other
+industries, from the process side of things.Â  Â  When you look at like the steam generation side, that's partly why we partnered up with Siemens to help
+drive that last year and kind of accelerate that for them to be able to deliver , and they do that very well, obviously .
+So generally speaking, this is a thing that we're going to be sort of pushing forward as we try to accelerate what we can do to actually break ground and
+start building as quickly as we can. And I think that's something that we see on the supply chain side. Most of the limitations are really centered around
+fuel, and the other long lead items are looking at 18-month kind of windows, and our ability to then also bring in sort of the order book and backlog that we
+have behind it helps us sort of be able to actually scale more of that as well.Â  Â  So when we talk to suppliers, it's not just about one, it's about more, and
+that kind of motivates the right kind of partnerships if that makes sense.
+So that's how we're looking at this and thinking of it. But this avoids some of the challenges you see in the light water space, where you need large
+pressure vessels or forgings that way . Obviously , there's some capacity for that, but there's a lot less of that.
+So work done there needs to be done to sort of show that to get in front of that bottleneck and that constraint, given there's only a few places in the
+Western world that we'll be able to source that from. W e as -- not Oklo, as America, frankly .
+And so for us atÂ Oklo, being able to not require those needs helps us actually diversify away from that, which is super , super helpful.Â  Â  Similarly , on
+the turbine set, actually something that's a little bit underappreciated.
+If you think about nuclear steam turbine systems, most of those are gigawatt-scale systems for light water - well, most of those are high hundreds of
+megawatts to gigawatt-scale systems for light water reactors. And light water reactors operate at a relatively low steam temperature set compared to other
+power generation technologies. And as a result, like scaling that turbine down to sort of small reactors and smaller for water cooled conditions, not
+technically challenging, but requires some reasonable nonrecurring engineering and sort of tooling costs to set up the infrastructure to actually make
+those, whereas our systems operate at those temperature ranges and pressure ranges that look a lot more similar to where a lot of fossil fire plants
+operate.Â  Â  And that's kind of what another feature about non-light water systems is you tap directly into some of those supply chains, which is super
+helpful. And just to kind of like emphasize the recent news of what the NRC did with their power is just an extraordinarily important validation of that model
+that applies also to us, right, and similar technology set.
+So that you can decouple the steam system, the power side from the reactor side, that opens up so much more flexibility in terms of how you can source,
+procure, and construct and install.
+Operator
+Your next question comes from the line ofÂ SherifÂ ElmaghrabiÂ of BTIG.
+Sherif Elmaghrabi
+The fuel MOU with Centrus, can you tell us when you might start taking delivery of that fuel? And is there a date by which you need to firm up that
+agreement?
+Jacob Dewitte
+Yes.
+I think just to clarify , right, the first fuel we're getting for our first plant, that was awarded to us through a competitive process by Idaho National Laboratory
+and the Department of Energy .
+So that material is all from there. That's for our first plant. Everything with like commercial procurement happens for our second and beyond plants, and
+that's where we're looking at obviously working with Centrus and others. What we see is we're in the process of kind of figuring out the right structures to
+supply for what we need and kind of the growth and scale.
+So I think the idea is as we look at partnering with dif ferent folks on the enrichment side, it's really working to sort of what's the sort of right ramp rate for
+them and for us, given the customer of ftakes and how customers might be engaging or not engaging on this is something that we're kind of watching as
+this develops, and we're helping develop and shape as we speak live time.Â  Â  So we'll want to start receiving that fuel as soon as reasonably possible,
+but some of those pieces are going to be the things that we want to put in place to make sure we set the stage for kind of a long-term growth curve up and
+out. When you look at what our fuel needs are, they're pretty exciting and pretty heavy . But that's great for the enrichers on the supply side, but just
+structuring the right kind of early deals and then also coupling that with some of these customer partnerships where their ability is to sort of come in and
+help actually potentially , right, support some of the fuel of ftake. That's how we're kind of looking at shaping some things right now .Â  A lot of that is still
+developing, but generally speaking, that's how we're structured on that sense. But it's super , super helpful and important, right? W e have fuel. It's actually
+at Idaho. It's being -- we're setting up the fuel fabrication capabilities to actually be able to take that fuel and fabricate, put that in our first plant, but that
+material has all been -- it's all out there. It's all been produced from government reserves and inventories. And that's kind of another key watch point for us
+is some of the actions that are potentially coming from the government. Ideally , there's a lot that moves forward on the fuel side, and we're really well
+positioned to be able to benefit from a lot of that beyond just what we already have.
+Sherif Elmaghrabi
+And sticking with those, I guess, second and later plants, when we talk about the timeline for subsequent COLA, I think in the past, you've said 6 to 18
+months, would that apply to reactors in dif ferent sizes, let's say , a customer wants to do a 75-megawatt design? Or is the timeline the same as the first
+custom COLA  that we're doing about to do?
+Jacob Dewitte
+Yes.
+So there'll be for the same general plant. What we see is the timing is going to depend a little bit. But I mean, I think it will be a staggered parallel fashion
+with the INL  plant.
+So the Idaho plant is a full commercial plant, right? W e're building it on a national lab site because there's a lot of benefits of doing it, but it's a full
+commercial plant. And then there'll be all these things that happen after that with respect to follow-on plants and follow-on sites that we're excited about
+how those are progressing and developing. That said, like I think the timing of those is sort of -- we see a couple of major sites that we've obviously talked
+about, and we see the dif ferent customers that we've announced and there's -- it's a very dynamic market in that sense.Â  Â  So what we expect is that
+there'll be some COLA  activity that we anticipate submitting additional applications in parallel to all the first ones under review that we'll see some
+acceleration benefits, but then the real benefits will really happen on the acceleration of the COLAs after that. W e're doing a lot of like kind of cutting-edge,
+leading-edge work with the NRC on doing some of the subsequent licensing at high volume kind of high rates of deployment. They've been developing
+activity -- I'm sorry , capabilities and planned lines of sort of action around how they're going to review those things going forward so that we're going to be
+one of the initial movers and one of the early kind of beneficiaries of those approaches, which is pretty exciting for what that looks like. But kind of that's
+how we see these things kind of playing out from there. But I think it's entirely likely that by sort of a year from now , we have additional COLAs under
+review on top of the INL  one.
+Operator
+Your next question comes from the line of V ikram Bagri of Citi.
+Vikram Bagri
+It's Ted on for V ic.Â I wanted to ask about the funding needs for the business, just given the larger reactor size that was mentioned last quarter , the growth
+needed for Atomic Alchemy , potential costs from tarif fs and then also potentially higher HALEU prices than the initial plan.
+Just wondering whether given all those factors, additional capital will be needed? And if so, when we could expect roughly that might be raised?
+Jacob Dewitte
+I'll just start really quickly .
+I think, again, an important point is on the fuel, right? W e have the fuel allocated and awarded to us.
+So that helps a lot with the first plant. And then as we've looked at things, I'll turn it over to Craig here, but I think that's a big help with respect to how you
+sort of manage some of the HALEU pricing. But with that, I'll turn it over to Craig for kind of the dynamics on that.
+Richard Bealmear
+Yes. And just to reemphasize the point, the balance sheet has got adequate capital on it for the deployment of I&L.
+Now it was almost 2 years ago since we announced the de-SP AC and a year since we closed. And since that time, HALEU prices have gone up, as you
+mentioned, Ted, we've also dramatically grown the order book, and we've now got customers wanting a much higher size powerhouse of fering that is
+more capital ef ficient, but it is going to cost more capital per unit.Â  Â  And then we're 2 years on from the deaseP AC, which means we're 2 years on
+towards things to bring recycling forward.
+So we'll want to be positioned such that capital does not become a constraint as we look to progress those growth plans, and we'll make sure that if there
+is a need to raise capital, we'll do that when the time and circumstances are right so that we can do it in a strategic manner , not a reactive manner .
+Vikram Bagri
+And I had just one follow-up.
+On theÂ VIPRÂ facility that was mentioned, could you just elaborate on what the NRC process looks like for that? So it looks like there'll be a construction
+permit submitted this year . How does that process dif fer from the process for the Aurora powerhouse, and then also just in terms of intensity required with
+the NRC? And are there any additional costs for that over and above what's provided in the guidance?
+Jacob Dewitte
+Yes.
+I think -- I mean, the licensing process and progress is really centered around the Part 50 license application, which is a bit dif ferent. This is a non -- it
+sounds funny . This is a nonelectric power producing reactor .
+So it benefits from a dif ferent regulatory approach that looks a lot more similar to what university and research reactors look like.
+So good news there is there are some benefits that happen from that from an ef ficiency side, but it is inherently built to a 2-step process where you get a
+construction license and then an operating license.Â  Â  However , given kind of the nature of the review of those systems and that we expect that the
+construction permit review will happen first, you'll build significant amount of the plant and you'll apply for the operating license thereafter . This is similar to
+the process taken by Kairos, which received their construction permit and then a couple of other active groups that are doing work in the space on that.
+So that's what the application like review process looks like.Â  Â  Again, that's quite dif ferent than the Part 52, which is for power reactors, so electric
+power producing reactors and doesn't have the repeatability functionality built into it because typically , these kind of test reactors or these non-power
+producing reactors are built around kind of that -- not needing that repeatability .
+So what's kind of neat about it from theÂ OkloÂ side is we're going to have a lot of experience and expertise around both those processes, and there's
+some ef ficiencies that we're looking at seeing as as possible benefits to inform sort of future activities around either continued sort of regulatory
+modernization ef forts as well as potential legislative ef forts around applying some of the best practices between the twoÂ to each other .Â  Â  And we'll
+obviously be kind of at the center of that experience, which is kind of neat actually , but that's how we see those things going. Generally speaking, there's
+it's considerable -- it's considered to be a simpler , more straightforward process to get a non-power license, right, than a power reactor license, just given
+the relevant hazards around a low-power reactor operating in that kind of environment.
+So typically speaking, the regulatory process kind of reflects that.
+Operator
+Your next question comes from the line of Eric Stine of Craig-Hallum.
+Eric Stine
+So just curious, I know you've done the readiness assessment.
+You've had quite a bit of interaction with the NRC, but also know the NRC is known for that being a pretty onerous process on the licensing side.
+So as you get closer to submitting the COLA, I mean, is your confidence higher? Or what has maybe changed in your view , if at all, as to your prospects to
+move, as you said, to a commercial facility and not having to go through kind of the typical demonstration plant that might have to operate for 3, 4, 5
+years?
+Jacob Dewitte
+Yes. I mean, I think, generally speaking, so just to be clear , this is a full commercial plant, right? Like this is a full commercial plant that will operate
+commercially , produce full power , do all of that. Obviously , it's a first plant.
+So there's some learnings you both design for and engineer around to be able to accommodate and be able to iterate through. But this is not kind of like,
+oh, build it, see how it works. No, no. W e're building up a technology that's done that already , right? There's been 2 notable examples on top of 20-plus
+reactors from before that around the world built around sodium fast reactor technology showing what works and what doesn't work.Â  Â  And the
+successes at EBR-II and FFTF are very significant sort of enablers for us to actually be able to take those technologies forward, apply those, right, take
+those lessons learned, apply them and basically replicate what was done in many ways because they were so successful.
+So that's really important, right? I think sometimes the facts and the realities of sort of the history around non-light water reactor technology development
+is often very underappreciated even in the nuclear industry . And a lot of that's just because a lot of that pioneering work happened between the '60s, '70s,
+'80s and '90s pre-digitization.Â  Â  Actually , I think there's a big part of the story to this, which is a lot of those lessons learned, a lot of the records, all the
+stuff were written in paper , but in books, and binders, put reports that were literally printed and filed on shelves, like literally . I used to say left on the
+shelves of history literally because they were. And that, as a result, meant that like accessing all of the wonderful nuggets of information that have been
+out there about these things, well, wasn't exactly easy to do unless maybe you're an academia and the research and development communities, which
+Caroline and I were.
+So we had the benefits of having a lot of the opportunity to see a lot of the amazing things about this technology set and how mature it really was,
+something that, again, is vastly underappreciated by and large.
+And so that's a fantastic spot to be.Â  Â  Now one of the things we leaned into very early in the company's history was even starting with our first
+regulatory interactions, including getting the Department of Energy to help with this and the National Labs to help with this, working with the NRC back in
+2016 was actually getting that old information, digitizing it, modernizing it, being able to use it in the regulatory space. And that we set a bunch of activity
+and work in 2016 that really is continuing through today that pay significant dividends, right? So that kind of dovetails into your question of, yes, I mean,
+generally speaking, as we've seen our engagement with the NRC, we've had 600-plus meetings with them. I mean we have a huge amount of interactions
+in history leading up to submitting an application and being in a position that we feel pretty happy about.
+So obviously , we're doing a readiness assessment to make sure that we understand where there might be gaps so that we can work to address those.Â 
+We've seen that had a lot of success with what TerraPower did.Â They also did a readiness assessment before they submitted their construction permit
+and the construction permit application. And they've seen that their review has been moving pretty well on pace.
+I think it's slightly ahead of schedule even.
+So that's fantastic.
+We expect there to be some similar benefits for us. Obviously , each case is a little bit dif ferent. But generally speaking, that's why we've been at this for so
+long.Â Of all the non-light water companies active today with the NRC, we've had the longest engagement, right, dating back to 2016. And that's a very
+important thing for us for having sort of that history and that maturity and that kind of credibility and capability accordingly with the regulator .Â  Â  I think the
+thing that's important is also how we take an approach isn't just about whether or not you get the license, but doing so ef ficiently and ef fectively . And I think
+that's that next level of depth and nuance that I think people are starting to fully understand the importance of, which is not just getting a license, that I
+would say is something that's quite doable. It's also doing it ef ficiently and ef fectively , so it's scalable. And that's where we spend a lot of time trying to
+optimize for that.Â  Back in 2019 -- or 2018, when we first piloted an application with the NRC, they said they could review something like that. They
+thought that, that made a lot of sense that we propose all these novel things.
+Something they then built a novel review plan based heavily on doing -- based on doing things, I mean, heavily in person in 2019. Obviously , when we
+submit an application for all this in-person review dynamics in 2020, that didn't work out, so great given that the pandemic blew a lot of that stuf f out. W e
+couldn't have those in-person meetings and dynamics.
+So we had to obviously change course and that became somewhat challenging. But since '22, when we started reengaging with them in person and pre-
+application on this, we've been able to kind of structure around addressing some of these open items and some of these items that we've tried to push the
+NRC to be forward leaning on. Â  And frankly , we found that there's been a lot of things that they've been pretty receptive to.Â Still a lot of work. It's not
+like, hey , this is going to be a walk in the park. It's still a lot of work. There's still a lot of existing inef ficiencies, frankly , in the regulatory process. But we
+couldn't ask for a better setup right now amidst the drive and demand on the AI side as well as a bipartisan level of support, coupled with a very -- an
+administration that's very focused on driving regulatory ef ficiency throughout the entire ecosystem.
+So all in all, it creates a pretty favorable dynamic, I think, for where we sit and how we're seeing this come together .Â  Â  So I guess I would say like the
+pre-application engagement is a way to -- that we've done continually more or less since -- well, 2016 and sort of re-upped in '22, if you will, into what
+we're doing now , like has been quite, I think, constructive to preparing both parties to be ready for an application.
+I think some of the feedback we've had from the NRC has largely been around, okay , we're we're really getting ready for you guys to have an application
+now. We've done all this work, but I think we're getting ready for it.
+So we see that.
+We expect to see how that plays out with the Phase I readiness, and then we'll kind of move that to the next steps of the review , hopefully , with those --
+some of those ef ficiencies gained. That doesn't take care of all the bumps and problems. There's still going to be things that come up, of course. But at the
+end of the day , it gives us a great shot on a lot of those angles.
+Eric Stine
+And then just for my follow-up, I mean, should we still think about timing of the actualÂ COLAÂ submission to be, I think in the past, you'd said kind of
+coincide with the ADVANCE Act in the October time frame?
+Jacob Dewitte
+Yes. That's how we're looking at it. I will say that with all the pending activity around like executive orders and all these other things, there's -- I would call it
+good uncertainty because it could motivate some reasons that things might move somewhat faster . But at the end of the day , like that's how we're seeing
+kind of the timing evolve here.
+So we expect to transition out of the readiness assessment with the feedback we get from that to be able to support us submitting for actual Phase I
+application in a few months after kind of the feedback from that. And then that would position us to then do the readiness on the Phase II part. And then
+also with the feedback from that position us to be able to submit that sort of in the Q4 time frame is what we're expecting.Â And that would mean full
+applications in at that point.
+Operator
+Your next question comes from the line of Jef frey Campbell of Seaport Research Partners.
+Jeffrey Campbell
+Jake, on Slides 9 and 1 1, the fuel recycling and the feedstock preparing the submission for the licensing project plan for the Oklo Fuel foundry . I like that
+name. Can you add some color on how this licensing ef fort might be dif ferent than that for Aurora? What the primary hurdles might be and what the timing
+might be like?
+Jacob Dewitte
+Yes, it's a good question. W e've been engaged with the NRC on the pre-application activities to submit for large-scale fuel fabrication work that is outside,
+right? Just to kind of recap, we have fuel from INL  and the Department of Energy for fuel for our first plant. W e'll fabricate that fuel at the Idaho National
+Laboratory . We're building a pilot fabrication facility there. By that, I mean, we're installing the equipment in an existing building. But then as we grow and
+we look at sort of this backlog that we've been accumulating, we're working to set up a full-scale fuel fabrication facility on -- not full scale, but I call it large
+commercial scale to help us kind of start to meet that demand set.Â  That follows a dif ferent regulatory path than the typical like Part 50, Part 52 because
+it's just materials handling, it's not reactors.
+And so it depends a little bit on the specifics of the site and the infrastructure that we're taking advantage of -- but that's something where -- as we've been
+engaging with them, you can expect a full sort of application review to be done potentially in the 24- to 30-month time period, possibly as long as 36. It
+depends on how much infrastructure you need to install.Â  Â  Given the nature of kind of the regulatory environment today , there's some benefits that
+those time lines might be reduced. I do think there's a general view that this should definitely be done faster than reactors.
+So everything that moves those time lines is probably going to help with this.
+So that's kind of how we're seeing that progress. But we're going through evaluating dif ferent site opportunities accordingly for that. And as those things
+continue to progress, we'll have good updates for the market and for investors as those come together . But generally speaking, that's how we expect that
+to go to sort of unlock our ability to scale into the -- well, the very exciting numbers and customer bases we have.
+Jeffrey Campbell
+And the point about being faster than a reactor license certainly makes sense. And my follow-up is, is this essentially somewhat similar to the way you
+talked about your TA licenses and having multiple applications even as you're waiting for INL. Is this already an ef fort to create a blueprint for potential fuel
+foundries in a variety of locations? And in other words, already thinking about scalability in the fuel foundry in the same way that you're thinking about?
+Jacob Dewitte
+Yes, it's a great question. It's definitely something we think about here.
+We aren't baking in necessarily the same scalability , but the lessons learned to apply forward will be helpful. The reason I say that is because like we kind
+of expect this facility to be pretty large to meet a lot of our need sets for a while. And then beyond that, we kind of are looking at how this can be built and
+done in dif ferent places potentially as needed. But generally speaking, like this is all happening, which is like -- that's a really slow thing. This is all kind of
+progressing in a way to expect to build one, but understand that there might be like scalability for beyond that.Â  So it's kind of a weird nonanswer , Jeff,
+but we're saying, yes, there's ability to have scalability from it. But the infrastructure of the regulations themselves, the actual structure doesn't really allow
+for that same translatability for repeatability the way the reactors do because it's not anticipated you build many of these. But there's going to definitely be
+lessons learned and there's things we're trying to do to allow for that where it makes sense to do. But generally speaking, that's kind of a thing that we'll
+keep watching as we kind of think through and get into the actual licensing process here. But as we think about the opportunity space for the business, it
+does make sense to think about having multiple locations most likely , but kind of not do all those at once, obviously , but that's stuf f that kind of lags by --
+probably by 5- to 10-year increments as we think about the long scale growth and potential here.
+Richard Bealmear
+And Jake, I think the other thing is size of the facility and the scale economies you may get on one end, but logistics of having the dif ference between
+having one plant and one foundry in one location versus multiple locations and what it could do around logistics.
+Operator
+Your next question comes from the line of Sameer Joshi of H.C. W ainwright.
+Sameer Joshi
+First, congrats on all the progress. My question is about the borehole drilling campaign that you just announced this morning. Does this -- I think the press
+release says that it will inform your detailed engineering design. I'm assuming this engineering design pertains to the building and building stability as
+against the balance of plants like the steam generators and the power conversion system that may need any modifications. Will you confirm that?
+Jacob Dewitte
+Yes. The way I understood that was really if we expect to see what the data does or sort of the insights from the site characterization do to impact sort of
+the detailed design. Yes, I mean, generally speaking, it's really just to make sure that the site characteristics and where we're exactly going to be building,
+like we just engineer all the right like structural mechanical pieces in the right ways to support that, that are kind of bounded by how we take that sort of
+bounded kind of standardized approach as is. That's really how we kind of angle to incorporate that feedback. But it's important to have that information to
+support them also in the regulatory process, which is kind of why we do it, if that makes sense.
+Sameer Joshi
+Yes, yes. Understood. And then the second question I have is -- and maybe this has been discussed in the past, but just I want to make sure I understand.
+Now that you are in the Phase I or initiated the Phase 1 of the pre-application readiness assessment, has this phase also included the specific size of the
+reactor in terms of whether it is 50 megawatts or 75 megawatts? Or will this be needed to be included in Phase 2 or the next stage? Just wanted to
+understand that, mainly in the context of one of the previous questioners who asked if the subsequent Colas can be of dif ferent sizes.
+So just wanted to understand the Phase 1, Phase 2, and when you have to specify what the COLA  is for , whether it is for 75 or 50 megawatt.
+Jacob Dewitte
+Yes.
+So most every -- so pretty much everything we're really doing is at the 75-megawatt size range. If we're -- like that kind of is the generalized design. And
+then if we flex down from that, it's just because there's a customer need or a specific need to do so, which would then, generally speaking, bound against,
+largely speaking, the same analysis and everything else that we do to support the 75.
+So really , just think of it as kind of a consolidated single platform that we build of f of from the licensing side. Each site, then if it does change a little bit, --
+it's going to -- obviously , each site has to get its own license, but the benefits of sort of repeatability and scalability because of that approach should hold
+pretty heavily .Â  Â  Obviously , if we make significant departures by introducing major design changes, that changes some of that, but that's not exactly like
+in terms of the near-term deployment; that's not what we're intending or planning to do. And that's part of why we made that decision to kind of just
+centralize and focus around the size range. What that means then is if a customer wants it to be a 60-megawatt variant, then it's the same plant that we're
+building. W e're just basically , as we use the term, kind of underrating it and running it at a lower power level, and then maybe -- then have the ability to
+potentially increase that power level with more fuel going forward.
+So that's really how we're trying to approach that.Â  With the Idaho plant specifically , like that's the same approach we're taking.Â However , we have a fuel
+constraint, right? W e've been awarded fuel, and to sort of best use that fuel, we would be running that plant at less than 75 megawatts, but we're also
+pursuing options to perhaps get more fuel to run that up at a higher power level. That just depends a little bit on sort of how kind of some of these activities
+are going to play out with respect to the fuel supplies, especially given the fact that there's another 5 tons of that material that we requested that's
+available potentially .
+So like some of that material we could use to help us run all the way for a full cycle at the full power level. But that's kind of how we're approaching this
+right now . But yes, everything really centralizes around kind of that 75-megawatt level.
+Sameer Joshi
+May I squeeze in one more for the Oklo Fuel Foundry? Will this facility be also able to handle recycled fuel for the fabrication facility?
+Jacob Dewitte
+It's an interesting question.
+So, what we're talking about with the fuel foundry piece here is specific to fresh fuel fabrication.
+However , next to -- not next to physically , but in terms of -- in addition to that, we've been ongoing on the regulatory front for , I think, dating back to at this
+point, 2021 in pre-application preparing for the fuel recycling facility . That fuel recycling facility would also include -- so that would include the actual
+recycling as well as the fuel fabrication facility for recycled fuel. The fuel foundry we talked about here, that's really specific to Fresh fuel.Â  Â  The same
+techniques and approaches in terms of facility design and process design, generally speaking, will be used to handle recycled fuel. It's still metal, it's still
+casting-based, but it has to be done obviously , in a dif ferent environment, given the nature of the recycled material it's casting. In other words, the
+transurionic barium kind of feedstock that we're fabricating the fuel out of.
+So that's a really important thing here, right? The recycling means you don't need HALEU. It's not -- you're not using HALEU.Â You're instead using the
+transuranics and the uranium from recycling itself. And as a result, the material is more radioactive. It's also thermally hotter .
+So you need to fabricate that in a dif ferent way or in a dif ferent kind of set of constraints, but it sets a really good stage for how we can apply some of the
+technologies for it.
+So to answer your question, the activities going on in the regulatory side for recycling are dif ferent than the fuel foundry side. But of course, there's some
+relation.
+Operator
+Your last question comes from the line of Craig Shere of Tuohy Brothers.
+Craig Shere
+So let me jump on that same line of questioning.
+So what exactly is the CapEx delta between a commercial-scale fuel foundry versus recycling facility? And while the licensing for fuel may be quicker than
+for the plants, the Aurora powerhouses, how long are we talking about constructing a foundry or recycling facility or constructing?
+Jacob Dewitte
+Yes. It's a couple of things.
+So basically , you've got -- if you think about this, right, you have basically 2 major centers for fuel for Oklo plants going forward.
+You have one center , which is around fresh HALEU. W e procure that material and then we fabricate it in our fuel foundries to make fuel to go into our
+reactors. Then you also have the recycling side that comes in, and we'll start to be able to recycle fuel from existing plants that are producing power today ,
+as well as Oklo plants, as well as other advanced reactors actually . We can take all that material and recycle it, produce a new feedstock. W e can make
+fuel out of the actual recycling facility and then have that material go fuel some Oklo plants as well.Â  Â  So generally speaking, like we see those -- like
+the fuel, the foundry will most likely come into existence in terms of being operational before the recycling facility , just given the nature of kind of licensing
+and the technology development and everything else needed for that. And then from there, we kind of see that staged approach of you get the fuel foundry
+going, fabricating fuel for our plants, you get recycling that comes in later , produces fuel, all the benefits kind of play forward in those areas. But generally
+speaking, I mean -- and I'm not saying they're staggered on purpose. It's just kind of the nature of sort of how we think about the infrastructure build-out
+and the planning on that.Â  Â  So a lot of exciting stuf f coming. But generally speaking, it sets the foundation for like things that then allow us to kind of
+grow and scale.
+Now important things that come from this, too. Fuel fabrication is great, allows us to make fuel. It opens the door for us to look at potential partnerships
+with others to make fuel with or for others.
+Additionally , on recycling, similar kind of things.
+So good, nice opportunities to touch in and tie into dif ferent pieces there, which is pretty important.
+You have a licensed facility to actually fabricate fuel, of which currently in the United States, there's really -- like there's just not -- it's pretty significantly
+undersupplied for advanced reactors. There's just not that much out there.Â  Â  A big opportunity , obviously , for us to be able to have that facility and
+perhaps support some other activity that others are doing in addition to what we're doing.
+So some cool things all kind of come together on that. And one illusion just to point to between both, obviously , stuf f we did earlier in the year , but a couple
+of months ago, we obviously announced a partnership with Lightbridge, just kind of an example of how these things kind of can tie together now with the
+infrastructure and facility work we're doing.Â  Â  But generally speaking, kind of the focus we have is, okay , we know we're going to -- like those things
+support us for after what we have going on right now with Idaho with the pilot fuel fabrication facility we have there as well as with the first plant we're
+building there.
+So that's kind of how we think about sort of the staging in order of operations. Craig, I'm not sure if you want to add anything specific to the commentary
+around kind of the incremental CapEx, but that's kind of how we're thinking of the phasing and the structure of this.
+Richard Bealmear
+Well, I'd say , Jake, there will be incremental CapEx there. But really , we'll have more to say as we've kind of completed some of this appraised work on
+both the foundry and the recycling.
+And so we're -- I think it'd be too early at this point for us to talk about what that could look like.
+Craig Shere
+Could we just presume that the recycling takes more capital and longer to construct versus just the foundry?
+Jacob Dewitte
+The recycling facility?
+Craig Shere
+Yes.
+Jacob Dewitte
+Yes. I mean, generally speaking, because you're putting in fuel fabrication as well, yes, it's going to be -- it's going to take longer to build and take more
+capital, generally speaking, than the fuel foundry will, is how we think about it.
+Now the thing with the recycling, though, is you also open up all these massive opportunities for additional potential revenues, right, from additional
+radioisotopic co-product sales, additional uranium sales, additional actual through-bearing fuel feed sales.
+So a lot of things that kind of come from that, too.
+So it kind of diversifies that piece, which is something that we're particularly excited about, not to mention the massive savings it gives us compared to
+Fresh Fuel, which is pretty huge. But yes, we expect that to be something that takes longer and will cost more than the fresh fuel foundry .
+Craig Shere
+And my last one, you touched on this a bit in Sherif f's questioning. But it kind of feels like the foreshadowed new executive orders and Department of
+Defense involvement to grease the rails on U.S. nuclear could, by far , be the most meaningful on the fuel side, not government property and other things.
+Would you agree with that? And if so, what tangible prospective federal steps would you want to see on that front?
+Jacob Dewitte
+Yes. I'll give you a long-winded answer to this. But I think there's a huge amount of like, I'll call it, greenfield opportunity right now in terms of the policy
+landscape and in terms of the appetite to use, I'll call it, the national resources and assets we have as a country with respect to deployment between
+significant federal land like at the Department of Energy requesting information about how they might be able to support building data centers at existing
+DOE sites. That could also tie over , potentially , the benefits of them being able to actually be the regulator on some of those sites, potentially . I mean,
+some of this depends on a lot of moving parts, but that could provide a significant benefit -- accelerated benefit.Â  Â  At the very least, it provides an
+interesting competitive alternative dynamic to the NRC, which I think is good, right? Competitive dynamics like that are kind of good for everybody .
+So it's pretty cool. And just for us, one benefit we have, right, like we kind of -- we often have -- we haven't actually talked about this as much as maybe
+there's some interesting opportunities to do so. But the Department of Energy was going through the process of designing and building out, and therefore,
+included they're having to approve they're having to go through a regulatory process of their internal regulatory authority and authorization of a sodium-
+cooled fast reactor for neutron irradiation testing purposes. A lot of the work that they did in that process and for that project, for the safety evaluations and
+all those pieces, have significant carryover and benefit to us. And as a result, we've seen some of that actually place forward some benefits on the NRC
+side because I think, generally speaking, it's safe to say that regulators in general, like -- well, I think all of us, it's not just them.Â  Â  It's all nice when you
+can build of f of work that others have done as well, and you don't have to do it all kind of from scratch yourself.
+So if that's the case, then we're seeing there, there's some benefits.
+So if some of that activity and some of these potential ideas that we've heard kind of circle around, and we know there's been appetite in Capitol Hill from
+conversations and also on dif ferent NGOs and think tanks and activities around how to best leverage the regulatory authorities that the Department of
+Defense, the Department of Energy and the NRC have kind of in a cooperative but also maybe somewhat competitive dynamic, that's pretty favorable.
+If you think about what we're doing, too, at Idaho, we have a great head start on some of these activities, given we have a site use permit, we're deep in
+the process of deploying and developing there. If all of a sudden, there's an opportunity to perhaps bring in folks like hyperscale partners to there and
+maybe build more plants there and then have some benefits because we're doing that, whether it be the Department of Energy as a regulating body or
+some piece like that, like there's some significant benefits that can kind of come from all those pieces together .Â  Â  Another side of this, the work we're
+doing out that we announced some time ago, but part of our partnership with Centrus was looking at building 2 plants, right, to build 2 plants in Ohio to
+help support sort of what they're doing, and that has some carryover from Department of Energy Environment Management kind of legacy land that
+they've been turning over for development.
+So a lot of cool opportunities between the dif ferent things we've been doing on the DOE and DoD sites. Obviously , our selection and the DAU process as
+part of the API program is also helpful for unlocking some opportunities to provide power direct there given that AI and energy are considered pretty
+important things from a national security perspective.Â There's also opportunities to do stuf f at defense land that could be constructive here as well.Â  Â 
+So I'm kind of giving you this wraparound answer to say , right now , there's a lot of the art of the possible on the table that could be really , really attractive
+and pretty exciting in an accelerated manner . But we'll see. Like all the stuf f is actively evolving and it's going to be iterative and dynamic, I think, over the
+next couple of years, frankly , but especially over the next couple of months.
+So we're excited to see what might be there and what might happen with this, and we're trying to kind of thread the needle and push where things make
+the most sense to sort of accelerate getting plants built and scaling accordingly and bringing the right resources to the table, but that would be pretty
+constructive and helpful.Â  Â  And then I think another dynamic that ties to that,Â  I just talked a lot about siting and regulatory side, but the government
+also owns a lot of material that could be used as fuel. And ideally , there's some opportunities to sort of accelerate that and build of f of what they've already
+done with us, what they just did in the next round of those things for other companies building kind of small-scale test plants. W e're excited about hopefully
+these things kind of continuing to scale and ramp up for more opportunities there as well.
+Operator
+I'd now like to pass the call back over to SamÂ Doane for a question from Oklo's retail investors.
+Sam Doane
+Yes, we had one question come through. The question is, can you elaborate on the current stage of your discussions or agreements with data center
+operators or hyperscale customers and how these conversations are shapingÂ Oklo's deployment timeline and reactor siting strategy?
+Richard Bealmear
+Yes, Sam, I can take that one.
+So, as we said at our last call that we continue to have active discussions with all of our customers, especially those in the data center space.
+We are exchanging term sheets, and we're talking about commercial terms. And I think it's really about how do we optimize what we do commercially
+around kind of as I hold it, 3 factors. There's power purchase pricing itself, but there's also trying to structure deals with customers that could include some
+form of investment in Oklo, either kind of a prepayment like what Equinix did or potentially some sort of like asset level investment and also just trying to
+work with customers that can help us share and manage risk better .Â  Â  In addition to one of our new hires that Jake talked about earlier , Patrick, we've
+also had Mike Donahue join Oklo as the person leading our business development activities focused specifically on our data center solution customers.
+And I think -- and Mike has been with the company a couple of months, and I think he's kind of reinforced that think about this strategically and do it in a
+thoughtful manner , approach that we've been taking.Â  Â  Now , Jake did talk earlier about the ability for us to file and have more permits on file as the first
+permit for our Idaho site is being reviewed. One thing we do need to have in order to file a permit is to kind of know where we would be locating that site
+beyond Idaho.
+So that does kind of become an important step in terms of our contracting strategy linking into our permitting strategy . But we're making a lot of progress.
+And I think it's fair to say that our business development team is one of the busier teams in Oklo.
+Operator
+That concludes our Q&A  session. I'll now turn the conference back over to CEO, Jake Dewitte, for closing remarks.
+Jacob Dewitte
+Great. Thank you all, and thank you for the time, as always.
+I think it's only been about 7 weeks since the last call, a lot of dif ferent things kind of transpiring in the broader sort of macro environment since then. And
+what we see, though, is kind of a consistent steady drumbeat on the AI kind of theme around energy need and sort of on the hyperscalers coming to the
+table and seeing a massive set of opportunities for growth for compute, but massively constrained by power .Â  Â  At a congressional testimony just a few
+days ago, I guess, last week, our former Chairman, Sam Altman, made it pretty clear that energy is probably one of the best things, most important things
+the government can invest in, and I think, and just generally speaking, be invested into.
+And so pretty exciting opportunity space to see all of those come together and couple that with a broad policy backdrop and an administration that has a
+heavy focus on driving infrastructure development growth, investment and driving the regulatory process to be conducive to that also sets the stage for , I
+think, a lot of things to actually exceed expectations in some ways with the potential of ideas out there, but a lot of challenges, obviously , against that.Â  Â 
+However , we're in a dif ferent world today than I think nuclear has ever seen before. And coupling our sort of distinction with the business model we af ford,
+our approach and technology and kind of the integrated model we have -- we're starting to see some of the clarity of kind of the alignment of what those
+things unfold and enable as well as just, generally speaking, the ability to move technology development and deployment more quickly and significantly
+change the paradigm that has in some ways challenged nuclear , which had a lot of misaligned incentives and a lot of dif ferent parties and transactional
+dynamics that made nuclear really hard to scale and build. These things are all a dif ferent world today .Â  Â  You have some of the biggest companies in
+the world needing power in almost insatiable amounts, having deep pocket books and the ability to support paying prices needed to get early plans built
+with a clear like sort of angle on cost declination beyond that down the road and then be able to also couple that with best practices from other industries
+and supply chains to really kind of be able to deliver what nuclear long has in terms of its potential and promise.Â  Â  So we remain, I think, the mission
+here is one that transcends even just kind of the quarterly basis or the yearly basis, but something that we're working to unlock is the actual like
+capabilities af forded by splitting atoms, which when you think about heavy metal reserves that we have on the planet, coupled with fast reactors and
+recycling, you can talk about 1 billion-plus year energy reserves available to us with technologies that have quite a bit of maturity behind them.
+So we're excited to be working on that and leading the charge on a lot of those fronts, and looking forward to the next update here in a few months.
+Operator
+This concludes today's conference call.
+You may now disconnect.

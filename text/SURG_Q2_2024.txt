@@ -1,0 +1,295 @@
+SurgePays (SURG) / 13 Aug 24 / 2024 Q2 Earnings call transcript
+Company Profile
+ Transcript menu
+Kevin Cox executive
+Anthony Evers executive
+Anja Soderstrom analyst
+Curtis Shauger analyst
+Edward W oo analyst
+Operator
+Greetings. W elcome to SurgePays Second Quarter 2024 Earnings Conference Call. [Operator Instructions] Please note, this conference is being
+recorded. I will now turn the conference over to your host, Doug Lane, Investor Relations at SurgePays. Doug, you may begin.
+Unknown Executive
+Thank you, operator , and good afternoon, everyone. W elcome to the SurgePays Second Quarter 2024 Earnings W ebcast and Conference Call. Today's
+date is August 13, 2024, and on the call today from SurgePays are Brian Cox, President and Chief Executive Of ficer; and Tony Evers, Chief Financial
+Officer.
+Before we begin, I'd like to remind everyone that this call may contain forward-looking statements as they are defined under the Private Securities
+Litigation Reform Act of 1995. These statements are subject to certain risks and uncertainties that could cause actual results to dif fer materially from those
+expressed in the forward-looking statements.
+For a discussion of such risks and uncertainties, please see SurgePays most recent filings with the SEC. All forward-looking statements made today
+reflect our current expectations only , and we undertake no obligation to update any statement to reflect the events that occur after this call. Copies of
+today's press release are accessible on SurgePays Investor Relations website, ir .surgepays.com.
+In addition, SurgePays Form 10-Q for the quarter ended June 30, 2024, will also be available on SurgePays Investor Relations website. And now I'd like to
+turn the call over to President and Chief Executive Of ficer, Brian Cox.
+Kevin Cox
+Thanks, Doug. Thank you for joining today's call and your continued interest in SurgePays. I want to start by reiterating our unwavering commitment to
+providing financial technology and prepaid wireless services to the underbanked and underserved populations at the grassroots level where they live and
+shop. This commitment is at the core of our mission and guides all of our actions.
+Over the past few years, we have successfully acquired over 250,000 subscribers to our Mobile V irtual Network Operators or MVNO business, which at its
+peak accounted for over 90% of our consolidated sales. This was made possible by of fering plans subsidized by the federally funded Affordable
+Connectivity Program or ACP. We were aware that this program's funding could run out in the first half of this year , which it did.
+However , the uncertainty lay in whether Congress would authorize additional funding for the program, which, unfortunately , as of this date, did not happen.
+We want to ensure you we are fully informed about the challenges we face. But as I said on the last call, we could no longer wait around to find out. W e
+had contingencies and had already begun implementing non-subsidized MVNO business, LinkUp Mobile, which was launched in early June. W e aim to
+offer our subscribers the option to remain on a free monthly plan subsidized by a sister subsidy program or transition them over to LinkUp Mobile, which
+we price to be attractive to our target customer .
+We also hired Joe Gomez, a senior telecommunications industry executive for the newly created position of V ice President of MVNO Operations. Joe
+spent over 18-years at AT&T and brings a wealth of experience to the team. He is charged with helping to develop innovative products and services for the
+value market segment where we believe our competitive position is enhanced in a non-subsidized market environment. Stay tuned for further
+developments to come in our ongoing ef forts to build out our prepaid wireless MVNO business. In the meantime, we are going through a transition phase
+in the business. It would have been an easy though shortsighted decision to let our subscribers go once the ACP funding ran out. That's losing sight of the
+fact that we now have an existing subscriber base of 250,000 customers, not to mention a distribution network of thousands of local convenience stores
+and bodegas where our customers shop every day . Those are huge and valuable assets. Therefore, to hold on to these valuable assets during this
+transition period, we chose to keep our subscribers active, absorb the wholesale costs and put our strong balance sheet to work to replace the cash flow
+we lost once ACP funding ran out. But rest assured, this is only temporary . We do not like talking about cash burn rates around here, and we plan to put
+that in the rearview mirror by the time we closed the year in December .
+So in looking at the second quarter 2024 results, our sales were $15.1 million compared to $35.9 million in the year ago quarter , which were about as
+expected with the ACP program winding down mid-quarter and Congress declining to provide it with new funding at least as of yet.
+Our MVNO revenues were $12.5 million versus $30.2 million in the same quarter of last year when ACP was fully funded throughout the quarter . Also
+impacting sales were the operational changes made by management in Surge Logic's lead generation services, which had $2.8 million in sales a year ago
+quarter , but did not contribute sales this quarter . What was not expected in our planning coming into 2024 was that the second quarter gross profit would
+Print
+be a loss of $3.4 million versus a $10 million profit the year ago quarter . This was due to the double whammy of Congress letting the original ACP funding
+run out and not immediately renewing the program, coupled with our decision to have our balance sheet take on the funding to maintain continuity within
+our subscriber base.
+So why would we continue to provide wireless services and absorb the costs? For 3 main reasons. Number one, Congress could renew the ACP program
+at any time. And if we terminated service, we would have to go out and reacquire customers from a standing start, which would cost tens of millions of
+dollars. Number two, if Congress delayed or didn't fund the program, we had as a backup plan B to acquire a company with licenses to provide a similar
+subsidy program to our customer base and recapture a lower but viable and sustainable reoccurring revenue stream. This is in conjunction with
+incentivizing customers to switch over to LinkUp Mobile, our non-subsidized prepaid wireless brand. Number three, we know how critical a role broadband
+service plays in everybody's life, and we believe it was simply the right thing to do.
+As we evolve, we want to become and more increasingly important provider of goods and services to our convenience store and bodega partners.
+While prepaid wireless and fintech are the main products we now provide, we look to expand our of ferings to these points of distribution in the community
+since we know that our customer base of underbanked and underserved consumers conduct most of their financial transactions at their trusted local
+convenience store. W e recognize that the delay in ACP funding has adversely impacted our business and stock price. Therefore, we feel it's an
+opportunistic time to announce a corporate stock buyback, so our long-term investors know our interests are aligned.
+We have announced a buyback of up to $5 million of SurgePays common stock in the open market over the next 6 months.
+We are in a transition phase and are looking to get back to generating positive free cash flow by the end of this year through the following initiatives:
+number one, continue to grow our ACP revenue stream should Congress continue to fund it; number two, of fer our subscriber base, a sister subsidy
+program while enticing customers with a cost-saving LinkUp prepaid wireless plan. Number three, scaling up our third-party wholesale transactions for
+other prepaid wireless company payments at convenience stores. This initiative has been necessary because it's a relationship gateway product for
+LinkUp activations and subscriber growth at the convenience store. Number four , expand our of ferings outside of wireless.
+For instance, we recently launched our ClearLine customer engagement platform for convenience stores at last month's RetailNOW Conference in Las
+Vegas. Number five, expand product and service of ferings to the same nationwide network of convenience stores we are building by exploring and
+executing prospective partnering or product distribution opportunities. Number six, identify unique market opportunities that represent potential positive
+short-term cash flow .
+As I said at the outset, we knew that the ACP funding could run out and we were not waiting around for Congress to provide additional funding. Many
+initiatives are underway to expand SurgePays footprint among the underbanked and underserved who remain our key customers. Stay tuned for more
+news on this front as we move into the back half of 2024. I'll turn the call over to Tony to review our financial results before summarizing today's call. Tony?
+Anthony Evers
+Thank you, Brian, and good afternoon, everyone. I will begin my overview of the second quarter's financial results.
+For the second quarter , we reported revenues of $15.1 million compared to $35.9 million in 2023, representing a decrease of 58%. The decrease was
+primarily due to the lack of additional federal funding for the ACP. April was the last month that ACP households received the full ACP benefit as they had
+in prior months.
+Some ACP households received a partial benefit in May and ef fective June 1, households were no longer receiving an ACP benefit.
+Additionally , similar to the first quarter , we received no revenues from our lead generation services consisting of LogicsIQ and Q2 of 2024 versus the $2.8
+million received in Q2 of 2023. This was a result of operational changes by management. Gross profit swung to a $3.4 million loss in the second quarter
+from a $10 million profit in the year ago period due to our strategic decision to utilize our strong balance sheet to protect our ACP subscriber base and
+distribution network while we transition over to a non-subsidized MVNO business model.
+Additionally , the deemphasis of our lead generation business resulted in a lower gross profits in that segment as well. SG&A  expenses increased by 101%
+year-over-year . Increase was primarily due to additional non-cash stock compensation for management. The stock compensation relates to employment
+agreements signed in late 2023.
+We also had additional expenses for contractor and consulting fees. The company engaged several contractors to overhaul the financial platform to allow
+for the conversion to a tablet-based transaction at the store level from the outdated V erifone terminal. The company also engaged with consultants to
+provide advisory services, specifically in the area of investment relations to identify opportunities to increase our shareholder value. Loss from operations
+was $10.9 million during the second quarter compared to a $6.2 million profit in a year ago period.
+Our reported net loss and loss per share were $12.9 million loss and $0.66 per share loss.
+Our loss, and loss per share were adversely impacted primarily by the ending of the federally funded ACP for our customers during the quarter .
+Turning to the balance sheet, liquidity and cash flow .
+Our cash balance as of June 30, 2024, was $38.4 million compared to $42.9 million at the end of the first quarter .
+Our cash from operations was $4.1 million in use in the second quarter versus a $4.0 million source in the first quarter , a large negative swing due to the
+winding down of the federal ACP funding to our customers during the quarter , which we picked up and funded with our cash on hand. Accounts receivable
+decreased by $6.9 million in the second quarter to a $1.4 million from $8.3 million at the end of the first quarter . The ACP stopped accepting new
+subscribers in February of 2024, resulting in much lower receivables from the U.S. government.
+Given our cash balance and capital structure, our cash allocation priority is in financing the transition from a federally subsidized [ NPO model ] to one fully
+funded by our customers. I will now pass the call back to Brian for some closing remarks.
+Kevin Cox
+Thanks, Tony. I believe the 4 key components to a company's success are the team, the products, the distribution and the funding. I believe we have
+assembled the best and most experienced team in the history of prepaid wireless products. W e currently have the most compelling of fering in our market.
+We own our own distribution and have $38 million cash in the bank as of June 30, 2024, to execute our transition. I believe SurgePays has the foundation
+for long-term success despite the short-term disruption caused by the ACP funding situation. Thank you so much for your time today .
+We will now open up the call to questions. Operator?
+Operator
+[Operator Instructions] The first question today is coming from Anja Soderstrom from Sidoti.
+Anja Soderstrom
+First, of course, the ACP. What are you -- how optimistic are you that that's going to be refunded? And do you have any sort of idea of any timeline there?
+Kevin Cox
+Anja, thanks for the question. I'd tell you, it's been a week-to-week feedback scenario for us.
+I think our optimism wanes as time goes on, I mean, just being blunt. W e had internally set a date of August 1 to take action and assume internally , if ACP
+comes back? Great. If it doesn't, it's beyond that, let's just call it, the threshold that we had set for ourselves to take and move to transition to Plan B.
+We are still told that there are actions taking place in the halls of Congress.
+We are still told that most people -- even the folks who were negative about the program now are very positive about it, especially since J.D. V ance on the
+Republican side as the V ice President pick, and he was a huge advocate of the program. But at the same time, we can't sit on our hands anymore as we
+talked about earlier , had to take action.
+So we're positioning the company after a lot of talk and a lot of back and forth. W e want to transition these customers or of fer them the ability to remain on
+a free service and then have that subsidized by the Lifeline program. But for those that want to keep a, let's call it, a heavier broadband bandwidth, more
+gigabytes per month more accustomed to a regular wireless plan that would have a much larger -- let's call it, more like a regular plan, $30 or $40 or $50
+plan. In the prepaid world of fer those folks a discounted LinkUp mobile plan that they could transition to.
+So if they needed the help, they could stay on the Lifeline, the free service, if they wanted to have something more similar to ACP in that service, then they
+could start paying for it.
+Anja Soderstrom
+And do you have any sort of initial read on who's going to opt for the Lifeline program, who's going to up for the LinkUp Mobile?
+Kevin Cox
+My instincts would tell me that the majority of folks want something is free, they're going to maintain and stick with the free program. And then it would be
+over the course of, let's say , 3 to 4 months, the transition would take place to bump to a paid plan. I don't think people out of the gate would opt for a paid
+plan until they've experienced the free plan first.
+Anja Soderstrom
+Okay . And -- and then in terms of the ClearLine customer engagement platform, what are you seeing initial reads there?
+Kevin Cox
+I've spent a lot of time with our folks on the ClearLine side of things. I'm really happy we acquired ClearLine.
+Just a quick history lesson for those that are not familiar with ClearLine. The reason we acquired ClearLine was they had a really good technology that
+allowed us to do the ACP enrollments at convenience stores. They enabled us, as Tony had mentioned, to transition away from refurbished V erifone
+terminals, which are the little credit card terminals with the keypad push buttons. They allowed us to transition over to touchscreens, which enable people
+to use their finger to sign things and it is obviously a much more technologically advanced interface at the store. Also provides for a lot of cool things in the
+future, such as scanning QR codes and doing transactions, which is one of our business model -- or excuse me, business plan goals in the future is to be
+able to be that go-to for digital transactions at the convenience store front or bank folks.
+So ClearLine was a really good acquisition for us, but what was -- it helped us accomplish a goal that we had and an immediate need. It addressed the
+problem for us. But the really great thing about that is with that solution, also came all of the projects that they were currently working on and were just a
+tad bit underfunded. They had a great team. They were almost there on quite a few projects, and we incentivized the guys to come over . We converted
+that entrepreneur into an entrepreneur , empowered him to go focus on doing what he was great at and not have to worry about all the operational
+distractions of running a business. And Nate, the gentleman who runs up for us has rolled out some really good products. And just at a high level, the goal
+of ClearLine is to create customer engagement at the store level. And they've got quite a few products, and I don't want to take up too much time because
+it's a little bit -- it can get of f into the weeds. But for example, having a scenario where you walk into a convenience store -- and by the way , over the next
+year or 2, you're going to start seeing this at your larger chains and all the way down to the mom-and-pops, where instead of posters on the wall, you're
+going to see big screen TVs mounted, and there's going to be more dynamic advertising in these stores. And it's going to be engaging. It's not going to be
+just slides of pictures. It's going to be QR codes. It's going to be things that can be tracked and redeemed right there at the register . ClearLine manages
+that entire process.
+As a matter of fact, we're rolling that out now into several chains. I don't want to call it a beta test because we know it works. But as our initial engagement
+of putting it out in the market, very high-margin products for us. And what's really cool about it is it's the same target market, the convenience store, and it
+can be another relationship builder .
+So that same ClearLine TV, if you will, over in the corner that's rolling 8 to 10 dif ferent ads with buy 1, get 1 free or what have you. And it's got the QR
+code, customers can hold their smartphone up, scan walk right up to the register and literally tap their phone and then redeem that coupon in real time,
+that data will be sent in a really cool back of fice format to the store owner or the chain owners, and they'll know the impact of their in-store marketing, their
+hyper local marketing. And that same system will also enable them to do our prepaid transactions, our third-party prepaid top-ups for any wireless
+company out there. That same system will also allow them to do activations for LinkUp Mobile. That is a customer now . That is a point of distribution for us
+and all of our other products at the convenience stores.
+So that's what's really -- the ClearLine deal, again, it addressed a problem that we had with a solution, but it came with it with a plethora of fantastic
+opportunities. But I'm not even sure we fully realized last year when we bought it. But now we've been able to capitalize on those.
+Anja Soderstrom
+Okay . And then after you talked about getting back to free cash flow positive this year . How -- do you vision you doing that without the ACP being
+refunded? Or how dependent are you on that, for coming back for you to be free cash flow positive?
+Kevin Cox
+Yes. No, I appreciate that question. The -- our goal of being cash flow positive by the end of the year is assuming ACP has gone. I'm not going to do any
+modeling or projections or any -- even on my own spreadsheets, old school pro forma, I'm not going to factor in any ACP. I'm going to assume that's
+behind us. The cash flow positive by the end of the year would be taking into account transitioning those customers who want to remain on a free product
+over to a Lifeline product, that would be the third-party wireless transactions we talked about that really a gateway product to the store. It's the lead
+product to -- where a convenience store owner could take payments for every prepaid wireless company out there using our platform. That is ramping up
+significantly right now . The ClearLine product picking in for us and then by the end of the year , LinkUp Mobile getting its -- getting traction and starting to
+contribute as well.
+Operator
+The next question is coming from Curtis Shauger from W ater Tower Research.
+Curtis Shauger
+Can you hear me?
+Kevin Cox
+Yes.
+Curtis Shauger
+I think what immediately comes to mind for me is, are there any opportunities with the carriers to help mitigate the cost that you're experiencing to keep
+the ACP customers alive?
+Kevin Cox
+That's a good question. And I appreciate that question because you've given me an angle to discuss some of what Tony and I and our management team
+has been scratching our head about. The initial discounts, and let's call it maybe the cost of goods sold alleviation that the carriers were discussing, it was
+a lot more aggressive for a period of time back, let's say , when this first came up on the horizon in April, but they pulled a lot of it back due to their absolute
+certainty that ACP was going to be funded.
+So it was really -- I mean, we were in a whirlwind. Every day , it was something dif ferent. It was a soap opera.
+And so that's one reason why finally , we had to put our foot down and say , "Hey , this is the path we're going to chart." If ACP comes back, great, if it
+doesn't, it's been a great run. The carriers right now , where I believe the alleviation is going to be is, obviously , they do not want to lose subscribers.
+Just looking out at the market, you can see some of the other guys out there who have lost significant subscribers. The backbones of T-Mobile and AT&T,
+they don't want to lose subscribers.
+So I think where we're going to see the -- I would never call it a partnership necessarily , but the assistance to collectively keep these subscribers on is
+going to be in of fering some discounted rates to provide these folks lifeline service, which, again, that's the subsidy program has been around since
+Ronald Reagan. And it's not quite as much as ACP, but it is viable. The challenge with Lifeline was that pricing to provide the service, the wholesale side of
+it never was really there to give consumers a viable product. It was almost just an emergency phone or let's just call it like the glove box phone. But now
+where I think carriers are -- from what I've seen, and we'll find out in the next week or 2. But what we're told is they're going to step up and of fer us
+something that would be considered a regular plan for a basic phone user talk, text, data, that would be something that could be provided on the Lifeline
+program.
+So that's where I think they're going to step up. And look, they have given us discounts the last couple of months.
+So if they had not, it probably would have moved the needle faster for us. But those were all things that we factored in, and they have stepped up a little
+bit. I wish they would have shouldered it more. But again, they were under the complete impression that this was going to be funded. Their folks told them,
+our folks told us, everybody across the board, both sides of the aisle, everybody thought it would have been funded.
+I think everybody is still a little bit caught of f guard, it wasn't. But we're here now . And that's why we've taken that day of August 1 to start to pass to Plan B,
+get back on -- get back cash flow positive and then go from there.
+Operator
+The next question will be from Andrew Scott from 395 Group.
+Unknown Analyst
+I know you guys are in a truly challenging period right now . And a lot of the questions that I had were just answered regarding what's your fastest way back
+to cash flow positivity and breakeven. It sounds like you guys outlined it on the call, it looks like you have more than enough cash to get there. And I've
+heard you talk about Lifeline a lot. W ould you consider -- would you look at any other accretive acquisitions with synergistic business models, whether it be
+any other kind of payment processing? I'm still on ideas out there. But -- have you guys thought about other acquisitions in addition to Lifeline?
+Kevin Cox
+Yes. Thank you for the question, Andrew . And yes, we're constantly in a mode of evaluating.
+Let's call it sorting and sifting like [ painting ] for gold through acquisitions. And I think right now , and let's just kind of zoom out of the ACP and what we're
+dealing with and say the macro environment is unique for a company with cash in the bank. W e don't want to buy a company just to buy a company or just
+to go buy revenue. But I think one of the mantras I've had is I'd rather have a little less in the bank and have that cash flow stacking upward than have a
+little more in the bank and have that cash flow depleting because you're either growing or you're dying.
+So that's just an old school mentality that coming from the entrepreneurial world where we had to survive or you went out of business. And yes, it's a tough
+environment, but it's a transition. And look, the opportunities for people who keep their heads up during transitions or during tough environments.
+I think the team that we have, we've made our biggest gains when times were the toughest.
+So we see this as opportunity . There's opportunities for millions of customers who are going to be looking for an alternate way to communicate for their
+wireless services. There's opportunities out there with immigration and the Hispanic, say , the bilingual prepaid wireless companies. There's not a whole lot
+of them out there right now . There's a lot of opportunities out there. And one of the benefits that I get to enjoy is that our team is built of primarily at the
+high-level former entrepreneurs who all built from scratch, from nothing, just crawling across glass, elbows and knees and elbows to survive.
+So we've all been through things that are far worse than this. W e've been through things similar to this but no money in the bank.
+So we're survivors, very intelligent folks with huge networks. And then we've added folks from the larger carriers, as we talked about with Joe Gomez,
+Jeremy Gies, people who bring the corporate aspect of the wireless world together as well.
+So we're -- obviously , if ACP has stayed around, I'm not going to sit here and say that we're just -- we're fine whatever . It will be the same a year from now
+where we look and we look back and like -- ACP, by the nature of it being a gold rush land rush for a timeframe, made us a one product company . And that
+was never the intention of why we built this. That was -- that's not necessarily our mission, but it was a fantastic opportunity . If it's not funded again. I mean
+we've been over and picked up a $200 million bill. W e strengthened the balance sheet. W e're able to strengthen our team, we're able to make some
+acquisitions.
+So either way , the way we look at it. Yes, of course. And look, kind of summarizing the last part of your question, W e're always open to acquisitions that
+would grow the company because we're not just an ACP company . We're not just a wireless company and we have goals of distributing into these
+convenience stores. And I think if you zero in, one of the things that the ACP depletion has made us do, and sometimes it's not a bad thing.
+Just go back, sharpen your pencil and remember who you are, why you put this together and what your goals were. And our goal is -- we've been more
+focused on our goals for the last 2 months.
+So it's actually -- again, ACP was still around, but this has not been a bad exercise, big picture as we are looking forward 3 to 5 years for us to really focus
+in on who we want to be, who -- and how are we going to get there?
+Unknown Analyst
+Got it. Guys, nice touch on the corporate buyback. That was a really good idea.
+Operator
+And the next question will be from Ed W oo from Ascendiant Capital.
+Edward W oo
+My question is you guys have a direct relationship with the underserved market through the convenience stores. What are you hearing in terms of the
+economic outlook? And has it really changed? And how has that impacted your business? And obviously , with the underserved customers.
+Kevin Cox
+Ed, thanks for the question.
+I think that the feedback maybe a way to position that is one of the things we've been cultivating is specific feedback as it relates to the wireless world. And
+consumers are looking for something that's more engaging.
+As far as the economy , it is what it is. And we've always talked about the underbanked segment of society really is not necessarily af fected by the Dow
+Jones or the GDP  of the country , they kind of maintains it is what it is in good times and bad times that underbanked, underserved market stays pretty
+similar . But there's been a stagnant of fering platform to these consumers for the past 3 or 4 or 5 years. And if you look at the prepaid brands out there,
+there's been a lot of consolidation where the larger carriers, previously Sprint, T-Mobile, V erizon and AT&T, acquired quite a few of the larger companies.
+And then obviously , we know that Sprint and T-Mobile merged or Sprint was acquired.
+So we think there's a huge opportunity out there for value-added prepaid wireless, not just who can of fer the cheapest talk, text and data. No. That's
+something we can -- due to our ef ficiencies, we can compete in that environment. But then when the next that comes along and of fers the same plan for a
+couple of bucks less, I mean, now you're in that down -- I always call it the downward bidding game.
+I think that what we've put together and when you start adding some of the unique components that we can pull from our subsidiaries.
+For example, one of the folks that are integrated with ClearLine is a coupon redemption company , that the intent of that company is to work for
+convenience stores and the register . And -- but what we can utilize that for is of fering coupons texted sent to our customers, LinkUp Mobile when they pay
+their bill. There's a lot of really unique ways that we can dif ferentiate from the other guys out there without just trying to be the cheapest.
+So that's some of the feedback that we're getting right now . We're also hearing that with the -- obviously , we all know we're the melting pot here in the
+United States. The feedback that we've gotten from a lot of the master agents, we're probably up to 15-plus right now that we're integrating with is that the
+international of fering if we can strengthen that, which we are right now , there's a pretty significant opportunity out there. There's of the masters that we're
+either integrating with through API or have just finished integrating with, there's known monthly activations of between 120,000 and 150,000 activations a
+month. W e didn't want to go in, Ed, and just try to carve out a little of that. W e wanted to be able to take it all. And one of the feedback -- there's 2 things
+that we got.
+One of them was you -- we need to strengthen our international of fering because there are still people that don't use WhatsApp and Telegram and some of
+these other apps. To call long distance, people still want to just dial direct.
+So we're working on that right now . We look to have that of fering together in the next 30, 60 days.
+The other one was porting numbers over . Historically , the telephone number for that prepaid customer was not really that important -- that goes back over
+a decade.
+Here recently , now that everything is connected to your number , your -- what is the -- where you get text messages to authorize forgotten passwords and
+all the other -- the mechanisms that are attached to your phone number , it is important.
+So the ability to port numbers, that's something else that we are integrating a little more heavily on right now so that we can go get all those subscribers.
+So feedback directly from our , let's call it, our stores, more directly from the master agent to get the feedback from stores. Those are the 2 big focuses
+right now for us to be able to achieve. Like I said, these goals we've talked about by the end of the year , because when we look down -- and I mean, look -
+- look, I've never been somebody who just wants a piece, I want the whole thing.
+So if I can see 150,000 activations a month, and we need to take these 2 or 3 steps to knock something out so that we can take it. That's what we're doing
+right now . And we're -- it's not just hearing the feedback, Ed. It's executing a strategy to maximize that feedback and use it to our advantage. And hey , this
+is all happening right now .
+As a matter of fact, we have a -- in 2 weeks, we have the largest prepaid convention of the year . and we will be rolling out all of these products. And I'm
+booked, sun up and down with meetings personally along with the sales team. And we've got about, I think, 10 to 12 of our team members, so we're
+coming in strong, and we're not coming into being also run. W e're coming in to be one of the top guys.
+So stay tuned. I appreciate the question as always, and look forward to hearing from you again.
+Operator
+This is the end of our Q&A  session today . And that does conclude today's conference, and you may disconnect your lines at this time. Thank you for your
+participation.

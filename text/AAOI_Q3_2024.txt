@@ -1,0 +1,303 @@
+Applied Optoelectronics (AAOI) / 7 Nov 24 / 2024 Q3 Earnings call transcript
+Company Profile
+ Transcript menu
+Chih-Hsiang Lin executive
+Stefan Murry executive
+Michael Genovese analyst
+Timothy Savageaux analyst
+Jeffrey Koche analyst
+Operator
+Good day , and welcome to the Applied Optoelectronics Third Quarter 2024 Financial Results Conference Call. [Operator Instructions] Please note this
+event is being recorded. I would now like to turn the conference over to [ Cassidy Patterson ], Investor Relations for AOI. Mrs. Patterson, you may begin.
+Unknown Executive
+Thank you. I'm Cassidy Patterson, Investor Relations for Applied Optoelectronics. I'm pleased to welcome you to AOI's Third Quarter 2024 Financial
+Results Conference Call. After the market closed today , AOI issued a press release announcing its third quarter 2024 financial results and provided its
+outlook for the fourth quarter of 2024. The release is also available on the company's website at ao-inc.com. This call is being recorded and webcast live.
+A link to the recording can be found on the Investor Relations section of the AOI website and will be archived for 1 year .
+Joining us on today's call is Dr . Thompson Lin, AOI's Founder , Chairman and CEO; and Dr . Stefan Murry , AOI's Chief Financial Of ficer and Chief Strategy
+Officer. Thompson will give an overview of AOI's Q2 results, and Stefan will provide financial details and the outlook for the fourth quarter of 2024.
+A question-and-answer session will follow our prepared remarks.
+Before we begin, I'd like to remind you to review AOI's safe harbor statement. On today's call, management will make forward-looking statements. These
+forward-looking statements involve risks and uncertainties as well as assumptions and current expectations, which could cause the company's actual
+results, levels of activity , performance or achievement of the company or its industry to dif fer materially from those expressed or implied in such forward-
+looking statements.
+In some cases, you can identify forward-looking statements by terminology such as believes, forecasts, anticipates, estimates, suggest, intends, predicts,
+expects, plans, may , should, could, would, will, potentially or thinks or by the negative of those terms or similar expressions that convey uncertainty of
+future events or outcomes. The company has based these forward-looking statements on its current expectations, assumptions, estimates and
+projections.
+While the company believes these expectations, assumptions, estimates and projections are reasonable, such forward-looking statements are only
+predictions and involve known and unknown risks and uncertainties, many of which are beyond the company's control.
+Forward-looking statements also include statements regarding management's beliefs and expectations related to the expansion of the reach of its
+products into new markets and customer responses to its innovations as well as statements regarding the company's outlook for the fourth quarter of
+2024. Except as required by law , AOI assumes no obligation to update these forward-looking statements for any reason after the date of this earnings call
+to conform these statements to actual results or to changes in the company's expectations.
+More information about other risks that may impact the company's businesses are set forth in the Risk Factors section of AOI's report on file with the SEC,
+including the company's annual report on Form 10-K and quarterly reports on Form 10-Q. Also, all financial results and other financial measures discussed
+today are on a non-GAAP  basis, unless specifically noted otherwise. Non-GAAP  financial measures are not intended to be considered in isolation or as a
+substitute for results prepared in accordance with GAAP .
+A reconciliation between our GAAP  and non-GAAP  measures as well as a discussion of why we present non-GAAP  financial measures are included in the
+company's earnings press release that is available on AOI's website.
+Before moving to the financial results, I'd like to note that AOI management is attending the Needham V irtual Security , Networking, & Communications
+Conference on November 19, the ROTH 13th Annual Technology Event on November 20 in New York; the Raymond James TMT and Consumer
+Conference on December 10 in New York and Northland's V irtual Growth Conference on December 12.
+We'd like to note that the date of AOI's fourth quarter and full year 2024 earnings call is currently scheduled for February 26, 2025.
+Now I'd like to turn the call over to Dr . Thompson Lin, AOI's Founder , Chairman and CEO. Thompson?
+Chih-Hsiang Lin
+Thank you, Cassidy , and thank you for joining our call today . We had a solid third quarter performance as we ramp up production capacity to meet our
+customer rollout schedules. W e recorded strong double-digit sequential growth in our data center business, driven by new wins for our 400G products,
+while our CA TV business more than tripled from the second quarter as our customers actively transitioned to new architectures.
+Print
+During the third quarter , we delivered revenue of $65.2 million, which was at the high end of our guidance range of $60 million to $66 million. W e recorded
+non-GAAP  gross margin of 25%, which was in line with our guidance range of 24% to 26%.
+Our non-GAAP  loss per share of $0.21 was larger than expected and above our guidance range of a loss of $0.14 to $0.20 per share due primarily to
+accelerated R&D spending due to greater that anticipate new customer requests, especially in our data center business, where we saw notable interest in
+our 1.6 terabit transceivers.
+Total revenue for our data center products of $40.9 million was down 16% year-over-year , but up 19% sequentially . Revenue for our 100G products
+decreased 24% year-over-year , while revenue for our 400G products increased 140% in the same period.
+We are pleased to report that we have begun to receive initial orders for 400G products from another large hyperscale customer , and we are very excited
+about this new customer interaction.
+We have already begun shipment on this relative small initial orders.
+We expect additional orders from this customer in this quarter and into 2025 for both 400G and 800G products. Total revenue in our CA TV segment was
+$20.9 million, which was up 104% year-over-year and low 260% sequentially , largely driven by shipment of our 1.8 gigahertz amplifiers for our major MSO
+customers.
+As we have discussed on our prior earnings calls, our MSO customers are in the process of transition from DOCSIS 3.1 to DOCSIS 4.0. This initial ramp
+in CA TV sales in Q3 was in line with our expectations, and we continue to expect additional growth as MSO upgrades increase in intensity next year .
+With that, I will turn the call over to Stefan to review the details of our Q3 performance and outlook for Q4. Stefan?
+Stefan Murry
+Thank you, Thompson.
+As Thompson mentioned, our revenue and non-GAAP  gross margin for the third quarter were in line with our expectations.
+Our non-GAAP  loss per share was unfavorable compared to our expectations due to higher-than-expected operating expenses as we accelerated R&D
+spending due to greater-than-anticipated new customer requests, especially in our data center business, where we saw notable interest in our 1.6 terabit
+transceivers after our strong showing at the European Conference on Communications in Frankfurt in September .
+During the third quarter , we continued to execute on many of the initiatives that we laid out earlier this year . We discussed on our Q2 call how we have
+begun to receive orders for the 400G products from another large hyperscale customer .
+This quarter , we continued to receive new orders from this customer , and we remain very excited about this opportunity .
+We have already begun shipments on these relatively small initial orders, and we expect additional orders from this customer in the fourth quarter and into
+2025 for both 400G and 800G products.
+We also discussed on our Q2 call how we have begun to receive forecasted orders for the VCSEL-based 400G active optical cables for which Microsoft
+provided development funding last year .
+We have continued to see additional orders and shipments for our AOC products and new forecasts that indicate stronger growth in 2025.
+Lastly , in our CA TV business, in line with our expectations, we saw a vast improvement in our CA TV results in Q3.
+Our MSO customers need to place these orders in order to stock their distribution pipelines ahead of their more aggressive upgrade plans in 2025.
+Turning to our third quarter results.
+Our total revenue was $65.2 million, which was up 4% year-over-year and up 51% sequentially and was at the high end of our guidance range of $60
+million to $66 million.
+During the third quarter , 63% of revenue was from our data center products, 32% was from CA TV products with the remaining 5% from FTTH, telecom
+and other .
+In our data center business, Q3 revenue came in at $40.9 million, which decreased 16% year-over-year and increased 19% sequentially . The decline in
+revenue from Q3 2023 is largely due to price reductions with certain customers that took ef fect earlier this year , along with nonrecurring engineering
+revenue from Microsoft last year , which did not recur this year . The sequential increase is due to new customer wins in the past several quarters, along
+with the continued growth of 400G with existing customers.
+In the third quarter , 67% of data center revenue was from 100G products, 27% was from 200G and 400G transceiver products and 4% was from 40G
+transceiver products.
+As we have discussed on several prior earnings calls, we signed 2 agreements with Microsoft in 2023 for the development of 400G products and beyond.
+This included a development program to make next-generation lasers for its data centers and for the development of its 400G and next-generation active
+optical cables.
+While not guaranteed, we continue to believe that the revenue opportunity for our 400G and 800G products could be greater and longer duration than the
+revenue contribution we saw from this customer during the peak of the 40G product cycle, which suggests that revenue from these products may exceed
+$300 million over the several years of these build-outs. In Q3, we are pleased to report that we saw a slight increase in business as we received additional
+orders and began shipments for our AOC products.
+Looking ahead, we continue to believe that this business will ramp further in Q4 and into 2025.
+As our data center customers work on building out their next-generation AI-focused data center architectures, we remain very active in our 800G
+qualification ef forts with several hyperscale customers.
+We continue to believe that we will begin to receive orders for 800G products in Q4 of this year with a ramp expected thereafter . In our CA TV business,
+revenue in the third quarter was $20.9 million, which was up 104% year-over-year and up 260% sequentially .
+As I mentioned before, the significant increase is due to the ramp in orders for our 1.8 gigahertz amplifier products.
+We continue to believe our CA TV revenue will ramp further in Q4 and into 2025. I'd like to take a moment to provide some additional color on the
+upcoming DOCSIS 4.0 transition.
+As MSOs look to expand upstream bandwidth by increasing the frequency content available for upstream transmission, they need to change and replace
+their current amplifiers and nodes.
+By using DOCSIS 4.0, which expands frequencies up to 1.8 gigahertz, MSOs are able to replace their current hardware without cutting into their
+downstream bandwidth.
+As I mentioned before, while some MSOs have stated that they do not plan to deploy DOCSIS 4.0 upgrades until 2025 or later , we have begun delivering
+initial orders so that they are capable of deployments when they are ready to make the transition. With this in mind, however , the timing of deployment by
+our MSO customers of our amplifiers does not depend on the timing of DOCSIS 4.0.
+In fact, we believe at least one major MSO is committed to an AMP-first strategy , whereby amplifiers capable of DOCSIS 4.0 are deployed ahead of the
+nodes and RPDs that will be needed to fully enable DOCSIS 4.0 in the future. By deploying new AMPs, an MSO can enable higher bandwidth splits in the
+upstream direction, which provides much needed additional bandwidth.
+In addition, MSOs could take advantage of AOI's revolutionary QuantumLink technology to gain insight into their network operation and we believe
+improve their customers' experience while reducing maintenance spend, all while waiting for DOCSIS 4.0 nodes and RPD hardware to be available.
+Now turning to our telecom segment. Revenue from our telecom products of $2.8 million was down 9% year-over-year and up 18% sequentially .
+Looking ahead, we continue to expect telecom sales to fluctuate from quarter-to-quarter .
+For the third quarter , our top 10 customers represented 96% of revenue, in line with Q3 of last year . We had 3 greater than 10% customers, 2 in the data
+center market, which contributed 41% and 16% of total revenue, respectively; and 1 in the CA TV market, which contributed 34% of total revenue.
+In addition to these 3 customers, we have had meaningful conversations with an additional hyperscale customer who has begun to reengage with us in
+preparation for future data center upgrades. W e believe we are in a position to ramp production to meet their needs and have already received some small
+initial orders with additional orders expected in Q4 and into 2025. In Q3, we generated non-GAAP  gross margin of 25%, which was within our guidance
+range of 24% to 26% and was up from 22.5% in Q2 of 2024 and down from 32.5% in Q3 of 2023.
+Looking ahead, we expect gross margins to improve as we see the impact of manufacturing ef ficiencies in our CA TV production and improving product
+mix. W e remain committed to our long-term goal of returning our non-GAAP  gross margin to around 40% and continue to believe that this goal is
+achievable. Total non-GAAP  operating expenses in the third quarter were $27.9 million or 42.9% of revenue, which compared to $21.4 million or 34.2% of
+revenue in Q3 of the prior year , primarily due to accelerated R&D spending due to greater-than-anticipated new customer requests, especially in our data
+center business, where we saw notable interest in our 1.6 terabit transceivers.
+Also increasing year-over-year were R&D expenses related to our 1.8 gigahertz CA TV amplifier products and additional expenses related to expedited
+shipping costs for the production ramp-up of these products and nonrecurring trade show expenses that were incurred in the third quarter , which we do not
+expect to incur in the fourth quarter .
+Looking ahead, we expect non-GAAP  operating expenses to tick up slightly next quarter and range from $28 million to $30 million due to higher R&D
+spend, largely generated by additional new customer opportunities we are pursuing.
+Non-GAAP  operating loss in the third quarter was $1 1.7 million compared to an operating loss of $1 million in Q3 of the prior year . GAAP  net loss for Q3
+was $17.8 million or a loss of $0.42 per basic share compared with GAAP  net loss of $9 million or a loss of $0.27 per basic share in Q3 of 2023. On a non-
+GAAP  basis, net loss for Q3 was $8.8 million or $0.21 per share, which was unfavorable to our guidance range of a loss of $5.9 million to $8.6 million or a
+loss per share in the range of $0.14 to $0.20 per basic share.
+This compares to a non-GAAP  net loss of $1.7 million or a loss of $0.05 per basic share in Q3 of the prior year . The fully diluted shares outstanding used
+for computing the earnings per share in Q3 were 42.3 million.
+Turning now to the balance sheet. W e ended the third quarter with $41.4 million in total cash, cash equivalents, short-term investments and restricted
+cash.
+This compares with $16.1 million at the end of the second quarter . We ended the quarter with total debt, excluding convertible debt of $39.4 million
+compared to $27.5 million at the end of last quarter .
+As of September 30, we had $64.4 million in inventory , which compared to $54.3 million at the end of Q2. The increase in inventory is primarily for raw
+materials to be used for anticipated Q4 production. W e made a total of $1 1.4 million in capital investments in the third quarter , which was mainly used for
+production and R&D equipment as well as building improvements to accommodate new production capacity .
+Looking ahead, we expect to make sizable CapEx investments over the next several quarters as we prepare for increased 400G, 800G and 1.6 terabit
+data center product production in 2025.
+We expect to finance these investments through a combination of cash on hand, cash generated from operations and some equity sales, including
+possible strategic investments that we are discussing.
+We believe that we are poised for a sustained period of growth in both our data center and CA TV businesses and that these capital commitments will be
+transformational to our company as we execute on these opportunities.
+As we disclosed in August, we increased the size of our existing at-the-market of fering with a total of $60 million authorized. To date, we have raised $59.9
+million net of commissions and fees under this new program, including $38.6 million raised in Q3.
+Moving now to our Q4 outlook.
+We expect Q4 revenue to be between $94 million and $104 million and non-GAAP  gross margin to be in the range of 27.5% to 29.5%.
+We expect operating expenses to remain elevated in the near term in the range of $28 million to $30 million, resulting in non-GAAP  net income expected
+to be in the range of a loss of $1.9 million to income of $1.7 million and non-GAAP  earnings per share between a loss of $0.04 per share and earnings of
+$0.04 per share using a weighted average basic share count of approximately 46 million shares.
+Looking ahead, we remain optimistic about the long-term demand drivers for both our data center and CA TV businesses. W e believe that we're well
+positioned to benefit from the tailwinds driven by the adoption of generative AI, which we continue to believe will require our data center customers to
+deploy more infrastructure, including more optical interconnects.
+Due to our U.S.-based production ability and our automated manufacturing capabilities and experience, we believe we are uniquely positioned to help our
+customers meet these significant demands. Also, we believe that we are very well positioned with the right team, product portfolio and strategy in place as
+our CA TV customers transition to next-generation architectures and implement new technologies to improve their network performance.
+With that, I will turn it back over to the operator for the Q&A  session. Operator?
+Operator
+[Operator Instructions] our first question comes from Michael Genovese from Rosenblatt.
+Michael Genovese
+Congratulations on the revenues and the outlook. I guess my first question is just on 400G, right? I mean it seems like maybe you've seen this coming for
+a little while that there's higher 400G demand now from multiple customers.
+Just what do you think is driving that? And do you think that, that's sustainable? Or will it start to roll of f when we go to higher speeds?
+Stefan Murry
+No. It's being driven by demand from our data center customers for interconnections, primarily for their AI networks. And I would not anticipate that, that
+demand is going to decrease in the near term or even medium term. 400 gig is what they're using for their next-generation architectures for these
+applications, and we expect the demand to continue or perhaps even grow from here.
+As I mentioned, we have at least one new customer that's only beginning to purchase 400 gig from us. And I think there's significant room to ramp with
+that customer as well as potentially an overall growth in the market as more AI gets deployed.
+Michael Genovese
+And I guess on 800G, can you comment what kind of transceivers you expect to be selling within this discussion of VCSELs, EMLs and silicon photonics?
+Will you participate in all 3 or 1 or 2 more than the other?
+Stefan Murry
+Our primary focus has been historical for us, mainly on the edge emitting technology .
+So that would be the electro-absorption modulated lasers and also on the silicon photonics-based solutions. Both of those are the ones that we're
+pursuing most aggressively .
+We do have some interest in VCSEL-based solutions, and we do have our own capability for manufacturing VCSELs.
+So there'll probably be some sales, but we're expecting the bulk of the demand that we're going to satisfy to be on the longer distance transmitters.
+Michael Genovese
+And then based on all your comments, I mean, it seems like -- I guess maybe if we include Oracle's number 5, but if we're really talking about the 4 kind of
+household names on hyperscalers, it sounds like 3 are customers now and the other one you're talking to. Is that fair?
+Stefan Murry
+Again, without talking about dif ferent names, I think we do think we have 3 out of the top 5 data center customers, yes.
+Michael Genovese
+And then just finally for me, just kind of help us understand, I mean, the cable is good, and I guess that will get bigger . And then it's 800G and then 1.6,
+does that drive higher margins? Like what's the outlook for margins over time? Any detail you give there would be helpful. And I'll pass it on.
+Stefan Murry
+Sure.
+So cable TV margins right now are higher than the data center margins. W e do expect cable TV margins to improve.
+As we noted in our prepared remarks earlier , there's economies of scale, ef ficiencies and things that we need to wring out of the manufacturing process
+there, and we expect that to happen over the next couple of quarters.
+So there's some room for improvement on the cable TV margins.
+With respect to data center , yes, the transition to 800G and 1.6 terabit should be accretive to gross margin as well.
+So that's, again, as we said in our prepared remarks, we think a 40% margin is a good long-term target for us to have and growth in both 800G, 1.6
+terabits and cable is really what it's going to take to get there.
+Operator
+The next question comes from Tim Savageaux from Northland Capital Markets.
+Timothy Savageaux
+I just want to talk about the guidance here.
+You're obviously looking for a pretty sharp uptick here in Q4.
+I think on the last call, you said you expected cable to be a primary driver in Q3, which it looks like it was and maybe shifting back over to data center in
+Q4 is the primary growth driver .
+So the question is, does that remain the case? And then maybe try and comment on some details on what's driving that. It sounds like AOCs at Microsoft
+should be ramping up, also your new 400-gig transceiver customer .
+You mentioned you also expect some 800-gig revenue.
+If you look at that, I don't know if it's $30 million or so sequential increase in data center . Can you give us a sense of what are the dif ferent factors and/or
+customers driving that?
+Stefan Murry
+Yes.
+So overall, our expectations regarding Q4 are pretty much what we communicated last time. W e do see continued growth in cable, but we also see strong
+growth in the data center , largely driven by 400G at this point, as has been the case for a while for us. W e do actually see some continuing strength in
+100G as well, interestingly enough.
+And then the 800G will be a factor for us a little bit in Q4, but it won't be -- won't likely be material in Q4, but it should start to ramp in Q1.
+So that's kind of how things break out. And then, of course, the cable, again, as I said earlier , the margins on cable should start to improve in Q4 and Q1
+as well.
+Timothy Savageaux
+I just want to make sure I understand your customer commentary . I don't know if you snuck a new hyperscaler in there in the comments.
+So you've had another 10% customer outside of Microsoft these last couple of quarters that I think you've described as a hyperscaler in the past.
+I gather given your commentary about fairly early days in your new 400-gig customer that you haven't seen those sorts of volumes yet. I guess, would you
+expect to in Q4? And might that customer rise to the 10% level? And outside of those 3, are we missing anybody else in terms of advanced engagements
+from a hyperscale perspective?
+Stefan Murry
+So the 10% customer that we have this quarter on the data center is the same 10% customer that we had last quarter , if that helps. And that would imply
+that this new hyperscale customer , which is really a reengaging customer from -- I mean it's not a brand-new customer to us. It's one that was formerly a
+pretty sizable customer for us, but we're sort of reengaging with them.
+I think they'll likely grow in Q4. It's unclear that they're going to grow . I would not expect them to be a 10% customer in Q4, especially given the revenue
+growth that we're seeing, the bar to get to 10% certainly becomes higher . But we definitely think that they can ramp to be a 10% customer in the next few
+quarters.
+Timothy Savageaux
+And maybe last one for me.
+You've kind of estimated -- well, let me go to another one.
+You mentioned elevated CapEx and capacity expansion. From a revenue capacity perspective, where are you in the U.S. right now? And where will these
+capacity investments take you over the next few quarters?
+Stefan Murry
+We haven't disclosed the specific revenue number coming out of the U.S.
+As you can imagine, our manufacturing operations are pretty integrated across multiple dif ferent locations. In other words, we're doing dif ferent operations
+in dif ferent places. But we do expect to continue to invest primarily in the U.S. and Taiwan for manufacturing capacity over the next few quarters, as we
+noted in our prepared remarks. And that will allow us to continue to execute on the revenue growth trajectory that we outlined.
+Timothy Savageaux
+Congrats on the results and the outlook, especially .
+Stefan Murry
+Thank you.
+Operator
+[Operator Instructions] Our next question comes from Jef f Koche from Raymond James.
+Jeffrey Koche
+Jeff on for Simon. It sounded like maybe I misheard, but it sounded like maybe the Microsoft supply revenue this quarter was maybe slightly weaker than
+what we were thinking. I mean it was up. It sounds like it was up, but maybe it was only like less than $5 million still. Is that fair? And do you think that -- if
+that is the case, are you still confident in reaching -- trying to reach, I don't know , like low $20 million run rate next quarter for that business?
+Stefan Murry
+So yes, it was below $5 million in this quarter . With respect to next quarter , it's hard to say . It's ramping a little slower than we expected. That is a fair
+statement. But we do -- we are still committed to reaching that $25 million per quarter level. It's just unclear which quarter that's going to occur in at this
+point.
+So it's more about timing.
+What we are seeing is a lot of increase in demand, as I mentioned earlier , for the 400-gig transceiver solutions. And again, surprisingly , some strength in
+100G as well.
+Jeffrey Koche
+Yes. I was going to ask about that, too. And especially the 400 gig, I guess there's -- the thinking is that everybody wants 800 gig for the back end.
+So 400 gig, I'm surprised it's not more front end. And then strength in 100 gig sounds like maybe there's a catch-up in like, I guess, the legacy , maybe the
+legacy data center investment. But are you guys seeing that at all?
+Stefan Murry
+Yes.
+I think on both accounts, yes. I mean it's easy for people to focus on one technology , I think, and say , okay , this is where the growth is going to be. But the
+reality is many of our hyperscale customers are growing their infrastructure in multiple dif ferent ways, right? It's not just one thing that they're doing.
+They're growing their existing infrastructure and they're growing their new AI-focused infrastructure at the same time.
+So we're excited about all those opportunities. I just -- the reason why I highlighted the 100 gig is really that I want to draw people's attention to the fact
+that there's still some significant business opportunities and growth even outside the AI while we continue to focus our ef forts in most of the industry on AI
+growth.
+Jeffrey Koche
+And then maybe just to help on -- a little bit of help on the gross margin versus next quarter , like is the -- you said that CA TV is running above average at
+this point. Is that -- as we go to next, should that be up again? Or where do you think the magnitude of the improvement? Where is the biggest part?
+Stefan Murry
+Jeff, I'm sorry , you kind of broke up a little bit there. I understood you're asking about gross margins and what's driving the gross margin growth in Q4. I'll
+go ahead and answer that, and I hope that was the question that you asked. I mean CA TV, as I mentioned earlier , we just started ramping this 1.8 gig
+product line.
+You could see going from almost 0 to almost $21 million in the quarter for those products. I mean that's a sizable ramp.
+And as you can imagine, when we -- in the initial phases of that ramp, not everything is -- the ef ficiency in the manufacturing is not where we want it to be
+initially .
+And so as we go forward in Q4 and in later quarters, we do expect there to be continued expansion in the gross margin in CA TV.
+In addition, on the data center side, Again, seeing more contribution from 400G and especially some initial contribution from 800G, which we expect to
+ramp next year will improve gross margins in that segment as well.
+Operator
+At this time, we have no further questions, and I will turn the call over to Dr . Thompson Lin for closing remarks.
+Chih-Hsiang Lin
+Again, thank you for joining us today .
+As always, we want to extend a thank you to our investors, customers and employees for your continued support.
+As we discussed today , we believe the long-term demand driver remains strong for both our data center and CA TV business, and we believe we are well
+positioned to capitalize on this opportunity . Thank you.
+Operator
+The conference has now concluded. Thank you for attending today's presentation.
+You may now disconnect.

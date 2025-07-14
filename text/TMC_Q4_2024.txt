@@ -1,0 +1,474 @@
+TMC the metals (TMC) / 27 Mar 25 / 2024 Q4 Earnings call transcript
+Company Profile
+ Transcript menu
+Craig Shesky executive
+Gerard Barron executive
+Jacob Sekelsky analyst
+Dmitry Silversteyn analyst
+Operator
+Good day , and thank you for standing by . Welcome to the Metals Company Fourth Quarter 2024 Corporate Update Conference Call. [Operator
+Instructions]. Please be advised that today's conference is being recorded.
+I would now like to hand the conference over to Craig Shesky , Chief Financial Of ficer of the Metals Company . Please go ahead.
+Craig Shesky
+Thank you, Liz. Please note that during this call, certain statements made by the company will be forward-looking and based on management's beliefs and
+assumptions from information available at this time. These statements are subject to known and unknown risks and uncertainties, many of which may be
+beyond our control.
+Additionally , please note that the company's actual results may dif fer materially from those anticipated, and except as required by law , we undertake no
+obligation to update any forward-looking statements.
+Our remarks today may also include non-GAAP  financial measures, including with respect to free cash flows.
+Additional details regarding these non-GAAP  financial measures, including reconciliations to the most directly comparable GAAP  financial measures can
+be found in our slide deck being used in this call. And you're welcome to follow along with our slide deck or if joining by phone, you can access it at any
+time at investors.metals.co.
+And I will now turn the call over to our Chairman and CEO, Gerard Barron. Gerard, please go ahead.
+Gerard Barron
+Thank you, Craig. W ell, before we announce a material and very exciting change in our way forward, I want to revisit the premise behind our company .
+So in the next 30 years, we expect to need to mine more base metals that have been mined in all of our human history .
+So where can we get these critical metals with the least cost to humans and nature? 70% of our planet is covered by the oceans, but they are home to
+only 3% of living biomass. And the abyssal zone accounts for more than half of the ocean area. And according to [ Grock ], the abyssal zone sparse but
+resilient life that thrives on sinking organic matter in a vast other worldly expands, limited leftover food means limited life.
+So limited life to begin with means less life to impact and vast self-similar distal zone means ample opportunities for smart conservation. And that's just the
+beginning of why nodules could be a great source of critical metals. And once you get this far of fshore and this deep, there are no human communities to
+impact, metal grades eye, and there are 4 metals in one resource here while it would take 3 separate mines on land. And crucially , we can process this
+resource onshore with near 0 solid waste, and this means we will not need to manage lakes of toxic sludge.
+And what's the alternative? W ell, keep cutting down by diverse rainforests, displace people, poison air and water and generate massive often toxic waste
+streams, much of which ends up in the ocean, sometimes in smothering beautiful reefs. And as a company , we reasoned from first principles and believed
+that we have a better shot of responsible extraction, where we have fewer impacts and fewer impact receptors.
+So these first principles are backed by decades of research.
+Since the 1970s, the Clarion-Clipperton Zone has received billions of dollars of investment and hundreds of research campaigns.
+In fact, after 3 commercial mining tests in the 1970s, the initial Programmatic Environmental Impact Statement or PEIS was prepared by NOAA  already in
+1981 based on several research campaigns conducted by the agency in the CCZ. And by 1995, NOAA  reported to Congress that their studies basically
+eliminated pending verification of plume behavior during monitoring a further at sea mining system tests, virtually all other environmental concerns, which
+were raised around deep sea mining.
+Starting in 201 1, the metals company has repeated a lot of this work and then some in our contract area in the CCZ.
+We are finishing our own EIS now , and we have orders of magnitude, more environmental data.
+Our mining system is much better designed and our impact modeling is much more sophisticated than in the 1970s, but our conclusions are not materially
+different from what NOAA  concluded already 30 years ago. And furthermore, thanks to last year's expedition that revisited the site of a 1970s mining test.
+We now have a 45-year perspective on how the deep sea ecosystem recovers from a machine that looks quite irresponsible by today's standards, cutting
+20 to 80 centimeters into the settlement compared to the top 3 to 5 centimeters that our seafloor collector impacts today .
+Print
+So we, too, have a sense of the recovery from a collector immediately after and then 12 months after the test.
+So the notion that we do not know enough to evaluate the impacts of collecting these metals rich rocks is wrong.
+So looking back at least 14 years of our company's existence, we and our partners have achieved numerous milestones worth writing home about.
+Firstly , technical statements showing a resource of 1.6 billion tonnes of nodules representing the world's 2 largest undeveloped nickel projects. Then
+there's the first integrated collection system test since the 1970s studies, lifting more than 3,000 tons of nodules to the surface. There was the successful
+industrial scale nodule processing into high-grade nickel, copper , cobalt, alloy and manganese silicate, which we announced earlier this year , alongside
+our partner , PAMCO. And successful bench-scale refining of our intermediate product into nickel sulfate and cobalt sulfate. 23 of fshore research
+campaigns in some years delivering 5 campaigns per year , while most contractors manage 1 every other year , and the adoption of a capital-light approach
+utilizing the existing assets of our partners.
+So we've shown that we can pick up nodules from the sea floor . We can lift them to the surface and process them onshore all the way to the refined
+products with minimal environmental impacts and limited capital expenditure. And though we may have achieved much in 40 years, many investors are
+focused on a dif ferent 14 years. And that is how long the ISA  has been working on the mining regulations for this industry . After repeated failures to deliver
+the mining code in 2020 and then 2023, based on what we've seen during the current ISA  session, there remains a possibility of continued delay on the
+ISA's target for the mining code adoption in 2025. The United States time line drift and failure to deliver its legal obligation of adopting a mining code does
+not change one key fact, and that is that we are ready , we have amassed an unprecedented wealth of environmental impact data, have gone above and
+beyond to design a system that minimizes environmental impacts and feel confident that we now know enough to get started, and prove we can manage
+environmental risks. What we need is a fair hearing and a regulator willing to engage.
+Thankfully , we have another half forward. The United States has had legal framework and regulations for issuing exploration licenses and commercial
+recovery permits for deep seabed minerals in international waters in place since the 1980s. And now there is political will to put existing authorities to use.
+So today , I'm pleased to announce that our U.S. subsidiary , the Metals Company , USA  LLC, we'll submit applications in the second quarter of this year to
+move into commercial production through the existing U.S. regulatory regime. And we did not make this decision lightly . It took careful consideration and
+many months of legal due diligence and government conversations.
+We've engaged multiple law firms and have conducted thorough legal diligence on the Deep Seabed Hard Mineral Resources Act 1980 or DSHMRA  as
+well as implementing regulation from NOAA. Congress passed DSHMRA  as an interim regime to allow U.S. citizens to pursue deep seabed mineral
+projects in international waters in anticipation of the United States 1-day ratifying UNCLOS. 45 years later , the United States has not ratified UNCLOS
+while DSHMRA  and NOAA's implementing regulations remain on the books and have stood the test of time.
+The total of 4 exploration licenses have been issued under this regime with 2 still active.
+So we've begun a dialogue with NOAA, an agency within the U.S. Department of Commerce authorized as the lead agency for permitting under
+DSHMRA, and have, in fact, initiated a formal process of pre-application consultation with NOAA. W e've also met with numerous of ficials in the White
+House as well as U.S. Congress regarding their support for this industry . And in fact, today , it was great to see Secretary Rubio talking to leaders in the
+Caribbean and highlighting that developing seafloor resources responsibly was an important opportunity for everyone. It is our strong belief that this path
+offers the greatest probability of receiving a commercial permit to begin operations in a timely manner .
+So I'm sure you will all have many questions, and I promise that we will spend the vast majority of this call talking about the details of the strategy ,
+including the many months of meetings in DCs and legal analysis.
+But first we'd like to take you through some of the rationale that led us and our Board to pursue this new path forward. And for that, I want to hand it back
+to Craig Shesky , our CFO.
+Craig Shesky
+Thanks, Gerard. Certainly a very exciting moment. But first, let's assess where things stand right now with the ISA.
+So the ISA  has missed 2 code adoption targets and is currently on its third.
+So it's worth looking at why exactly this part of the mining code is so hard.
+Well, 4 years is about the average time that it takes to negotiate an international instruments and it took around 4 years for the ISA  to adopt the first
+exploration regulations. It took around 4 years to negotiate the Convention on Biological Diversity , the Paris Agreement and the Arms Trade Treaty . COVID
+disruption certainly did not help yet the High Seas Treaty was also impacted by COVID, took 8 years.
+So depending on when you start counting, if the IF A adopts the mining code in 2025, it would be 14 years, or 1 1 years, if you count from when we work
+started in earnest in 2014, and it's still much longer than other instruments.
+So while coming up with regulations for the exploitation of deep sea minerals in the area, they sound like a daunting task. Consider the fact that most
+coastal states already regulate of fshore extracted activities like of fshore oil and gas in all countries with the land mining half mining codes. There is plenty
+of expertise and precedent to draw .
+Now the ISA  Council is currently sitting for Part 1 of its 30th session in Kingston, Jamaica. And as with every session, we are simply looking for progress.
+The contrary to the legitimate expectations of contractors and of our sponsoring states, which are set out in the convention the ISA  has persistently missed
+the deadlines that it has self has set, first in 2020 and then in 2023, and we're already 3 months into the third targeted year for adoption of 2025.
+Now Roux’'s requests that council adopt an agreed process for the review of NORI's and pending application that is consistent with the ISA's obligations
+on our own class was opposed by Chile, the world's largest copper producer .
+So with no agreement on the process, we do not yet have suf ficient clarity as to how our application would be treated upon submission, presenting an
+unacceptable level of risk for our shareholders.
+Of course, there is one country that doesn't mind the delays as they play catch-up, and that's China. 2 Chinese contractors are preparing for collection
+tests in the next year or so trying to replicate what TMC and our partner also achieved in 2022. China has also built up an entire city around deep sea
+mining, having spent billions on the Sanya Deep Sea Technology City . China is also using deep sea mining as an incentive to influence geopolitics in the
+Pacific. After we ended our contractual relationship with Marua, it was reported that China was exploring a deep-sea mining partnership with the nation of
+Kiribati. And in February , China signed an agreement with Cook Islands, which focused on deep metals.
+Following that surprising move, New Zealand, which is in free association with the Cook Islands, announced that they would consider withdrawing their
+support for a moratorium on deep sea mining. And it's increasingly clear that deep-sea mining is at the center of geopolitics in the Pacific.
+Elsewhere in Asia, there have been encouraging headlines out of South Korea, Japan and India with respect to their support of and interest in deep-sea
+mining. The increased focus on seafloor resources from some of the world's top economies could also have a positive impact on the total addressable
+market for our announced services business.
+In fact, we've had multiple reverse inquiries already this year on potential future work. But in the meantime, it is an all hands on deck focus on getting our
+applications over the line. And to that end, we believe that the United States is getting ready to retake its role as a leader in this industry , and to provide
+explicit support for the collection of polymetallic nodules.
+So the headwinds to support from the U.S., including Marco Rubio's announcement that Gerard shared have been clearly building. But why would the new
+administration care so much about seafloor resources, particularly polymetallic nodules? The answer is simple because they can help establish metal
+independence, and they are the critical missing piece for U.S. reindustrialization.
+Here, China continues to dominate and has shown an increasing willingness to ban exports to the U.S. It's clear that American reindustrialization simply
+cannot depend on Chinese metal production.
+So to give you a sense of scale, what would it mean for the U.S. to gain access to, let's say , 1 billion tonnes of nodules. The answer is it would be
+transformational. If measured by current U.S. consumption, 1 billion tonnes of nodules would provide 456 years of manganese, 165 years of coal, 81
+years of nickel and 4 years of copper . Nodules are not some marginal solution. They can in just TMC's contract areas alone solved U.S. needs for several
+metals deemed critical by the U.S. geological survey . And it's worth remembering that it was U.S. companies and the U.S. government, including NOAA,
+which pioneered the evaluation and development of this resource in the 1970s.
+The U.S. government developed a regulatory framework and conducted a strategic environmental impact assessment. U.S. companies, including
+Transocean, Lockheed Martin and U.S. Steel, develop and piloted nodule collection and nodule process technology . This U.S. leadership slowed,
+however , when the U.S. did not ratify the UN Convention of the Law of the Sea.
+However , the U.S. did have foresight to enact DSHMRA  so U.S. citizens and entities could access seabed resources in international waters. U.S. entities
+can apply to NOAA  for exploration and commercial recovery licenses. And because the U.S. has never submitted to the jurisdiction of the ISA, this U.S.
+law remains a full ef fect, even if the U.S. does eventually adopt the final mining code.
+There are a few handfuls of nations that do have bilateral agreements with the U.S. regarding each other's activities in international waters. But generally ,
+beyond that, U.S. Law continues to of fer freedom of activity in the high seas, just as it did prior to UNCLOS ever being contemplated. And leading experts
+on the law of the seas, such as Steven Groves, agreed that applying for a commercial recovery license through DSHMRA  and NOAA  is a viable path
+based on a robust and well thought-out regulations. Stevenetoclax Groves is with the Heritage Foundation, a leading [indiscernible], as well as a former
+staff for the White House Council's of fice during President Trump's first term. And in fact, it was about 1 year ago to the day that we were talking about
+Steven Groves in a segment on 60 minutes discussing the law surrounding deep-sea mining. And it was a critical minerals arms race discussed in that
+piece between the U.S. and China, and that arms race has only grown more intense.
+Quite simply , DSHMRA  remains law today for the exact same reason as it did when it was passed into law during the cold war in the early 1980s, National
+Security .
+So if we step back and compare the U.S. regulatory regime to what we've experienced recently at the ISA. From our perspective, the U.S. regulatory
+regime is more attractive than what's currently on of fer.
+If you look at the ISA  draft mining code, the international regulatory regime has had issues from the outset. UNCLOS was not deemed commercially viable
+for deep sea mining initially , and it took another 14 years to negotiate an implementation agreement to comprehensively modify the part of UNCLOS that
+was dealing with deep sea mining. It took a few years to put the exploration regulations in place. The exploitation regulations have been in negotiations
+since 2014, and the process is still ongoing.
+By contrast, the U.S. adopted DSHMRA  in 1980, laying a solid foundation for U.S. citizens to pursue exploration licenses and commercial recovery permits
+in international waters.
+As a non-signatory to UNCLOS in a conscientious objector , the United States believe that mining of the deep sea bed resources is a freedom of the high
+seas. DSHMRA  then authorized NOAA  to develop implementing regulations.
+That same year , NOAA  delivered regulations for exploration licenses. It took NOAA  little over 6 years to put in place regulations for commercial recovery
+permits. It was an intense consultative process with several rounds of comments, including from other agencies, industry , NGOs and other stakeholders.
+In terms of regulatory approach, NOAA  recognized the dif ficulty of being prescriptive with regard to an industry that has not started.
+So unlike the ISA, they've explicitly chosen a flexible approach that can be adapted to the specific technology circumstances of each applicant through
+terms, conditions and restrictions. NOAA's approach is common sense, explicitly recognizing the trade-of fs versus other resource types and drawing the
+red line at a reputable environmental harm and aiming to avoid significant adverse economic -- excuse me, environmental impacts.
+Importantly , NOAA  expects to engage with applicants pre-application to reduce application-related uncertainties and is committed to providing written
+binding guidance. And to that end, TMC USA  has already initiated a detailed request for pre-application consultation with NOAA. Perhaps the biggest
+difference between the ISA  approach and the NOAA  approach, to environmental permitting is where the regulator takes a much heavier role. NOAA  has
+created programmatic environmental impact statements for the Domes region that covers all of the Clarion-Clipperton Zone. It takes the applicants
+environmental data and analysis but the develops in-house or hires a third-party consultant to develop a site-specific EIS.
+So we believe the U.S. and the NOAA  approach to environmental permitting has been put in place for very good reasons. And since NOAA  or a third-party
+contract are prepared to fight specific EIS, it ensures the analysis of unbiased and not influenced or perceived to be influenced by the interest of the
+applicant. This approach provides protection to the applicant as well because this transparency can help build public trust during the public review and
+comment period. This can also help build confidence amongst investors and other stakeholders who want to ensure that environmental risks have been
+assessed with due care.
+Finally , it of fers a level of protection to the applicant legally and financially as the independence and transparency on this process can further reduce the
+risk of future delays, fines or lawsuits.
+So taking a step back.
+Beyond the carefully thought out regulations, NOAA  also helped pioneer the environmental assessment of potential nodule collection.
+In addition to its monitoring of 1970 trials by several U.S. companies, NOAA  conducted several seafloor disturbance experiments as the other leading
+international research institutions. From these studies, which revisited impact sites repeatedly over a 40-year period, we now have extensive data that
+address a common and misleading claim from activists that we don't know enough. Thanks to these studies, we do know how the ecosystem spans and
+with multiple papers showing that recovery is not only possible but likely and within just a few decades.
+The [ DISCOAL  ] studies, which used a plow harrow attached with blades to rake the sea floor , and the dif ferent studies using NOAA  deep sea sediment
+resuspension system, all show varying levels of recovery within just a few years. And based on a review of the studies conducted to date, full recovery of
+the microbes that make up 70% to 80% of the life of these depths can be expected within 50 years. This is a very encouraging result though new depth,
+including our own suggests that these time lines may be quicker still. And remember , these studies were all carried out using equipment design for one
+purpose to create the maximum disturbance. Since those early pioneer trials, much ef fort has been devoted to ensuring that the environmental footprint of
+nodule collectors is reduced as much as possible.
+Back in 1979, the OMCO Mine Consortium piloted their robot miner with an intrusive Archimedes screw style propulsion system, raking several hundred
+tons of nodules from the seafloor with mechanical times. The robot disturbed the top up to 80 centimeters of seafloor sediment, leaving deep furrows in
+the seafloor and blanketing nearby fauna and thick layers of mud. Fast forward to 2022, and the gentler [ Coanda ] nozzles installed on our tracked
+collector vehicle disturbed just roughly the top 3 centimeters compared to 80 in the other trial. Sediment during the test mining campaign and over 95% of
+that settled within 1 kilometer of the test area.
+Of course, this is a very dif ferent picture to the one painted by those opposing this industry who spread baseless claims that sediment could travel tens of
+thousands of kilometers. Unfortunately , for them, we have the data, and it shows these claims at pure fiction. W e'd like to, of course, call out our
+engineering partners at Allseas for their incredible ef forts these past few years to reduce the impact footprint of our collector vehicle, while ensuring we
+collect the maximum quantity of nodules. And as we look ahead to commercial mining and as the industry grows, you can expect that these impacts will
+only get smaller .
+And while the media has, as expected, focused on the continued presence of tracks on the sea floor , which shows absolutely nothing about recovery , we
+believe the new [indiscernible] findings are very encouraging, 4 decades after the disturbance, a near total recovery of sediment dwelling macrofauna and
+foraminifera have been measured in both the vehicle tracks and areas af fected by the plumes and the xenos, which provide a hard substrate that other
+organisms can live on, and they've already recolonize the area.
+In the case of the plume, which MIT  retrospectively modeled, researchers reported that I had no detectable or in some cases, slightly positive biological
+impacts. Don't expect Greenpeace to mention that one anytime soon. And by the way , we feel that for them for the loss of that lawsuit.
+We have always been clear that our primary impact will be for those organisms on modules that get collected. But as this study showed, nodules that get
+left behind can be quickly recolonized with megafauna present on retained nodules. This is very promising as if we leave -- this is very promising as if we
+leave some nodules as we intend to do with at least 30% left at the sea floor , then these will be available as habitats or organisms to take over .
+So how does this compare to our own findings? While yesterday's study measured recovery in 4 decades, preliminary data shows that we can do far
+better , thanks to the lower environmental impact of our vehicle.
+Our team have already found that foraminifera directly located in our collector tracks and in plume areas have recovered to 30% of background density in
+just 12 months and to 50% of pre-disturbance density . And as we look ahead to application, we'll be releasing these findings and much, much more. And
+we can tell you it's quite incredible what our team are finding.
+And findings like these are made possible by the fact that no matter where an application is launched is going to be backed by one of the largest
+environmental data that's ever compiled. Being in a work alongside dozens of respected research institutions and over 200 million in cumulative
+environmental spending.
+We have now gathered nearly 1 petabyte of data through the scientific research.
+To give you a sense of scale, the largest library in the world, the U.S. Library of Congress, manages about 20 petabytes of data in total. Bottom line, we
+believe that we, along with research pioneers from NOAA  and others before that, have answered all of the key questions posed for our environmental
+impact statement. And we strongly believe that the time has come to move forward, begin production and allow even more evidence to be shared with the
+entire world.
+So given the magnitude of today's news, we expect many of you are going to have questions regarding the workings of DSHMRA, implications for the ISA
+process, impacts on economics and time lines and many , many others. And we promise that over the coming weeks and months, we will continue to put
+out information to help everyone get up to speed.
+For now , and in addition to this calls upcoming Q&A, we provided answers here to anticipated questions. To summarize a few of them, yes, we believe we
+can pursue exploration and commercial recovery permits concurrently under DSHMRA, and there could be opportunities to expedite certain elements of
+review processes. The environmental work done so far is very robust, but we don't anticipate any additional campaigns needed prior to the launch of our
+U.S. applications. Even when the ISA  adopts a mining code as the U.S. has not ratified UNCLOS or joined the ISA  the contracts issued under DSHMRA
+are going to stay in ef fect. And while some described DSHMRA  as a temporary or interim measure, DSHMRA  remains in full ef fect 45 years later . Perhaps
+some of the drafters had expected the U.S. to ratify the law of the sea convention, but that didn't happen, and it's not likely to happen anytime soon.
+Finally , as you might imagine, the release of our PFS or pre-feasibility study does require the sign of f of quite a few qualified persons or QPs. And given
+the context of today's announcement, it's prudent for us to discuss certain assumptions with them at a bit more length. And this also applies to the timing
+of our strategy day . We do, of course, intend for that longer form session to occur . But as you can imagine, we've been laser-focused on pursuing this new
+path in the last few months.
+So what do these actions mean for NORI, Tamil and the sponsoring states? W ell, we've consulted on this application strategy with these sponsoring
+states. And in fact, Gerard spoke just last night with the President of Nauru in the Prime Minister's of fice in Tonga.
+Our relationships with our sponsoring states are excellent, and we continue to respect our agreements together .
+Regarding the specific areas of where we'll apply , the scope of the upcoming applications is under careful consideration, and we'll continue to discuss the
+strategy with our sponsoring states.
+For what it's worth, DSHMRA  exploration licenses can be granted up to 150,000 square kilometers. And yes, we are still planning to lodge an application
+over the NORI area in June of 2025 but we've not yet determined with what regulator .
+So even after a U.S. application is launched, we still retain the [ Norient ] [indiscernible] exploration contracts, and we fully intend on remaining compliant
+with the requirements of those ISA  contracts.
+So on to the financial results. In the last quarter of 2024, TMC recorded a loss -- net loss of $16.1 million or $0.05 per share compared to a net loss of
+$33.5 million or $0.1 1 per share for the same period in 2023. The net loss for the last quarter of 2024 due to exploration and evaluation expenses of $8.3
+million versus $26.7 million in Q4 2023 trade. General and administrative expenses of $8.1 million versus $6.6 million in Q4 2023. Exploration and
+evaluation expenses decreased by $18.4 million in the last quarter of 2024 compared to the same period in 2023 mainly due to a decrease in the cost of
+environmental studies as campaign 8, which commenced in the last quarter of 2023 was completed in the first quarter of 2024. Also a decrease in mining
+technology and process development costs due to lower transit and layup costs in the fourth quarter of 2024 compared to the prior year period. This
+decrease in exploration and evaluation costs was of fset by an increase in share-based compensation costs reflecting the amortization of the fair value of
+restricted stock units granted to of ficers in the second quarter of 2024.
+G&A expenses increased by $1.5 million in the last quarter of 2024 compared to Q4 of 2023, mainly due to an increase in share-based compensation
+costs as discussed and increase in consulting and advisory costs. Other items impacting the Q4 movement in 2024 is higher fees and interest on the
+credit facilities in 2024, of fset by foreign exchange gain year-over-year .
+In the fourth quarter of 2024, net cash used in operating activities was $13.8 million compared to $15.2 million for the first -- excuse me, for the last quarter
+of 2023. The lower spend in Q4 2024 reflects mainly lower spending on project development and environmental studies as compared to Campaign 8
+spending in Q4 2023 and due to changes in working capital levels year-over-year . The free cash flow for the last quarter of 2024 was negative $13.9
+million compared to a negative $15.6 million in the last quarter of 2023. Free cash flow is a non-GAAP  measure and I'd point you to the non-GAAP
+reconciliation table included in the slide deck and on our website.
+We believe that our cash on hand and the undrawn amount of $41.5 million from our unsecured credit facility , with Gerard Barron, our Chairman and CEO;
+and with ERAS Capital will be suf ficient to meet our working capital and capital expenditure requirements for at least the next 12 months from today .
+During the fourth quarter of 2024, the company entered into a registered direct of fering, issuing 19.9 million common shares and 9.95 million Class B
+warrants. The share issuance was completed in February of 2025 and the company received all gross proceeds of the $19.9 million. In the last quarter of
+2024, the company also drew $2.5 million from the working capital loan from Allseas.
+Our accounts payable and accrued liabilities balance at the end of 2024 of [ $43.7 ] million majority includes $25.8 million owed to Allseas for various
+services provided and the majority of that can be settled in equity at TMC's election. TMC liquidity , which we define as cash plus borrowing capacity , stood
+at $62 million at December 31 or $48 million pro forma for the credit facility amendments and full receipt of the registered direct proceeds in the first
+quarter of 2025, where the final 5 million came in.
+In Q1 2025, we increased the principal amount of our unsecured [ ARRIS Baron ] facility by $6 million and the credit facility with an af filiate of Allseas of
+$25 million was terminated by mutual agreement in March as maturity was approaching in the third quarter of this year and no amounts were outstanding.
+However , the maturity of this [ employed ] $5 million Allseas working capital loan was extended to September 2025.
+With that, operator , we would like to turn it over to the line for some Q&A.
+Operator
+[Operator Instructions].
+Our first question comes from the line of Matthew O'Keefe with Cantor Fitzgerald.
+Unknown Analyst
+Thanks, operator . That was a lot.
+So just help me through the DSHMRA  here a little bit if you may .
+So this is a dif ferent -- it's a sort of a dif ferent regulatory body as you've described.
+Your licenses were issued to you under unclosed with your supporting sponsor states. Will the application of DSHMRA  be for these license areas or
+different license areas that are currently? Because I think they have 4 license areas under DSHMRA. Are these overlapping? Or are they separate? How
+is this -- how we supposed to think about this?
+Gerard Barron
+Yes. I'll have a first crack at that.
+So there's an important concept to just for everyone to get in mind around, and that is the freedom of the high seas.
+And so of course, what happens when they were agreeing [ unclass ] was that the United Stations member countries wanted to join a treaty when it came
+to the extraction or development of metals in the high seas.
+However , 168 countries plus the European Union have now joined that treaty . The U.S. stood fast and said we are not going to join that treaty .
+And so essentially , the freedom of the high seas gives you covers minerals, it covers freedom of passage, it covers cable lane and so on.
+And so America will argue that they will have access to those waters under the freedom [indiscernible] treaty that any member country of the International
+Seabed Authority would have over those areas as well.
+We haven't announced today exactly which areas. W e're still in dialogue both internally , and we will, in the preconsultation process that is underway with
+NOAA.
+We will also be seeking some advice there.
+However , what we want to do is to take advantage of all of the work we've done for the last 14 years.
+And so this will not be a -- let's start again. This is about what pathway can get us into commercial production, the fastest way . And as we went at length in
+the presentation to talk about, there's no easy path here on the environmental [indiscernible] either .
+In fact, we think the environmental regulations has laid out under DSHMRA, sensible, workable and very , very thorough.
+And so stay tuned on us to announce once we formally lodge those applications and you won't have to wait long for that.
+Craig Shesky
+And Matt, too, we also recognize just how much of our valuation is pint on the work that's been done with [ Norient ] and we've got a defined resource.
+We've done test mining, we've done test processing, we've done environmental work in those areas.
+So yes, for us, that is obviously the key question, and we look forward to sharing more with you. But this is not something where we're just saying, okay ,
+let's go out and cobble something together . This has been well thought out, and we feel this is going to take advantage of the work that we've already
+done in consultation with our sponsoring states.
+Unknown Analyst
+Okay , okay .
+So more to come there. And can I ask to from a -- maybe this is getting a little too ahead of where we are. But if you were to decide to -- if you do get
+approval through a dif ferent path, your partner , Allseas owns the vessel they're not -- I mean, the vessel is in the U.S., it's not a U.S.-based company or
+maybe it is, I don't know if they have a U.S. arm or not. But I mean, could they legally participate as a partner in this situation?
+Gerard Barron
+Yes, absolutely . Yes. There are some nuances with DSHMRA  and one of them is that the production vessel needs to be U.S. flagged.
+And so we have -- with Allseas already looked into that, and that is a pretty straightforward process.
+And so -- and of course, the applicants that has kicked this of f is our U.S. subsidiary that we established in 2013.
+Unknown Analyst
+Okay . Cool. And maybe I'll ask one more. This is the first of course, investors are hearing of it. Has this idea been raised with the ISA, as they're meeting
+right now? Or is this the going to be -- are they just hearing about this now as well? Like have you...
+Gerard Barron
+Yes they are hearing [indiscernible].
+Unknown Analyst
+Okay .
+Okay .
+So we'll wait for the minutes from meetings tomorrow . I could see some of the reaction.
+Okay . I'll leave it to open to some other questions and if I have another , I'll jump back.
+Operator
+Our next question comes from the line of Jake Sekelsky with Alliance Global Partners.
+Jacob Sekelsky
+Just to confirm, building on the last question a bit. Is the NOAA  process a complete shift in the permitting pathway from the ISA  pathway or more of a
+secondary avenue or primary as avenue alongside the ISA  process?
+Craig Shesky
+Yes, Jake, it's definitely it's a new path, and we view it as advantageous and the best chance of success. But this is not one door closing, another opening.
+This is, in our view , it's an incremental path forward, and we view a better path forward. It just so happens we built on 45 years of work and a bunch of
+environmental work from NOAA, it's just been sitting relatively idle for some time. But the legal precedent is there. It's always in there and what has been
+missing is the political appetite in the United States to take advantage of it. And that's the main change that has come with this administration.
+So there's no new legislation that has to come. There might be some adjustments, I would say , to aspects of the regulations, perhaps as you've seen for
+critical minerals projects throughout the U.S. views about permitting perhaps being accelerated in some circumstances. But this is something where it's
+been on the books for a long time. W e've been missing is the political appetite, and that's what's changed. That's what's changed with the new election.
+So this, frankly , has been a door that opened to us. And after the November election, we engaged in the diligence required to make this decision, and we
+think very strongly , we're making the right decision.
+Jacob Sekelsky
+Okay . That makes sense. In building of f that are you able to provide any color on what this new process looks like, key milestones or even a high-level
+time line? Or is it a bit too early at this stage?
+Gerard Barron
+That will become -- we have a very strong sense of it already . But in respect to the dialogue that's underway with the permit agency now . We'll come back
+to you with more on that. But it's as we mentioned in the presentation, the first thing is it's a 2-way consultation. And that's a really important step forward
+when you're trying to permitted projects.
+And so that's refreshing from our perspective. The fact that we can [indiscernible] the regulator and that there is a formal process, which they outlined in
+the regulations that applicants can follow .
+And of course, the very unique thing about our application and hence, why we talk about a recovery permit as well is that we have all this amazing data.
+We have an application that is coming to completion.
+And so it's a -- and the work is very consistent as follow-on work to what was done under NOAA  sponsorship back in the '70s and '80s.
+And so it's an alignment of stuf f.
+Jacob Sekelsky
+Got it.
+Okay . And then just lastly , with all that being said, and I think, Craig, you touched on this. How does it impact the time line of the upcoming economic
+study? Is this still something we should expect in the first half of the year? Do you think it will spill into later in the year?
+Craig Shesky
+No.
+We are still expecting it to be wrapped up and certainly in advance of our applications to the U.S.
+So nothing's changed on that front. And as we've reiterated, you're going to see the applications in June. It's just now that we have, in our view , some very
+interesting path forward there. But that, obviously , that economic analysis is important for the U.S. as well, not just important for the ISA  application.
+So while the new path obviously brings up additional points that we're discussing with our QPs, it's still on the front burner for us.
+Operator
+Our next question comes from Dmitry Silversteyn with W ater Tower Research.
+Dmitry Silversteyn
+I just want to follow up on a couple of things.
+So first of all, on the [ financial ] impact study , you said you're working on that now . I'm assuming that's going to be completed around or before the time
+you complete the economic capability study and the application submission in June or is this something that's going to happen in the next few weeks?
+Gerard Barron
+Well, the one of the things on our economic study is that a lot of the work has been done. But of course, we were just going through getting experts sign
+off's as is necessary under [ SK 1300 ] requirements and with any [indiscernible]. When it became obvious some of the other options in front of us.
+And so it was deemed that we should just be a little bit cautious around that.
+But the environmental writing is going at full speed. And the environmental data has been flooding in. W e held our last key environmental conference back
+in January in [ Bruce ] Austria. And the team are popping the [indiscernible] pills, working very long hours and very motivated by what they're doing
+because, obviously , it's all of this data that we've been gathering for so many years is now coming together as a comprehensive picture.
+And so [indiscernible] side by side [indiscernible].
+Dmitry Silversteyn
+Understood. I understand. And I just want to make sure I guess, some clarity on the application to the U.S. government.
+So assuming that goes through and you've given an exploitation license, what area are you going to be getting the licensed [indiscernible]? It's not the
+point in the [indiscernible], right? In some other areas [indiscernible].
+Craig Shesky
+As we said, Dmitry , we are going to make that clear alongside the consultations that are ongoing with our sponsoring states. But based on DSHMRA  laws,
+there was a potential for overlap.
+Dmitry Silversteyn
+Okay . Got it. Great. And then you mentioned in the press release that you've terminated your contract with a third sponsor state. What was the thinking in
+that? I know you haven't talked about it a lot in your presentation, it was always sort of a kind of a bad burner or we'll get to it at some point type of a deal.
+But what has changed in that determination now?
+Gerard Barron
+Yes.
+So look, we put that -- we announced -- we'll put that into our filing back in November . And we didn't get a lot of inquiry about it actually until recently , it
+was reported that [indiscernible] talking with China about stepping into our shoes there. Look, it came down to priorities. It came down to the fact that we
+have 2 very prospective blocks in NORI and [indiscernible]. And we had to decide where to focus our resources and those blocks require money to be
+spent on them. They require to lodge 5-year plans and to do work programs. And we had also done some exploration work and some of the results went
+the most encouraging on those blocks. And I think that's one of the things that one needs to remember what the Metals Company has.
+We have a defined resource on the NORI and [indiscernible] ground. And not all license areas are equal. The grades may be very consistent, but the
+abundances are not.
+And so it is generally regarded that NORI and [ Tom ] are some of the very best ground out there. W e know it more.
+And hence, Craig's answer to your question about overlap. There certainly is the prospect of some overlap in that.
+And so yes so our thinking with [indiscernible] was we knew that there were other parties interested to work closely with [ CureV ac ]. Obviously , [ CureV ac
+], they I mean they're a great partner to have, they're a great developing country . They do recognize One China. And it didn't surprise me when I learned
+that some of the interested parties were from China. And I heard the ambassador mentioned that intermediary reports in recent weeks.
+Dmitry Silversteyn
+Understood Gerard. And then last question.
+You mentioned in your comments about your service business getting some inbound inquiries and seems to be well received. Is this something that we
+can expect on results from in terms of revenue and profits in the next, I don't know , 1 to 2 years? Or is this still sort of in the development stage and just
+see how it goes kind of stage?
+Gerard Barron
+Look, we're excited about it. And we have built so much expertise around this industry . And our people are approached all the time with job of fers to go
+and work elsewhere, but they like working at the Metals Company . And they know we do high-quality science.
+I think a lot of the services are focused around the environmental work programs.
+We also know a lot about defining these resources. That part of the business led by [ Tony Sullivan ], we've done more resource definition work than any
+other contractor very , very successfully .
+We also, during the middle of COVID, we ran 9 of fshore campaigns without losing a single day illness. And that's 9 campaigns across 2 years.
+And so these are really challenging tasks, which we have been able to complete very successfully .
+So it makes sense that we keep our team together , keep our team together . We do think that there will be a lot of services opportunities and in the coming
+years, and we want to take advantage of that. And we have some very , very interesting conversations, which can range from pilot mining using the hidden
+gem, which would obviously be something that we would have to collaborate with Allseas very , very closely . And of course, putting the hidden gem or to
+pick up nodules involves a lot of environmental planning as well.
+And so there's some very interesting mix scopes available to us. But of course, today , those people are very busy on our own application.
+And so we have had to turn away some opportunities simply because we need to get this application completed.
+Dmitry Silversteyn
+Okay .
+So it sounds like maybe second half of the year when you have a little bit more free time with your people in equipment.
+Some of these may actually turn into contracts?
+Gerard Barron
+Yes, that's right. Yes, yes, yes. The business development function inside the business is chomping at the bit, whereas the scientists and other people just
+slow down, just we can't take anything more until we get this application out the door .
+Dmitry Silversteyn
+Got it, Gerard. That's a nice problem to have.
+Operator
+[Operator Instructions].
+Craig Shesky
+In the meantime, I think we're going to take a question from the webcast. Eric Goldstein suggest -- ask a question, can we discuss our current finances,
+where do we expect liquidity to be at the end of Q1?
+Did note, roughly $43 million of liquidity at the time of this filing.
+So look, the overall point here is that the element that, in our view , has been holding back the valuation of our stock has been the lack of regulatory
+certainty .
+Our view is that DSHMRA  and along with NOAA  and frankly , the support of this administration and Congress. In our view , it should be pretty clear to
+everybody that this is an industry that the U.S. wants to get into and the good news is they already have the legislation to do it.
+So for us, what we want to do is continue to be very cautious stewards of capital. And if we get to the point where regulatory uncertainty is no longer there.
+And things are moving along at a very fast clip, let's say , through the U.S. process. W ell, that may put in a dif ferent financial position. But what remains is
+what we told the market late last year that we are not going to be raising a lot of money for preproduction, capital spending until such time as we have that
+regulatory certainty . But that doesn't have to be through the ISA.
+We've heard from many investors, look if the U.S. administration took real action here, that could be something to get people of f the sidelines. W e think
+after months of consultations, as you've seen, certainly on social media, Gerard and I have spent a lot of time in the rest of our team, [ Eric viz ] and [
+Kristen Hengstebeck ] and everybody heading down to W ashington, D.C. to have diligent sessions and to make sure that we are kicking the tires on all of
+these legal questions. This was made after many , many months of detailed conversation, including that with our Board of Directors.
+So we view this as a path that can truly unlock regulations and allow us to move forward into commercial production. But it doesn't change the fact that we
+do need to show that regulatory certainty before we're going to be out there raising tons and tons of money and spending it on preproduction capital.
+So that perspective on our finances has not changed, and that's why we've had some modifications to our credit facilities to kick out maturities and ensure
+that they are rightsized for what we need to do to get these applications over the line. But the basic spending and what we need to do to get the
+applications ready doesn't really dif fer that much from what was necessary to prepare for the ISA  and that's important because we've already front-end
+loaded much of that work, and we've done the test mining. W e've done the test processing, and we've also done all of the environmental research
+campaigns.
+So from a financial perspective, I would say we are looking forward greatly to the point when these applications are over the line, and we can show the
+market that regulatory certainty , frankly , that's been missing over the last few years as a public company .
+Operator
+I'm showing...
+Craig Shesky
+Yes.
+Sorry , Liz, is there anything else on the line for questions?
+Operator
+No phone questions at this time.
+Craig Shesky
+One more question actually from the webcast.
+Somebody asked, they're not clear whether or not we're going to submit an application contract on June 27 with the ISA. Gerard, do you want to reiterate
+what we said on that?
+Gerard Barron
+Well, we have -- what I will say is what we said earlier in the call, and that is we will keep our standing with the ISA, and we will preserve our rights there.
+We will have an application ready under June 27 but we are undecided where that application will land. But the decisions that will drive that permitting
+certainty .
+Craig Shesky
+Okay . Well, I think that's it for the conference call today . Perhaps we'll turn it back over to Gerard for any closing remarks.
+Gerard Barron
+No, I'd like to thank everyone for attending today . I'd like to thank my team and my board for the support, our partners who work with us and our
+shareholders who have been amazing supporters on this journey as a public company and before that as a private company . And we're greatly
+encouraged by all of the stars aligning right now and the environmental results coming through are of fering us tremendous encouragement. And I hope
+this news will be able to see this industry in production and supply metals with the latest planetary in human touch as quickly assumably possible. Thank
+you very much.
+Operator
+This concludes today's conference call. Thank you for participating.
+You may now disconnect.

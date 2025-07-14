@@ -1,0 +1,364 @@
+SurgePays (SURG) / 12 Nov 24 / 2024 Q3 Earnings call transcript
+Company Profile
+ Transcript menu
+Doug Lane executive
+Kevin Cox executive
+Anthony Evers executive
+Brian Prenoveau executive
+Curtis Shauger analyst
+Andrew Scott analyst
+Michael Diana analyst
+Edward W oo analyst
+Operator
+Good day , everyone, and welcome to the SurgePays' Third Quarter 2024 Earnings Conference Call. [Operator Instructions]. It is now my pleasure to turn
+the floor over to your host, Doug Lane, Investor Relations at SurgePays. Sir , the floor is yours.
+Doug Lane
+Thank you, operator , and good afternoon, everyone. W elcome to the SurgePays' Third Quarter 2024 Earnings W ebcast and Conference Call. Today's date
+is November 12, 2024, and on the call today from SurgePays are Brian Cox, President and Chief Executive Of ficer; and Tony Evers, Chief Financial
+Officer.
+Before we begin, I'd like to remind everyone that this call may contain forward-looking statements as they are defined under the Private Securities
+Litigation Reform Act of 1995. These statements are subject to certain risks and uncertainties that could cause actual results to dif fer materially from those
+expressed in the forward-looking statements.
+For a discussion of such risks and uncertainties, please see SurgePays' most recent filings with the SEC. All forward-looking statements made today
+reflect our current expectations only , and we undertake no obligation to update any statement to reflect the events that occur after this call. Copies of
+today's press release are accessible on SurgePays' Investor Relations website, ir .surgepays.com.
+In addition, SurgePays' Form 10-Q for the quarter ended September 30, 2024, will also be available on SurgePays' Investor Relations website. And now
+I'd like to turn the call over to President and Chief Executive Of ficer, Brian Cox.
+Kevin Cox
+Thank you for joining today's call and for your continued trust in SurgePays. Today , I'm excited to share our progress in advancing our core business
+strategy since the af fordable connectivity program ran out in May .
+While there is optimism that ACP may resume when the political landscape allows, as we discussed on our last call, we are not and never have been an
+ACP-only company .
+This quarter , we've channeled all of our energy into realizing our core mission and positioning ourselves for a transformative growth phase. W e anticipated
+a challenging third quarter , and we seized it as an opportunity to reset, recalibrate, and accelerate. With every team member intensely focused, we're
+advancing toward our goal of becoming cash flow positive as quickly as possible. It's been all hands on deck, aligning sales, integration, and strategy to
+generate new revenue streams across each of our business segments.
+This quarter wasn't a setback, but a setup, priming us for long-term sustainable growth.
+We are now at a turning point where our business summary aligns with our business plan and the flywheel ef fect takes hold.
+Over the next few months, we expect each of our 4 business segments to create a momentum that drives continuous growth and improvement, generating
+synergistic and scalable recurring revenue.
+As we expand our footprint, our business model becomes increasingly relatable to investors.
+As revenue climbs, we foresee growth in technology and telecom-based valuations, unlocking new potential for shareholder value. At our core, SurgePays
+is a pioneering financial technology and telecommunications with a single mission to enhance connectivity and financial access where people live, shop,
+and work. W e serve convenience stores, bodegas, and retail local hubs nationwide, delivering prepaid wireless services, financial products, and advanced
+point-of-sale solutions to those high-need markets. This is an enormous underserved sector , and we are at the forefront. By seamlessly blending
+telecommunications and fintech on one unified platform, we create an experience that meets customer demand while building a powerful reoccurring
+revenue model. SurgePays operates through 2 primary business segments, both strategically tailored to meet diverse customer needs and engineered for
+mutual growth.
+Print
+Here's how we do it. Number one, Mobile V irtual Network Operator Telecommunications, or MVNO. This segment includes our subsidized wireless and
+retail prepaid wireless brand, LinkUp Mobile. Number two, platform services. This includes our SurgePays prepaid top-ups, software, and ClearLine Point
+of Sale software as a Service or SaaS. Each segment is independently robust, yet both integrate to maximize synergy and scale. W e're not here for
+incremental wins. W e're building a nationwide network that redefines access to essential services. With a backbone of convenience stores, bodegas, and
+neighborhood locations, we bring connectivity and financial products directly to the communities that need them most.
+While we've made substantial advancements across our 4 business areas, our subsidized MVNO channel has demonstrated the fastest economic
+traction, largely through the af fordable connectivity , ACP. From the inception of ACP in August 2021 until funding concluded in April 2024, we generated
+$0.25 billion in FCC-backed revenue, directly fueling our growth initiatives and enabling us to onboard 280,000 MVNO customers. In response to the
+funding shift, we took strategic action to partner with a Lifeline provider , aiming to migrate as many of these customers as possible and accelerate our
+profitability trajectory . With ACP funding ending, our immediate focus was on how to retain and preserve these hard-earned customers within the
+SurgePays' ecosystem. Leveraging our solid balance sheet, we chose to temporarily self-fund our MVNO operations, prioritizing customer continuity while
+facilitating a seamless transition to Lifeline, another government-subsidized program. By maintaining connectivity for our low-income customers, we made
+a socially responsible choice and a strategic one that positions us for long-term economic returns, and we expect this decision to be both customer-
+centered and financially astute in the long run.
+Our recent master service agreement with TerraCom, Inc., a licensed Lifeline provider , represents a pivotal step. This partnership allows us to migrate
+280,000 subscribers to Lifeline, establishing a steady alternative subsidy channel. In tandem, our sales teams are now actively engaging new customers,
+reigniting growth initiatives, and leveraging our SurgePays platform point-of-sale capabilities at convenience stores.
+While ACP remains uncertain, our subsidized revenue channel is robustly supported by the Lifeline program. The team and platform built for ACP is now
+enrolling thousands of Lifeline customers daily without distracting from our core business focus.
+As a matter of fact, this department has been somewhat overwhelmed and we've had to hire additional employees in the sales onboarding team. W e
+believe our Lifeline subscribers can far outpace our highest ACP subscriber total. Meanwhile, our retail prepaid brand, LinkUp Mobile, has proved to be a
+more significant opportunity than initially anticipated, and to capture maximum market share, we moved decisively to secure a direct carrier connection. In
+the coming weeks, we'll announce a transformative agreement with the largest wireless network in the country , which will enable us to go to market at
+scale with full-featured wireless plans and enhanced margins. W e anticipate this partnership will enable us to quickly generate hundreds of thousands of
+new subscribers and establish LinkUp Mobile as a formidable presence in the prepaid space. The team is already working on the integration with a soft
+launch imminent and a full-scale rollout planned for early Q1 2025.
+On the software front, our SurgePays prepaid top-up platform is experiencing exponential growth as a critical element in store readiness for LinkUp Mobile
+activations.
+As a prerequisite to link-up activations, stores join our platform, which also facilitates prepaid reloads or top-ups. This channel's monthly revenue growth
+has surged nearly 400% in just 5 months, reaching over $2.2 million in monthly revenue, a trend we expect will continue as the market demand intensifies.
+Our ClearLine point-of-sale SaaS platform is emerging as a high-potential asset within SurgePays. This advanced platform redefines the in-store customer
+experience by transforming POS terminals and customer-facing screens into interactive engagement tools. ClearLine's patent-pending application
+supports in-store marketing campaigns, loyalty enrollment, and QR code interactions, ef fectively replacing traditional posters with smart TVs for dynamic
+QR code advertising and instant coupon redemptions. By enhancing revenue per store and elevating customer satisfaction, ClearLine of fers retailers
+actionable insights driving growth and loyalty .
+As a SaaS solution compatible across various devices, ClearLine has strong market appeal and will become a valuable revenue generator for SurgePays.
+It opens new pathways for our wireless channels and brings in its own reoccurring revenue stream.
+Following years of development, ClearLine is now ready for market deployment. And as it gains traction, we anticipate it will contribute meaningfully to
+consolidated revenues by Q1 2025.
+While we continue investing across our 4 business channels, we're also laying a robust foundation for rapid, sustainable growth. Recently , we opened a
+dedicated sales and operations center in El Salvador , a project over a year in the making and a strategic move in anticipation of growth across all our
+verticals. Nearly 100 experienced team members previously outsourced are now full-time SurgePays employees, bringing continuity and expertise
+essential for our ambitious expansion and product launches. This new facility marks a pivotal evolution from our long-standing outsourcing strategy ,
+enhancing customer relationships and maximizing sales opportunities and ef ficiencies. Positioned as the central hub for all 4 business channels, it is set
+up to support our growth and by 2025, will be integral to launching Hispanic products into the market. In the third quarter of 2024, SurgePays reported
+$4.8 million in sales, aligning with expectations for our first full quarter without ACP funding since mid-2021.
+Our MVNO revenue was $23,609 compared to $30 million in the same time frame last quarter , reflecting an anticipated funding shift. Meanwhile, sales in
+our Prepaid Platform Service segment surged 69% to $4.7 million, showcasing significant growth momentum.
+While this quarter's financials may not fully capture our strategic advancements, it was a pivotal 90 days of foundational growth. I believe our disciplined
+approach will eventually yield substantial returns, rewarding shareholders as we build toward market leadership.
+Now I'll turn over the call to Tony to review our financial results before summarizing today's call. Tony?
+Anthony Evers
+Thank you, Brian, and good afternoon, everyone. I will begin my overview of the third quarter's financial results.
+For the third quarter , we reported revenues of $4.8 million compared to $34.2 million for the same period in 2023, representing a decrease of 86%. The
+decrease was primarily due to the shutdown of the ACP funding program, which ceased as of June 2024. Similar to the first and second quarter of 2024,
+we received no revenues from our lead generation services in Q3 of 2024 versus $0.7 million received in the third quarter of 2023, again, as a result of
+operational changes by management. On a positive note, the platform service revenue for the third quarter of 2024 was $4.8 million compared to $2.8
+million in the same period of 2023. This increase is the direct result of our new sales director hired earlier in the year . Gross profit swung to a $7.8 million
+loss in the third quarter from a $10.5 million profit in the year-ago period due to the shutdown of the ACP federal funding and our strategic decision to
+utilize our strong balance sheet to protect our previous ACP subscriber base and distribution network while we transition the base over to either a
+nonsubsidized MVNO business model, LinkUp Mobile, or into another subsidized program Lifeline.
+Additionally , the deemphasis of our lead generation business resulted in lower gross profits in that segment as well. SG&A  expenses increased by 97%
+year-over-year . The increase was primarily due to additional noncash stock compensation for management. This stock compensation relates to
+employment agreements signed in late 2023.
+We also had additional expenses for contractor and consultant fees. The company continued to engage several contractors to overhaul the financial
+platform to allow for the conversion to a tablet-based transaction at the store level on the outdated V eriFone terminal. The company also engaged with
+consultants to provide advisory services, specifically in the area of investment relations to identify opportunities to increase our shareholder value. Loss
+from operations was $14.3 million during the third quarter compared to a $7.1 million profit in the year-ago period.
+Our reported net loss and loss per share were $14.3 million and $0.73 per share loss.
+Our loss and loss per share were adversely impacted primarily by the ending of the federally funded ACP.
+Turning to the balance sheet, liquidity and cash flow .
+Our cash, cash equivalents, and investment balances as of September 30, 2024, were collectively $23.7 million compared to $38.4 million at the end of
+the second quarter .
+Our cash from operations was $13.4 million used in the third quarter versus $90,000 used in the second quarter , a large negative swing due to the winding
+down of the federally funded ACP and our continued servicing of the subscribers for the third quarter of 2024. Accounts receivable increased slightly by
+$100,000 in the third quarter to $1.5 million from $1.4 million at the end of the second quarter .
+Given our cash balance and capital structure, our cash allocation priority is in financing the transition of our subscribers to either LinkUp Mobile or Lifeline
+and the continued emphasis of establishing our LinkUp Mobile brand. I will now pass the call back to Brian for some closing remarks.
+Brian Prenoveau
+Thanks, Tony. At SurgePays, we're driven by 4 pillars of success: team, product, distribution, and funding. With what I believe is the most seasoned team
+in prepaid wireless, a market-leading product suite, proprietary distribution channels, and $24 million in cash, cash equivalents, and investments
+collectively as of September 30, 2024, we're positioned to execute our growth strategy with precision. W e're only beginning to tap into a vast market
+opportunity .
+Our foundation is built on diversified products, a solid infrastructure, and strategic partnerships, all aligning us for rapid expansion.
+Our focus on high-growth sectors in telecommunications, fintech, and retail solutions targets an underserved market with immense potential, guided by a
+mission to deliver af fordable quality services to communities.
+Our unique approach to problem-solving is our moat, a lasting competitive edge. SurgePays is dedicated to creating enduring value by meeting essential
+needs in a way that others can't. Thank you so much for your time today .
+We will now open the call to questions. Operator?
+Operator
+[Operator Instructions] Your first question is coming from Curtis Shauger from W ater Tower Research.
+Curtis Shauger
+I think the main impetus here is around all the new initiatives, very exciting to see against the tough backdrop of staf fing with ACP. Can you give us any
+more details on what the renewed expectations about getting back to breakeven? Do you have enough experience now in converting folks to Lifeline in
+terms of what the ef ficiency is, what the cost associated costs are, and then also what you're yielding in terms of return to when investors can kind of see a
+path to cash flow breakeven?
+Kevin Cox
+Yes. Curtis, thank you for the question. I appreciate it and it's a good one.
+Let me do my best to navigate that. There are a couple of points to make on that because we do look at things through the lens of getting back to cash
+flow positive as we hopefully stressed as fast as possible. That's priority one. And the point of least resistance to do that and the purpose of retaining
+those ACP customers was to migrate them over and utilize the platforms that we had already built to be able to put those on Lifeline and be able to
+maximize those subscribers.
+So right now , what we're seeing, and I think we had referenced this in a previous press release is between 2,000 to 3,000 a day some days more than that
+are migrating over . And that's a mix of existing ACP customers that we've reached out to that have opted into Lifeline and also new subscribers. W e've got
+some online ads going.
+As a matter of fact, the online ads have been so successful that we actually had to shut them down last week because we needed another reload, as we
+talked about earlier , a reload of people to help with the sales. I was expecting about 30% to 45%. W e're seeing over 50% right now of the initial people we
+get in touch with coming over to Lifeline. At this time, we're over 70,000 folks that have enrolled on Lifeline. And my obviously , immediate goal is to get
+back to that 280, 300 number . To put it in perspective, if you're looking at the average Lifeline revenue per customer , there are five to seven states that
+have some additional money , but the average revenue is going to be $9.25. Again, you've got certain states that have an additional $5, $7. California's
+revenue is actually very similar to ACP, which is why hopefully , we'll be in California in the next week or so. W e've also got 50,000 of our legacy base in
+California. It's a good spot for us. But if you wanted to do simple math, our average cost is going to be in the $5 to $5.5 range for those customers, and
+we're going to be getting $9.25.
+So if you look at it from a simple shape, colors, and stacking blocks perspective, our goal would be to get to that 250,000, 300,000 as fast as possible. And
+then cash flow-wise, we should be covering our overhead. And as the other divisions of the company kick in and especially as we talked about LinkUp
+Mobile. LinkUp Mobile, as again, we talked about it, I sat in the room and listened to folks ask questions, these master agents who are responsible for tens
+of thousands of activations a month. W e listened to their needs, and there were a couple of things that we didn't have access to that if we could get it, for
+example, number portability , which is kind of a new thing in the prepaid market. Historically , porting your number over didn't mean anything to prepaid
+folks.
+Now it does because now people are starting to get more digitally inclined to keeping their numbers. W e didn't have that capability before.
+We will have that here shortly .
+So those types of things are what lead us to believe, #1, we're going to have more Lifeline customers, most likely significantly more than ACP customers.
+The reason is kind of like the bubble gum shrimp, there are not many people left in the Lifeline business. It's not like ACP, where the people were
+everywhere coming out of the woodwork. Lifeline is a business that's been around for a long time, and there's only a few good players and good actors in
+the business.
+So we feel like there's less of a choice, and there are a lot of people who lost their ACP service that are now great potential subscribers for us. And then
+we look for the LinkUp subscribers, as we talked about, start kicking in, in January .
+So, what I would look at, I'm going to give some subscriber counts as we go. W e're going to embed those in some of these announcements that we have
+coming up. But I think what you can look for is by the end of the year to have that number closer to 200,000. And at that point, we should be getting closer
+to that black number that you're talking about, and then we can really start building from there. But the 200,000 would be my sweet spot, I believe, in
+Lifeline to get us right close to breakeven from a cash flow perspective.
+Operator
+Your next question is coming from Andrew Scott from SLS.
+Andrew Scott
+The gentleman that asked the question before me was the same exact question I was going to ask.
+So, I won't hold up too much time, but I think everybody is focused on how you can minimize the loss from operations. W e see what you're doing with
+Lifeline. And to your last comment, how you're going to put out some metrics on upcoming press releases.
+I think that's going to help the street track the progress you're making.
+So I'm encouraging you and supporting you to do that. But it sounds like things are lining up. And I don't know if you go out and say it yet, but it seems like
+the worst is behind you now and you're making progress. Any other guidance going forward in the future that you're comfortable with or what we should be
+looking for?
+Kevin Cox
+Yes. No, Andrew , I appreciate the question and the opportunity to address that as we talk about often on these calls, we get a lot of questions from
+shareholders, fund managers, and sophisticated folks who look to build their own model of where we are, what we can be and then the valuation in the
+future.
+And so that's been one of my focuses in the past year or two is thinking through the fact that almost everybody who works or deals in the stock market is
+banked.
+So, the underbanked is a part of the world that they're not familiar with normally . And the market opportunity , the problems in that market is not something
+they see on a daily basis.
+So, while that will continue to be our focus, we're shifting some of the phraseology that we use so that we can have better , more -- I'd say , more consistent
+touch points with shareholders so that there's not a confusion in what we do. When you start talking about shareholder value and you start talking about
+the things that we will be putting out there moving forward, and that was one of the rewrites of our business plan even up until the last week or so, where
+we're going to consistently moving forward, talk about our four segments.
+We have our telecommunications segment, which the market understands. W e've got the prepaid and subsidized. There should be models there,
+especially once you start getting into the beef of Q1 and once we're able to utilize this new contract where our rates are even better than what we've had
+in the past four or five years, our capabilities are better and our ability to service people and capture more of a market in the prepaid, where we can
+actually become a name in the prepaid space. that's going to be something that people can build models around.
+So, I think that will be where we get traction.
+On the other hand, when you look at our customers, our customers in the telecom segment are end users, people holding a smartphone, people that talk
+on their phone that access the Internet, that use that for their -- everything from the wallet to the communications. That's our customer in that segment. In
+our Software Platform segment, our customer is that end-user retailer , the store, the point of sale, the Bodega, the convenience store, the gas station.
+You're going to see us be able to talk about that, which now that we're talking about point-of-sale software, now we're utilizing, again, phrases that I think
+people can start building their model because they're familiar with those terms.
+You're going to see a reduction in our use of underbanked in those types of words because I think we lose people, even though that is true to this
+community , I think we lose people on it.
+So, from a messaging standpoint, we're going to really start focusing on our subscribers from subsidized and prepaid wireless and then our point-of-sale
+Software-as-a-Service reoccurring revenue through contracts and subscriptions from the store.
+So I think we're going to see some good feedback from that and hopefully get some traction in the market from that. And especially as we start showing
+this incremental increases in our revenue, pushing through profitability , and then showing that, look, we have 4 segments that are -- in some way , it's
+almost like a hydra. From a leadership perspective, they're siloed of f. But from an operational synergy perspective, because we have the op center in El
+Salvador , they can all grow together .
+For example, we sign up one store to do link-up activations. W ell, as you heard on the call earlier , by default, they're doing top-ups.
+Now they could also have access to the ClearLine app, which can be really helpful to that store owner marketing a store. They could also help people who
+qualify with Lifeline. Any one of our 4 segments are foot in the door , those other 3 segments come with it. It's almost like you have 3 dif ferent or 4 dif ferent
+codes to lower the draw bridge, you get in, and now you could deploy your whole suite of products.
+So that was kind of the methodology behind the entire business plan going back to 2017 when we put this together . And that's what I meant when we said
+early on in the call today that for the first time since we've been in existence on the public side of things, our business plan matches our business
+summary .
+So that's why even though Q3 was what it was, we knew what it was going to be financially , and we knew you had to pop the hood to see what really went
+on. And hopefully , we're able to do that on this call. But that paved the way for what we're about to do now with the team.
+So it's kind of interesting.
+Our team -- and I've never been around a team that's excited and then you put that on top of the talent level that we have. It's pretty exciting. Outside of
+calls like this where you talk about the financials in Q3, everything we're doing right now has got a whole lot of energy associated attached to it.
+Operator
+Your next question is coming from Mike Diana from Maxim Group.
+Michael Diana
+Yes.
+So you guys have been incredibly busy . Starting with the prepaid platform. About how many convenience stores do you have right now?
+Kevin Cox
+About right now , we're still hovering at that 8,000 to 9,000 range. And now from a perspective of growth, that number this time next year should be
+exponentially more just based on what's on deck with ClearLine, what's on deck with LinkUp, and the prepaid top-ups.
+So that is one thing that should be coming on very , very heavily as we move forward, and then also some potential acquisitions of companies that do
+nothing but top-ups or international top-ups.
+Michael Diana
+All right. And the $4.7 million in revenue from prepaid, was that all top-ups?
+Kevin Cox
+It was mostly top-ups, yes.
+Michael Diana
+And you mentioned also that you're doing $2.2 million a month in top-ups. Is that like a run rate now? Or do you expect that to go up a lot?
+Kevin Cox
+No, that's a -- well, it's the run rate right this second, but that's going to go up every month as we're bringing on these masters who bring on their networks.
+I expect that to be over $3 million in December alone and continue -- now it won't continue forever 5 years from now , doing $80 million a month, but it will
+continue to the point where I expect that to get up over $10 million to $12 million later in the year next year because now not only are we doing top-ups,
+but we're also doing top-ups for our products as well, our LinkUp Mobile. And keep in mind that one of the reasons you see that kind of growth is because
+when you add that store and you start to get those top-ups, then you add more stores. I mean it's that compounding revenue momentum.
+Michael Diana
+So you're saying you expect $10 million to $12 million a month in top-ups by the end of '25. Is that?
+Kevin Cox
+December next year , I expect that to be about where we are in top-ups, yes.
+Michael Diana
+Moving on to Lifeline. How many -- compared to ACP here, how many people qualify for Lifeline?
+Kevin Cox
+That's a good question. I probably should have put that in the script. It's an identical sister plan, if you will, and it would be approximately the same number
+of people. And just as a backdrop to that, it's anyone who's already receiving any form of government assistance, whether it be EBT  food stamps,
+Medicaid, veterans pension, low-income school lunches.
+Now there are some states that have a few dif ferent ones, but that's going to be your primary , which was the same primary for ACP.
+Michael Diana
+And I guess it wasn't as big because people like you couldn't make much money before on it. Otherwise, I mean, logically , it would have been as big as
+ACP.
+Kevin Cox
+No, that's a good question. There were Lifeline providers that were strong in certain states like Oklahoma, California, Kansas, Kentucky , states that had
+extra money . And if you would ask me starting from 0, you and I go out today , and we're going to do a business and do Lifeline. Does it make sense to buy
+devices, pay commissions, kickstart that ROI, come out of pocket, and get that ROI on a customer and build a business that way? It'd be very dif ficult. But
+since we've already paid for the device, since we've already paid the commission, that's why retaining those customers was so important because by
+migrating them over , there is no ROI. W e're able to -- while we may not make as much money as we did on ACP, we're able to retain that value and go
+right back to making money . Even if it's $4 a customer , we're able to go back to making that $4 a customer , and we have no ROIs today as opposed to the
+historical Lifeline ROI is going to be about month 4, maybe month 5, and we're able to bypass that.
+Michael Diana
+And then I think the number you've been using the last few years for how much it cost you per month to provide the service is roughly $10.
+So I assume your new deal with your direct carrier is what's going to lower it to $500 to $550.
+Kevin Cox
+Yes. Yes, the new deal. And then also the carriers to their credit have been sensitive to the fact that we maintained our subscriber base. W e don't have to
+get into the weeds, but subscribers are good for all underlying carriers.
+So the fact that we retain them, they have opened up other plans and other ways for us to save money . But ultimately , yes, our direct carrier connects by
+January should reduce that cost below $5 and enable us to deliver that same product where we get paid $9.25.
+So our margins by February Q1 next year should -- I'm not going to say double but should be substantially higher .
+Michael Diana
+Higher than -- I mean double from $4?
+Kevin Cox
+No, our cost should be closer to $4 at that point, which would put our gross margin just a hair above $5.
+Michael Diana
+So your LinkUp, have you really started that yet? Or are you waiting for this direct carrier connection before you do that?
+Kevin Cox
+No, we started it and then tapped the brakes. Like I said, I was actually sitting in on some of those meetings, and I heard the opportunity . And then LinkUp,
+we've got somewhere between 30,000 and 40,000 customers, but those are the smaller masters that we allowed to go ahead and start bringing on some
+numbers to test our systems internally . But it was definitely a massive throttling by us because we wanted to be able to go out there and there is
+something to be said for your first impression. And when somebody pulls a door and brings you into a wireless store, if you're unable to do certain things,
+you're going to immediately be labeled and most likely relegated to the corner . We didn't want that. And we've got some folks out there that we think we
+can get some significant traction with and get LinkUp well beyond 100,000 activations a month. And we just saved it. W e saved the boom. W e saved the
+fireworks, if you will, for when we could come locked and loaded.
+So that 35,000 customers is proving out our systems. It's proving our ability to activate, to ship SIMs, to deactivate, to take payments, to communicate with
+the carrier . But what we don't have the ability to do right now is certain things like throttle after a certain amount of data and there are port numbers as we
+talked about. And those are 2 things that we need to be able to compete at the highest level to go head-to-head with the brands that you see on TV.
+Michael Diana
+So I assume your cost for LinkUp is going to be the same as for Lifeline.
+You say you can get it down to about $4. How much are your plans going to cost your main LinkUp plan?
+Kevin Cox
+Yes, good question. The LinkUp plans will actually be and they should be considerably more profitable than Lifeline. And now the plans will cost us a little
+bit more, but our revenue, we're not going to be selling $9.25 plans out there.
+You're going to be looking at $15, $20, $25, $30, $40 and $50.
+One of the unique things about our company , we have the ability to see payments, millions and millions of dollars in payments for all of our competitors.
+So we already know that the most popular plan out there is a $30 payment.
+Now, psychologically , we all believe it's because it's just 2 pieces of paper . It's a $10 and $20.
+You throw it down $30, there's your phone service.
+So psychologically , it's an easy payment. And that plan should cost us around $15 to $17.
+So you could almost keep out your old ACP pencil because the margins and the ROI and the mechanisms we use to deploy that most popular plan, if you
+will, will be about the same.
+So that will be what we start rolling out there towards as soon as it's tested. Again, it's a first impression thing. W e got to be really , really careful. The
+wireless distribution world is not forgiving and you don't get a second chance.
+So that's why we're actually -- we're soft launching here, as we talked about in a couple of weeks, but hard launching full throttle in January . And those
+should be the margins we expect to see. And I'm definitely going to keep everybody in the loop once that comes around of this because we're really
+excited about this.
+So I want to start talking about the subscriber growth. And then, by then, we should be talking in black numbers as well.
+Michael Diana
+And the LinkUp, the 30,000 to 40,000 LinkUp customers you have now , how much are you charging that?
+Kevin Cox
+The plans are from, I believe, $15 to $45, $50. Until January , not spending a whole lot of time in the analytics on that because it's just proving out. My
+focus, personally , has been on the Lifeline integration and getting everything set up, getting our guys down in El Salvador , getting our team set up, making
+sure we're able to take the incoming from all the stores coming on, the customers coming on because keep in mind, as we're adding these customers for
+LinkUp, it's not just a government paid for product anymore.
+We have to earn people's money . And it doesn't matter how much it is. It may be less than mine in your wireless bill, but we still have to earn it. And it's a
+different customer service approach when you have to secure that payment every month.
+So those are all the things we've been building. I've been spending a whole lot of time on that. But yes, you're looking at the ballpark with LinkUp right
+now. I would say still the same thing, the average $30 to $35 a plan.
+Operator
+Your next question is coming from Ed W oo from Ascendiant Capital.
+Edward W oo
+I know it's only been a week out since the elections, but there seems to be a little bit of optimism in the economy . What are you hearing from your end
+customers, the convenience stores, the bodegas who are on the feet of dealing with these underserved, underbanked customers? Do you sense any
+sense of optimism? Or do you feel that things are about the same and it's still going to be tough, which is ultimately kind of good for your business?
+Kevin Cox
+Yes.
+I think being in this business almost, gosh, going on 25 years now , a lot of the folks in this 30% of the market -- you know when you're in the ocean and a
+wave is coming, which kind of represents the ebbs and flows of the economy , you drop below the water level and that wave doesn't af fect you a whole lot.
+That's really where our market is. It sits below that water level.
+Now, the interesting thing is when times get a little bit tough, more people move or transition into our potential market. Those are people that may need a
+little bit of help, maybe more value-conscious. When things get tight, people get more value-conscious.
+Now they're open to changing their wireless care. Their subconscious starts paying attention to opportunities to save money . That benefits us.
+I think from as far as directly from the election and optimism we could tell in a week, I think that would take a while to see that. And obviously , talking to
+convenience store owners, that's not something that we've jumped out and asked. And also in the political world we live in now , let's not jump around. I
+don't want to -- you never know because, I mean, we don't want to of fend half the country .
+So we've got to be careful how we approach things. But I think I would say this, the one thing that's going to be very interesting from the political change
+that's coming is J.D. V ance was the lead senator who authored the extension was a huge proponent of the ACP program.
+For those of you that may not know , he grew up on food stamps and had situations where he was on government sit.
+So it's unique now you have a super powerful Republican who's a huge proponent of these types of programs of keeping people connected and these
+subsidy programs.
+So there's optimism from a regulatory standpoint in companies like ours where that optimism lies. And one of the reasons why Lifeline is important to us,
+and we've made this move from a Chess perspective if you will. W e think that there's going to be funding come back for the connectivity of customers
+similar to ACP, but it's going to be an enhanced Lifeline product. It won't be the traditional ACP. It will be Lifeline providers will be able to provide it, and it
+will be an enhanced extra subsidy amount per month to cover the bandwidth that Lifeline doesn't cover .
+So that $925 could go back up to $25 or $30.
+So that's what we're going to keep our eyes on. And again, we're not going to bank on that per se, that would be 100% welcome and fantastic, but that's
+not what we're going to bank the company . We're going to bank on $925 and anything beyond that would be gravy .
+Operator
+Thank you. That completes our Q&A  session. Everyone, this concludes today's event.
+You may disconnect at this time, and have a wonderful day . Thank you for your participation.

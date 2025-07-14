@@ -1,0 +1,748 @@
+Oklo (OKLO) / 13 Aug 24 / 2024 Q2 Earnings call transcript
+Company Profile
+ Transcript menu
+Sam Doane executive
+Jacob Dewitte executive
+Richard Bealmear executive
+Vikram Bagri analyst
+Jeffrey Campbell analyst
+Graham Price analyst
+Operator
+Good day , everyone, and welcome to Oklo's second quarter 2024 earnings and business update webcast. [Operator Instructions] Please note, this call
+may be recorded, and I will be standing by if you should need any assistance. It is now my pleasure to turn the conference over to Mr . Sam Doane,
+Director of Investor Relations. Please go ahead, sir .
+Sam Doane
+Thank you, operator . Good day , everyone, and welcome to Oklo's inaugural company update and earnings.
+Joining us today are Jake Dewitte, Oklo Co-Founder and Chief Executive Of ficer; and Craig Bealmear , Chief Financial Of ficer. Oklo's Q2 earnings were
+announced after market close today .
+You can find the shareholder letter and supplemental slides on the Investor Relations page of our website. The information discussed during the course of
+our remarks and the subsequent Q&A  session includes forward-looking statements, which reflect our current views of existing trends and are subject to a
+variety of risks, assumptions, estimates, uncertainties and other factors that could cause actual results to dif fer materially from such statements.
+You are urged to carefully read the forward-looking statements language in our shareholder letter and supplemental slides.
+You can find a discussion of our risk factors, which could potentially contribute to such dif ferences, in our most recent filings with the SEC. Oklo assumes
+no obligation to update these statements, whether as a result of new information, future events or otherwise, except as required by law . I'll now turn the
+call over to Jake Dewitte, Oklo's Co-Founder and Chief Executive Of ficer. Jake?
+Jacob Dewitte
+Thanks, Sam, and thank you all for joining us today . I'm excited to share our quarterly update and provide some insights into the progress we've made
+over the past quarter . By way of introduction and a little bit of background and history in Oklo, the company was born largely out of the view that there is a
+significant amount of opportunity with advanced nuclear technology . Personally , I grew up in New Mexico. I was born and raised there, and born and
+raised around the technology accordingly . And that's where I fell in love with it from a very young age. It was something that felt like it was from science
+fiction, but it was actually real. The fact that you can take an atom and split it and harness the strong nuclear force and produce 50 million times more
+energy than a conventional hydrocarbon oxidation reaction is crazy to me. It's always been crazy to me. It still is today , but it's real. This is real technology ,
+and it's been with us for over 80 years at this point.
+So I knew I wanted to work on it from a young age, and I had a unique set of experiences to be around the technology . In high school, I got hired into the
+nuclear weapons program, and I got a chance to learn a lot about it from that point. And from there, I got a chance to springboard into a number of
+different facets of the industry , from academic and government R&D to licensing and procurement on the fuel enrichment side to reactor -- commercial
+reactor design and R&D as well as research projects on the academic side, touching conventional large light water reactors as well as next-generation
+advanced reactors. Along this path, I started to see a clear picture of what I thought was the case. When I went into it, which was new technologies, we're
+going to be, what, ushered in some of these new areas of growth for nuclear . But that was only part of the story .
+In fact, it was much more oriented to fundamentally needing to do some new things in the space.
+What I observed was an industry that had fairly radically stagnated in how it did things and approached things. And there was a ton of opportunity to
+rethink about how you could approach taking new nuclear technologies to market.
+So that led my co-founder Caroline and I to think about and ultimately start a company centering around 3 major pillars that we saw were really important
+to catalyzing significant changes and opportunities in the industry . Those centered around taking, first, a dif ferent approach on the business model;
+second, a dif ferent approach around the size of the reactor; and third, a dif ferent approach around technology .
+So to kind of pick at those things really quickly , first, on the business model side. This is a really important dif ferentiation point for us from how things have
+been done and are done, generally speaking, across the industry .
+Typically , the nuclear business model, from a reactor design perspective, has involved designing a reactor to about 80% or so completion, maybe
+designing the power plant to something between 50% and 80% completion, and then going of f and trying to license out that design to your customers,
+asking them to then take the baton, to then complete the design, to then permit it, to fight it, to build it, to own it and to operate the plant. That puts all of
+the burden on the customers, and it's a highly frictional process. W e found that people really wanted the wonderful attribute that nuclear power af fords.
+Print
+So we decided to take a dif ferent approach.
+So early on, we -- a view of asking the question, what would make it easier for people to buy what they really like about nuclear technology? In other
+words, how could we make it easier for people to buy what they wanted? And so that led us to ultimately follow into an opportunity that's built on what
+renewables had done very well for a long time, which was design, build and operate the plant ourselves and then just sell the power through power
+purchase agreements.
+That has significant benefit because it's aligned with what customers want, perhaps that's the most important thing. And we see that reflected in how our
+customer interest and customer order book has grown and is growing.
+Additionally , we also see reflected in the significant benefits that come to the company with this kind of recurring revenue model.
+And so those things are significantly enabling and accelerative to us as we think about how the future of nuclear needs to ultimately evolve.
+Additionally , we wanted to take a dif ferent angle on size. W e didn't want to start at bigger size ranges like a few hundred megawatts or even hundred
+gigawatts like today's plants. Instead, we wanted to start as small as we reasonably could so that we could have a technology that could service the
+market of reasonable size and grow into.
+So not so small that it's kind of like a toy or niche system like a few hundred kilowatts or so, but actually big enough so that you could service a large
+market and grow into it.
+So we found a sweet spot at about 15 megawatts, and that's allowed us to change the paradigm from needing billions of dollars to capitalize the plant and
+get it operational, to only needing a few hundred million dollars.
+So that's allowed us to significantly change the paradigm to how you take new technologies to market. And finally , we took the approach of pursuing what
+we see as a best-in-class economic potential from a technological perspective.
+Specifically , we're working on what's called the liquid sodium-cooled fast reactor technology . That means we use liquid sodium as the coolant. W e do that
+because it's a technology that has a huge amount of potential with a really rich history of development behind us.
+As a society , we've built and operated more than 25 of these plants around the world. W e've gained over 400 combined reactor years of operational
+experience. W e've learned what works, what doesn't work, and we know how to take this technology ultimately into the market. In the U.S., we notably
+pursued a pathway of ultimately developing and demonstrating this technology in 2 meaningful ways, so in 2 plants. One was a plant in W ashington State
+called the Fast Flux Test Facility and the other was a plant in Idaho called EBR-II. At Oklo, we most directly build our lineage and legacy of the EBR-II
+plant, which was just under 20-megawatt fast reactor that sold power to the grid, ran for about 30 years, demonstrated superior operating characteristics,
+to its temporary commercial light water plant at the time, while also demonstrating the amazing features it had from an inherent and passive safety
+perspective that can af ford plant design simplification and, therefore, cost reduction as well as the ability to recycle fuel. Altogether , these are significant
+enabling benefits. W e like sodium because it operates at high temperatures without being pressurized. It's compatible with common alloys. It allows us to
+tap into existing value and supply chains. And from there, we have the ability to leverage the technology that ultimately has best-of-breed economic
+potential in our eyes. Not only are we building on a mature technology base that's behind it, the nuclear regulatory commission has had experience in
+sodium fast reactors.
+We also have peers in this space that are developing sodium fast reactors, like TerraPower who's developing sodium fast reactor but at a larger size. The
+progress made by them, the progress made by us, all gives us a pretty clear line of sight for how the NRC can review and evaluate sodium fast reactor
+technologies, and it has a long history of technology development and technology maturity behind it.
+A fun little fact is most people often talk about advanced reactors or Gen IV reactors that's going to be milestones. They're the first one to do some
+milestone coming up. The reality is the first reactor that actually produced usable electricity in the United States was a liquid metal-cooled fast reactor
+named EBR-I. It was the earlier predecessor of EBR-II, and it first produced usable electric power back in 1951.
+So we're ultimately , at Oklo, very excited to build up on the legacy of this technology and stand on the shoulders of the giants who came before us that
+developed it to the spot where we can now move this technology forward.
+So specifically , we're implementing this and what we refer to as our product of fering of the Aurora. The Aurora product line is designed to scale to 15- and
+50-megawatt of ferings today . And we're also evaluating a 100-megawatt or larger of fering that we're developing.
+The core focus of the business at this point is developing the 15- and 50-megawatt plants. They look very similar . They share the same fuel types and
+materials and cooling types, just slightly dif ferent sizes and packaging. And we do that because we've been focused on being responsive to where
+customer interest and demand has been. And that's led us to these 2 size points to start. This technology is basically a way to make heat.
+So when you split an atom, you're ultimately just producing heat, but then conducts through the fuel, through the structure, and then it's convectively
+removed by the coolant.
+So we use sodium as that way to move the coolant from the fuel then up to ultimately boil water .
+You can also use this heat product directly , which often opens the door for industrial heat processes. And we operate in a temperature range, which allows
+us to service the vast majority of heat markets that are available today .
+It also has some interesting connection points for advanced cooling technology , which, in a sense, funny . But thermal-driven cooling technology has a lot
+of promise, especially for scaling data centers. Technologies like absorption chilling has some significant upside in the data center market, and we're pretty
+excited about how that can integrate with our system.
+Aurora powerhouses are designed to maximize the use of materials, parts and labor from nonnuclear supply chains. W e develop and design this
+technology in a way to take advantage of these benefits because sodium gives us the ability to operate at high temperatures without being pressurized.
+It's compatible with commonly available alloys like stainless steel alloys, such as 316L  and 304L, in form factors that are similar or identical to components
+available in other industries, such as oil and gas or food and beverage or chemical.
+That's great because we can then tap into existing value and supply chains to ultimately deliver these systems. The ability to utilize existing supply chain
+components allows us to leverage nonnuclear supply chain, which operate at much higher volumes and of fer more diverse options that come at lower
+cost. This approach significantly enhances the economic scalability of our technology , and that's one of the reasons we're so excited about is economic
+potential.
+By leveraging the energy density of fission, Oklo's Aurora powerhouses have immense environmental benefits. It creates a pretty favorable technology
+platform that looks quite a bit dif ferent than what nuclear has been used to looking like, if you will, and that was a big focus of ours. W e wanted to focus on
+something that has aesthetic appeal while also of fering something that has functional benefits from a constructability perspective.
+So because of those benefits, the nuclear sector is receiving unprecedented support from all levels of government.
+This quarter has seen some pretty exciting developments, including the signing of the ADVANCE Act, but this builds on years of significant support at a
+federal and a state and an international level.
+One of the big benefits, legislatively , for nuclear , frankly , one of the biggest in the last few decades was the passage and signing of the ADVANCE Act. And
+that just happened within the last few months. This is a significant piece of legislation that drives towards support for Congress and also support from this
+administration that has clearly been in favor of propelling and advancing nuclear technology .
+To bring forward several major legislative developments and policy support levels to basically support and scale the deployment of nuclear , this includes
+enhancing and modernizing NRC licensing and review time lines as well as speed structures. It also supports driving forward accelerated deployment
+models, creating opportunities to enhance demand signals and demand indicators from the government as well as aligning the NRC mission towards more
+successful and ef ficient scaling of nuclear technology . There's a lot more we can talk about what the ADVANCE Act does, and we will continue to do so,
+but we're quite excited about what this positions the industry to be able to actually do and drive forward the deployment of new technologies going
+forward. Oklo is one of the most extensive regulatory engagement histories with the Nuclear Regulatory Commission or the NRC. Accordingly , we find
+ourselves very well positioned to benefit as an early mover with the regulatory side.
+We've been the longest-engaged non-light water reactor company with the NRC, dating back to starting to work with them back in 2016. W e've had
+several significant milestones along the path there and are positioning ourselves to do pre-application readiness assessment later this year , spanning into
+submitting our next application early in the next year , followed by subsequent applications thereafter . Oklo's integrated build, own and operate business
+model enables an integrated and streamlined licensing pathway that's a bit dif ferent from what the industry does otherwise. An important feature for our
+business model as well as our licensing plan is taking advantage of a regulatory approach that allows us to do all of the licensing we need to do to get a
+commercial operating license in one step.
+In other words, you can take a lot of steps to get to what you ultimately need, which is a commercial operating license, and some of our peers are taking a
+process where they go apply and get a construction permit. After that, they can go build the plant, and then apply to get an operating license. After which,
+if they get the operating license, they can then commercially operate the plant.
+Others are taking an approach where, instead of being the owner-operator , they're designing the plant to get a design certification or something similar to
+that like a standard design approval, then after that, going out and then working with their potential customers who then need to go through the actual
+licensing process to get a commercial operating license themselves.
+So that means their customers still have to go get a commercial operating license even if a reactor design company has a design certification. Because
+that's only a piece of what you ultimately need to get a commercial license. And it's not needed to get a commercial license.
+So the design certification is not regulatory approval, but it's a step towards ultimately submitting an application that you're asking your customers to do to
+get that license.
+For us, we don't do any of that. W e just go straight to the combined license approach. This is largely because of what we're doing on the business model
+side. W e're owning these plants. W e're not just trying to sell the designs or license of f the design.
+So that means you go straight into licensing and allows us to build and operate our plants, which then sets the stage for us to then pursue this one-step
+licensing process and have the benefits of repeatability that this framework allows. One really important thing that's been developed in the past when they
+were developing these regulatory frameworks was the ability to subsequently license additional plants in an expedited and more ef ficient manner . What
+that means is that after you've licensed your first plant, you get a combined license for that first plant. That becomes your reference license. Then every
+license you submit thereafter becomes a subsequent license. In other terms, your reference license becomes your reference combined license, and then
+your subsequent license becomes your subsequent combined licenses. That benefits us because those subsequent reviews on the subsequent license
+applications are only focusing on the things that have changed from the reference application. That has significant benefits in terms of accelerating and
+reducing review time lines while also allowing us to scale rapidly into follow-on plans.
+So on the design side, our product road map includes 3 reactor sizes to meet customer needs based on what we're seeing in the customer market, and
+that spans megawatt to gigawatt-scale deployments. What's great about this is it also positions us to have the benefit of spanning across a bunch of
+different markets according to these size of ferings. W e've long known that there's not a one-size-fits-all design in this space. Instead, we wanted to start as
+small as we could for the aforementioned benefits but then have a pathway to scale using the same technology .
+So we are currently of fering a 15-megawatt and a 50-megawatt plant and are also developing a 100- to 200-megawatt plant as well. These are all very
+similar-looking technologies as we scale up, but just slightly bigger from a physical footprint.
+We are targeting 15- and 50-megawatt ranges to start because based on the feedback we've seen from our customers, that's a really great size range to
+be in to meet their needs. The numbers are very large around the opportunities to service some of these customers in these markets, especially with what
+our business model is, which is designing and owning and operating these plants and selling power to the direct customers.
+So when we talk about providing power directly to energy users, these sizes of fer a good entry point to a number of dif ferent markets, and these projects
+can be quite large when they aggregate together . The reality , too, is that data centers are making up a vast majority of the market opportunity we see in
+front of us. And while the numbers are very large around those opportunities, especially around the larger-scale AI-purpose data centers, these projects
+are not being deployed all at once at a 1-gigawatt or multi-gigawatt scale. Instead, they're ramping into it. It's phased growth through a development
+process. And when you're talking about these facilities as they grow up, they also need to have the ability to have power that meets their needs at, which,
+in other words, is something that is always on, it was a high availability and high reliability . That means they need to have something that of fers them that
+kind of n-plus-one generation footprint so that they are more or less confident to get the energy when they need it and how they need it.
+In other words, you're going to build more power capacity as you ramp up with your customers, which is a really exciting thing for us given our size. W e're
+uniquely positioned to do it, but it also allows us to grow with them as they build out their overall footprint and they meet their customer needs and,
+therefore, need more energy as that goes forward.
+The important thing about this, too, just to emphasize this one more time, is that we can build up to match where our customers are going as they grow
+their order book and their demand in a phased way while also building an extra reactor that is providing power on standby for them when they need it.
+Because at the end of the day , we have to take some of our plants of fline every once in a while to service them or refuel them. That means we can deliver
+that full freight power solution for our customers and do so in a way that's economically attractive because we're not too large to do so.
+So our size is really in that sweet spot that matches very well with both the growth and the n-plus-one requirement that our data center customers have.
+And to dive a bit deeper on the data center side, one of the things that stood out to us and our engagement with potential customers is learning about what
+their energy needs really look like. W e're finding that data center or data center campus is often made up of a number of data halls, as we like to call them.
+Those data halls are whatever built out kind of in building block fashion to fill out an ultimate facility or campus. W e're finding that most of the data halls
+today that are being planned are planned to consume between 35 and maybe 50 megawatts each.
+So each company has a dif ferent architectures and dif ferent approaches. But we're seeing that there's a significant amount of upside and opportunity
+around where those data halls are.
+We also see some development that's on the smaller size, power chunks between 10 and 20 megawatts.
+So at the end of the day , that gives us a really good position in the market to service a dif ferent range of power levels.
+So in summary , when we think about our size and our project opportunities, we're matching very well with how do we see data center markets and other
+industrial markets developing.
+As we look at the market today , based on the conversations we have with our partners and customers, we see that the ranges of power needed on a site-
+by-site or project-by-project or even sort of data center phased development project basis, they're typically looking at needing power between 10- and 20-
+or between 30- and 50-megawatt chunks while also needing that high reliability of power .
+Our ability to scale with them means we're really well positioned to build up. This positions us quite dif ferently than if you were to go in and say , let's build
+one plant to provide all the power for a facility . That's been hard to of fer an n-plus-1 dynamic because you would significantly have to overbuild your
+capacity .
+So in this illustration, if you had a 500-megawatt project, to build 2 500-megawatt projects, to provide n plus 1, that would be a lot of stranded capacity .
+Whereas for a 500-megawatt project, we could build 10, 50-megawatt plants with then an additional 50-megawatt plant, so 1 1 total, to of fer that n-plus-1
+reliability while also of fering the same amount of power .
+Additionally , as customers build out, they are probably going to need 500 megawatts all at once. They're going to need it over time, and at that time might
+be a ramp-up of 2 or 5 or more years.
+So they might start by needing 50 and then 100 and then 250 and then 500 megawatts in total as they scale forward. W ell, that's great because we can
+build up and match that with them. That also gives us the benefit of ordering parts for the reactor and components of the reactor in volume just to meet
+one project, very dif ferent dynamics than building one plant to purposely fill that. And if you built that 500-megawatt plant to fill that demand, you have a lot
+of stranded capacity while your customer would ramp up. That challenges some of the economics accordingly .
+So our model really works well to match where we see data center development moving as well as other industrial users and other power users.
+So with that, I'll go ahead and hand of f to our CFO, Craig, who's going to take it over and talk to you about our business model. Craig?
+Richard Bealmear
+Thanks, Jake.
+As we highlighted at our Investor Day presentation back in February of this year , Slide 15 shows how we have developed and are implementing a
+business model with 5 key attributes that can be seen on the right-hand portion of this slide, namely: recurring cash flow from power purchase
+agreements.
+We expect these contracts to be at least 20 years in duration, which supports our build, own and operate business model.
+Second, capital-ef ficient approach to asset deployment, enabled by the size and technology foundational pillars Jake discussed earlier . Over time, this
+should allow us to reduce cost and asset construction time through purchasing economies of scale as well as ef ficiencies that should come from deploying
+essentially the same asset over time.
+Third, these 2 factors should generate attractive asset returns on their own.
+In addition, we look to deliver upside to those returns by accessing Investment Tax Credits or ITCs and utilizing project financing against the long-duration
+PPAs.
+Fourth, longer term, we are working to deploy fuel recycling technology , which should have the dual benefit of providing enhanced security to our fuel
+supply chain and potentially reduce our fuel cost by over 80% versus the cost of fresh fuel. And finally , a strong balance sheet to enable growth. Post the
+completion of our merger with AltC, we believe that we are now well capitalized to execute our business plans, which should be a significant competitive
+advantage. Slide 16 reflects that we expect this approach to asset and capital ef ficiency to create a strong position for our business in terms of our overall
+delivered levelized cost of energy or LCOE. Initially , we expect our first-of-a-kind or [ full act ] LCOE to be approximately $90 per megawatt hour . This
+figure should improve as investment tax credits, scale economies and improved project execution capabilities are utilized across our business.
+The overall ability to produce power 24 hours per day and at a high capacity factor should make our overall LCOE very competitive versus other clean
+energy alternatives.
+Finally , I would note that this chart does not reflect the potential upside that can be achieved through the deployment of fuel recycling technology .
+Moving on. One question we've been asked is how we plan to capitalize the business going forward.
+One of the benefits of the extremely low level of redemptions from our merger with AltC is that not only does it put us in a great position to execute our
+business plan, but it also means we can be strategic as we develop and implement a go-forward financing strategy .
+Moving left to right on Chart 17, you can see that, over time, we expect to utilize Oklo's equity in the form of cash on the balance sheet to finance
+anywhere from 25% to 35% of our projects, with the remaining 65% to 75% being financed potentially through a mix of project financing, tax equity
+structures and the DOE's loan program of fice.
+We are currently assessing each of these options across a number of lenses, and we'll provide further updates as our plans mature.
+As we have discussed at numerous investor and analyst meetings, we believe it is clear that there is significant untapped demand for the clean, af fordable
+and reliable power that nuclear , in general, can deliver and that is ideally suited for Oklo's build, own and operate business model.
+On Slide 18, we see 4 macro trends that are providing tailwinds to our industry , which include increasing electricity demand, decreasing electricity
+capacity , grid reliability challenges and decarbonization targets.
+Moving to the next slide. The impact of this growth at the macro level is providing increased demand for Oklo's clean, reliable, af fordable of fer, as reflected
+on Slide 18.
+As we have previously discussed, we are targeting customers across the 6 market sectors reflected on this slide. In the 12 months, we have made
+announcements across each of these sectors with the exception of master planned communities, but we do have commercial discussions underway with
+customers in this sector as well. Overall, we believe the strong level of customer interest and traction demonstrates the applicability for our Aurora
+powerhouses across a variety of use cases and should create a very strong pipeline of business to underpin sizable revenue growth.
+As reflected on the left bar on Slide 19, at the time of our announcement of our merger with AltC, we noted that we had over 700 megawatts of business
+that had been signed to a combination of memorandum of understanding and letters of intent. Since that time, we have made new announcements in the
+data center market sector of Equinix and W yoming Hyperscale as well as an announcement with Diamondback Energy in the oil and gas sector .
+These more recent announcements have also served to demonstrate our customer-oriented approach, whereby we look to deploy 50-megawatt
+powerhouses to meet the needs of those customers. I would also like to point out that this customer momentum is continuing. May 10 was not only Oklo's
+first day of trading on the New York Stock Exchange, but also a day where we saw sizable inbound inquiries from customers looking at our power from
+Oklo.
+As such, we expect to make more customer announcements during the remainder of 2024. I would now like to turn back over to Jake.
+Jacob Dewitte
+Thank you, Craig.
+As we talked about a bit before, we have seen significant advantages with respect to our timing in the market as well as our product of fering. After closing
+the business combination with AltC, we raised a significant amount of capital through that process, leading to a well-capitalized balance sheet to now
+execute against our plans.
+We are uniquely positioned in the advanced nuclear industry with respect to being the only company that has the site use permit to build our first plant in
+Idaho National Laboratory , a site use permit from the Department of Energy and having fuel that was competitively awarded to us from Idaho National
+Laboratory , both received in 2019. And that's on top of the significant regulatory traction we have to date.
+Additionally , the dif ferentiation with respect to our business model, our size and our technology make us well positioned to capitalize on a significant
+amount of opportunity in the market space building up today .
+Over the course of the next few years, we have a couple of exciting milestones to look out through. And as we think about the growth of the company ,
+we're excited about the transition from turning our first plant on into growth and scale from there.
+Between now and 2027, we'll be working to deploy our first plant in Idaho National Laboratory . This is a fully commercial plant, and it's a plant that we
+have a site use permit for , we have fuel for , and we have significant regulatory traction around. In parallel to this, we'll also be developing plants in other
+areas and other sites to meet our growing customer needs, and looking forward to ramping up our growth after 2027.
+Over the course of the first and second quarters of this year , we had several major milestones. W e closed the business combination and started trading on
+the New York Stock Exchange. W e achieved a significant regulatory milestone with the Department of Energy with respect to our first fuel fabrication
+facility . We're continuing to advance our project in Southern Ohio and entered into land agreements to deploy 2 plants there.
+We signed an LOI to supply 50 megawatts of power to Diamondback Energy in the Permian Basin in Texas. W e signed an MOU with Atomic Alchemy , a
+radioisotope production company , to collaborate on isotope production, particularly with the use of our fast neutrons as well as the radioisotopes that are
+coproducts from our recycling facilities. W e partnered with W yoming Hyperscale to deliver 100 megawatts to its data centers. W e achieved significant
+milestones with Argonne National Laboratory , one of the leading experts in sodium and liquid metal fast reactor technology , involving the use of the state-
+of-the-art thermal hydraulic testing facilities.
+We also established what we announced earlier today , our preferred supplier agreement for steam turbine generator products and services with Siemens
+Energy . We're very excited about this partnership because it is a validation of our business model and our approach that we can leverage suppliers that
+make components for other purposes that we can directly use in our system. What we're buying from Siemens looks very similar to what they make for a
+fossil-fired plant, and we're very excited about our partnership with them going forward.
+We also continue to make progress to put in place numerous supplier contracts that would be critical to the deployment of our first Aurora plant at Idaho
+National Laboratories, and for our supply chain that will be required to deploy a fleet of powerhouses. Contracting is underway for site preparation and fuel
+fabrication at INL, which we expect to ramp up during the remainder of 2024 and beyond. In most cases, we are at the commercial negotiation stage with
+key vendors, and hence, are limited to the details we can provide at this time.
+In addition, we recently announced that we have finalized our preferred supplier agreement with Siemens Energy , who will be providing steam turbine and
+generator technologies as well as services for our fleet of powerhouses. W e believe having an agreement with such a recognized name as Siemens
+Energy is unique for our industry and a testament to the type of partnership arrangement that our business model unlocks, not only for Oklo, but for our
+key suppliers.
+Additionally , one of the exciting parts of this business is what we can do on the recycling front. Fast reactors have a unique ability to recycle used fuel, and
+we've been actively pursuing this to diversify our fuel supplies and capitalize on the benefits of fuel recycle. This approach not only improves fuel
+economics but also opened up additional revenue streams from the sale of coproducts generated during the recycling process. This is the technology that
+has been demonstrated before, and that is, in fact, already operating at a small scale at National Laboratories.
+Our work with Argonne and our Department of Energy Partners has been focused on furthering the development of this technology to prepare for
+industrialization and scaling up operations. W e had several milestones in the last quarter , notably demonstrating the successful end-to-end recycling
+process with Argonne National Laboratory .
+We also continued to advance our regulatory engagement with the NRC and are submitting white papers and holding preapplication meetings in several
+key topic areas.
+Finally , I mentioned this before, but we were also excited to advance and announce our strategic partnership with Atomic Alchemy , the company working
+on producing radioisotopes.
+Our partnership entails work on using the fast neutrons we produce for radioisotope production as well as partnering with them to process coproducts from
+the recycling facility that can be packaged and then sold into various industrial, medical and other markets.
+So going forward, we look forward to keeping the market up-to-date on our progress in 6 major areas: reactor licensing progress, customer pipeline
+development, project execution, the development of fuel recycling, strategic partnerships as well as financial updates.
+So with that, I'll hand it over to our CFO, Craig, again. Craig?
+Richard Bealmear
+Thanks, Jake. Both Oklo and AltC are very pleased with the outcome of our merger , which closed on May 9, 2024. Slide 27 demonstrates several of the
+key outcomes of this transaction, whereby a record 0.002% of redemptions translated into gross proceeds of over $300 million. After associated fees, over
+$276 million in cash moved on to Oklo's balance sheet, that is being used to fund our business. W e believe the attractive pre-money valuation of $875
+million, which also included the Equinix prepayment for power , as well as the straightforward nature of the deal that resulted in one class of common stock,
+with no warrants or pipe, were also critical drivers of this successful outcome.
+As part of our public of fering, as seen on Slide 28, Oklo established a new world-class Board of Directors with individuals with backgrounds in defense, oil
+and gas, power generation, capital markets and artificial intelligence. This deep expertise will benefit Oklo as the company executes on its business plan
+to deliver its vision. Oklo was also lucky to have an experienced management team with a broad spectrum of backgrounds from large Fortune 500
+companies as well as relevant government agencies, including the U.S. Department of Energy and nuclear-focused research institutions such as the
+Idaho National Laboratory .
+Moving to Slide #30. W e know that there have been some questions post the close of our transaction regarding shareholder lockups. Post deal
+completion, our total outstanding share count is slightly over 122 million shares. Of those outstanding shares are co-founders as well as our Chairman and
+the AltC sponsor are under multiyear lockups that include an early release mechanism for share price appreciation with triggers set at $12, $14 and $16
+per share. These lockups represent approximately 34% of total shares outstanding.
+In addition, we have a few early-stage investors who are subject to 180-day lockup from the transaction date, that equates to roughly 1 1% of shares
+outstanding. All other original investors did not have lockups, which were, therefore, freely tradable on May 10, which resulted in no sizable overhang on
+the stock.
+Moving on to our financial highlights. Year-to-date, Oklo's cash used in operations sits at $17 million, made up of a net loss of $53.3 million, of fset by $38.9
+million in noncash impacts, the main drivers of which I will highlight momentarily .
+At the end of second quarter , cash and marketable securities were $294.6 million, primarily driven by the $276 million in proceeds, net of fees, received at
+deal closure. Year-to-date, our operating loss of $25.1 million included $9.2 million of noncash stock-based compensation expenses, which was primarily
+driven by a onetime fair market value adjustment of $7.8 million related to earn-out shares that would be payable to Oklo staf f, who have vested options at
+the time of deal closure.
+Full year 2024, our operating loss expectations are still in line with our prior guidance of $40 million to $50 million that was noted in our Super 8-K filing.
+Our year-to-date net loss of $53.3 million included noncash fair market losses of $30 million associated with the safe note revaluation and $7.8 million
+losses in stock-based compensation. Both of these noncash adjustments were required leaseback closing interests. Further details on our second quarter
+and year-to-date results can be found at the end of these materials and in our 10-Q that will be posted to the Investors section of Oklo's website.
+Post the filing of our 10-Q for second quarter , we are looking forward to several upcoming investor events, including Canaccord Genuity's Annual Growth
+Conference and Citi's one-on-one Midstream and New Energy Infrastructure Conference, both of which will occur later this week.
+In addition, we are scheduling an Ask Me Anything session with our executive team for later in the month of August.
+So finally , to close and to emphasize the points made during this conversation. W e believe there are 6 factors that make Oklo such a compelling
+investment proposition.
+First, technology in size that is based on a proven fast reactor approach that we look to deploy at scale to reduce complexity , cost and time to delivery .
+Second, an attractive business model that is customer-oriented and enables recurring revenue and profits.
+Third, superior economics that look to deliver power and very competitive levelized cost of energy . Fourth, a diverse and growing customer base with
+interest across 6 market sectors. Fifth, a streamlined approach to regulatory approval, underpinned by our combined license application process that
+leverages years of experience in our work with the NRC. And finally , a well-capitalized balance sheet that positions us well for the implementation of our
+business strategy . With that, I would like to thank you for your time, and Jake and I will now open the call for questions.
+Operator
+[Operator Instructions] And we'll go first to V ikram Bagri with Citi.
+Vikram Bagri
+A very thorough update from the letter , presentation, release and prepared comments. Appreciate the color . To start of f, a very impressive increase in
+pipeline from 700 megawatts to 1.35 gigawatts now . The letter size, the AltC merger as one of the drivers of the increase, I was wondering like what led to
+this meaningful increase in the pipeline? Is it due to more visibility from the merger?
+Is it driven by data center AI power needs? Or more liquidity now that you have to actively engage the customers and/or progress on regulatory front? If
+you can identify what's sort of like driving this level of interest, and what sectors are majorly contributing to this demand?
+Richard Bealmear
+Sure, V ik. It's Craig. I can take that.
+So the growth from 700 megawatts to the 1.3, 1.4 gigawatts was really the result of the things that we announced between deal announcement and deal
+closures.
+So that would be the Equinix transaction, W yoming Hyperscale, Diamondback Energy .
+But what we did see on May 10 is -- Jake's phone started to ring of f the hook and [ Brian Goetz' ] phone started to ring of f the hook, with even more
+customers expressing interest. But I think there probably was an element of some of those customers wanting to see if the deal would close and at what
+level the deal would close. And once it did, I think that gave them confidence to progress business development conversations.
+So I would actually think that as those conversations progress, and when we do an update in the third quarter , that 1.3 to 1.4 gigawatt, we could be in a
+world where that figure could be higher . And we'll continue to work on those announcements or those deals with customers, and we hope to have more to
+announce in the coming months.
+Vikram Bagri
+And then on a related note, the slides mentioned that you're looking at converting a lot of these letter of intents into PP As later this year or next year . I was
+wondering if you can talk about how many of these cases are you doing site evaluations? How are you thinking about doing site evaluations? And then
+how are you incorporating fuel costs in your PP As? When you convert these LOIs into PP As, will fuel costs be passed through?
+And then finally , we've seen significant increase in capacity prices in recent auctions.
+If you can also talk about the PP A rates that you're seeing in the market, it seems like those should be higher -- much -- meaningfully higher than what you
+had indicated at the time of the merger?
+Jacob Dewitte
+Yes. Thanks, V ikram. This is Jake. It's a good set of questions, a thoughtful set of questions.
+I think from a regulation perspective, we're excited about seeing it kind of a pool of LOIs that then set the stage for us to start working with each of those
+customers as well as others in the pipeline that are coming forward to then identify basically site-specific considerations that move into the PP A negotiation
+process.
+So right now , we are actively looking at site exploration around several of the partners we've announced about where -- not just where to go, but where on
+their specific sites of land that they already have, make the most sense to deploy .
+So we're going through a characterization process there.
+We have a methodology we've developed and we've been working on basically executing against with our partners to identify what makes the most sense
+for their needs and for our needs.
+So those things all then play into then the specific PP A terms and pricing development. And otherwise, we try to put this forward at least at that stage to
+make sure we're all working in the same direction, but then that will help sort of fine-tune what's to be expected based on the specifics that evolved during
+the actual PP A negotiation process. PP A negotiations takes a long time.
+So we're excited to be in those discussions with several groups, and we're excited about more kind of continuing to integrate into that space. That said, in
+terms of the question around fuel costs, I think what we're seeing in this pie for the other part of your question, which is, right now , energy pricing is quite
+constructive to what we're doing because there's a significant demand uptick, of course, for a lot of reasons.
+To your earlier question, if you look at the 650 megawatts we brought forward and announced here over the second quarter , 600 of those megawatts were
+for data centers.
+So that is, I think, a somewhat reasonable approximation for the breakdown in customer input -- or engagement that we're seeing by sector . But
+accordingly , we're seeing, obviously , demand, limited supply for power that's constructive to us, of course. It allows us to monetize these benefits and have
+some leverage in that case, which is great.
+But since fuel is a scarce item for everybody in the nuclear side, scarce is the wrong word. Since fuel is a pricing -- I would say , volatile pricing input for
+everything in the nuclear side right now , especially for new advanced plant, we found that there's an openness to fuel cost pass-throughs. And we have a
+unique advantage in the fact that as we pursue recycling, it also opens the door for our customers to be quite open to having the discussion of fuel cost
+pass-through if they can also then get the benefit of the fuel cost savings if recycling comes online -- when and if recycling comes online.
+And so that creates a pretty , I think, favorable dynamic for us so that we can not get hung up early on necessarily with some fuel pricing volatility , but have
+a pathway to get to market. And then that helps us drive the case for deploying the art of recycling even thinner , which then helps us deploy more reactors
+and lower cost altogether .
+Vikram Bagri
+I have a couple more and then I can jump back in the queue. I was wondering if you can share, Jake, how many prefiling discussions you've had so far?
+And the letter indicates the first plant will be by 2027 versus the previous expectations of in 2026 or '27. I was wondering if I'm reading too much into the
+language or there is a slight delay in the time line? And if you can just share how those conversations are going and how many hours of conversations
+you've had so far?
+Jacob Dewitte
+Yes. lots of conversations with the NRC.
+I think the latest tally in our side is we've had -- we've submitted about 55% drop in technical reports to NRC dating back through our engagement starting
+since 2016. W e've had over 500 technical and planning meetings.
+So a lot of engagement.
+We continue at a pretty regular pace. W e're meeting on average for a few hours once every couple of weeks right now as we ramp into the pre-application
+readiness assessment to then go forward. that's helping us and the NRC make sure we define the scope of what we expect out of the readiness
+assessment appropriately and move forward from there. One really significant feature, but puts a lot more work on companies, but again, I think it's a
+significant feature is the flexibility that the NRC has in terms of how you can ultimately get a commercial license from pre-application all the way through
+licensing.
+So there's a huge menu of items you can choose from. And what's nice then is each company can kind of pursue the path that makes the most sense for
+them. And for us, that works very favorably because of our business model, we're going straight to build and operate.
+We have straight to the license to actually build and operate the plant as opposed to taking steps to get like a design certification and they then have to go
+through the process we're going through or take the steps to get a construction permit and then get an operating license. And then we do it all at once,
+which has some significant ef ficiencies for us.
+And then similarly on the pre-application side, as we ramp into preparing for submitting the application, you can do all sorts of things in that pre-application
+process to make sure you're moving forward, you're sort of retiring the risk as the company engaging as a pre-applicant accordingly . And getting the right
+feedback with the NRC and helping the NRC accordingly prepared for a review .
+So it's highly iterative. It's highly dynamic. W e're engaging with them on the reactor front as well as now on the fuel recycling front and the larger scale fuel
+fabrication front.
+So a lot of activity there. But at the end of the day , we're working to basically be in a position to submit an application as soon as we reasonably think we
+can get to, which is in next year , sort of looking at having that application go in next year , followed by subsequent applications to come in, in the latter part
+of next year , depending on the time lines of how those PP As and other things develop to then have several and staggered review .
+And that's a big feature for our model as well as the benefits that come from having multiple kind of in a staggered parallel review path.
+In terms of the time line, I would say when we announced the deal, we were looking at '26, 2027. Kind of that was built somewhat under the context of us
+closing the deal and with the possibility that we could close the deal in 2023. Because that ended up happening closer to the midpoint of 2024, I think
+that's where it kind of delayed some of the deployment of the full capital to then start executing fully against that.
+So it kind of fully shifted us towards the 2027 date.
+Additionally , there are some other factors that are on hand with respect to how we're working through on the supply chain, the site development and all
+those other pieces. But so far , those have largely been moving forward reasonably well. It's nice for our first plant that we have fuel awarded and allocated
+to us. W e're not subject to some of the supply limitation for that first plant.
+Of course, we will be for our subsequent plan.
+So that's why we partner with interest and others to actively work through that. But it's nice to take some of that risk for your first plant of f the table, which
+is a big deal for us.
+So that's how -- that's kind of why the time line is pretty firm up on the '27 date than '26 is, is really just isn't really achievable from the perspective of when
+the deal closed in '24 versus when there was a possibility of a closing in '23.
+Operator
+[Operator Instructions] W e'll move next to [ Thomas Meyer ] with Janney Montgomery .
+Unknown Analyst
+Congratulations on all the success here.
+Just wanted to start out on EBR-II. The question is really around capacity factor of [indiscernible] cool fast reactors. And what does the data suggest as
+you've reviewed it that [indiscernible] cool fast reactor can hit on a real-world capacity factor basis? And I'm asking just kind of with the perspective of we
+have a long, deep history of operating large light water reactors at 90% and 92% capacity factor , and it took us a while to get there. And how should I think
+about the time it will take for your Gen4 reactor to get to capacity factors in the [ 90 ]?
+Jacob Dewitte
+Yes. That's a great question. And actually a real fun, little nugget of information. That's not the easiest thing to pull out. W e developed all these amazing
+things in the nuclear industry that came out starting back in the '50s and '60s, of course, on paper .
+So all of the great records of history and operations and all these things were largely paper-based for EBR-II and for prior fast reactors as well as the
+[indiscernible] is the plants we kind of most directly drive technical legacy and learning from is kind of the latest iteration, if you will, from prior development
+in the U.S.
+The reason I point out that they were on paper is it makes accessing that less scalable historically speaking. There's been a big ef fort and digitize all those
+records, which has been great. W e've been pushing forward on that. W e've been working and very thankful for the work that the National Labs and the
+Department of Energy is going to do that because that stuf f is a treasure trove of information and data. But one of the great things that kind of stood out to
+this and one of the things that when I learned it back around the formation of the company was kind of mind blowing in a positive sense was EBR-II and
+FFTF , both liquids and cool fast reactors actually achieved superior operating capacity factors and operating characteristics, then commercial light water
+plants at the time were achieving.
+And to me, the thing -- that's great, and there's reasons why . But what was even more like incredible about that to me, was that both of those reactors,
+their job was not to produce power . Their job was actually to test materials and fuel.
+So they're moving stuf f in and out of the reactor at a high cadence, at a high frequency , means you're shutting it down, turning back on, shutting it
+intentionally doing all of that and they still beat what was going on the light water side. And there were contributing factors you can pull out more
+information from occupational dose rates, other things like that, that can af fect and dictate sort of operational timing and maintenance timing and how you
+work around the plant and what you can service in the plant while operating and without having to take the plant of fline.
+All of those things were actually generally speaking, lower than what you were seeing commensurately at commercial light water plants.
+And a lot of the use in here kind of sort of design and, I would say , benefits of [indiscernible] infrastructure technology , the fact that it showed you could do
+those things was a huge validation point that you could achieve commensurate, if not superior operating capacity factors. At the end of the day , I think we
+can slightly beat, we can get up into the mid-90s.
+I think is a trajectory we can get to potentially as we build out and get a lot of experience. It's going to take some time to get there, though, because like
+you pointed out, we have tons of operational experience with light water reactors. And while none of that is directly applicable to us, but not all of it is.
+But thankfully , there's experience with what we're doing in the past that was quite successful that we can draw from accordingly and then benefit from that.
+So the fact that we're already starting at a better place than sort of light water plants were 40, 50 years ago. To me, it gives me a lot of confidence that we
+have a pretty good trajectory to actually outperform those technologies, at least match those technologies if not outperform these technologies. And as we
+work with potential customers, we generally build in some flexibility in how we want to scope what our early plans are going to be operating at from a
+capacity factor to perspective, just so we can obviously get through those sort of initial learning curves to get these things going into the higher-end ranges
+of capacity factors that we can achieve.
+But it is the only technology that in, a meaningful way , actually outperform light water plants. Everything else has actually been pretty significantly worse
+than light water because light water is a great technology . It just happens to have some features that make it fairly operable -- or operator friendly , I should
+say.
+Unknown Analyst
+All super helpful. And then on the demand side.
+Just curious your thoughts around defense applications, just thinking of defense innovation, solicitation from earlier to the summer , thoughts around that,
+just micro reactors that depends generally speaking. And then just kind of sneaking a last one in here. Kind of an administrative question, but how do I
+think about programs with the DoD and NRC licensing? And is there like a cross-lock there that makes one more easier than the other? Just generally ,
+how do I think about those licensing programs? And that's it for me.
+Jacob Dewitte
+Yes. Yes, of course, great questions.
+On the sort of on the defense engagement, we've been actively working obviously with the dif ferent departments and the dif ferent branches for the
+Department of Defense for some time. A year ago, we were awarded the first round -- or awarded initially for the [ Allison ] project up in Alaska as that had
+done a threat of a process, a kind of conservative cautious procurement actions that is very common today in terms of the protest cycle the defense
+department that was then pulled back. To then update the review , it was been reawarded to us in February .
+Then there was a protest file that was pull to March that's going through the next updates there.
+Given the cadence before was about 6 months, we expect hopefully that we'll be entering into kind of an update on that front as well. And the fact that we
+were awarded it twice gives us some confidence that of course, we'll see kind of where that moves. The thing is we're of fering something based on that
+call. And then if you look at the innovation, kind of call, it's pretty well aligned with what they're looking for in terms of business model. And we have some
+flexibility to get down into the size ranges they want to be looking at. W e're not going to be serving the 1 megawatt in kind of small scale. W e see a lot
+more opportunity , obviously , at the higher end of those ranges, but we can definitely perform and deliver a very competitive and attractive solution.
+So we're good to see how those projects and those things develop. At the end of the day , the energy needs that we've learned from the Defense
+Department and what they project forward is quite diverse in of ferings.
+So there's going to be, I think, multiple solutions that can of fer multiple -- companies that can of fer dif ferent solutions that are successful for them. And we
+see ourselves being positioned potentially to be one of those especially given our sort of prior success there.
+One of the things that was part of the Air Force call was they wanted it to be licensed with the Nuclear Regulatory Commission.
+But generally speaking, and there's a lot of nuance here, but generally speaking, the defense department can actually authorize their own nuclear plants.
+So that is a pathway .
+Some are looking at pursuing some of the branches and some of the deployment cases are looking at as well as potentiality . The thing we like about that
+is it provides sort of a, in our perspective, a backup option to the NRC. But it also provides a good sort of motivation that, hey , look, this is something that
+can be done. But their preference is that the NRC does it.
+And their preference isn't based on just wishing and hopeful thinking. The Air Force has been around some of the NRC meetings dating back to 2018,
+maybe even earlier . But like they've been engaging there to know that this is something that they have confidence that can be done, right? I can't speak
+fully for them, but from what we've seen, our -- what they've identified is what's important about what they're of fering. These -- powering these bases is
+mission-critical for them.
+So they aren't going to be sort of jeopardizing that with some hopeful thinking about what a regulator can do.
+Instead, I think they made the decision potentially based on what they expect to be able to be to done. That said, they also have optionality , which gives
+them great positioning and we see that as generally speaking, a broad benefit for everybody , us included as well as others.
+So that's kind of how we see that playing out. The nice thing for us, in general, it's sometimes very nice to work with government-owned land because it's
+well understood. It can also be challenged, obviously , because it comes with the fact that it might have other things around it on it. But at the end of the
+day, there are some benefits there.
+So our model of being in the site where a customer wants us, including on their lands, works pretty favorably for us and for the of ftakers.
+Richard Bealmear
+Jake, it's also one of the reasons why we were really glad to get somebody like retired General Janssen on our Board to get insights around that market
+sector . I would also note that I think this call was scheduled to end [indiscernible] since standard time, but Jake and I are more than happy to stay on and
+continue answering questions.
+Operator
+We'll move next to [ Ryan Finks ] with B. Riley .
+Unknown Analyst
+Just curious, are you seeing a dif ference in demand between the 15 and 50-megawatt plants? Maybe if we're looking at the pipeline, how would that break
+down between the 2?
+Richard Bealmear
+Yes.
+So it's a great question, Ryan.
+So I think if you actually look at the things that were announced when I started with the company back in August of last year , so the projects in Ohio, the
+project in Idaho, the project at Allison, those were all in the 15-megawatt size range. But most of the things that we've announced subsequent to that,
+that's really caused that growth in the order book is more in the 50-megawatt size range. Jake and I were also in a meeting a couple of weeks ago at our
+headquarters with a potential data center customer . And one of the things that was great about that conversation is getting into the details of how are they
+thinking about deploying data centers at a greenfield site and how might we match up a deployment schedule of 50-megawatt powerhouses to support
+that.
+So I think it's just also an example of we're trying to be customer-oriented and customer responsive. And I think now our order book kind of reflects that
+with probably more things in the 50-megawatt size than the 15.
+Unknown Analyst
+Got it. I appreciate that color , Craig. What about any update on how you're thinking about the estimated construction and fuel cost for your plants? I know
+we've spoken about $70 million-ish being a good target for the 15 megawatt version, but wondering if you have an update there.
+Richard Bealmear
+So if you look at our Investor Day material, I don't have it right in front of me, but the 50-megawatt size, I think first of on was about $145 million. It
+decreases when we apply some of those economies of scale. Fuel costs have gone up since that time, so I think we would see an increase on that
+number . But also, as we were speaking earlier , just the overall demand in power and the pricing around PP As is also going up to help of fset.
+The other thing that does help us a bit is in all of those financials that we showed back in the Investor Day , we were not assuming any benefit from ITCs,
+but the ITC actually goes against both the asset cost and the fuel cost.
+So there is a little bit of an element of the ITC be it in that 30% to 40% range that can act as a hedge against those inflationary pressures.
+Operator
+We'll go to our next question from Jef frey Campbell with Seaport Research Partners.
+Jeffrey Campbell
+As you think about possible Title 17 loan applications, is this ef fort aimed more toward installations after the initial Idaho national laboratory installation?
+And if so, are you thinking more about project by project type of financing or perhaps multiple projects in one application?
+Richard Bealmear
+I think, Jef f, at this point, we're probably looking at both of those scenarios, and there's probably a middle ground. But if we do have a project that is made
+up of more than one powerhouse, you could actually bundle that up as well as we look at exploring financing strategy .
+The other thing I tried to call out in the slides that look at that mix of -- for each project, how much is coming from cash of f the balance sheet versus
+financing structures.
+One of the things that Graham Johnston, who's our Treasurer , and I are starting to look at is, overall, what would be the right mix around tax financing
+structures, things like the loan program of fice as well as project financing structures just so we can get both the right mix of cost of capital. But not all
+financing structures are created equal in terms of the ef fort it's going to take to put one of those in place.
+Jeffrey Campbell
+Okay .
+As you look ahead to a time when you have multiple installation projects operating simultaneously , do you imagine that the work will accrue to a handful of
+EPCs who will have aligned to your work? Or is it going to be more of an -- a separate EPC aligned to each separate project?
+Jacob Dewitte
+Yes, it's a thoughtful question, and it's more the former .
+Our view strongly has been to create and maintain a competitive environment amongst the EPCs and work with a number of dif ferent ones based on sort
+of regional and maybe site-specific experience, characteristics or preferences. But that way , we have diversity in our sort of EPC bench while also having
+flexibility and also having, I would say , competitiveness from a cost perspective. And that's, I think, quite constructive for what we're trying to do. That said,
+it does -- like some of this does get specialized as we look at certain specific employment scenarios or , for example, certain defense projects, there's likely
+a narrower set of EPCs we end up wanting to work with, just given what would probably be preferred for prior experience. But generally speaking, our
+average -- or on average, we expect to have kind of a relatively deep bench of folks that we can work with accordingly to get these things built out and
+scaled out accordingly .
+Operator
+We'll take our next question from Graham Price with Raymond James.
+Graham Price
+Just one on my end. I guess, wondering if we could get an update on the project with Diamondback Energy , specifically what's a realistic timetable for
+deployment there?
+Jacob Dewitte
+Yes.
+So Basically , we announced the partnership with them largely stems from engagement we started having with them towards the end of 2023.
+So we're going through the process of identifying the specific sites they want us to be on -- sorry , the specific site of the number of sites we're looking at
+they want us to be on. From our perspective, we view this as kind of an initial project.
+I think given the -- what we see as sort of the demand projections for electrification in the Permian, this is just like a toe in the water , so to speak.
+So an exciting one, but wanting to obviously make sure it's impactful and also something that position things for more successful scalability .
+So as we go through that ef fort, I think we're targeting developing out the specific site developing out with the PP A with all those factors in mind towards
+potentiality for future expansion, possibly .
+So it takes a good amount of work to get through those ef forts.
+There's also a lot of great constraints down there and just broadly speaking,in the Permian, but not everywhere.
+So obviously , be mindful of that kind of changes, how we think about the site selection processes and down selection processes. And then I think
+depending on time lines, we'd expect something in the 2028 to 2029 window for initial power generation at this point, but some of that is going to be
+largely dependent on sort of where and how Diamondback is going to want to proceed with the time -- with those specification location of the election
+process. But that's kind of how we're marching forward on our end.
+Graham Price
+Got it. And I guess, just broadly , how does the opportunity set look for the oil and gas space in the Permian and other basins as well?
+Jacob Dewitte
+It's pretty -- it's very exciting. It's very large.
+I think as we see what we've been learning about, I should say , we, myself personally have been learning about the opportunities around electrification
+and the benefits that gives the operators in the region that's pretty promising.
+I think we see a pretty large order book potential down there and our model is well positioned to kind of provide into that. The numbers are going to be -- it
+depends on a number of factors, but we've seen people talk externally on the like high hundreds of megawatts to a couple of gigawatts of power would be
+needed for electrification.
+And so I think as you kind of think about how to ballpark size it, I think that's a reasonable starting point. That said, part of our view and part of the sort of
+strategic developments we've taken here, last year , we raised capital before the transaction, of course, last year from Liberty Energy Services and through
+that process, got to know Chris W right has joined our Board here after we closed the transaction.
+And given his position and expertise in the field part of his conviction about this was, obviously , he loves the story around nuclear and energy abundance
+but also some of the potentiality for the market development side on the oil and gas piece of things.
+So I see quite a bit of upside on there. I just was the one that rambled while our CFO actually spent a good amount of timing though, I guess.
+So Craig, I don't know if you want to add anything on that?
+Richard Bealmear
+I would just say 30 years in the oil and gas sector and most of the operations need to operate 24/7, they want reliability . And most of the majors have got
+some form of carbon reduction targets that they're trying to meet to.
+So I think our of fer works very well to meet those needs.
+Operator
+We'll move to our next question from [ Ivan Feinseth ] with [ Tigress ].
+Unknown Analyst
+Congratulations on the progress and the first public call. On Slide 20, with your pipeline, can you give us some like outline of the steps from signing the
+initial letter to going through the process to getting a final power reactor?
+Jacob Dewitte
+Yes.
+So basically , the way this works for us kind of from a process perspective, as we start engaging with customers is to sort of progress it through that
+relationship because each site, each consideration around the market, each customer when to the market, I mean the local market consideration each
+customer , everything is variable.
+So we go through a process of sort of marching through progression as we engage with customers and they're interested to move forward often starting
+with either a memorandum of understanding, which, in turn, set a broad scope to survey things and figure out where we want to go.
+And then that often kind of goes into a letter of intent to ef fectively purchase power from us. That outlines site and highs and price ranges.
+Sometimes customers know enough so they kind of leap frog the MOU and they get straight to the LOI. Actually , that's been more often the case for us.
+And then from there, we go through a process of working with them to determine the site, determine where we want to -- like where it makes the most
+sense to go. Oftentimes, these projects or these kind of -- these LOIs would entail multiple plants being built.
+So you want to be mindful about how the growth plan works there, too, as we go through site selection sort of process. And then once those things are
+identified and determined, you're going through that, you're doing the PP A development and detailed negotiations accordingly in parallel. And then
+subsequent to develop finalizing on site at which point then, once you have a PP A to kind of transition into execution.
+But Right now , it's an our advantage not to just rush into PP As given there's so much demand out there and they're going to constrain our opportunities --
+or our ability to -- as you look at what the demand occurs are and the indications out there and we look more high level at what the projections are, right,
+for what people are talking about needing and all of these factors that are very good for us. It does create a situation where we might be oversubscribed in
+our ability to deliver for a couple of years, just given that there's so much interest.
+Now there's a lot of interest on the back end for that timing, so we want to work with customers to see what makes more sense to stage those things. But
+it's a great place to be because it gives us a good position in terms of how we think about prioritization and execution accordingly .
+Richard Bealmear
+Ivan, it's Craig. I know one of the challenges on the day like today is we put a lot of materials out there, and there's only an hour to look at them. But I think
+it's Page 8 of our shareholder letter actually has a nice visualization of the steps from that MOU stage that Jake mentioned until actually getting a PP A in
+place.
+Unknown Analyst
+Okay . But now one of my questions, let's say you have a potential customer that's already running a data center . They have land and they want just to
+contract with you, would they be able to streamline the licensing -- the approval process? I mean, I would believe that you have tremendous demand and
+probably the bottleneck is the ability to get regulatory approval all the way down to permits to build and eventually implement.
+So do you have customers in the pipeline that would fit like that outline that could streamline the process? And also, what is the process of, let's say , taking
+deposits or financial commitments that also could help finance the build-out of the reactors?
+Jacob Dewitte
+Yes. I'll just start on the siting and, Craig, feel free to jump in.
+So there is some benefit when they have a site and you know where we want to go for various reasons. Often times, they have infrastructure in hand and
+everything else.
+So that does just have some benefits. But most of those benefits are going to be realized on the actual like construction and installation phase. The
+permitting process itself at the local level might benefit some, but that's largely wrapped up in the federal side.
+So mostly , you're going to see those benefits kind of on the construction side. That said, it helps drive the process forward and it makes things clear and
+simpler , which is a good thing when you do have a customer who's like that.
+And I would say of several -- like of the customers we've announced and been talking quite a bit about on the data center side, it's a mix of sometimes the
+site is very specifically known and we want power it. Others have a variety of sites that they're kind of declaring and trying to prioritize where they're going
+to see the demand go and then where we can go.
+So it's co-iterative.
+So it just depends kind of on a case-by-case basis. But I do think in general, places that have sites and have the area and land for us to be able to go build
+with them, have a strong advantage when it comes to the overall speed of deployment, if that makes sense.
+Richard Bealmear
+And I would say , a question on financing, we've already got one great example of Equinix investing in the company . And every customer is going to look at
+those sorts of things dif ferently . Be more than happy to entertain those sorts of conversations with some of our other customers there.
+Operator
+That will conclude the analyst Q&A  portion. I will now turn the call back to Sam Doane to address retail questions.
+Sam Doane
+Thanks, Jess.
+Our first question from our retail investors are AI has been a big buzzword, but where else is the focus for Oklo and what goes beyond powering just that
+facet of the future?
+Jacob Dewitte
+Yes.
+I think it's definitely getting a lot of attention in terms of growth opportunity in generating.
+I think we see it's quite constructive in driving, obviously , like data center development growth. But there were a couple of big macro factors in hand even
+before sort of, I would say , AI kind of came storming onto the scene from an energy perspective.
+Obviously , given our Chairman has a pretty unique insight in the future of AI, we've kind of been excited about what could be in the data center side for
+some time. But the reality is there's been several dynamics here that are favorable for us. One is we have the energy transition perspective in hand, in
+process, I would almost call it that way . That is, I think, moving at pace. That was kind of -- I think we're coming out right around now is the 2-year
+anniversary of the Inflation Reduction Act.
+Obviously , a big piece of legislation and policy to move forward and try to accelerate the energy transition. That is creating a huge amount of demand for
+electrification. And that number might take time to fully realize. But if you look at what's on hand for that, and for instance, the relation for that, the numbers
+are staggeringly large and not a huge amount of opportunity just there.
+Additionally , we also have this other big macro factor occurring, which is -- let me just add some context on energy transition. If I just generalize
+electrification and sustainable and actually scalable electrification in a meaningful way , which means we need to have a whole portfolio or a whole grid
+perspective, and nuclear is going to play a really important part of that, which is why a year -- over a year ago, the Department of Energy had a report that
+projected nuclear capacity would grow like triple or so in terms of just meeting energy transitioning. That's a huge great opportunity alone there.
+You see capacity markets recently reflecting that, the fact that capacity markets pricing in PJM went Factor 9X or something like that, a significant
+increase. That reflects sort of the, obviously , capacity factor -- capacity value that a nuclear plant af fords.
+And some of the shortfalls that some of the deployment of clean energy technology has had in terms of what is trained on the grid and then how to make
+your pricing reflects all the things.
+So all in all, the energy transition is one of the big pillars here for growth. That's massive in scale.
+The other is then -- and when I mean massive in scale is you look at those numbers and it's tens to hundreds of gigawatts in total capita size for that.
+Additionally , as we look at this massive reindustrialization occurring in the U.S., the chip tax is a good example of that as we're trying to drive and bringing
+manufacturing back into the United States. That needs energy .
+A lot of those facilities need 24/7 reliable energy , frankly , to run. And energy cost can be sizable for the input on that.
+And so I think you're going to see that increasingly play a role. And as companies are looking at citing manufacturing capacity somewhere in the U.S.,
+power availability or access or reliability is a challenge, which it increasingly is, they're going to be turning to bring our power solutions, which is a win-win
+for kind of everybody in many ways, and that's pretty constructive to us as well.
+So that's a big factor there.
+And then, of course, you have the AI side.
+I think those 3 also then capture things in between. There's the defense opportunities around resilience. There's opportunities for just replacing retiring
+assets on the power generation side.
+So there's a lot of things here that are kind of driving forward on this.
+So at the end of the day , I think AI is a big piece here, but there's a lot of other demand drivers at this point. But we see AI right now moving faster than
+everything else.
+Sam Doane
+Our next question is, could you provide an update on the expected completion time line for your waste recycling facility? And once operational, what
+percentage of fuel in your powerhouses do you anticipate will come from this recycled source?
+Jacob Dewitte
+Yes.
+So a few recycling things, one of the things I'm really excited about. I could probably take way too long to answer all sorts of fun things about this so try to
+be concise on this.
+So recycling provides a pretty important way to diversify fuel streams for us as well as the opportunity to reduce fuel costs in a pretty meaningful way while
+also enhancing diversifying revenue streams for the business from co-product sales. All in all, pretty exciting something that we're then pursuing as quickly
+as we reasonably can accordingly .
+I think we aim to have a facility operational at the start of the decade basically , so getting things built up in the late 2020s to be operational come 2029,
+2030 and then starting to ramp operations from there.
+The way this process works like refining specifically is its modular or it's a batch-wise process so it's inherently modular .
+So as a result, we anticipate having sort of like a scale up and ramp up of modules in the larger scale facility to deliver as we scale.
+Our goal will be to move as quickly as we can to take up as much of the recycling capacity as we can. But we still see a need that will have fresh fuel input
+on largely because of sort of the order book and what we're anticipating the growth scenarios like we're just talking about driving sort of the demand for
+our ability to deliver , which is going to inherently be hard for us to keep up with on the recycling side.
+So I think we target that -- I talked about this sometimes you heard me say , we think in scale is a very long time frame here. But I think it would take us,
+frankly , out for maybe 100 to 200 years to fully hit like a higher than maybe 85% or 90% low reliance on recycling. But in the near term, we try to get those
+numbers close to 50-50 as soon as we can. A lot of that is just going to be dictated by growth on the recycling front as well as growth on the order book.
+Richard Bealmear
+And Jake, just to prove I'm listening when you talk about it.
+The other thing that excites me about recycling is not only what it can do around our supply chain for fuel and our price of fuel. But that process itself
+throws out of some great co-products, some isotopes that are under very high and ever-increasing demand in the medical industry , in the aerospace
+industry .
+So there's a potentially a business within that business as we develop it.
+Operator
+And that will conclude questions altogether . I'll turn the conference back to Jake for any additional or closing comments.
+Jacob Dewitte
+Great. W ell, thank you, everyone, for joining us today . We appreciate the attention, the time, the thoughtfulness around the questions. W e're excited about
+the continuing -- keeping you guys up to date as we proceed forward on executing against our plans and march forward getting our first plant built, getting
+recycling as we scaled up, delivering and growing our word book, all of the cool things that are going to be coming for us. At the end of the day , one of the
+things that motivates us here and me specifically , it's pretty easy to get really excited about is what the fundamental technology af fords us the ability to do.
+Fast reactors have significant economic upside, significant fuel ef ficiency benefits that coupled with recycling, all of which demonstrated technology truly
+has the potential to be a terminal energy and climate solutions. In other words, you have a technology set that's been demonstrated and proven. W e now
+have the opportunity to scale forward that can tap into to reserves of heavy metals on this planet and power the entire plant's energy needs for the rest of
+the [ tenant's ] durable lifetime that's a pretty exciting thing to be motivated to work -- exciting thing we get to work on and pretty easy to get motivated to
+work on.
+So we're very excited about being a public company now .
+Looking forward to keeping you all up to date as we progress towards our goal and our mission here. And look forward to the next one of those. Thank you
+all.
+Operator
+Thank you. That does conclude today's program. Thank you for your participation.
+You may disconnect at this time.

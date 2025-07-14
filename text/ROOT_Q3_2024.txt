@@ -1,0 +1,195 @@
+Root (ROOT) / 30 Oct 24 / 2024 Q3 Earnings call transcript
+Company Profile
+ Transcript menu
+Matthew LaMalva executive
+Alexander Timm executive
+Megan Binkley executive
+Thomas Mcjoynt-Grif fith analyst
+Yaron Kinar analyst
+Operator
+Ladies and gentlemen, greetings, and welcome to the Root Inc. 3Q '24 Earnings Conference Call. [Operator Instructions] As a reminder , this conference is
+being recorded. It is now my pleasure to introduce your host, Matt LaMalva. Please go ahead.
+Matthew LaMalva
+Thank you for joining us today . Root is hosting this call to discuss its third quarter 2024 earnings results. Participating on today's call are Alex Timm, Co-
+Founder and Chief Executive Of ficer; and Megan Binkley , Chief Financial Of ficer.
+Earlier today , Root issued a shareholder letter announcing its financial results.
+While this call will reflect items discussed within that document, for more complete information about our financial performance, we also encourage you to
+read our third quarter 2024 Form 10-Q, which was filed with the Securities and Exchange Commission earlier today .
+Before we begin, I want to remind you that matters discussed on today's call will include forward-looking statements related to our operating performance,
+financial goals and business outlook, which are based on management's current beliefs and assumptions. Please note that these forward-looking
+statements reflect our opinions as of the date of this call, and we undertake no obligation to revise this information as a result of new developments that
+may occur .
+Forward-looking statements are subject to various risks, uncertainties and other factors that could cause our actual results to dif fer materially from those
+expected and described today .
+In addition, we are subject to a number of risks that may significantly impact our business and financial results.
+For a more detailed description of our risk factors, please review our most recent 10-K, 10-Q and shareholder letter . A replay of this conference call will be
+available on our website under the Investor Relations section. I would also like to remind you that during the call, we will discuss some non-GAAP
+measures while talking about Root's performance.
+You can find reconciliations of those historical measures to the nearest comparable GAAP  measures in our financial disclosures, all of which are posted
+on our website at ir .joinroot.com.
+I will now turn the call over to Alex Timm, Root's Co-Founder and CEO.
+Alexander Timm
+Thanks, Matt.
+Our third quarter performance was a landmark quarter for Root.
+We have consistently said that our top priority has been to reach profitability . And in the third quarter , we delivered it. This is a pivotal moment for Root and
+a firm validation of our business model, technology and delightful customer experience.
+Our success is a direct result of the steadfast hard work of our entire team, and I could not be prouder .
+To build upon this success and to support future growth, we amended our term loan with our long-standing partner , BlackRock, and significantly improved
+our cost of capital moving forward. Megan will provide more details shortly . With profitability now achieved, we have the opportunity to reinvest our profits
+into the business in the quarters ahead, particularly investing in our growth engines in both the direct and partnerships channel. With indirect, during the
+quarter , we continued to expand and test into new areas of the marketing funnel, and we expect that to continue in the quarters ahead. And this includes
+investing more in R&D marketing, which typically takes more time to produce results.
+With these investments, we expect to accelerate our policies in force growth over the long term.
+As a reminder , we came out of a hypergrowth period in the first quarter of this year , which weighted our book toward newer policyholders. This dynamic
+typically results in lower retention in the near term following rapid growth.
+We are now 2 quarters past the hypergrowth period. And as a result, we expect to see more contributions from renewals and therefore, a gradual return to
+policies in force growth.
+Looking ahead, we believe there are material opportunities to expand our competitive advantage to additional data-rich channels.
+Print
+As always, we will explore these channels in a disciplined, rigorous manner and quickly grow or jettison these experiments based on results.
+We also made fantastic progress in our partnerships channel in the quarter , where we meet customers at contextually relevant times.
+New writings in the channel more than doubled from the prior year , and we launched several exciting new partnerships. Notably , we launched a
+partnership with Goosehead Insurance, where our technology has enabled agents to quote faster and more ef ficiently , thereby providing their clients with
+a great experience at a great price. The partnership channel is a key to our continued long-term success given the dif ferentiated access to customers it
+provides.
+Our pipeline of partnership opportunities remains robust, and we believe we are well poised to drive strong growth in this channel in 2025 and beyond.
+Our laser-focused mindset on disciplined underwriting, driven by our proprietary technology platform and data science algorithms led to what we believe is
+an industry best 57% gross loss ratio. Thanks to our consistently strong underwriting, we have the opportunity to reduce rates in select states while not
+compromising our target returns.
+While we certainly believe lower rates for the best drivers can further improve growth, we do not set prices with a primary goal to gain market share.
+Our goal is to set prices accurately and our data science acumen and high telematics adoption rates allow us to ef fectively price and realize our target
+returns.
+As our data sets grow and we continue to retrain our models, we build an even stronger moat around our business.
+As we look to 2025, we are excited by the growth opportunities in front of us.
+We expect to add new partners, drive additional profitable growth, expand our geographic footprint and deliver even better products at better prices to
+customers.
+Our team's determination to become the largest and most profitable personal lines insurance carrier in the United States is stronger than ever and
+achieving net income profitability is an important milestone on that journey , yet our momentum does not stop here. W e maintain a culture of discipline and
+innovation, which we believe translates to long-term value for all of our stakeholders.
+I'll now turn the call over to Megan to discuss our operating results in more detail.
+Megan Binkley
+Thanks, Alex, and good evening, everyone. W e could not be happier with our operating results.
+For the third quarter and on a year-to-date basis, we achieved net income profitability . This is a testament to our data advantages, disciplined underwriting
+and unwavering focus on expense management.
+For the third quarter , we delivered net income of $23 million, a $69 million improvement year-over-year . Along with this milestone achievement, we
+generated operating income of $34 million and adjusted EBITDA  of $42 million, year-over-year improvements of $68 million and $61 million, respectively .
+Our outstanding results continue to be driven primarily by growth in our net earned premium, loss ratio performance, closely managed expense base and
+the responsible deployment of marketing investment.
+As we've consistently noted, we do not defer the majority of customer acquisition costs over the life of our customer , which leads to accelerated expense
+recognition relative to earned premium. W e saw significant increases in new writings, policies in force, gross written premium and gross earned premium
+compared to the third quarter of 2023. W e achieved this growth while delivering a gross combined ratio of 89%, a nearly 30-point improvement year-over-
+year. The gross accident period loss ratio was 58%, a 4-point improvement year-over-year , driven by our continued investment in data science and
+technology .
+In the third quarter of 2024, we ceded approximately 12% of our gross earned premium. W e reduced the dif ference between our gross and net loss and
+LAE ratios to just 1 point, reflecting a reduction of 10 points year-over-year .
+Our improvements in reinsurance costs were made possible through our continued improvement in underwriting results. Operating cash flow was nearly
+$50 million in the quarter , primarily driven by net income, continued growth and strong loss ratio performance.
+In the fourth quarter , we successfully refinanced our term loan with BlackRock. W e reduced the size of the facility from $300 million to $200 million, while
+maintaining $150 million of available growth capital. W e improved our cost of capital from the original facility by at least 300 basis points. And as a result,
+we expect to see an approximate 50% run rate reduction in our interest expense moving forward. This will enhance our operating performance and enable
+further investment in our growth.
+Overall, we are thrilled at reaching net income profitability in the quarter .
+Our progress is far from over . We remain focused on prioritizing long-term profitable growth, expanding our geographic footprint and distribution channels
+and investing in opportunities for the business that present high return potential. These investments will modestly increase operating expenses from our
+third quarter print.
+However , we believe it's the right decision to drive long-term success and shareholder value.
+We are excited for our future, and we appreciate your continued support. With that, Alex and I look forward to your questions.
+Operator
+[Operator Instructions] The first question is from Tommy McJoynt with KBW .
+Thomas Mcjoynt-Grif fith
+It sounded like you are expecting your appetite for growth spend to increase, I think, you said modestly going forward. Could you talk about sort of where
+you're looking to spend that? Is that consistent with geographic expansion? And then any way you could help us think about the magnitude of where that
+sales and marketing spend could go from 3Q levels?
+Alexander Timm
+Yes. Thanks, Tommy .
+We continue -- when we look at our current marketing footprint and our partnerships, there's still a lot of opportunity for us to continue to reinvest the profit
+that we've generated into growth in the business. Obviously , we're very proud of the milestone we hit of becoming profitable, but it is a milestone. It is not
+the finish line. And we think that we can still build a much larger , more meaningful company , and we're going to continue to do that.
+And so what we're planning to do is to continue to expand our growth investments. That's going to be in our partnerships channel, and you will see some
+of that come through in acquisition expense.
+So bringing on new partnerships in the automotive and financial services and independent agency spaces. And then as well as mid- to upper funnel
+marketing channels.
+We are still in a minority of marketing channels that most in the industry use.
+And so we think that there's a lot of opportunity there.
+In terms of geography , we're actively working in state expansion. W e're only in 75% of the population, and there's no reason we shouldn't be in 100%.
+So I think that when we expand geographies, you're also going to see us deploy more growth capital into those new geographies to drive profitable growth
+over the long term. Megan can comment a bit more on the magnitude and what we're expecting near term.
+Megan Binkley
+Yes. Thanks, Alex. And just to reiterate what Alex said, I mean, we're just getting started. W e're really proud of the results this quarter , and we are looking
+to continue reinvesting in key areas of the business. W e believe that this quarter is really proof that our model is working.
+So we're going to continue our disciplined and opportunistic approach to performance marketing, and we're going to continue investing in the partnership
+channels.
+As it relates to sales and marketing expectations, what I'll say is our focus remains on driving new business at our target return levels.
+So we expect to invest as we continue to identify and source profitable growth opportunities. And what we spend in sales and marketing in a given quarter
+is heavily dependent on the competitive environment, and we expect that our direct marketing machine will react as it always does to ensure that we're
+continuing to hit our target unit economics.
+So we're going to continue monitoring the ef ficiency of the spend. Overall, I would say we're not really in a position where we're going to give a specific
+target on marketing investment for Q4 or really into 2025, but we're going to continue the same approach that we've had in the past on driving profitable
+new business.
+Thomas Mcjoynt-Grif fith
+And you may have touched on it a little bit there, but can you give us an update on how you guys are seeing the retention rates of your book of business
+go, especially the, perhaps policies that you put on over the last 12 months? And then when you think about the potential to reduce rates in certain
+markets, do you anticipate that will help your retention rates further?
+Alexander Timm
+Yes. Thanks for that question, Tommy . Yes, I think the first thing to notice and to note is, and as I said in my prepared remarks, we have doubled -- we've
+nearly doubled the size of the business on a year-over-year basis. And when we've done that in that real hypergrowth period, what that's resulted in is a lot
+of brand-new PIF .
+And so we had a very young PIF and that young PIF tends to churn a little faster than older PIF . And what we've seen as our PIF has continued to age is
+we've seen churn come down. And we've seen that continue to abate through this quarter . We don't think we're at normalized levels yet.
+So we think that's going to continue. And part of that has created a nice tailwind in the business where it's allowed us to grow PIF a little bit more gradually
+in this quarter-to-date.
+So we are seeing those favorable trends on PIF churn.
+In terms of rate reductions, we absolutely expect that will help retention. The lower your rates are, and with those rate reductions, you will see better
+retention rates. And we should also experience higher conversion rates.
+And so we think both of -- those 2 things will be good news for the business.
+Thomas Mcjoynt-Grif fith
+And actually , just one quick one on the retention side that I forgot to ask, one element of that. The partnership channel versus the direct-to-consumer , the
+retention rates of those businesses, do they dif fer materially?
+Alexander Timm
+Yes. The partnerships channel has much higher retaining business.
+And so we see that really across most of our partnerships.
+So you do see, particularly when you're building sort of that dif ferentiated access to customers where a lot of your customers are buying for the customer
+experience and the ease of the technology is providing, that allows -- or what that does is it creates a much stickier customer .
+And so we have seen that. W e've also seen that those policies are just fatter policies, higher average premium, more vehicles per policy .
+And so that's also really been helpful as well.
+Operator
+[Operator Instructions] The next question is from the line of Yaron Kinar with Jef feries.
+Yaron Kinar
+Maybe to follow up on some of the churn and retention questions. If we were to look at cohorts, are you seeing churn improving, namely if we have a first
+year cohort from the most recent year , is the churn there better than the first year cohort a year ago and 2 years ago and the like? And the same, I guess,
+will be true for other cohorts. I just use first year as an example.
+Alexander Timm
+Yes, that's a good question, Yaron. Yes, we have seen the -- when we look at churn and you've got to control for what channel it's coming from because,
+again, if you look at it on a blended basis, you do see those partnership new writings in those cohorts. Because they're retaining longer that those new
+cohorts are going to have higher retention, all else equal because of that. I'd say definitely , as the -- over the last couple of years, as we've seen the rate
+environment stabilize, you've definitely seen improved retention rates.
+So I think that it's modest, but we are seeing improvement in cohort-based retention.
+Yaron Kinar
+Got it. And would you expect that to accelerate or just remain kind of a modest improvement cohort by cohort?
+Alexander Timm
+I think there's a couple of things that might -- that will accelerate it. One is certainly the continued expansion of the partnership channel as a percent of our
+new writings. That distribution channel has grown 130% for us year-over-year , which is tremendous, and we don't see that slowing down.
+So I think that's definitely going to continue to improve that.
+The second is as we continue to expand our more preferred customers into some other marketing channels that aren't necessarily just lower funnel
+marketing channels, you tend to see a more preferred mix of business and a bit more stickier business when you do that.
+And so we do anticipate there to be some improvements. W e're also making some changes to the product that we think makes it easier for customers to
+stay with Root for the long term.
+And so we certainly have a lot of actions that we want to take to continue to improve retention.
+Yaron Kinar
+Okay . And then just a question on pricing. I appreciate you saying that you're looking to maybe lower rates a little bit here just given where the loss ratio is.
+I think if we look at recent data, we haven't seen much of that yet, maybe a little bit in the last few weeks. I guess with the loss ratio running well below
+target for the last 4 quarters, why is this something that is only now coming about? And how -- well, I'm not sure you'd be willing to talk about this, but how
+aggressive would you be willing to be given where the loss ratio is?
+Alexander Timm
+What we're always doing is we're always looking at each market, and we're making sure that we are, to the best of our ability , hitting our target loss ratios.
+That we're not too high on those targets and that we're not too low . And we set those target loss ratios really where we think is the most ef ficient place to
+be operating the business. There have been a handful of states that we have reduced rates in, but we're not going to necessarily reduce rates just to gain
+market share. W e don't really operate that way . We're always looking to hit our targets. And when we observe credible enough data to tell us that we
+should be lowering rates, we'll do that.
+I think the other important thing to notice is we're not just lowering rates, and it's not just base rates, we're also improving segmentation. And as we
+improve segmentation through our new loss models and our new telematics models that we're constantly iterating on and innovating on what we believe to
+be one of the fastest pace in the industry , that then also allows you to see real benefit in the loss ratio. And as that comes through, you should anticipate
+us to then respond as well with base rate decreases. But we're actively looking at that, and we're constantly -- we think we're very fast to react.
+Operator
+[Operator Instructions] Ladies and gentlemen, as there are no further questions, this concludes today's teleconference.
+You may disconnect your lines at this time. Thank you for your participation.

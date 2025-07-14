@@ -1,0 +1,338 @@
+Applied Optoelectronics (AAOI) / 9 May 24 / 2024 Q1 Earnings call transcript
+Company Profile
+ Transcript menu
+Lindsay Savarese executive
+Chih-Hsiang Lin executive
+Stefan Murry executive
+Simon Leopold analyst
+Michael Genovese analyst
+Timothy Savageaux analyst
+Dave Kang analyst
+Operator
+Good day , and welcome to the Applied Optoelectronics First Quarter 2024 Financial Results Conference Call. [Operator Instructions] Please note this
+event is being recorded.
+I would now like to turn the conference over to Ms. Lindsay Savarese, Investor Relations for AOI. Please go ahead.
+Lindsay Savarese
+Thank you. I'm Lindsay Savarese, Investor Relations for Applied Optoelectronics. I'm pleased to welcome you to AOI's First Quarter 2024 Financial
+Results Conference Call. After the market closed today , AOI issued a press release announcing its first quarter 2024 financial results and provided its
+outlook for the second quarter of 2024. The release is also available on the company's website at ao-inc.com. This call is being recorded and webcast live.
+A link to the recording can be found on the Investor Relations section of the AOI website and will be archived for 1 year .
+Joining us on today's call is Dr . Thompson Lin, AOI's Founder , Chairman and CEO; and Dr . Stefan Murry , AOI's Chief Financial Of ficer and Chief Strategy
+Officer. Thompson will give an overview of AOI's Q1 results, and Stefan will provide financial details and the outlook for the second quarter of 2024. A
+question-and-answer session will follow our prepared remarks.
+Before we begin, I would like to remind you to review AOI's safe harbor statement. On today's call, management will make forward-looking statements.
+These forward-looking statements involve risks and uncertainties as well as assumptions and current expectations, which could cause the company's
+actual results, levels of activity , performance or achievements of the company or its industry to dif fer materially from those expressed or implied in such
+forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as believe, forecast, anticipates, estimates,
+suggest, intends, predicts, expects, plans, may , should, could, would, will, potential or things or by the negative of those terms or other similar expressions
+that convey uncertainty of future events or outcomes.
+The company has based these forward-looking statements on its current expectations, assumptions, estimates and projections.
+While the company believes these expectations, assumptions, estimates and projections are reasonable, such forward-looking statements are only
+predictions and involve known and unknown risks and uncertainties, many of which are beyond the company's control.
+Forward-looking statements also include statements regarding management's beliefs and expectations related to the expansion of the reach of our
+products into new markets and customer responses to our innovations as well as statements regarding the company's outlook for the second quarter of
+2024.
+Except as required by law , we assume no obligation to update forward-looking statements for any reason after the date of this earnings call to conform
+these statements to actual results or to changes in the company's expectations. More information about other risks that may impact the company's
+business are set forth in the Risk Factors section of the company's reports on file with the SEC, including the company's annual report on Form 10-K and
+the company's quarterly reports on Form 10-Q.
+Also, all financial results and other financial measures discussed today are on a non-GAAP  basis, unless specifically noted otherwise. Non-GAAP  financial
+measures are not intended to be considered in isolation or as a substitute for results prepared in accordance with GAAP . A reconciliation between our
+GAAP  and non-GAAP  measures as well as a discussion of why we present non-GAAP  financial measures are included in our earnings press release that
+is available on our website.
+Before moving to the financial results, I'd like to announce that AOI management will virtually participate at the Needham Technology Media and
+Consumer Conference on May 16. And I'd like to note that the date of our second quarter 2024 earnings call is currently scheduled for August 8, 2024.
+Now I would like to turn the call over to Dr . Thompson Lin, Applied Optoelectronics' Founder , Chairman and CEO. Thompson?
+Chih-Hsiang Lin
+Thank you, Lindsay . Thank you for joining our call today .
+Print
+Our revenue and net gross margin for the fourth quarter came in below our expectations, and along EPS was in line with our expectations despite the slow
+start to the year . Based on our current forecast and very constructive customer interactions, we remain very positive on improvement in the second half of
+the year .
+During the fourth quarter , we delivered revenue of $40.7 million, which was just below our guidance range of $41 million to $46 million. W e delivered non-
+GAAP  gross margin of 18.9%, which was below our balance range of 21% to 23%, mainly driven by dif ference in product mix.
+Our non-GAAP  loss per share was $0.31 per share, which was within our guidance range of a loss of $0.20 to a loss of $0.33 per share. Total revenue for
+our data center product of $29 million was up 42% year-over-year and was down 35% sequentially . Revenue for our products increased 33% year-over-
+year and revenue for our finished products more than doubled in the same period. Total revenue in our CA TV segment was $8.7 million, which was down
+69% year-over-year and down 30% sequentially , largely driven by continuing generally slow sales of doses 3.1 equipment as the industry prepares to
+transition to DOCSIS 4.0.
+With that, I'll turn the call over to Stefan to review the details of our Q1 performance and outlook for Stefan?
+Stefan Murry
+Thank you, Thompson.
+As Thompson mentioned, our first quarter revenue and non-GAAP  gross margin came in below our expectations, while our non-GAAP  EPS was in line
+with our expectations. Based on our current forecast and very constructive customer interactions, we remain very positive on improvements in the second
+half of the year . We believe that the long-term demand drivers remain strong for both our data center and CA TV businesses, and we believe we are well
+positioned to capitalize on these opportunities.
+Looking to the back half of the year , there are a few key items to note that give us a basis for our optimistic outlook despite the slow start to the year .
+The first is that we have begun to receive forecasted orders for the VCSEL-based 400G active optical cables for which Microsoft provided development
+funding last year .
+While the pace of product adoption has been somewhat slower than we anticipated, we believe that the fact that we are now receiving forecast for these
+products for delivery in Q3 is a significant step in seeing meaningful business improvement.
+The second is that follow-on projects to our 400G AOC program, specifically for our 800G and 1.6 terabit products have been fast tracked with our
+customers as they address an acceleration in demand for infrastructure around AI.
+We are being asked to compress the time from development to scale production as much as possible in order to meet this accelerated demand.
+The third is that we have continued to experience significant traction and continue to have meaningful discussions with multiple large data center
+customers, some of which are new customers to AOI are customers that we have not worked with in many years, specifically for our 400G, 800G and 1.6
+terabit products.
+We expect one or more of these customers will begin to contribute meaningfully to revenue starting in Q3.
+And lastly , we believe that the transition to DOCSIS 4.0 will begin to take place in Q3 and that our products are apply designed for the deployment of
+amplifiers and other network elements required for DOCSIS 4.0. W e shipped our first fully production-ready DOCSIS 4.0 amplifier samples to a major
+customer last week, and the feedback while early has been exceedingly positive.
+With the improvement we expect in the second half, we continue to believe that 2024 can be our first full year of non-GAAP  profitability since 2018.
+Turning to the quarter .
+Our total revenue for the first quarter was $40.7 million, which was down 23% year-over-year and 33% sequentially , and which was just below our
+guidance range of $41 million to $46 million.
+As we had discussed on our prior earnings call, the softness in Q1 was largely due to the combined ef fects of the Lunar New Year holiday in our Asian
+factories along with some price reductions, which took ef fect in the quarter .
+During the first quarter , 71% of our revenue was from our data center products, 22% was from our CA TV products with the remaining 7% from FTTH
+telecom and other .
+Turning to our data center business.
+Our Q1 data center revenue came in at $29 million, which increased 42% year-over-year and was down 35% sequentially . In the first quarter , 73% of our
+data center revenue was from our 100G products, 17% was from our 200G and 400G transceiver products and 3% was from our 40G transceiver
+products.
+As we have discussed on several prior earnings calls, we signed 2 agreements with Microsoft in 2023 for the development of 400G products and beyond.
+This included a development program to make next-generation lasers for its data center and for the development of its 400G and next-generation active
+optical cables.
+While not guaranteed, we continue to believe that the revenue opportunity for our 400G and 800G products could be greater and a longer duration than
+the revenue contribution we saw for this customer during the peak of the 40G product cycle, which suggests that revenue from these products may
+exceed $300 million over the several years of these build-outs. W e began shipments late last year and have begun to receive new forecasted orders,
+which we expect to contribute to revenue later in Q2, and we believe will continue to ramp strongly in Q3 and Q4.
+Also as a reminder , in 2023, we shipped samples of our 800G products to 3 dif ferent data center customers and have received initial positive feedback.
+As we discussed above, we are in detailed discussions with several hyperscale data center operators about reaping production for our 800G and 1.6
+terabit products starting in Q3 for 800G and early Q1 of 2025 for the 1.6 terabit products. These dates are several months earlier than we had previously
+been requested to deliver , and we believe the acceleration in the schedule is being driven by faster deployment of technology needed by AI workflows.
+Turning to our CA TV business. CA TV revenue in the first quarter was $8.7 million, which was down 69% year-over-year and down 30% sequentially ,
+largely driven by generally slow sales of DOCSIS 3.1 equipment as the industry prepares to transition to DOCSIS 4.0.
+Looking forward, we continue to expect that our near-term CA TV business will be down compared to the historic highs we saw in 2021 and 2022 as the
+MSOs transition to next-generation architecture. W e anticipate this transition to DOCSIS 4.0 will begin to take place in Q3, and we are optimistic about the
+second half of the year and 2025.
+As a reminder , we shipped initial test samples of our 1.8 gigahertz amplifier products to 2 major MSOs in Q4 of last year , and we received encouraging
+feedback on their performance and pricing.
+We are pleased to report that we shipped final qualification units of various amplifiers last week, and we would expect revenue to begin as early as the
+end of Q2 with significant ramp in the second half as we increase manufacturing capacity for these new products.
+As Thompson mentioned, we will continue to carefully monitor MSO plans to upgrade to DOCSIS 4.0 networks, and we continue to believe AOI is a leader
+in technologies that will enable DOCSIS 4.0 and that we have the right portfolio in place to address our customers' needs.
+Now turning to our telecom segment. Revenue from our telecom products of $2.3 million was down 39% year-over-year and down 19% sequentially ,
+largely driven by ongoing softness in 5G demand, particularly in China.
+Looking ahead, we continue to expect telecom sales to fluctuate from quarter-to-quarter .
+For the first quarter , our top 10 customers represented 92% of revenue, down from 93% in Q1 of last year . We had 2 greater than 10% customers, one in
+the data center market and one in the CA TV market, which contributed 62% and 21% of our total revenue, respectively .
+In Q1, we generated non-GAAP  gross margin of 18.9%, which was below our guidance range of 21% to 23% and was down from 36.4% in Q4 of 2023
+and down from 23.2% in Q1 of 2023. The decrease in gross margin was driven mainly by product mix and some price reductions, which took ef fect during
+the quarter .
+Looking ahead, we expect improving gross margins throughout the year as product mix improves in our data center business and CA TV revenue begins to
+ramp. W e remain committed to the long-term goal of returning gross margin to around 40% and believe that this goal is achievable.
+Total non-GAAP  operating expenses in the first quarter were $24.8 million or 61% of revenue, which compared to $19.6 million or 36.9% of revenue in Q1
+of the prior year due to higher R&D spend.
+Looking ahead, we continue to expect non-GAAP  operating expenses to range from $24 million to $26 million per quarter to account for the acceleration of
+R&D expenses to improve time to market for our 800G and 1.6 terabit data center products.
+Non-GAAP  operating loss in the first quarter was $17.1 million compared to an operating loss of $7.2 million in Q1 in the prior year . GAAP  net loss for Q1
+was $23.2 million or a loss of $0.60 per basic share compared with a GAAP  net loss of $16.3 million or a loss of $0.56 per basic share in Q1 of 2023. On a
+non-GAAP  basis, net loss for Q1 was $12 million or $0.31 per share, which was within our guidance range of a loss of $10.9 million to a loss of $12.6
+million and in line with our guidance range of a loss per share in the range of $0.28 to a loss of $0.33 per basic share. This compares to a net loss of $7.1
+million or a loss of $0.25 per basic share in Q1 of the prior year . The fully diluted shares outstanding used for computing the earnings per share in Q1 were
+38.4 million.
+Turning now to the balance sheet. W e ended the first quarter with $17.4 million in total cash, cash equivalents, short-term investments and restricted cash.
+This compares with $55.1 million at the end of the fourth quarter . This cash balance reflects a few slow-paying AR receipts totaling about $1 1 million,
+which were subsequently received in the first 2 weeks of Q2. Also note that we used almost $4 million in cash to reduce debt during the quarter . We ended
+the quarter with total debt, excluding convertible debt of $34.8 million compared to $38.7 million at the end of last quarter .
+As of March 31, we had $54.3 million in inventory compared to $63.9 million at the end of Q4. W e made a total of $7.8 million in capital investments in the
+first quarter , which was mainly used for production and R&D equipment.
+Moving now to our Q2 outlook.
+We expect Q2 revenue to be between $41.5 million and $46.5 million and non-GAAP  gross margin to be in the range of 25.5% to 27.5%. Non-GAAP  net
+loss is expected to be in the range of $1 1.6 million to $13.5 million and non-GAAP  loss per share between $0.29 per basic share and $0.34 per basic
+share, using a weighted average basic share count of approximately 39.2 million shares.
+Looking ahead, as the widespread adoption of generative AI continues to place increased demands on our customer data centers, we believe that these
+customers will ultimately need to deploy more infrastructure to meet these needs, which will provide a long tailwind of demand for the optical industry .
+Our U.S.-based production ability , combined with our automated manufacturing capabilities and experience puts us in a unique competitive position to
+address these needs. Further , as our CA TV customers transition to next-generation architecture and implement new technologies like DOCSIS 4.0, we
+believe that we have positioned ourselves as a leader in technologies that will enable DOCSIS 4.0, and we are confident that we have the right product
+portfolio, team and strategy in place to capitalize on this upcoming transition.
+We have spent several years developing these products, and we expect that they will go to market in the next few months.
+In sum, we believe that the long-term demand drivers remain strong for both our data center and CA TV businesses, and we believe we are well positioned
+to benefit from these growing long-term trends.
+With that, I will turn it back over to the operator for a Q&A  session. Operator?
+Operator
+[Operator Instructions] And the first question will come from Simon Leopold with Raymond James.
+Simon Leopold
+A couple of quick ones maybe.
+I think on the prior conference call, you had given us some indication that you thought the full year revenue could exceed $300 million.
+Given the slower start to the year , it does sound like you still expect a much stronger second half, but how do you feel about that full year $300 million
+target?
+Stefan Murry
+Well, what we've said is that we think we can be profitable for the year .
+So if you can run the numbers on that, we don't give guidance -- annual guidance really .
+So I wouldn't say we're falling back on anything. It's obviously going to be a little more challenging considering where we started the year , but I think it's
+still very achievable, let's say that.
+Simon Leopold
+Okay . And then you did give us some indication of the operating expense expectations for the year at that $24 million to $26 million per quarter . And I think
+we were anticipating more of a $22 million to $24 million per quarter , and that may simply be just extrapolating too much from the first quarter forecast. Did
+something change in terms of your expectation of what you need to spend on sales and marketing and R&D?
+Stefan Murry
+As we noted in our prepared remarks, we've increased our R&D spend a little bit to because we're kidding -- as I talked about, we're getting customers
+that are pulling in their request for product development months ahead of schedule.
+And so we need to spend additional R&D. I wouldn't say it's additional overall, but we're spending it quicker than we otherwise would.
+So it does represent a slight increase to our R&D. Sales and marketing, not too much increase in sales and marketing.
+Simon Leopold
+And then I remember at our meeting at OFC, you had talked about sort of a product road map going from the VCSEL-based solutions to VCSELs and
+EMLs and ramping up to higher per channel speeds. Could you give us an overview of the road map you expect in terms of launches over the next year
+plus?
+Stefan Murry
+Right.
+So the VCSEL-based products are already in production, and we'll likely add higher-speed lane VCSELs to that portfolio next year . With respect to the
+EML based products, we have some products in production now . The higher speed data center products with EMLs will go into production in late Q3, early
+Q4.
+Simon Leopold
+And your -- what was your 400 gig in the quarter? I missed that?
+Stefan Murry
+400 gig -- 17% of the data center revenue.
+So $29 million, 17% of that.
+Simon Leopold
+Okay . And that was just 400 gig, not 400...
+Stefan Murry
+Correct.
+Simon Leopold
+Say that again?
+Stefan Murry
+That's a little over doubling compared -- that almost -- well, it was slightly over doubling from same period last year .
+Operator
+The next question will come from Michael Genovese with Rosenblatt Securities.
+Michael Genovese
+I guess I can just start with, I wanted to ask some questions about Microsoft. Like, if you had any more color on why you think that it's going slower than
+initially expected. But then secondly , how do you expect orders to trend in the second quarter? Do you see orders in the month of June being above the
+month of May? Is there any visibility to that? And then finally , it sounds like your comments on the overall size of this $300 million plus have maybe gotten
+a little bit more bullish, but maybe that's because you've added 800G to it.
+So if you could help us understand that as well.
+Sorry , I just reminding the first one was why the delay .
+Stefan Murry
+Yes, I wouldn't really say it's an overall delay . If my prepared remarks sounded that way , that's not what I was trying to say . There was a slight delay in one
+particular program, which really just reflects the fact that it's a new product and sometimes new product launches just take a little longer than expected.
+There's nothing particular that I can point to with respect to that. It is positive that we're getting new updated forecasts now that would indicate shipments
+beginning later in Q2 and then ramping quickly in Q3 and Q4.
+So that's all positive. I wouldn't read much into the delay itself. Overall, the revenue in our data center business is about where we expected it to be in Q2.
+So there's not really a significant change from our earlier thinking. That small delay in the business for Microsoft is being more than compensated by other
+data center customers.
+So it's not anything overall that I'm trying to point to there, just that one particular product that's got some one of the delay .
+Your second question had to do with the $300 million target and whether that represents a change. No, fundamentally , other than that you mentioned that
+we're having to flowing 800-gig and 1.6 terabits faster .
+Now, 1.6 terabits won't be a factor this year , but it will be early next year . But the acceleration in 800 gig is certainly helpful to try to meet that goal. And
+then -- sorry , I forgot your third question there. What was it?
+Michael Genovese
+I'll tie that in with my next and last question.
+So -- but it was about the orders. If for instance, you think that if there's a reason to think as you're seeing these forecasts that for since June would be up
+from May , which is up from April, if you're seeing that kind of trend at this customer . But I might just ask, I mean you said 1Q data center revenues were
+about where you expected them to be. How do you see them trending in 2Q and 3Q, if you could address that? And then I...
+Stefan Murry
+I want to be clear -- Yes. W ell, first of all, maybe I misspoke earlier , Q1 and Q2 data center numbers are about what we expected them to be. Cable TV in
+Q2 is coming in a little lighter than what we had expected. And that explains to the extent that -- I mean, we didn't give guidance until now in Q2, but to the
+extent that there was some change in our thinking it had to do with cable TV, not data center . Data center overall is doing almost -- actually slightly ahead
+of plan compared to where we thought it was going to be. I mentioned earlier , Microsoft had a delay in one product, but the rest of them are going fine, and
+that slightly in that one product was more than compensated for in Q2 by growth in other customers.
+So with respect to...
+Chih-Hsiang Lin
+So the on let me say that overall for data center , I think the -- we feel more positive right now compared to a few months ago. The main reason is Right
+now, I think the we can see several big customers, especially to hyperscale data customers approving in the schedule for 800G.
+Our cable TV, cable TV is quite slow because it's all customers working for 1.0 products.
+So usually the delay in cable TV is not surprising.
+I think you can see from other costs from other companies.
+Stefan Murry
+Michael, I just want to touch on your last question there, I'll try to answer it directly . Yes. Are we seeing a trend of more orders kind of month by month. And
+the answer is yes.
+As I mentioned earlier , that one program, for example, from Microsoft that's somewhat delayed. W e do expect it to pick up towards the end of this quarter .
+So that would mean June months would be bigger than May , and that was certainly bigger than April.
+So we are seeing that trend with that product. But overall, we expect to see that trend somewhat throughout the quarter .
+Although, again, I would say , for the most part, the data center business outside some of these new programs and especially the 800-gig products later in
+the year , it's a relatively consistent business at this point.
+Operator
+The next question will come from Tim Savageaux with Northland Capital Markets.
+Timothy Savageaux
+Yes, I'd say with the new OpEx forecast, it seems like maybe something reasonably over $300 million is what you would need to get you there.
+And so that's a pretty significant ramp in the second half, almost 3x over the first, although we've seen that recently , a couple of dif ferent places, most
+recently at coherent.
+So I guess as you look at that ramp and the 800-gig opportunities, in particular , I'm hoping you might be able to size those for us in a fashion may be
+similar or analogous to how you've been talking about the Microsoft 400-gig opportunity . That's one question. And you've talked about new data center
+customers or some old data center customers coming back. Should we assume this discussion around 800 gig and 1.60 also applies to Microsoft? Or is it
+more focused on the new players?
+Stefan Murry
+No. I mean, we specifically -- maybe it wasn't totally clear from the prepared remarks, but it's -- our existing customers that we have now , plus the new
+customers for those 800 gig and 1.6 terabit products.
+So Microsoft clearly would be included in the category of existing customers. And as far as the size of the market, what we're seeing right now is that 800
+gig is several times as large as the 400-gig opportunity .
+So it represents a dramatic expansion. And that's within the same customer .
+If you add on the new customers that we're referring to, the market size there gets commensurately larger .
+Timothy Savageaux
+Great.
+So as you look at that data center ramp into the second half, I mean, would you imagine between your current 400 gig -- would you imagine that to be, I
+don't know , half, 800 gig? Or how are you looking at it now? And to what extent are you looking at a material cable TV networking contribution in the
+second half as part of that ramp?
+Stefan Murry
+Yes.
+I think that's the key point really is the Cable TV has been kind of -- to the extent that there's been a disappointment in Q2, it's mainly that cable TV is
+ramping slower than we expected. And that's just, as Thompson mentioned, some of that's par for the course. I mean we were optimistic that the MSOs
+would move a little faster in the 1.8, but it's taken a little longer to get through the qualification and get all the necessary training and what have you done.
+But we do expect them to ramp in the second half of the year , and that will contribute meaningfully towards the revenue ramp, but it will also help us
+improve the gross margin, which is significantly higher in the Cable TV segment than it is in data center .
+Chih-Hsiang Lin
+I can add something for the 800G business, we can see -- or I think we are discussing with at least since 3, 4 customers, for sure, including Microsoft, as
+seen this I would say more than $500 million, $600 million for AOI...
+Timothy Savageaux
+Sorry . Thompson, is that in the aggregate or what kind of time period? Or maybe we can -- or can we put some more brackets around that 500, 600, I
+think I heard you say .
+Chih-Hsiang Lin
+I think we are doing quite a case.
+I think we should get some volume order by late Q3, so for auto next year , Q1 to Q4 next year . I would say just 1 only is more than $500 million or even
+$600 million -- based on this current...
+Timothy Savageaux
+That was going to be my last question actually in terms of your -- the nature of these detailed discussions and kind of is that around qualification or where
+do we stand on that front. Or are we talking about putting the dotting the eyes and crossing the ties on contracts, a little more color there?
+Stefan Murry
+Well, I'm not sure to what extent the contracts really come into play there. What we're talking about now is total planning around deployment scenarios,
+when they're going to need products, how much product they're going to need, pricing, that sort of thing.
+Commentary from the customers is how fast can you deliver some amount of product for us, right? It's about how fast can we be ready to deploy or to
+manufacture the products that they need to deploy .
+Chih-Hsiang Lin
+And the very important key , as I say , is AOI has been invest a few hundred million dollars in the test is more than 10 years for automation, we develop a lot
+of equipment automations.
+So I think now we are doing a Phase II. Maybe I will say we will do Phase II line or Phase III line beyond this year and the dual Phase III fully mentioned in
+Q1, Q2 next year .
+So we can do 800G manufacturer in Houston with, I would say , similar or bit higher cost than in Taiwan and China.
+I think that's very attractive to the customer , including the big cost that we used to have several years ago when they are coming back.
+Number two, the key is the laser is a key component, key technologies. The 100G, 200G, the VCSEL, the EML, and I think we can lean Houston. That's
+also a very -- I think the key factor for the customer .
+I think for sure, is not only the cost, the keys, the risk management.
+Operator
+[Operator Instructions] Our next question will come from Dave Kang with B. Riley FBR.
+Dave Kang
+So regarding that 800 gig, first question is, do you have 200 gig per lane VCSELs and EML? So what's the status on that?
+Chih-Hsiang Lin
+We will have the volume ef fect will be more like Q1 next year . Right now is you go through the whole special and customers very concerned about the
+quality . But that's $1.60 or I don't know for 800G and is still the plan. And I'm talking about the -- I'm talking about the opportunity for next year is $500
+million to $600 million higher . The single mall, okay? It's like 2 kilometer higher . It's not a share, it's not AOC.
+So it's a the IASB high-gross margin product, okay? The $1.60 as early next year , it's more like will be the multimodal and single model together for
+shorter distance, maybe 5 meter and below . But we will have all that pretty soon.
+Dave Kang
+Got it. And then on sticking with 800 gig.
+I think you said something like maybe 2 customers that will ramp third quarter .
+Just wondering if you've been qualified? Or is that already?
+Chih-Hsiang Lin
+The role more than late Q3, early Q4.
+We are doing a quite vacation.
+So it's the single mall, 2 kilometer and higher , including the DIA  and TubaFR4O.
+So just I would say more than 2 customers. Hyperscale, we say maybe 3 customers, including just some other smaller customers. The volume for sure to
+push in Q3, so we are trying our best to catch up the volume.
+Now with Q4 for Q3 schedule is a bit tight, maybe September .
+Dave Kang
+Got it. And then you -- regarding your press release at the beginning of OFC about that 800-gig AOC that you jointly developed with Creo. Can you just
+give more color exactly what they provide and what you guys provide? And where are we as far as sampling or even going to production?
+Stefan Murry
+So create makes the DSP , and we make active optical cable around it. And we haven't commented on any production schedules for .
+Operator
+This concludes our question-and-answer session. I would like to turn the conference back over to Dr . Thompson Lin. Please go ahead, sir .
+Chih-Hsiang Lin
+Again, thank you for joining us today .
+As always, we want to extend a thank you to all investors, customers and employees.
+We will continue to fall as we discussed today , we believe the long-term demand driver remains strong for both our data center and CA TV business, and
+we believe we are well positioned to capitalize on these opportunities. Thank you.
+Operator
+The conference has now concluded. Thank you for attending today's presentation.
+You may now disconnect.

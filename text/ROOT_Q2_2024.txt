@@ -1,0 +1,246 @@
+Root (ROOT) / 7 Aug 24 / 2024 Q2 Earnings call transcript
+Company Profile
+ Transcript menu
+Matthew LaMalva executive
+Alexander Timm executive
+Megan Binkley executive
+Thomas Mcjoynt-Grif fith analyst
+Yaron Kinar analyst
+Elyse Greenspan analyst
+Michael W ard analyst
+Operator
+Greetings, and welcome to Root, Inc.
+Second Quarter 2024 Earnings Conference Call. [Operator Instructions] As a reminder , this conference is being recorded. It is now my pleasure to
+introduce your host, Mr . Matt LaMalva, Head of Investor Relations. Thank you, Mr . LaMalva, you may begin now .
+Matthew LaMalva
+Thank you for joining us today . Root is hosting this call to discuss its second quarter 2024 earnings results. Participating on today's call are Alex Timm, Co-
+Founder and Chief Executive Of ficer; and Megan Binkley , Chief Financial Of ficer. Earlier today , Root issued a shareholder letter announcing its financial
+results.
+While this call will reflect items discussed within that document, for more complete information about our financial performance, we also encourage you to
+read our second quarter 2024 Form 10-Q, which was filed with the Securities and Exchange Commission earlier today .
+Before we begin, I want to remind you that matters discussed on today's call will include forward-looking statements related to our operating performance,
+financial goals and business outlook, which are based on management's current beliefs and assumptions. Please note that these forward-looking
+statements reflect our opinions as of the date of this call, and we undertake no obligation to revise this information as a result of new developments that
+may occur .
+Forward-looking statements are subject to various risks, uncertainties and other factors that could cause our actual results to dif fer materially from those
+expected and described today .
+In addition, we are subject to a number of risks that may significantly impact our business and financial results.
+For a more detailed description of our risk factors, please review our most recent 10-K, 10-Q and shareholder letter . A replay of this conference call will be
+available on our website under the Investor Relations section. I would also like to remind you that during the call, we will discuss some non-GAAP
+measures while talking about Root's performance.
+You can find reconciliations of those historical measures to the nearest comparable GAAP  measures in our financial disclosures, all of which are posted
+on our website at ir .joinroot.com. I will now turn the call over to Alex Timm, Root's Co-Founder and CEO.
+Alexander Timm
+Thanks, Matt.
+We continue to make strong progress in the quarter .
+For the second consecutive quarter , we generated operating income and positive adjusted EBITDA. A testament to our powerful data science and
+technology , our culture of discipline and the talent and dedication of our team.
+We continue to advance our near-term target of achieving profitability . From day 1, we've committed to providing drivers with car insurance that is
+transparent, easy to understand and at a great price.
+Our technology empowers a delightful customer experience, while our proprietary algorithm allows us to of fer lower prices to the best drivers.
+Our laser-focused mindset on disciplined underwriting and stringent expense management has allowed us to build a strong foundation to significantly grow
+our business.
+Importantly , we are growing smartly and profitably .
+We are not chasing growth for the sake of growth. W e're doing it while achieving some of the best loss ratios in the industry .
+New writings during the quarter primarily came through our direct channel, where we target consumers with a great insurance product at a great price.
+Our data science machine constantly monitors the competitive environment. And as we've noted before, during the quarter , we saw elevated competition.
+Print
+Leveraging our proprietary data science machine, we were able to quickly adapt and deliver new business at our estimated return targets.
+We expect to remain opportunistic through the back half of 2024 and growing the direct channel. Should we see an opportunity to grow faster while
+maintaining our unit economics, we will invest more in marketing to drive profitable growth. W e believe there are material opportunities to expand our
+competitive advantage to additional data-rich channels.
+As we do with everything, we will explore these channels in a disciplined, rigorous manner and quickly grow or [indiscernible] these experiments based on
+results.
+Additionally , we continue to make excellent progress within our partnership channel where we meet consumers at contextually relevant times, such as the
+purchasing of a car .
+Our technology provides partners a seamless integration into their existing platforms and creates a simple insurance purchasing experience in as little as
+3 clicks. Compared to Q2 last year , we grew new writings in our partnership channel by 120%. With more than a dozen partners in the channel and a
+robust pipeline of additional opportunities, we believe we are well poised to continue to drive growth in this channel.
+We are always working to lower prices for the right customers. W e believe that through our machine learning and engineering advantages, we can
+become the best in the world of pricing and automation.
+Our approach allows us to be flexible, fast and sophisticated. W e delivered another successful quarter , achieving a gross loss ratio of 61.6%.
+As our data sets grow and we continue to retrain our models, we believe we will continue to improve prices and fuel additional growth, [indiscernible] a
+sustainable competitive advantage.
+As we look forward, we are excited to add more partners, expand our footprint nationally and continue to deliver better products at better prices to our
+customers.
+Our team's determination to become the largest and most profitable personal lines carrier in the United States is stronger than ever , and we believe their
+hard work keeps us squarely on the path to profitability . I'll now turn the call over to Megan to discuss our operating results in more detail.
+Megan Binkley
+Thanks, Alex. W e delivered another strong quarter in large part to our data advantages and disciplined underwriting.
+We continue to drive loss ratios that are among the best in the industry .
+For the second quarter , our net loss was $8 million, a 79% improvement year-over-year .
+For the second consecutive quarter , we generated operating income and positive adjusted EBITDA. Operating income was $4 million and adjusted
+EBITDA  was $12 million, improvements on a year-over-year basis of $29 million and $24 million, respectively .
+Our progress continues to be driven primarily by growth in our net earned premium, consistently strong loss ratio performance, our closely managed fixed
+expense base and responsible deployment of marketing investments.
+As we've consistently noted, we do not defer the majority of customer acquisition costs over the life of our customers, which leads to accelerated expense
+recognition relative to earned premium. W e doubled new writing, policies in force, gross written premium and gross earned premiums compared to the
+second quarter of 2023. W e achieved this growth while delivering a gross combined ratio of less than 100%, an 18-point improvement year-over-year . The
+gross accident period loss ratio was 62%, a 2-point improvement year-over-year , driven by our continued investment in data science and technology . In
+the second quarter of 2024, we ceded approximately 15% of our gross earned premiums and reduced the dif ference between our growth and net loss and
+LAE ratios to 2 points for the quarter , reflecting a reduction of 16 points year-over-year .
+Our improvements in reinsurance costs were made possible through our continued improvement in underwriting results. Unencumbered capital as of June
+30 stood at $447 million compared to $483 million as of March 31.
+Our unencumbered capital consumption during the quarter included $16 million of capital contributions, which were used to fund growth in net written
+premiums and increased book value in our domestic insurance subsidiaries.
+Additionally , as we noted on our prior call, we paid approximately $1 1 million in tax recoding obligations related to the vesting of equity awards in early
+April. This is a high-quality cost as it means that our market value has appreciated.
+I'm pleased to report operating cash flow was positive for the fourth consecutive quarter , once again driven by our improvements in loss ratio and
+significantly reducing our net loss over time.
+As we proceed through the back half of 2024, we remain focused on growing in a disciplined manner and maintaining our underwriting and expense rigor .
+We plan to continue to deploy direct marketing investments as long as targeted unit economics are achieved. Overall, we continue to make steady and
+strong progress towards our top priority of reaching GAAP  profitability with our existing capital. W e remain excited for the future. Appreciate your time and
+look forward to your questions.
+Operator
+Thank you.
+We will now be conducting a question-and-answer session. [Operator Instructions] The first question comes from the line of Tommy McJoynt with KBW .
+Thomas Mcjoynt-Grif fith
+You called out seeing competition increase in your various marketing channels. Do you think the competitive landscape is going to get sort of any easier
+over the coming years? It seems like competition is perhaps only going to intensify as more carriers reach rate adequacy on a market-by-market basis.
+So how do you think about your go-to-market strategy given that customer acquisition could remain pretty competitive for an extended period of time
+here?
+Alexander Timm
+Thanks, Tommy . This is Alex.
+As we said and as we sort of guided last quarter , we did see competition increase in the quarter . And as a result of that, our marketing machine reacted
+really exactly as design. And we continue to actually hit our target unit economics in the quarter . Quarter-to-date, we've been roughly holding this steady ,
+and we're constantly monitoring the competitive environment. W e -- again, we will not be chasing growth for growth's sake, and we are going to continue a
+rational and disciplined approach to deploying our capital. And if we see pockets of growth or opportunity to continue to deploy marketers, we're going to
+do that. And if we see competition increase, we'll pull back and continue to drive more towards profitability .
+Over the long term, we believe that we actually have material opportunities for growth First and foremost and we have a very robust partnerships pipeline
+where we're continuing to build dif ferentiated access to customers, scaling existing partners as well as so onboarding new partners, and that channel has
+continued to grow new writings and grew new rides 120% year-over-year .
+Second, we are continuing to invest in state expansion. Right now , we're in 34 states, but we plan to be national. There's no reason our model shouldn't
+work on a national scale. Those 34 states represent about 75% of the addressable population. And as we add those states, we're going to naturally drive
+further growth.
+And then third, you will see that we're investing in R&D into new marketing channels. And we're still in a very small corner of the marketing universe today
+when you look at all of the opportunities and all the dif ferent channels out there. And many of those channels, we have actually virtually no presence in.
+And we're going to continue to leverage the technology that we've built in our current performance marketing channels and our rich data-driven approach
+to really bring that learning machine into these new channels.
+And so we think long term, there's ample opportunity for growth. But certainly , in the near term, we're going to monitor the competitive environment and
+react appropriately . And I think that's exactly that discipline is exactly what you saw from us this quarter , and it's what's pushing us towards profitability in
+the near term.
+Thomas Mcjoynt-Grif fith
+Got it. I appreciate that. And just to make sure I heard you correctly .
+You said that quarter-to-date in the, I guess, it'd be third quarter PIF remained steady and then if you could share some comments maybe anything on
+what you've seen in terms of like the turnover or sort of inverse, I guess, the retention rates of your book of business, perhaps over in the second quarter
+and then even quarter date would be helpful, too.
+Alexander Timm
+Yes. W e've continued to grow PIF -- we continue to grow it in the quarter , and that's despite the new writings moderating from the competitive
+environment. And we continue to see a favorable retention profile in our partnerships channel. And as that grows, that is building a more higher retaining
+customer base. And again, we've built a model and an underwriting model that can really price business profitably and hit our target returns across all
+sorts of dif ferent retention profiles.
+And so we feel good. W e feel very good about where we are.
+Operator
+Next question comes from the line of Yaron Kinar with Jef feries.
+Yaron Kinar
+I guess my first question, just looking at the G&A  and the tech development spend, I guess I thought it may see a little more operating leverage there.
+So seeing the ratio of those line items versus direct premiums earned maybe coming down a bit more significantly . Can you maybe talk about that? And
+Alex, I think you may have mentioned something about some additional tech spend that you're undergoing right now as you're developing new products,
+but would love to understand that a little bit better .
+Megan Binkley
+Yaron, it's Megan. Excellent question.
+As we entered into the second quarter , I mean, as we've finished second quarter , it really has been another quarter of strong results. And we're pleased
+with the progress that we've continued to make over the past few years to really rightsize our fixed expense base. And as we mentioned on our prior call,
+we're also strategically expanding headcount in pivotal areas.
+So what you're seeing in terms of tech and dev and G&A  increases in the quarter , that's primarily increased due to the modest investment that we've made
+in our product and in our people.
+And this includes headcount investment really in our product delivery teams to make sure that we're continuing to advance our product and to support the
+tremendous growth that we've seen in the business, particularly on the tech and dev line item, we also saw about $1.5 million of accelerated amortization
+of certain internally developed software cost assets. That was all recognized in the second quarter .
+We don't expect that, that acceleration is going to continue into the future. These were assets that were really unrelated to the core auto product and our
+technology there. That said, I do believe that our expense base is scalable even as we continue to invest in our people and our tech stack, and you should
+expect to see continued improvement in our operating expense ratios going forward.
+Yaron Kinar
+Okay . That's helpful. And then my second question, can you maybe talk about kind of the cadence of the PIF growth over the course of the quarter ,
+namely , did you see the PIF start slowing more meaningfully as the quarter developed? Or was it more kind of a straight line? And maybe following up on
+Tommy's question, how are you seeing that develop into the third quarter as well?
+Alexander Timm
+Yes. W e saw the typical seasonality , particularly that we see every year , which means you usually get more new writings obviously , in Q1 and really
+towards the front part of Q2. But really , we have been holding our PIF steady , and we're very happy with the strong growth year-to-date. W e know that Q2
+had seasonality , lower new writings versus Q1, and so that was anticipated. And we're still monitoring the competitive environment, making sure we're
+making the right decisions for the company and making sure that we're driving the company towards near-term profit. And again, like quarter-to-date, I
+wouldn't say there's been any material changes to that. W e've really been holding our PIF study .
+Yaron Kinar
+Got it. If I could sneak one last one in on the marketing costs.
+So I know you guys have talked about this repeatedly your expectation that marketing costs would go up as the year progresses and it sounds like they
+did indeed. That said, one of your large competitors hosted their call yesterday , it was talking about marketing cost or unit cost still being very , very
+attractive as far as they can see.
+So I would be curious to hear your thoughts on kind of where we are in the overall cycle here for marketing unit cost? And is it still relatively attractive? Or
+do you see yourself needing to maybe pull back more as it becomes even more competitive?
+Alexander Timm
+I'd say , certainly , we've seen, as you've seen a lot of increase in marketing spend, you've certainly seen the competitive environment increase, which has
+made the environment more expensive to get a customer today than it was a year ago today when everybody was out of the market.
+And so we have seen that. That said, we continue to acquire customers profitably and we continue to hit our expected return targets.
+And so we do think there's ample opportunity out there to continue to grow the business and we also believe that there's many other marketing channels
+again that we aren't even in.
+We are in a vast minority of the marketing channels today .
+And there's no reason to believe that our competitive advantage we've built in those channels through our technology does not apply to additional
+channels and so you should see us continue to expand that. If we see as now you've mentioned it. If we see the industry or competitors sort of get too
+aggressive here and start to put too much money into some of these channels where they aren't sort of generating returns, you will see us pull back.
+We will be disciplined, and we believe that the ability to be nimble and measure that in real time is actually one of our key competitive advantages and is a
+way to actually drive longer-term superior enterprise value. And that's why -- and you're going to see us stay true to that.
+Operator
+Thank you -- next question comes from the line of Elyse Greenspan with W ells Fargo.
+Elyse Greenspan
+My first question on the -- looking at the accident period loss ratio, right, in the low 60s in the quarter . How do you guys see that trending from here?
+Alexander Timm
+I'd say in the second quarter , we did see some storms, particularly , I think Colorado is where we probably had the most weather in there.
+And so I think you had probably a couple of points or so of weather in that accident period loss ratio. There's also some storms in Texas. And that's pretty
+typical for Q2 and Q3, we are watching some of the weather events that's typically more where you would see hurricane exposure.
+And so we're watching that and there might be some typical quarter-over-quarter seasonality there. But in general, we're very happy with where our loss
+ratio is. W e're very comfortable with our rate adequacy .
+And so we're not anticipating any major rate changes at this point.
+Elyse Greenspan
+Are you expecting, I guess, staying there for a second, you're not expecting any rate changes? Are you guys expecting declines? Or what do you foresee
+from the rate perspective from here?
+Alexander Timm
+Yes.
+I think you may see in a handful of states, some moderate declines and decreases or some small changes.
+And so we're going to continue to look at that on a market-by-market level.
+We are very happy with where our rates are and you may see some declines in some states.
+Elyse Greenspan
+And then in the Q, right, you guys. There's a sentence that you talk about as our results improve, we can now evaluate our cost of capital and how to
+optimize our capital structure or maintaining appropriate regulatory capital levels.
+So what are you, I guess, you guys considering from a capital perspective when you say that you're continuing to look to optimize the structure.
+Megan Binkley
+Elyse, it's Megan. I'm really glad you asked that question. I mean, capital ef ficiency and just looking at our cost of capital overall has been just a critical
+aspect of our strategy and will be moving forward.
+So as we look at our underlying business results, you've seen just material improvement over the past few years. In second quarter , we posted our second
+consecutive quarter of operating income. And ultimately , we believe that our financing costs are a derivative of our underlying business results.
+So we do expect that the improvement in our business results will translate to a lower cost of capital and more specifically , we expect to get better terms
+on our debt capital in the near future.
+The prepayment penalty on our current debt facility expired in July . And as we sit here today , our goal is to materially reduce our financing costs, and we
+are actively looking at options to reduce our interest expense.
+We will provide the market with additional details on what that means for the business as appropriate.
+Operator
+[Operator Instructions] next question comes from the line of Michael W ard with Citi.
+Michael W ard
+I was wondering if you could give us a sense of how your mix of coverage compares to maybe the industry in terms of providing comprehensive coverage.
+We saw some gaps in the quarter , especially in Colorado, where you have some concentration.
+So we're trying to see if you're wondering if you saw hail losses or if your customers are not buying comprehensive?
+Alexander Timm
+We certainly saw hail losses in the quarter and in Colorado and so we did get a couple of points probably of weather . The Colorado hailstorms were
+actually , I think, the biggest weather event for us.
+And so we certainly saw that.
+I think in terms of the industry , you've got to basically compare, I would say , our customer base to other direct carriers.
+So we are online, we are an online auto.
+And so that's really the customer that we target. They tend to be between the age of 25 and 35, so they're a bit younger , more tech savvy , and we look to
+grow with that customer .
+So we think we saw a good mix of coverages, and we did see some weather exposure, but at the same time, we think that it's appropriate for our
+customer base.
+Michael W ard
+And then wondering if you had a sense of, I guess, the percentage talking about some of the younger customers. How many of your customers download
+the root app and I guess, for some in the industry , it's all telematics, right, and others, it's just using the ID card. But curious if you have that data at all.
+Alexander Timm
+Yes. On our direct business, we have the vast majority of our customers do download the root app and receive some form or share some form of
+telematics data.
+Some customers share a couple of weeks of data.
+Some customers might share 2 months of data. And one of the things that's special about our technology and our technology platform is the ability to
+leverage, whether it's 2 weeks of data, 1 week of data, 2 months of data, the ability to actually ingest that and then predict and use it to create a very high
+fidelity prediction of what we believe future loss costs are going to be for that customer .
+And so we believe we have a very high, particularly in the industry , maybe one of the highest, if not maybe the highest telematics adoption rate,
+particularly in our direct channel.
+And so I would say it's the vast majority .
+Operator
+Thank you. There are no further questions at this time. This concludes today's teleconference.
+You may disconnect your lines at this time. Thank you for your participation.

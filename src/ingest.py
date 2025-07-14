@@ -1,4 +1,4 @@
-from src.loader import load_pdf
+from src.loader import load_pdf, load_txt
 from src.chunker import chunk_documents
 from src.embedder import embed_documents
 from src.vectorstore import upsert_chunks
@@ -28,7 +28,15 @@ def ingest_documents(index, doc_id=None):
     for doc_meta in docs_to_process:
         print(f"📄 Ingesting {doc_meta['doc_id']} ...")
 
-        raw_pages = load_pdf(doc_meta["file_path"])
+        # 🟢 Load PDF or TXT properly
+        if doc_meta["file_path"].endswith(".pdf"):
+            raw_pages = load_pdf(doc_meta["file_path"])
+        elif doc_meta["file_path"].endswith(".txt"):
+            raw_pages = load_txt(doc_meta["file_path"])
+        else:
+            print(f"⚠️ Unknown file type for: {doc_meta['file_path']}")
+            continue
+
         cleaned_pages = clean_pages(raw_pages)
 
         chunks = chunk_documents(cleaned_pages)
