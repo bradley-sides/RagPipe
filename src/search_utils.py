@@ -39,15 +39,15 @@ def optimize_query(user_query: str, memory = "") -> str:
     Retrieval query:"""
     
     response = client.chat.completions.create(
-                model="gpt-4",
+                model="gpt-4.1-mini",
                 messages=[{"role": "user", "content": prompt}],
                 temperature =0
             )
     # Model returns rewritten query
     return response.choices[0].message.content.strip()
 
-def rerank_chunks(chunks: list[dict], user_query: str, top_k: int = 5) -> list[dict]:
-    """
+def rerank_chunks(chunks: list[dict], user_query: str, top_k: int = 10) -> list[dict]:
+    prompt = f"""
     Given a list of Pinecone match dicts (each with 'metadata' and 'text'),
     ask the LLM to score each on relevance to user_query, then
     return the top_k by that score.
@@ -63,32 +63,23 @@ def rerank_chunks(chunks: list[dict], user_query: str, top_k: int = 5) -> list[d
     supply chain forecast, I am interested in the date of the call onward, which is May 2025. Be very careful about this as it important.
     
     If I ask for information from a time range, you MUST provide one reference from EACH quarter in that range before making more additions.
-    These must all be included in the top 10 results after you rank.
+    These must all be included in the top {top_k} results after you rank.
+
+    These is is the query: {user_query}
+
+    These are the chunks: {''.join(f"### Chunk {i+1}:\n{chunk['metadata']['text']}\n" for i, chunk in enumerate(chunks))}
+
+    Return ONLY the top {top_k} chunk numbers as a raw JSON array of integers, e.g., [3, 1, 5, 2]. Do not include any explanation or extra text.
     """
-    scored = []
-    for chunk in chunks:
-        text = chunk["metadata"]["text"]
-        prompt = f"""
-        On a scale from 0 (irrelevant) to 1 (perfectly relevant),
-        how relevant is this excerpt to answering: "{user_query}"?
-
-        Excerpt:
-        {text}
-
-        Score:"""
-
-        resp = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[{"role": "user", "content": prompt}],
-            temperature = 0
-        )
-        try:
-            score = float(resp.choices[0].message.content.strip())
-        except ValueError:
-            score = 0.0
-        scored.append((score, chunk))
-
-    # Pick the top_k by the LLM’s score
-    top = heapq.nlargest(top_k, scored, key = lambda x: x[0])
-
-    return [chunk for score, chunk in top]
+    resp = client.chat.completions.create(
+        model="gpt-4-mini",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0
+    )
+    try:
+        import json
+        top_indices = json.loads(resp.choices[0].message.content)
+        return [chunks[i - 1] for i in top_indices if 0 < i <= len(chunks)]
+    except Exception as e:
+        print(f"⚠️ Failed to parse rerank response: {e}")
+        return chunks[:top_k]

@@ -1,0 +1,339 @@
+Operator
+
+Hello, and welcome to Vicor's Second Quarter Earnings Conference Call. At this time, all participants are in a listen only mode. After the speakers' presentation, there will be a question and answer session. To ask the question during the session, you will need to press 11 on your telephone. You will then hear an automated message advising your hand is raised.
+
+To withdraw your question, please press 11 again. I would now like to turn the conference over to Jim Schmidt, Chief Financial Officer. You may begin.
+
+James Schmidt
+
+Thank you. Good afternoon, and welcome to Vicor Corporation's earnings call for the second quarter ended 06/30/2025. I'm Jim Schmead, Chief Financial Officer. And I'm in Andover with Patrizio Vinciarelli, Chief Executive Officer and Phil Davies, Corporate Vice President, Global Sales and Marketing. After the markets closed today, we issued a press release summarizing our financial results for the three and six months ended June 30.
+
+This press release has been posted on the Investor Relations page of our website, www.vicorpower.com. We also filed a Form eight k today related to the issuance of this release. To remind listeners, this conference call is being recorded and is the copyrighted property of Vicor Corporation. I want to remind you various remarks we make during this call may constitute forward looking statements for purposes of the Safe Harbor provisions under the Private Securities Litigation Reform Act of 1995. Except for historical information contained in this call, the matters discussed on this call, any statements regarding current and planned products, current and potential customers, potential market opportunities, expected events and announcements, and our capacity expansion as well as management's expectations for sales growth, spending and profitability are forward looking statements involving risks and uncertainties.
+
+In light of these risks and uncertainties, we can offer no assurance that any forward looking statement will, in fact, be correct. Actual results may differ materially from those explicitly set forth in or implied by any of our remarks today. The risks and uncertainties we face are discussed in item one a of our 2024 Form 10 ks, which we filed with the SEC on 03/03/2025. This document is available via the EDGAR system on the SEC's website. Please note the information provided during this conference call is accurate only as of today, Tuesday, 07/22/2025.
+
+Vicor undertakes no obligation to update any statement, including forward looking statements made during this call. And you should not rely upon such statements after the conclusion of this call. A webcast replay of today's call will be available shortly on the Investor Relations page of our website. I'll now turn to a review of our Q2 financial performance, after which Phil will review recent market developments and Patricio, Phil and I will take your questions. In my remarks, I will focus mostly on the sequential quarterly changes for P and L and balance sheet items and refer you to our press release or our upcoming Form 10 Q for additional information.
+
+As stated in today's press release, MICR recorded product revenues, licensing income, and a patent litigation settlement for the second quarter of one hundred and forty one million dollars up 50.1% sequentially from the 2025 total of $94,000,000 and up 64.3% in the 2024 total of $85,900,000 Advanced products revenue increased 1.2 sequentially to $60,600,000 and Brick Products revenue increased 4% sequentially to $35,500,000 Shipments to stocking distributors increased 18.9% sequentially and decreased 14.3% year over year. Exports for the second quarter decreased sequentially as a percentage of total revenue to approximately 51.9% from the prior quarter 60.8%. For Q2, Advanced Products share of total revenue decreased to 63.1% compared to 63.7% for the first quarter of twenty twenty five, with good products share correspondingly increasing to 36.9% of total revenue. Turning to Q2 gross margin, we recorded a consolidated gross profit margin of 65.3%, which is an eighteen ten basis point increase from the prior quarter, primarily due to patent litigation settlement within the quarter. Tariff expense was approximately $2,000,000 I'll now turn to Q2 operating expenses.
+
+Total operating expense increased 5% sequentially from the 2025 to $46,700,000 The sequential increase was primarily due to increase in selling, general and administrative expenses, which was primarily attributable to $5,100,000 of incentive legal fees associated with the patent litigation settlement. The amounts of total equity based compensation expense for Q2 included in cost of goods, SG and A, and R and D was $900,000 1,000,700 and $90,000 and $1,020,000 respectively, totaling approximately $3,700,000 Turning to income taxes, we recorded a tax provision for approximately $7,800,000 representing an effective tax rate for the quarter of 16%. Net income for Q2 totaled $41,200,000 GAAP diluted income per share was 91¢ based on the fully diluted share count of 45,077,000 shares. While royalties, legal expenses, and income from patent litigation have become part of Vicor's ordinary course of business, I will point out that without the patent litigation settlement, net q two revenue would have increased by approximately $2,000,000 gross margin would have increased by approximately 200 basis points, Operating expenses would have declined by approximately $3,000,000 and income before taxes would have increased from approximately $3,000,000 in q one to approximately $9,000,000 in q two. Turning to our cash flow and balance sheet, cash and cash equivalents totaled $338,500,000 in Q2, an increase of 42,400,000 sequentially and net of approximately $17,500,000 in share repurchases during the quarter.
+
+Accounts receivable, net of reserves, totaled $55,100,000 at quarter end, with DSOs for trade receivables for thirty one days. Inventories net of reserves decreased 3.1 sequentially to $95,500,000 Annualized inventory turns were 1.6. Operating cash flow totaled $65,200,000 for the quarter. Capital expenditures for Q2 totaled $6,200,000 We ended the quarter with a construction and progress balance primarily for manufacturing equipment of approximately $11,800,000 and with approximately $3,100,000 remaining to be spent. I'll now address bookings and backlog.
+
+Q2 book to bill came in below one, and one year backlog decreased 9.6% for the prior quarter, closing at $155,200,000 As we said on last quarter earnings call, 2025 is a year of uncertainty and opportunity. As of today, the quarterly and annual outcome in terms of top line and bottom line is subject to a relatively wide range of scenarios. Given the wide range of possible outcomes, we are unable to provide quarterly guidance until we are further along resolving uncertainties and capitalizing on opportunities. With that, Will will provide an overview of the market developments and then Patricio Fuller and I will take your questions. I ask that you limit yourselves to one question and a related follow-up so that we can respond to as many of you as possible in the limited time available.
+
+If you have more than one topic to address, please get back in the queue. Phil?
+
+Philip Davies
+
+Thank you, Jim.
+
+Our second quarter book to bill ratio came in below one due to order cancellations from customers in China and widespread order placement hesitancy around tariffs. FICO has instituted a 10% tariff surcharge applicable to all new orders and customer backlog shipping after July 2. This tariff surcharge is now in effect. Earlier this year, we brought to fruition our first ITC action, which has resulted in cease and desist orders against the named respondents and an exclusion order against their customers, both OEM and hyperscalers. We are pursuing additional actions against companies unknowingly infringing our IP, while playing a game of Catch Me If You Can.
+
+At the Annual Shareholders' Meeting on June 20, I presented an update on our business strategy, which is fundamentally centered around our top 100 customers, enabling high performance modular power delivery networks. At the meeting, we showcased next generation products providing significant advances in power and current density at levels far beyond our nearest competitors. These next generation products are being sampled to lead customers across our four target markets, and customer engagements are expected to expand in Q3 and Q4.
+
+I am pleased to announce that our Gen five vertical power delivery solution to a lead customer is coming to fruition with a current density exceeding its original target specification. Higher current density, thermally adapt and scalable VPD will enable us to engage with hyperscalers, AI processor and network processor companies to deliver solutions with superior performance and cost effectiveness. These engagements will begin with the delivery of VPD evaluation boards and online selection and simulation tools. As discussed at the ASM, we are also focused on the future AI megawatt rack, which will require 800 volt DC power delivery and conversion to 48 volts. Ryco has pioneered high density, non isolated 400 volt to 800 volt an isolated 800 volt to 48 volt bus converters for automotive applications.
+
+A new 800 volt power module, which will deliver 10 kilowatts at 48 volts in a package smaller than an iPhone, will begin sampling in q four. Michael will be uniquely positioned to offer front end 800 volt to 48 volt bus converters and direct BPD 48 volt to sub-one volt solutions, enabling a high efficiency, high density power delivery network for our customers. The market SAM for these solutions is expected to exceed $5,000,000,000 by 2027. Opportunities continue to grow in our automotive business. We have just concluded a successful audit with a large European OEM for initial low volume project, and we are now preparing for an audit by a large ASEAN OEM in Q3.
+
+It is very clear that 48 volt zonal architectures are the highest growth opportunity in automotive, followed by 800 volt to 48 volt conversion, which will allow us to scale and leverage technologies across our AI and automotive market. The pipelines in our industrial and aerospace and defense businesses are healthy and growing. Our new product introductions will strengthen these businesses and put them firmly on a path to doubling in four to six years respectively. As presented at the ASM, we remain confident in our business strategy of innovation, customer focus, market focus, and a successful technology licensing practice. Thank you. We will now take your questions.
+
+Operator
+
+Thank you. Our Our first question comes from the line of Quinn Bolton with Needham and Company. Your line is open.
+
+Quinn Bolton
+
+Hey, guys. Congratulations on the patent litigation settlement. That's a very nice amount. Wanted to kind of start there at the Annual Shareholder Meeting in late June, you guys talked about a return on the money spent on the ITC case, somewhere in the round number $200,000,000 range. And I'm just kind of curious, as you look at that kind of return, I assume that that includes the patent litigation settlement that you just announced, but also just wanted to check, does that include the royalties from the OEM, the hyperscaler licenses just in 2025 and 2026?
+
+Or does that include what you also recognized in 2024? Just want to make sure I've got the timeframe right on that 200 ish million dollar return. And then I've got a follow-up.
+
+Patrizio Vinciarelli
+
+So that's the approximate amount that we have locked in so far, through '26.
+
+Quinn Bolton
+
+Okay. Through '26.
+
+Patrizio Vinciarelli
+
+Yes.
+
+Quinn Bolton
+
+Got it. Okay. Perfect. And then either Patricio or Phil, book to bill was below one in the June. I think you mentioned some hesitancy around the tariff surcharge and just general tariff uncertainty in the business, as well as some cancellations in China. Do you sort of feel like the bookings activity has reached a minimum? Have you seen any improvements in July on the bookings trend? And any evidence that book to bill might be getting back above one to one in the September? Or do you see this tariff uncertainty continuing?
+
+I know August 1 is an important date for reciprocal tariffs. So just kind of wondering if that tariff uncertainty has continued here in the July timeframe?
+
+Philip Davies
+
+So Quinn, this is Phil. So we think that the hesitancy around tariffs is now behind us. It's very clear now what we're doing. Customers are working with that expectation. And I think that, as I said, that's behind us now and it's on to future quarters.
+
+Quinn Bolton
+
+Perfect. I'll get back in the queue. Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of John Tanwanteng with CJS. Your line is open.
+
+Jon Tanwanteng
+
+Hi, good afternoon. Thank you for taking my question and congratulations on a nice settlement. I was wondering if you could talk a little bit more about the cancellations that you saw with what end markets those are in. Was that HPC or something else, industrial, automotive, aerospace? Any help there would be appreciated.
+
+Philip Davies
+
+John, this is Phil. Mostly from the industrial market in China. We have customers there for many, many years using a lot of older products as well as some of our advanced products. It was widespread. It came through distribution channels sort of across the board because the tariff there was pretty high, initially.
+
+So, we had some order push outs and some cancellations. It was a mix. So that's the color on that.
+
+Jon Tanwanteng
+
+Understood. And second, just on the royalty streams that you're seeing. Are you expecting to continue growing those license streams into the future quarters? Is that part of the engagements that you're talking about, or is that mostly stable for now?
+
+Patrizio Vinciarelli
+
+So we completed the first ADC case with the CCNDC software and exclusion order that the ADC issued earlier this year. That's still rippling through, the supply chain. We are aggressively pursuing infringers that are still trying to import products that are subject to exclusion. We're also preparing additional actions in the fall. So as evidenced by the track record to date, we are very serious about protecting a intellectual property and nobody should have any doubt that we're going to go to whatever land is necessary to preclude infringement.
+
+Believe the message is getting around, but, I should say, even track record of the industry, an industry in which gas suppliers have been urged by OEMs time cyberscalers to copy successful products. This is a practice that's going to take some time to change, but we have the work we know to make it happen, and we are very determined, to make it happen. So, far so good. There's going to be a lot more of what has happened.
+
+Jon Tanwanteng
+
+Okay, great. Thank you. I'll jump back in queue.
+
+Operator
+
+Thank you. Please stand by for our next question. Our next question comes from the line of Richard Shannon with Craig Hallum. Your line is open.
+
+Richard Shannon
+
+Well, thanks guys for letting me ask a question. My first one is going to be on this new license settlement. Congratulations on what seems like a very nice win here. Maybe you can describe this in a few different ways for us to the extent you're allowed or able to. Is this settlement will we see any ongoing royalties from this customer or is it fully paid up in any manner?
+
+Can you describe who this is either by name or kind of a company OEM hyperscaler, etcetera? I guess let's just start with that one, please. Thanks.
+
+Patrizio Vinciarelli
+
+So I cannot disclose any of the details that you're looking for. Can only say stated at the shoulders meeting that there's been no license in connection with this particular action. So we should not assume that the parties were involved, got a license and by mutual license, they are able to keep doing what they've been subject to exclusion order and potentially other actions will forthcoming.
+
+Richard Shannon
+
+Okay. Just as a heads up for actually, all of you, I'm getting a little bit of scratching this from the line here. I'm not sure I'm hearing everything here, but I think I caught most of it. With that said, I'll follow-up with my second question here, is to kind of understand the dynamics going forward related to licensing. And certainly understand that you're not able to fully lay out your strategy here.
+
+But as I think Phil said in his prepared remarks about trying to play the infringers or providing or doing a catch me if you can strategy here, and obviously it seems like this patent settlement is one example of success there. I guess I'd love to understand the degree to which you think this is an example of that and will stop others? Or are we gonna see some back and forth here, like what we saw last quarter with the licensee coming off? Thank you.
+
+Patrizio Vinciarelli
+
+So I can describe the strategy, and I think we've made a history of it. Strategy is to protect therapy, enforcing it selectively, smartly, by fundamentally going after the supply chain that in the pricing industry, as I mentioned earlier, relied on copying successful products. That's been part some people call the ecosystem. It's an ecosystem that for the most part, in our players that don't innovate, they tend to copy each other. And when a successful product comes to market and hyperscalers or OEMs want to have it and want to have it commoditize, These players will have been focused enablers.
+
+And so the supply chain starts at the top with the enablers. They enable copycat products, then they incorporate them to higher value assemblies, I speak in much higher value assemblies. And then further down in the supply chain, OEMs and hyperscalers, that in a way, at least we are facilitating this kind of practice. We are committed to bringing this practice, at least insofar as LIGO IP is concerned, to an abrupt end. And that will entail, in some instances, companies going lying down, because they know about their IP. They should respect it.
+
+If they don't, there are serious consequences to buy infringement. One of the consequences joint or exclusion of this. And that's what's happened with our first action, There's more of that coming. So the strategy is crystal clear.
+
+Operator
+
+Thank you. Please standby for our next question. Our next question comes from the line of John Dillon with DNB Capital.
+
+Congratulations on a nice settlement. Really nice to see. Phil, my question for you is, at the Annual Shareholder Meeting, you presented a chart that showed a time line when you can be delivering Gen five vertical to your lead customer. So I'm wondering, is that still on target? Are you still going to meet all those dates?
+
+Does it still look solid? And I have a follow-up question after that.
+
+Patrizio Vinciarelli
+
+So John, I'll take that. So things are progressing well, both with respect. The current multiplier piece that had been challenging because of this very, very high current density, as well as the other building walls. So we're still, as you know, as this counselor showed this meeting, very much focused on addressing the needs of a lead customer. We're keeping our powder dry with respect to engaging with other potential customers, but shortly after satisfying the very high current necessary need of our lead customer, would be ready, as Phil pointed out earlier, with demo system boards, and idea tools to receive database scalable adoption.
+
+Philip Davies
+
+So I think the question sorry, John. The question was on the slide that we showed. We're still on target with that slide that we showed, John.
+
+Patrizio Vinciarelli
+
+Yeah.
+
+Okay. So did you deliver the 83% solution then?
+
+Patrizio Vinciarelli
+
+Yes, we have provided the relief, significant quantities of the 83% solution, which by the way was the backstop agreed upon with the customer to begin with. And we're on our way making good progress with respect to 100133%.
+
+Excellent. Then my follow-up question would be, when do you expect to have a fully productized product that you can produce in quantities for the general market?
+
+Patrizio Vinciarelli
+
+I'm going to not spell that out. Again, as suggested earlier, John, we want to stay very, very focused on taking care of our lead customer first. And that's 100% our focus at this point in time. That's not to say that we're not preparing for a general market introduction. As I mentioned earlier, we made great size the animal system tools and general market capabilities, but we're only going to pull the trigger on that once we're done with 100% level that was initially targeted just before we get that 100 reach, goal.
+
+Excellent. Okay. I I gotcha.
+
+Philip Davies
+
+If add I could to that just a little bit. That's not to say that, you know, the front end team is engaging, with customers from a perspective of understanding their loads. So anybody that's looking at VPD, we're talking to them about their new next generation processors, networking chips, so forth. So it's not that there's not any work going on. It's just that the front end team isn't involved in, if you like, the development of the product for the lead customer.
+
+So we're able to have the resources available to talk and gather information such that when we do launch that out to the general market, we're ready to hit those customers very, very quickly with solutions that they need. So so that work is ongoing, and we've got a lot of engagement with anybody looking at ATV right now.
+
+Will your lead customer be able to ship the product that you're shipping them and then to their customers? Is it is it is it is the quality gonna be good enough that they can actually use it to ship to their customers? Are they still in the kind of evaluation stage?
+
+Patrizio Vinciarelli
+
+So, I can't give you details from this reason, but I can say this, that the customer is considering monetizing the platform that we started to ship, but our objective is to enable a higher level of profitability and improve performance, and to do so, ahead of the customer target market introduction date.
+
+Excellent. Thank you very much. It's very helpful. And, again, congratulations.
+
+Operator
+
+Thank you. We have a follow-up question from the line of Quinn Bolton with Needham and Company. Your line is open.
+
+Quinn Bolton
+
+Hey, Patricia, at the Annual Shareholders Meeting, you were is your outlook for 2025 to be still a record year? I think at the Annual Shareholder Meeting, you had referenced some increased uncertainty around tariffs, but you still thought you got there. Obviously, with the June results and the $45,000,000 patent litigation settlement, it certainly looks like you're tracking to a record year in 2025. But wondering if you had any updated thoughts on whether 2025 is a record year for revenue. And then I've got another follow-up.
+
+Patrizio Vinciarelli
+
+Yeah, it's suggested, I think for a couple of quarters, do expect '25 to be a revenue.
+
+Quinn Bolton
+
+Excellent, okay. And then the follow-up question, I know you don't provide quarterly guidance, but just wondering if you could directionally give some comments. Your royalty revenue was on a very nice upward trajectory through 2024. In March and June, you sort of pulled back to the roughly $10,000,000 level. And I think you'd mentioned that one of the OEM licenses wasn't paying on a new generation product.
+
+But it looks like that royalty income level has stabilized. I'm just wondering as you look into the back half of the year, would you generally expect royalty to begin to increase again? Or does it stay in this $10 ish million range? Could you give any sort of qualitative comment on how you think the royalty portion of the revenue stream might trend over the next couple of quarters?
+
+Patrizio Vinciarelli
+
+We're not going to commit to any specific level. But as evidenced by the results in Q2, I think it's safe to say that in any one quarter, is a great deal of upside on a bigger scale than what happened in Q2. And that's the reason, frankly, why we can't provide a reliable forecast. There's a good deal of variance to different scenarios, and you should say, given a strategy and commitment for CIP, we don't want to be in effect, committed, hooked on any particular target in any one part, unless that drive us the leverage we need in order to be successful in bringing about the right targets. So that, as you can imagine, creates uncertainty, which is at this point in time, you know, part of our, you know, IP business.
+
+I think as we progress further along and we get a more diversified licensee base, the licensing business is going to become more and more predictable. At that point in time, the kind of challenging forecasting that we presently place will no longer be there.
+
+Quinn Bolton
+
+Maybe just, Patricia, I understand that patent litigation settlements are difficult to forecast timing, and probably the signing of new licenses to the extent they include a license payment is a little bit less predictable. But royalty payments, I would think, on existing licenses might be a little bit more predictable. And I guess that's what I was asking about. I know you had, again, talked about some sort of headwinds in that royalty income with the OEM license. And I'm just kind of wondering at this level, do you think that those headwinds are now largely behind the company on the existing licenses?
+
+I'm not trying to get you to comment on new licenses or patent litigation settlement in the future. Just more kind of wondering if that OEM license headwind that you had previously talked about might be behind you at this point.
+
+Patrizio Vinciarelli
+
+It's not behind us. We are enforcing the existing exclusion order, and we're looking at additional actions for, in effect, making sure that use of our IP does not go without appropriate royalties or penalties for not paying royalties when they were due.
+
+Quinn Bolton
+
+Understood. Okay, thank you.
+
+Operator
+
+Thank you. Please stand by for our next question. Our next question comes from the line of James Liberman with American Trust Investment Services.
+
+James Liberman
+
+Great results. It's good to see the licensing and the settlement income coming in. You mentioned the automotive area, an event for the company in Europe and Asia. And in the past, you've mentioned you're seeing some continuing strength in the electric vehicle market in China. Can you give a little bit better overall color to how you see that playing out?
+
+Philip Davies
+
+Yeah. So the automotive market, mentioned at the annual shareholders meeting, it's pretty obvious to people that have dealt with the automotive market. You don't just enter that market. It's hard slog, it's a grind. You have to really prove yourself as supplier.
+
+So typically, starting out with lower volume programs and platforms, and then expanding the business from there once you've proven yourself. The critical steps through that, sort of collaborations on different power delivery networks with tier ones and OEMs, which we established. We're now going through the audit phase with a number of customers. That's a very critical step where they have teams that come in and look at all our quality systems and manufacturing systems and product development systems. So we're going through those now.
+
+So we're well on the journey, no pun intended, to becoming established at least as lower volume platform supplier, but those do expand then fairly quickly after that. So we're very early days still. I think there's still a ways to go before that becomes a significant piece of our revenue, probably out in the twenty nine, thirty, two thousand and thirty timeframe. But we are excited about the activity that's going on there.
+
+James Liberman
+
+Thank you very much for that at this time.
+
+Operator
+
+Thank you. Please stand by for our next question. Our next question comes from the line from a follow-up question from John Tanwanteng with CJS. Your line is open.
+
+Jon Tanwanteng
+
+Hi. Thanks for the follow-up. A couple months ago, the the largest chip designer in the AI space, know, disclosed their plans for 800 volt servers and the architectures they plan to use. They named a lot of partners in the press release there, and I was wondering, since you weren't on the list that was announced, if there's an opportunity there at all, does that shut you out, or is there still a way to participate in that ecosystem, either with this designer or with others with the products that you have?
+
+Patrizio Vinciarelli
+
+So I think as mentioned in Phil's prepared remarks, we have a history of pioneering high voltage pass conversion with or without isolation, the LOIP at base levels. I think anybody now pursuing high density power system solutions involving bus conversion from 800 volt to 48 volt, or in that general realm, is going to be needing our IP, or, you know, in effect, suffering consequences in terms of inferior power density. As Phil mentioned, we're bringing to fruition a new higher power module that is a good fit for a lot of these requirements, 10 kilowatt block, which is very, very small. It's a small fraction of the size of any competitive alternative that technology is being developed. So here again, we have a leading technology, leading power density capability, and last but not least, a lot of significant IP that we think is going to become necessary for high performance solutions.
+
+Philip Davies
+
+John, there's a long way between having a high voltage discrete GaN or a silicon carbide product to a 800 volt multi kilowatt rack power system. So, yeah, there's a lot of announcements there, but there's a long way from that to having a real high performance, high efficiency solution. So, we shall see.
+
+Patrizio Vinciarelli
+
+And also a lot of misconceptions. Frankly, there is a good deal of naivete when it comes to some of these things. So, we've been making 800 volt bus converters for many, many years. We know what it takes, and we're doing it in ways that as measured, as an example, in terms of switching frequency, are not a magnitude greater than what can be done with GAMFAS or CDN cut BiFAS.
+
+Jon Tanwanteng
+
+Great, thank you for that color. That's much appreciated. Last one for Jim, if you could, just any thoughts on OpEx going forward, compared to the current quarter that just ended?
+
+James Schmidt
+
+Well, I think we won't guide on that, John. But I will say that as I described in the results that if you exclude the $5,100,000 incentive legal fee, our OpEx would have actually dropped sequentially. That would be because, in part, and primarily because of a lull in the other legal expenses we had to incur on some of these cases. So I think we're in a good state right now relative to a nice balance of operating expense and revenue. I think as things heat up and we go forward with other actions, then we'll see, and it will be lumpy, I think, in OpEx.
+
+And we've said that isn't going to be the case.
+
+Jon Tanwanteng
+
+To be clear, thank you.
+
+Patrizio Vinciarelli
+
+Respect to the first action in terms of contingency, we are capped out. So we paid out all the contingency fees related to the transaction.
+
+Jon Tanwanteng
+
+Understood, good luck.
+
+Operator
+
+Thank you. Please stand by for our next question. Our next question comes from the line of Don McKenna with D. B. McKenna and Company. Your line is open.
+
+Donald McKenna
+
+Thank you. I wanted to ask about the settlement payment, if that represents the entirety of the settlement or if that's an initial payment? And secondly, Jim, I thought I heard you say there was some stock repurchases during the quarter. If that was the case, can you expand on that a little bit, the numbers of shares and price? I think I'll let Patricio comment on the settlement.
+
+Patrizio Vinciarelli
+
+Yeah, so I can now comment on the specifics of the settlement.
+
+James Schmidt
+
+So I think on the share repurchase I mentioned in the prepared remarks, on the order of $17,500,000 worth of share repurchases last quarter, and on the order of 200,000 or ish shares repurchased during the period.
+
+Donald McKenna
+
+Thank you.
+
+Operator
+
+Thank you. Please stand by for our next question. We have a follow-up from the line of John Dillon with DNB Capital. Your line is open.
+
+My question was answered, so thank you very much.
+
+Operator
+
+Thank you. We have a follow-up question from the line of Richard Shannon with Craig Hallum. Your line is open.
+
+Richard Shannon
+
+Great. Thanks for taking a couple more questions here, guys. I'm going to look at a couple of different comments you made both today and in past calls as well as the shareholders meeting. The first one is talking about record results of the year and I heard your answer today. And then he also talked about a wide range of outcomes.
+
+As we look at your results today here, obviously a very large settlement, obviously it creates a very wide range here. But if we just look at your product revenue, how do we think about what can create these wide range of outcomes? And I'd like to take the tariffs off the table, you've talked about that today. But how about maybe discussing and kind of giving some sense of where you see some of these positive outcomes by product as we go through the year that could create a record year even better? Thank you.
+
+Patrizio Vinciarelli
+
+Yeah, so to be clear, the major source of uncertainty in the short term is with respect to licensing and litigation practice. With respect to product revenue, the near term sees us still making poor use in terms of capacity utilization of our first fab, which represents obviously burden with respect to margins and level profitability. Even though we've been making good progress on that front, primarily because of the efficiencies associated with shorter cycle time and greater yields, and that progress is ongoing. But on the crop front, is, as think I noted in my quotes associated with the press release, the product front is obviously very important. We're very much focused on that.
+
+We made tremendous investments in advancing the state of the art. And that's all being reflected in our five gs product capability. Invertega AI, the center of opportunities, you know, point of load, as well as, as discussed earlier, passing through critical hubs in the Portia Vault in the Downhole valve. It's the kind of product superiority and technology lead that will fill the fab. It's not going to happen overnight. It's something that will take some time. But I should say, we're very much focused on that part of the salvage as well.
+
+But that's not where the near uncertainty with respect to two quarterly top line or online numbers.
+
+Richard Shannon
+
+Okay, and I guess just following up on that, Petruzzio, certainly would obviously, you've been talking about second gen BPD and some of the newer products here, but relative to talking about the record year here, it doesn't seem like there's enough time for those new products to have that much of an effect to benefit this year, but I just want to make sure that was implied in your comment there. Thank you.
+
+Patrizio Vinciarelli
+
+They are not going to move the needle big time, but there's going to be progress, and certainly a contribution in the second half of the year.
+
+Richard Shannon
+
+Okay. Fair enough. I will jump out of line again. Thank you, guys.
+
+Patrizio Vinciarelli
+
+Thank you.

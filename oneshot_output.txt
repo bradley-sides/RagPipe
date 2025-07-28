@@ -1,0 +1,87 @@
+## FINANCIALS
+
+- Raised almost $30M in gross proceeds in Q2 2025 through equity and debt financing
+    - Increased fundraising substantially vs same quarter a year ago
+- Cash balance at end of quarter: just over $20M
+- CapEx: Significantly reduced over the past quarter, as construction of current recycling plant is essentially complete
+    - Future CapEx to be focused on second recycling facility and lithium refinery
+- Grants:
+    - Over $200M in undispersed, but contracted government grants (with new grants initiated in past month)
+    - $144M Department of Energy grant (awarded for 2nd battery recycling facility construction)
+    - Nearly $60M in competitively awarded IRS investment tax credits
+- Revenue: Now generating revenue from sale of recycled product at first recycling facility (no revenue from recycling business same quarter last year)
+- Operations:
+    - Increased operating expenses at recycling plant as ramp-up continues
+
+## GUIDANCE
+
+- Continue ramping throughput at first recycling facility (near Reno, NV)
+    - Q2 improvements generated over 225% monthly throughput increase vs prior quarterly average
+    - Most recent week: 350% increase in weekly throughput vs last quarter’s weekly average
+- Entering second phase of recycling plant: upgrades intermediate products to high-purity battery metals for sale to the domestic market
+- Second recycling facility design underway (100,000 ton/year capacity, funded by $144M DOE grant)
+- Planning and development ongoing for commercial scale (30,000 ton/year) lithium hydroxide refinery at Tonopah, NV
+- Pre-feasibility study for lithium refinery near completion as of Q2; key data from fourth drill program expected to be published in near term
+- Workforce expansion ongoing
+    - Hired new Head of People (Dec 2024)
+    - Increased headcount per shift and shift numbers to enable throughput increases
+- Next-generation, lower-cost recycling processes under laboratory development, supported by an additional DOE grant
+- Limited expenses required for lithium business for rest of 2025 as CapEx ramps down on recycling business; CapEx for lithium refinery construction comes later (out of phase)
+- Goal: Fund development through internally generated recycling cash flow and staged government grants
+
+## PRODUCTS & OPERATIONS
+
+- Battery Recycling Business
+    - First recycling facility (Reno, NV): Commercial operation producing and selling intermediate and upgraded battery metals; throughput ramping rapidly post recent process enhancements
+    - Second recycling facility: In design, 100,000 ton/year capacity, construction to be supported by DOE grant
+    - Implementing laboratory-developed new recycling technologies (lower cost, wider range of material recovered) into pilot and plant scale going forward
+- Claystone-to-Lithium Hydroxide Business
+    - Own lithium-bearing resource near Tonopah, NV; fourth exploration/drill program underway (Q2), key for feasibility and permitting
+    - Multi-ton per day pilot plant (integrated process) completed and operating since summer 2024; regularly providing commercial-grade lithium hydroxide samples to prospective customers (North American OEMs)
+    - Planning for 30,000 ton/year commercial refinery on owned resource
+    - Activities include ongoing fieldwork, drill analysis, detailed 3D resource and mine plan modeling, and pre-feasibility/permitting processes
+- Strategic Integration
+    - Synergy between recycling (faster revenue, lower upfront CapEx) and mining/refining (longer-term, higher CapEx, later revenue) businesses allows internal cash flow to minimize total fundraising and offset development cycles
+
+## MARKET & SUPPLY CHAIN
+
+### Customers & Demand
+
+- Current OEM/customer engagement
+    - Multiple domestic battery and automotive OEMs increasingly prioritizing U.S.-based, closed-loop battery metals sourcing
+    - Supplying batch samples to customers for evaluation and qualification
+    - Engaged with OEMs via Department of Energy Battery Workforce Challenge (lead recycling sponsor), influencing battery pack design for end-of-life recyclability
+    - Demand for U.S.-source product increasing even over free trade partners, per recent OEM conversations
+
+### Supply Chain & Partners
+
+- Resource: Lithium property in central Nevada (Tonopah Flats), drilling and permitting progressing; detailed modeling and pre-feasibility in progress
+- Government/DOE Partnership
+    - Two major DOE grants: one for next-gen recycling tech development, one for 2nd recycling facility; rapid contract finalization/award
+    - IRS investment tax credits
+    - Active involvement in DOE Battery Workforce Challenge (workforce and OEM engagement)
+- Internal hiring: New Head of People and ongoing operations staff scaling as throughput increases
+
+## LEADERSHIP
+
+- Ryan Melsert: CEO, CTO, Director; provided all operational and strategic commentary
+- Tiffiany Moehring: Director of Communications and Marketing; facilitated call and Q&A
+
+## Q&A HIGHLIGHTS
+
+- **Funding both businesses:** Complementary cash flows. Recycling generates revenue now, funding lithium development. Lithium CapEx ramps up after recycling build-out.
+- **EV market demand:** Actual EV sales/global battery demand are still growing substantially (17M units in 2024, up from 13M); perception of “slowdown” at odds with OEM discussions and real growth. OEMs shifting toward U.S. supply preference.
+- **Ramp plans:** Ongoing expansion and throughput increases, no indication of delay or slowdown due to market conditions.
+
+## CATALYSTS
+
+- Publication of new drill and resource analysis for Tonopah Flats; pre-feasibility study and mine plan progress
+- Ongoing ramp and operational scale at first recycling facility (target: continued throughput growth)
+- Launch and funding drawdown for second recycling plant (DOE/IRS support)
+- Piloting and eventual plant-level implementation of new, lower-cost recycling technology
+- Construction plans for commercial scale lithium hydroxide refinery (Tonopah, NV)
+- Ongoing OEM partnerships for product qualification and future offtake agreements
+
+---
+
+**Full financial filings for Q2 2025 are available on the company website for further detail.**

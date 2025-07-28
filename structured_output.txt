@@ -1,0 +1,117 @@
+## FINANCIALS
+
+- Q1 2025:
+    - Revenue: $1.2B (flat YoY; Q1 2024: ~$1.2B)
+    - Homes sold: 2,946
+    - Homes acquired: 3,609 (+4% YoY)
+    - Contribution profit: $54mm (vs $57mm Q1 2024)
+        - Contribution margin: 4.7%
+    - Adjusted EBITDA: -$30mm (vs -$50mm Q1 '24; $20mm improvement)
+    - Adjusted OpEx: $84mm (down from $107mm in Q1 '24)
+        - Fixed operating expenses: $19mm lower YoY (down 33%)
+    - Net inventory: 7,080 homes, $2.4B (up 24% YoY)
+    - Cash:
+        - Unrestricted cash: $559mm
+        - Equity in homes: $350mm (net of inventory valuation adjustments)
+        - Total capital: $1B
+    - Borrowing capacity:
+        - Nonrecourse asset-backed: $7.9B
+        - Committed: $2.3B
+
+- Credit facilities:
+    - 3 revolving/term credit and both mezzanine facilities renewed/extended (through at least 2027); maintained or improved spreads
+
+## GUIDANCE
+
+- Q2 2025:
+    - Revenue: $1.45B–$1.525B
+    - Contribution profit: $65mm–$75mm (contribution margin: 4.5%–4.9%)
+    - Adjusted EBITDA: $10mm–$20mm
+        - (Represents $20mm YoY improvement at midpoint; first positive quarterly adj. EBITDA in 3 years)
+    - Adjusted OpEx: ~$55mm
+    - Stock-based compensation: $13mm–$15mm (over 50% decline YoY)
+    - Home acquisitions: ~1,700 units
+        - Expect slow pace Q2/Q3; ramp in Q4 following seasonal pattern
+    - Marketing spend in Q2 to be significantly lower than Q1 (seasonal)
+
+- H2 2025:
+    - Expect revenue to decline YoY in Q3/Q4 (due to lower acquisitions)
+    - Goal: Deliver YoY contribution margin improvement in Q3/Q4 (operating efficiencies, wider spreads)
+    - Adj. net loss for FY2025 expected to improve vs. 2024
+
+- Cost Structure:
+    - Cost efficiencies expected to be durable
+    - OpEx reductions will persist, but less room for further large cuts
+
+## PRODUCTS / BUSINESS MODEL
+
+- REMIT: Reinvent U.S. residential real estate, emphasizing certainty, convenience, and customer-centricity
+- Evolution toward platform for seller choice:
+    - Sellers can receive cash offer OR list with agent
+    - Platform enables agent to provide certainty via a cash offer
+    - Piloting customer referral to vetter partner agents: agent explains options (cash offer, listing, etc.), does in-home assessment, helps conversion, faster offers
+    - Agent partnership program operating in 11 pilot markets, asset-light revenue focus
+    - Expansion into this agent-enabled model aims to serve more sellers and monetize more of funnel
+
+- Marketplace: Presently paused in expansion (currently only in Dallas, Charlotte, Raleigh); not a focus for near-term growth due to housing market softness
+
+## SUPPLY CHAIN / OPERATIONS
+
+- Pricing strategy:
+    - Maintaining pricing discipline amidst volatility
+    - Spreads have been proactively increased to protect contribution margin, at expense of acquisition volume growth
+
+- Conversion optimization:
+    - Active enhancements to pricing models (e.g., refining spread allocation, more granular price segmentation)
+    - Algorithms enhanced in Q1: Added features like school district quality, active competition
+
+- Marketing:
+    - Realigned to seasonal housing dynamics → greater spend efficiency
+    - Q2 spend to be "meaningfully lower" QoQ; focus on highest ROI channels
+
+- Cost structure:
+    - Fixed cost base significantly reduced over past year (33%/~$20mm YoY in Q1)
+    - Further opportunities for process efficiency being pursued, but further large cuts less likely
+
+- Inventory management:
+    - Q2 2025: Resales to outpace acquisitions, reducing inventory balance and generating favorable OpEx adjustment
+
+## MARKET / CUSTOMER DYNAMICS
+
+- Macro environment:
+    - Challenger: Mortgage rates >7%, clearance rates -25% YoY, delistings +30% YoY
+    - Consumer sentiment muted, sellers hesitant, increased contract cancellations
+    - Macro headwinds expected to persist through near term
+
+- Channel strategy:
+    - Increasing share of acquisitions originated by external agents bringing clients for cash offers
+    - New: Opendoor now also refers seller leads to vetted partner agents earlier in process (11 pilot markets)
+        - Agent partners explain selling options, complete in-home assessment, serve as trusted adviser
+        - Aims for higher conversion, asset-light revenue, and improved customer experience
+
+    - "List with Opendoor": Continues as end-of-funnel referral product for DTC leads who want to list with an agent after exploring cash offer
+    - Marketplace product on hold due to market softness
+
+## CONTRIBUTION / MARGIN DYNAMICS
+
+- Contribution margin in Q2 2025 expected consistent with Q1 (mid-4% range)
+    - Lower than 2024 due to mix (older, lower-margin inventory makes up greater share of Q2 sales; newer cohorts perform well but not enough to offset mix)
+    - Longer hold times systematically lead to lower margins; newer acquisitions start at higher margin and decay over time
+
+- Spreads:
+    - Elevated spreads (pricing in greater market risk)
+    - Higher spreads support margin, but reduce acquisition volume
+
+## LEADERSHIP
+
+- Carrie Wheeler, CEO: Emphasized focus on profitability, expanding platform/channel strategy, and agent partnerships
+- Selim Freiha, CFO: Focused on efficiency, cost discipline, balance sheet strength, and prudent pace of acquisitions
+
+## CATALYSTS
+
+- Return to positive adj. EBITDA projected in Q2 2025 (first time in >3 years)
+- Agent-based channel expansion (pilot programs across 11 markets); could increase conversion, asset-light revenue, and overall funnel monetization if positive signals continue
+- Durable cost structure improvements enable reduced losses, even if macro remains soft
+- Asset-light revenue streams to grow as agent channel becomes more prominent
+
+---

@@ -574,5 +574,149 @@
     "fiscal_year": 2025,
     "quarter": "Q3",
     "call_date": "2025-05-08"
+  },
+  {
+    "file_path": "text/OPEN_Q1_2025.txt",
+    "doc_id": "open_q1_fy2025",
+    "company": "OPEN",
+    "fiscal_year": 2025,
+    "quarter": "Q1",
+    "call_date": "2025-05-06"
+  },
+  {
+    "file_path": "text/OPEN_Q1_2025.txt",
+    "doc_id": "open_q1_fy2025",
+    "company": "OPEN",
+    "fiscal_year": 2025,
+    "quarter": "Q1",
+    "call_date": "2025-05-06"
+  },
+  {
+    "file_path": "text/OPEN_Q4_2024.txt",
+    "doc_id": "open_q4_fy2024",
+    "company": "OPEN",
+    "fiscal_year": 2024,
+    "quarter": "Q4",
+    "call_date": "2025-02-25"
+  },
+  {
+    "file_path": "text/OPEN_Q3_2024.txt",
+    "doc_id": "open_q3_fy2024",
+    "company": "OPEN",
+    "fiscal_year": 2024,
+    "quarter": "Q3",
+    "call_date": "2024-11-07"
+  },
+  {
+    "file_path": "text/OPEN_Q2_2024.txt",
+    "doc_id": "open_q2_fy2024",
+    "company": "OPEN",
+    "fiscal_year": 2024,
+    "quarter": "Q2",
+    "call_date": "2024-08-01"
+  },
+  {
+    "file_path": "text/OPEN_Q1_2024.txt",
+    "doc_id": "open_q1_fy2024",
+    "company": "OPEN",
+    "fiscal_year": 2024,
+    "quarter": "Q1",
+    "call_date": "2024-05-02"
+  },
+  {
+    "file_path": "text\\SBET_Q1_2023.txt",
+    "doc_id": "sbet_q1_fy2023",
+    "company": "SBET",
+    "fiscal_year": 2023,
+    "quarter": "Q1",
+    "call_date": "2023-08-15"
+  },
+  {
+    "file_path": "text\\ABAT_Q2_2025.txt",
+    "doc_id": "abat_q2_fy2025",
+    "company": "ABAT",
+    "fiscal_year": 2025,
+    "quarter": "Q2",
+    "call_date": "2025-02-14"
+  },
+  {
+    "file_path": "text\\HIMS_Q1_2025.txt",
+    "doc_id": "hims_q1_fy2025",
+    "company": "HIMS",
+    "fiscal_year": 2025,
+    "quarter": "Q1",
+    "call_date": "2025-05-05"
+  },
+  {
+    "file_path": "text\\HIMS_Q4_2024.txt",
+    "doc_id": "hims_q4_fy2024",
+    "company": "HIMS",
+    "fiscal_year": 2024,
+    "quarter": "Q4",
+    "call_date": "2025-02-24"
+  },
+  {
+    "file_path": "text\\ROOT_Q1_2025.txt",
+    "doc_id": "root_q1_fy2025",
+    "company": "ROOT",
+    "fiscal_year": 2025,
+    "quarter": "Q1",
+    "call_date": "2025-05-07"
+  },
+  {
+    "file_path": "text\\AQMS_Q4_2024.txt",
+    "doc_id": "aqms_q4_fy2024",
+    "company": "AQMS",
+    "fiscal_year": 2024,
+    "quarter": "Q4",
+    "call_date": "2025-03-31"
+  },
+  {
+    "file_path": "text\\VICR_Q2_2025.txt",
+    "doc_id": "vicr_q2_fy2025",
+    "company": "VICR",
+    "fiscal_year": 2025,
+    "quarter": "Q2",
+    "call_date": "2025-07-22"
+  },
+  {
+    "file_path": "text\\NOW_Q2_2025.txt",
+    "doc_id": "now_q2_fy2025",
+    "company": "NOW",
+    "fiscal_year": 2025,
+    "quarter": "Q2",
+    "call_date": "2025-07-23"
+  },
+  {
+    "file_path": "text\\TSLA_Q2_2025.txt",
+    "doc_id": "tsla_q2_fy2025",
+    "company": "TSLA",
+    "fiscal_year": 2025,
+    "quarter": "Q2",
+    "call_date": "2025-07-23"
+  },
+  {
+    "file_path": "text\\QS_Q2_2025.txt",
+    "doc_id": "qs_q2_fy2025",
+    "company": "QS",
+    "fiscal_year": 2025,
+    "quarter": "Q2",
+    "call_date": "2025-07-23"
+  },
+  {
+    "file_path": "text\\EOSE_Q1_2025.txt",
+    "doc_id": "eose_q1_fy2025",
+    "company": "EOSE",
+    "fiscal_year": 2025,
+    "quarter": "Q1",
+    "call_date": "2025-05-07"
+  },
+  {
+    "file_path": "text\\QS_Q1_2025.txt",
+    "doc_id": "qs_q1_fy2025",
+    "company": "QS",
+    "fiscal_year": 2025,
+    "quarter": "Q1",
+    "call_date": "2025-04-23"
   }
 ]

@@ -1,0 +1,186 @@
+Participants
+Stephen Cotton	executive
+Judd Merrill	executive
+Call transcript
+Operator
+Greetings, and welcome to the Aqua Metals Q4 and Full Year Investor Conference Call. [Operator Instructions]. Please note that this conference is being recorded. I will now turn the conference over to Bob Myers, Investor Relations. Thank you.
+
+You may begin.
+
+Unknown Executive
+Thank you, operator, and everybody for joining. Earlier today, Aqua Metals issued a press release providing an operational update and discussing financial results for the fourth quarter and full year that ended December 31, 2024. This release is available in the Investor Relations section on the company's website@aquametals.com. Hosting the call today are Steve Cotton, President and Chief Executive Officer, and Judd Merrill, Chief Financial Officer.
+
+Before we begin, I would like to remind participants that during the call, management will be making forward-looking statements. Please refer to the company's report on Form 10-K filed today, March 31, for a summary of the forward-looking statements and the risks, uncertainties, and other factors that could cause actual results to differ materially from those forward-looking statements. Aqua Metals cautions investors not to place undue reliance on any forward-looking statements. The company does not undertake and specifically disclaims any obligation to update or revise such statements to reflect new circumstances or unanticipated events as they occur, except as required by law.
+
+As a reminder, after the formal remarks, we will be taking questions. Questions will be accepted over the phone from analysts, and all other investors can submit a question using the online webcast portal provided in today's and earlier press releases.
+
+We will take as many questions as we can in our available time slot. And with that, I'd like to turn the call over to Steve Cotton, CEO of Aqua Metals. Steve, the call is yours.
+
+Stephen Cotton
+Thank you, Bob, and good afternoon, everyone. I appreciate you joining the Aqua Metals Fourth Quarter and Full Year 2024 Earnings Call. I'm Steve Cotton, President and CEO of Aqua Metals. Today, I'll provide a detailed update on our operations, strategic progress, and how we are positioning Aqua Metals for meaningful advancement in 2025. These remarks will cover our technology validation, product milestones, commercialization strategy, financial positioning, and our broader vision for scaling critical battery material production right here in the U.S. The year 2024 was marked by resilience, focus, and adaptation. In a macroeconomic environment challenged by falling battery metal prices and tight capital markets, we took proactive steps to conserve cash, validate our technology, engage potential partners, and refine our strategy for scalable, capital-efficient deployment. We set out with three primary goals this year: first, to prove the repeatability and reliability of our lithium AquaRefining technology; second, to deepen and expand commercial partnerships that will support long-term operations; and third, lay the groundwork for scaling operations through flexible partner-centric models that minimize our capital intensity while maximizing impact. We successfully operated our lithium AquaRefining pilot plant for the whole year, including a 3-week continuous 24/7 Endurance run completed in December. This operational milestone further demonstrated the reliability and efficiency of our process at the pilot scale. The system was consistently delivering impressive recovery rates and high purity for lithium, cobalt, and nickel, for which we have provided samples to potential partners and customers globally.
+
+In addition, independent analysts have shown that our patented AquaRefining process produces 83% less CO2 than traditional hydrometallurgical recycling methods.
+
+During our December Endurance run, we produced more than 600 pounds of battery-grade lithium carbonate at purity levels exceeding 99.5%. That's not just lab-scale production. It's a representative product at a scale and quantity that few, if any, others in the U.S. are matching today. We've delivered these samples to multiple cathode active material or CAM producers, and we're encouraged by the positive and engaging feedback and the ongoing testing of our material for use in NMC, lithium iron phosphate, and other battery chemistries. In another major achievement, we worked with a downstream CAM partner to convert recycled domestic nickel into cathode active material, a significant milestone for the domestic industry. That material is now under validation with several leading battery manufacturers in the U.S. and in Asia. This is a major proof point for our vision of a closed-loop battery material supply chain where end-of-life batteries feed directly back into the creation of new ones.
+
+As we look to scale our impact, we've evolved our commercialization strategy to reflect both the opportunities and the realities of today's market.
+
+While our Sierra ARC facility remains a well-prepared and valuable asset, its completion remains on hold pending further financing.
+
+We continue to actively engage with potential capital partners and strategic partners to bring it online when conditions align, but we are not waiting for that singular project to move forward.
+
+We are executing a nimble, diversified strategy to bring AquaRefining to commercial scale.
+
+We are also prioritizing co-location opportunities where we can deploy our technology alongside existing recycling or battery-manufacturing operations to reduce logistics costs and accelerate time to revenue. Toll processing models where we process feedstock on behalf of partners who already control materials but need a clean, efficient way to recover the critical metals. Licensing and joint ventures. These allow partners to deploy our proven AquaRefining technologies within their own facilities, expanding our reach without heavy capital outlays. We're currently in active discussions with multiple parties across these models. Each model represents in and of itself a direct path to commercial deployment that aligns with our mission and technology advantages.
+
+Our partnership with 6K Energy remains a flagship example of our ability to form commercial alliances that support closed-loop battery material supply chains. Under our agreement, Aqua Metals will provide up to 30% of the recycled content for 6K's domestic cathode manufacturing facility, a major achievement for U.S. clean energy infrastructure. This agreement is helping to define how domestic circularity for battery materials can become a reality, and we are actively working with 6K as both companies progress their strategic objectives and plans for commercial-scale facilities. In parallel, we've continued advancing negotiations on feedstock and offtake agreements that will support operations in any commercial deployment, whether at Sierra ARC or elsewhere. These conversations are integral to derisking the ramp of future facilities and ensuring a stable revenue model as we scale. We strengthened our financial position in 2024 with a mix of insider-supported equity and strategic cost management. We raised approximately $15 million during the year, with over 2/3 of the funding coming from Aqua Metals' leadership and Board in our $1.5 million bridge note. This internal direct financial investment underscores our individual and collective confidence in the direction we're heading.
+
+We also secured an up to $2.2 million tax abatement from the state of Nevada based on the projected economic and employment impacts of our recycling operations. This recognition reflects our contribution to Nevada's emerging ecosystem and broader clean energy economy.
+
+Additionally, we arranged interim bridge financing again with strong insider participation to maintain momentum across our development and partnership initiatives while we pursue long-term project financing and strategic capital options.
+
+Our technology and execution continued to earn validation from government and industry partners. We were honored to be selected by the U.S. Department of Energy for the ACME Revive program, a national initiative to support domestic critical mineral recovery and circular supply chains. Environment + Energy Leader also named our AquaRefining process the "Top Project of 2024", citing its environmental benefits, innovation, and scalability potential. Closer to home, we were also recognized as a finalist for the Best Places to Work in Northern Nevada, notably, the only lithium-focused company in the lithium state to earn that distinction.
+
+We also expanded our Board of Directors, adding experienced leaders from the battery and finance sectors who bring valuable insight and relationships that are already informing our strategies and our tactics.
+
+As we move into 2025, Aqua Metals is focused on translating technology success into commercial deployment. That means advancing colocation and licensing opportunities, financing feedstock and offtake agreements that underpin all commercial operations, securing strategic funding that enables execution while preserving shareholder value, and continuing to produce and supply battery-grade recycled materials from our pilot facility as part of customer validation and partnership development. We believe this approach allows us to scale smartly, partner effectively, and meet a growing and critical need in the U.S. for domestically produced low-carbon battery materials in state-of-the-art facilities that can create desirable and lasting jobs for the communities in which they operate. I want to close by thanking the Aqua Metals team. Their determination, creativity, and commitment made this year's accomplishments possible. I also want to thank our partners, our Board, and our shareholders for their ongoing support and continued belief in our mission.
+
+We have the technology, the talent, and the partnerships to lead in clean battery metal recovery. With a flexible, capital-efficient plan in motion, we're positioned to make 2025 a breakout year. With that, I'll turn it over to Judd for a discussion of our financials.
+
+Judd Merrill
+Thanks, Steve.
+
+Let me start my comments with our balance sheet. We ended the quarter with total cash of approximately $4.1 million, higher than the previous quarter and an indication of management's focus on maintaining our cash position. Subsequent to year-end, we received the remaining $100,000 from LiNiCo related to the year-end receivable. CapEx was largely unchanged from the prior quarter. Toward the end of 2024, we shifted our strategic focus to prioritizing lithium carbonate production alongside mixed hydroxide precipitate. This decision aimed to reduce capital and operational intensity while enabling a larger-scale facility with higher revenue and improved margins than the previous design.
+
+As a result of this strategic shift at December 31, 2024, the company recognized an impairment of approximately $2.6 million related to vendor equipment deposits for equipment that was initially required for Phase 1 of the recycling campus at the Sierra ARC but is no longer needed under the revised plan.
+
+Finally, on the balance sheet, we recognized a warrant liability related to warrants issued last year. The warrant liability was initially recorded at a fair value of $986,000 and subsequently remeasured to $1.5 million as of December 31, 2024. The change in fair value of $507,000 was recognized as a noncash expense within interest expense in the income statement for the year ending December 31, 2024. I will now move on to the income statement. Plant operations increased approximately $931,000 or 15% for the 12 months ended December 31, 2024, as compared to the 12 months ended December 31, 2023. This increase was primarily driven by an approximately $758,000 rise in payroll and related fees as we hired additional staff to operate the pilot facility, process black mass, and build out our commercial facility during the first seven months of the year. Subsequent to this, and by the fourth quarter, our payroll and related fees expenses were significantly lower.
+
+Our 2025 expenses will also be lower. General and administrative expenses increased approximately $329,000 or 3% for the three months ended December 31, 2024, compared to the 12 months ended December 31, 2023, and we also expect 2025 G&A expenses to be lower than the prior year. We recognized interest expense of $1.1 million for the year ended December 31, 2024, and $621,000 for the year ended December 31, 2023. The increase in interest expense is primarily due to the $507,000 change in fair value of the warrant liability, which I have just previously explained.
+
+Our net loss for the 12 months ended December 31, 2024, was approximately $24.6 million or a negative $3.83 per basic and diluted share compared to a net loss of $24 million or a negative $5.10 per basic and diluted share for 2023.
+
+Now, moving on to the cash flow statement. Net cash used in operating activities during each of these periods consisted primarily of our net loss adjusted for noncash items such as depreciation, amortization, and stock-based compensation charges, as well as changes in working capital.
+
+Our net cash used in investing operations primarily included fixed assets, acquisitions, deposits for fixed asset purchases, and proceeds received from the note receivable. Net cash provided by financing activities for the year ended December 31, 2024, consisted of approximately $5 million in net proceeds from the sale of Aqua Metals shares pursuant to the ATM, $1.5 million in net proceeds from the loan agreement entered into on December 18, 2024, and approximately $7.3 million in net proceeds from our May 2024 public offering, offset by other miscellaneous financing items.
+
+Our primary financing options remain the same: project finance and debt-based financing. These structures will support our expansion and strategic initiatives, and we continue to see them as the best pathways for funding our growth.
+
+However, we now have even greater confidence as we pursue these options, thanks to enhanced economics resulting from our revised plant architecture and streamlined product set. By refining our plant architecture, we have reduced capital expenditure requirements while maintaining efficiency and scalability. This, coupled with a simplified product portfolio, has led to improved contribution margins, a key factor in increasing the attractiveness of our financial model to lenders and investors. These changes not only strengthen our cash flow but also position us for more favorable financing terms.
+
+We are actively engaged with our financing partners to capitalize on these improvements, ensuring that our funding strategy aligns with our goals while maintaining financial discipline. We remain committed to prudent capital allocation and optimizing our cost structure.
+
+As we move forward, we will continue to assess market conditions and evaluate additional financing opportunities as they arise. That concludes my remarks on the company's financials. I will now turn it back over to the moderator for Q&A.
+
+Operator
+[Operator Instructions] Our first question comes from Mickey Legg with the Benchmark Company.
+
+Unknown Analyst
+I know you were just giving some comments on this, Judd, but if there's any other additional comments or color you could provide on your plans for long-term financing and the options you're considering, if there's anything you could tell us about how those discussions are progressing or what stage they're in?
+
+Judd Merrill
+As I said in my prepared remarks, we are focused on what we think is the best for Aqua Metals and what we're trying to do to build out the CR ARC facility, which is project financing and debt financing. We do have lenders who fit that criteria that we're engaged with and talking with. Terms have been discussed. There are certain things that we need to do to bring those funds in, and we're working towards those. I can't really give a timeline on it just yet, but those discussions are happening.
+
+Unknown Analyst
+Yes, I'm not going to ask you for a timeline. I understand you can't give that out. And then so that's all relating to this updated plan for the Sierra facility.
+
+And so I just wanted to check in on that.
+
+If you could unpack the updated plan a little bit and just remind us if you're still able to reach, let's say, a commissioning point for Phase 1 within a couple of quarters.
+
+I think on the last call, you mentioned two to three quarters, subject to receiving financing, of course? If you could just get into that a little bit.
+
+Stephen Cotton
+Mickey, good question. This is Steve.
+
+So yes, the Sierra ARC, it's the land is there, the building is there, the upfit is complete. Think of it as basically move-in ready. A lot of the equipment is already ordered. And we just have decided to be careful to spend that remaining capital until we have that capital financed. Think of it as a move-in-ready facility for the main building.
+
+Now, with our recent change to improve our value proposition as we talk to these project finance and debtors that are out there, we will put together an additional building that will take care of the feedstock processing as well as the lithium carbonation and some things along those lines.
+
+So, there is now a building that will be built while we've completed the move-in of the existing building. That's what we characterize as an outbuilding, and it's not going to be that complex of a build, but it will allow us to get from the 3,000 tonnes of black mass processing up to the 7,000 tonnes.
+
+So, with our industry, what we believe industry low-cost conversion cost, low-cost leading process, coupled with the high-value product of battery-grade lithium carbonate and the MHP as the two primary products at that higher volume, that's what we've been talking to these various project finance and debtors about is that value proposition. It's about the same amount of remaining CapEx that we need to complete it, but it does throw off some plant-level EBITDA that we believe sets the company up to be able to service debt or any project financing arrangement.
+
+So, that's hopefully answering your question.
+
+Unknown Analyst
+Definitely. And yes, it seems like you're being smart with this reevaluation of how you're scaling up that plant to make sure you're allocating capital as efficiently as possible. The next one I have is that you've mentioned a lot of discussions with customers for offtake agreements, Co-locations, or potential licensing opportunities.
+
+Just curious if you could give us any more details on those discussions and how they're trending, given everything that's been going on in the macro? Are people still hungry for some of this domestically produced product?
+
+Stephen Cotton
+Yes.
+
+For sure.
+
+So fortunately, because we have the pilot plant that's been operating for well over a year, effectively two years now, we've been able to produce representative battery-grade examples of those materials and engage with those off-takers and OEMs that are out there. There is a little bit of a chicken and the egg factor, which is build it and then they will come or get them to come so you can build it. And that's what we're balancing is those feedstock and offtake agreements, particularly the way that the metals markets are gyrating, not even gyrating, they've come down and they're expected to go up as we get towards the end of this year and into next year with a little bit of analyst consensus. They're not going to shoot to the moon, but they're going to get to more reasonable levels.
+
+And so those feedstock and offtake agreements go hand in glove with the financing of the build-out of that facility. And because we've got that pilot that's produced, as I mentioned, 600 pounds just in December of battery-grade lithium carbonate that we think is the most recycled battery-grade lithium carbonate that's been ever produced in North America, let alone the U.S., that is what's really enabling these conversations to continue to mature.
+
+So these things take time, and we're just being very careful with our cash on hand and management of CapEx and not get out over our skis by investing further into the completion of that Sierra ARC and that outbuilding until we have all these contracts locked and loaded.
+
+Unknown Analyst
+The last one I have here is that you mentioned previously some visits from industry leaders and government agencies. I was just curious if there's anything else you could tell us there. How are those discussions going and if they've led anywhere meaningful?
+
+Stephen Cotton
+So we hosted quite a few U.S. government folks last year as well as international.
+
+You can look at our social feed and see some of that, including a big Dutch contingent that came out. And those conversations continue.
+
+Of course, there's been a change in administration. And the interesting news of late is that there's been an executive order written regarding the urgency of producing critical minerals in the U.S. that we believe that we obviously believe that we're a perfect fit for.
+
+And so we're engaging with the new administration officials on how to have Aqua Metals participate and try to get funds through that mechanism.
+
+So that would be in addition to a project finance or a debt-based deal. We still see a great opportunity on government dollars. But with the change of administration, these things take time. And we think it's about one to two quarters for us to really get to some level of resolution. We're encouraged that the tone of the executive order seems to impark urgency, and we're pleased to see that because we think it's urgent as well that the U.S. begins to be able to produce these materials and not only Aqua Metals, but many companies could certainly use some additional help from the government to affect that end.
+
+Operator
+And we'll now transition over to Bob Meyers for some additional remarks.
+
+Unknown Executive
+There are a few questions.
+
+First question: As a recap of the last year, how would you summarize the current state of Aqua Metals and the potential the company has?
+
+Stephen Cotton
+That's a good broad question.
+
+So, I'll just do my best to summarize my view on the current state of affairs for Aqua Metals. We've had an interesting and yet very productive year in the past year. We've made really good progress across key strategic priorities that we outlined on our technology and our processes and our commercial partnerships and partnership developments as well as ongoing initiatives overall for the company. We've achieved milestones that we think strengthen the company's future. That includes demonstrating those high recovery rates and purity levels that meet and often exceed the needs of potential partners for battery-grade materials. And also, and this is really important to emphasize, at what we believe is to be the lowest cost for processing those materials. Oftentimes in the commodities market, low-cost lar wins, we think because our process doesn't consume all these onetime use chemicals and have all these waste streams that have to be managed and additional labor that we don't need because of the automation and controls with really clean energy jobs for those that are working there, we have that cost advantage, and we've confirmed that. And we have the data to back that from the operations of our actual pilot plant. We converted recycled domestic nickel into cathode active material with a downstream partner. And that material is literally being tested by top-tier battery manufacturers and vehicle OEMs. These are large global organizations that are also looking to create a domestic supply chain.
+
+We continue to strengthen and expand our partnership opportunities and collaborate with other organizations to find new ways to work together. This industry is certainly in a consolidation phase. We see opportunities out in the marketplace for us to partner in different ways than we might have even seen a year before. We can't control this uncertainty and the current market dynamics and overall uncertainty as the administration has changed or what folks might or might not be missing when it comes to Aqua Metals' value proposition. What we can control is that we can adapt and optimize the company's strategy. That's why we chose to simplify our product set to the battery-grade lithium carbonate in the MHP to get a quicker time to market at a lower cost at a higher volume and better EBITDA margins at the plant level. And for those corners that we turned that things change, we may be adept and make more adjustments because we are a dynamic and case-hardened company that has that survival and growth instinct incorporated into our own DNA.
+
+Unknown Executive
+The next question.
+
+Your recent announcement discussed the change in production, and you talked a little bit about this in your prepared remarks, focused on lithium carbonate and MHP. Can you expand on that a bit?
+
+Stephen Cotton
+Sure.
+
+So, I'll expand further on that, happily.
+
+So, our competitive advantage is our technology and our know-how, as inclusive of which is our IP, which, as a reminder to everybody, we have over 70 global patents issued and 40-plus patents pending. And we continue to expand what we see is this really strong advantage there. And our focus on the battery-grade lithium carbonate, which is truly unique to us, to not just to make tacticle grade, but actual battery-grade lithium carbonate as well as a really nickel-rich and clean MHP, we see a faster path to get to revenue with less capital requirements higher profitability, as I was mentioning, at the plant level and particularly by being able to upsize the amount of black mass material input by more than double from 3,000 tonnes to a planned 7,000 tonnes in the Sierra ARC configuration. It's much more of a stepped approach, as the production is part of our technical process, and we were essentially already doing all this.
+
+We are also pursuing full metals recycling, ultimately as a Phase 2 as the market grows.
+
+So, it's really an adjustment to the near-term approach for the company and giving the market what the market needs and wants today, which is that battery-grade lithium carbonate as well as that MHP, which trades globally as a Class 1 nickel type of material.
+
+Unknown Executive
+Next question. The company added 2 new Board members recently. Can you offer some insights into how those executives have helped with strategic objectives?
+
+Stephen Cotton
+Certainly.
+
+So, both of the leaders are talented, experienced executives with great track records of strengthening our organizations and growing them with emerging technologies. Eric Gangloff has a really strong finance background. He was in the finance and debt business for most of his career, and he's brought a lot of new perspectives and opportunities to the company. Steve Henderson's industry connections are really helping to open doors and certainly add further credibility to our value proposition as we engage with automotive and battery-related OEMs. He has relationships with many of them at a very high level with his track record. Both Eric and Steve have already been extremely helpful in supporting some of the recent innovations, the strategic plans for the company, and even the tactical plans.
+
+So we're really glad to have them.
+
+Operator
+And that's all the time we have for questions. I will now hand the floor over to Steve Cotton for closing remarks.
+
+Stephen Cotton
+Well, I really appreciate everybody's time and continued interest in Aqua Metals, and we'll continue to keep you guys updated. Stay tuned for updates on our social and other developments between our calls.
+
+If you have any questions, please contact our IR partner, FNK, and/or ask directly. We look forward to continued engagement, and everybody, have a great rest of the day. We'll talk soon.
+
+Operator
+Thank you. And with that, we conclude today's conference. All parties may disconnect.

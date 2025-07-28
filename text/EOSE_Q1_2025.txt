@@ -1,0 +1,393 @@
+Call transcript
+Operator
+Good morning, and welcome to the Eos Energy First Quarter 2025 Earnings Conference Call. I am Frans, and Iâ€™ll be the operator assisting you today. [Operator Instructions]. I would now like to turn the call over to Liz Higley, Vice President of Investor Relations.
+
+Elizabeth Higley
+Today, Iâ€™m joined by Eos CEO, Joseph Mastrangelo CCO, Nathan Kroeker and CFO, Eric Javidi. This call, including the Q and A portion of the call, may include forward looking statements, including, but not limited to, current expectations with respect to future results and outlook for our company. Should any of these risks materialize or should our assumptions prove to be incorrect, our actual results may differ materially from our expectations or those implied by these forward looking statements. The risks and uncertainties that forward looking statements are subject to are described in our SEC filings.
+
+Forward looking statements represent our beliefs and assumptions only as of the date such statements are made. We undertake no obligation to update these statements made during this call to reflect events or circumstances after today or to reflect new information or the occurrence of unanticipated events, except as required by law. Todayâ€™s remarks will also include references to non GAAP financial measures.
+
+Additional information, including reconciliation between non GAAP financial information to U. S GAAP financial information is provided in the press release. Non GAAP information should be considered as supplemental and is not meant to be considered in isolation or as a substitute for the related financial information prepared in accordance with GAAP.
+
+In addition, our non GAAP financial measures may not be the same as or comparable to similar non GAAP measures presented by other companies. This conference call will be available for replay via webcast through EOSâ€™ Investor Relations website at investors.eosc.com. Joe, Eric and Nathan will walk you through our business outlook and financial results before we proceed to Q and A. With that, Iâ€™ll now turn the call over to Eos CEO, Joe Mastrangelo.
+
+Joseph Mastrangelo
+Starting off on our classic operating highlights page, Iâ€™m not going to really spend a lot of time on the top half of the page, so Iâ€™ll let Nathan talk about that in his new role as Chief Commercial Officer for the company. But I do want to spend some time talking around the activity inside of the pipeline and the orders booking. Critical in our one, two orders booking projects in California. California, a large market for energy storage.
+
+One of those projects being at a military base, critical to have safety and an NDAA compliant product, which Eos brings.
+
+Second, you saw two large MOUs showing that not only does our product bring benefits in the United States, but also brings two allied countries when you look at what weâ€™re doing in both The UK and also the ability in announcing the MOU for Puerto Rico, where we believe we can help the island with its grid instability and start delivering product as quickly as possible as they get their approvals.
+
+Next, I would say after the quarter, we signed a microgrid project in Florida. Cradle will talk about this for two reasons. One, itâ€™s out of school.
+
+You want the safest product next to our children and Eos brings that safety.
+
+Second, itâ€™s with a large operator of energy storage and gives us another proof point with that operator of the benefits Eos can bring to the market. Shift down to the bottom of the page, where Iâ€™d really like to spend the majority of my time talking about is what I believe is one of our strongest quarters operationally to date as a company. We delivered $10,500,000 of revenue. We really saw the team step up and start to ramp in and overcome some of the supply chain challenges that weâ€™ve had previously and get to really what is a good run rate. Iâ€™ll give more details on that in a moment, but also like everyone to remember that we go direct to customers.
+
+So weâ€™re exposed a little bit to the fits and starts when you have on permitting and site readiness and things. Thereâ€™s no dealer network in the middle of what we do. Itâ€™s direct to customer.
+
+So we manage through that complexity, but the team has done a great job of getting the supply chain up and running. Shift to the lower right hand side, very strong cash position for the company here as we exit 1Q.
+
+I think thereâ€™s some key things underneath that Iâ€™d like to talk about. That cash position is reflected in, A, the strategic partnership and investment from Cerberus, the execution and first draw on the DOE loan. But underneath those two factors, youâ€™re starting to see operational cash generation.
+
+I think thereâ€™s two things Iâ€™d like to talk about from the balance sheet that highlight this.
+
+First one is if you look at our contract liabilities, theyâ€™re up 80%. That up 80% is reflecting of customers giving us deposits on projects and feeling secure with the strategic investment and the financing that we have in paying that cash upfront and allowing us to start running the company from its operations.
+
+The second piece is, I think when you look at our balance sheet, youâ€™ll see inventory payables up in like amounts. Historically, you probably would have seen inventory up with payables being flat because a lot of times as we were receiving goods in the past, weâ€™re being asked to either prepay or pay on very quick terms. What the team has been able to do is extend those terms as we show financial stability and growth, while at the same time, get price to drive down costs and really attribute and drive the improvement that weâ€™re seeing in our gross margin profit.
+
+So that cash balance, very important, very strong. But underneath that, youâ€™re starting to see the seeds of an operating company that will perform. If we go to the next page, when you look at what weâ€™re building is a stronger scaled Eos.
+
+I think when you look externally, I still always come back and remind myself the demand for power is going to double by 2050 for multiple reasons and across the globe.
+
+So this is a critical industry, as critical as anything else that we do today, giving safe, secure power to the world is as important as fresh air and clean water for the future.
+
+The second is, in order to do that, we need longer duration energy storage. Weâ€™re forecasting a very large CAGR over the next ten years for that long duration energy storage, and Eos has a product that fits in that. At the same time, weâ€™re going through a period of global supply chain volatility. Tariffs are giving upward cost pressure into the industry and creating risk, which we think we can manage with the way that weâ€™ve positioned ourselves, but also creates uncertainties as far as project timing and how the market will evolve here in the near term. I donâ€™t think this is a long term.
+
+I think this is a near term challenge that we have to work our way through. How we thought about this, if you move to the middle of the page, 100% U. S. Manufactured, and Iâ€™ll talk about what that means as I give you an update on the automation of our factory here in Turtle Creek. High domestic content takes out complexity in your supply chain with a path to get to 100% of U. S. Content and a supply chain thatâ€™s portable that you can bring to other regions and geographies as we grow. And really, a technology that brings flexible operations, ability to deliver multiple revenue sources to customers and ability to meet the demands of an ever evolving, more complex energy ecosystem and power generation and electricity requirements. How do we position the company when you look at whatâ€™s happening? Nathan will go through how weâ€™re seeing the pipeline advancing.
+
+We have announced 5.4 gigawatt hours of MOUs in new geographies. Scaling manufacturing, weâ€™ll go through and talk about where we are as far as bringing forward the facility that we have in Pittsburgh, and we continue to work on our accelerated expansion plan. And as we have meaningful updates, weâ€™ll provide those to you as they occur. And lastly is that differentiated performance that we talked about, which Nathan will highlight as he gives you a case study on how we think weâ€™re a great partner to help data centers achieve the goals that we need moving forward. If we go to the following page, weâ€™re reiterating our 2025 year guidance.When we look at this, we feel like we're solidly within the range of $150 million to $190 million of revenue. Thatâ€™s 10x what we did last year. When you look at why we are reiterating that guidance.
+
+On the manufacturing side, we were 51% higher on our Q1 deliveries versus Q4 of 2024. And in fact, as we sit here today and talk to you this morning, what weâ€™ve shipped to the field in 2025 exceeds what weâ€™ve shipped in 2024. The team is really starting to get a strong foundation around how we execute and deliver to customers. Inside of all this, as we move forward, we will see some pricing variability as we start looking at the overall revenue numbers.
+
+Given the fact that I talked about this on the last call, thereâ€™s some initial projects that were early on to build references, to build relationships with customers that are lower price points that weâ€™re seeing in the market today as secure new revenue for the company.
+
+On the far right hand side, what are the revenue triggers that allow us to get to that $150 million to $190 million.
+
+We are staging our sub assembly automation. Iâ€™ll give you an update on that in a moment. The next piece of this is increasing the containerization capacity.
+
+Let me explain that for a second. We build our product from a raw material into a battery module. Battery modules go into a container. Containers are wired and software is installed, and thatâ€™s installed out in the field.
+
+The first part where we focused a lot of our efforts on, on automation of the process was that taking raw materials into components, components into batteries and really getting that up and running. And thatâ€™s why youâ€™re seeing the growth in our output. But when you take those batteries, think about assembling a truck on an automated line. Weâ€™re now finding ways that we think we can automate that and make that faster and deliver higher quality.
+
+Now thatâ€™s going to mean a little bit higher capital costs as we start thinking about that as weâ€™re moving forward, but still itâ€™s really leading when you think about what it would cost to bring capacity online in the future. And then lastly, youâ€™re going to start seeing us generate more project and service revenue.
+
+So things that happen beyond the factory doors. Again, going back to what I said early on, we are a direct to customer model, not a ship to dealer model.
+
+So youâ€™ll start seeing us generate revenue out in the field and revenue from service of the equipment thatâ€™s out running.
+
+So we feel like with all the uncertainty, and weâ€™ll continue to manage that and keep everyone updated on that. But as we sit here today, we feel really comfortable about the guidance that weâ€™ve given and what the team needs to work on. Thereâ€™s a lot of things and a lot of areas that we continue to manage. But I think with the team that we have inside the business, we feel confident in reiterating the guidance as we move forward. If we go to the next page, just quickly on delivering profitable growth.
+
+Our goal is not to just be a high growth company, but itâ€™s to be a profitable high growth company.
+
+You can see the three main areas of delivering profits are around getting your direct material or cost of the product where you need to be. I talked about that earlier and what weâ€™re seeing as far as working with suppliers.
+
+We have many suppliers coming to us and wanting strategic relationships with us. The team will keep working this, but we feel confident and comfortable where we are as far as the core components inside the product and the partners we have to deliver those.
+
+On the right-hand side of this page, I think we have to pause and talk about the scaling up operation that we're talking about.
+
+You don't scale a factory overnight. Like when you think about what we're seeing with tariffs, right, and people talking about to bring manufacturing back to the U.S., you have to start building it and then over time, you get there. We've been at this for multiple years. What we know is you have to scale the facilities, scale your capabilities, scale your labor, train them and then grow into this. Weâ€™re seeing improvements from where we started with still room to grow as we continue to ramp into the second half. If we go to the next page, one of the most important parts of how weâ€™re doing this, and probably youâ€™ll hear in the background as Iâ€™m talking, this rhythmic banging, that rhythmic banging that youâ€™re hearing is the left hand side of this page, that battery parts being made.
+
+So this is all about automating the upfront raw materials come in, subassemblies get manufactured, they go into a battery, a battery gets assembled, the battery goes into the container. We can see r before and after shots about how the team is making this better. On terminals, so think about battery. A battery has two terminals and a battery has 19 bipolars. And weâ€™ve sized all this to be able to get the delivery that we want off of the automated line thatâ€™s been up and running with great yields. We see not only does output go up, but labor rate comes down. And when that output goes up on the square footage that you have, your manufacturing overhead comes down. When that labor input goes down on the output that youâ€™re putting out, that middle column on the prior page goes down.
+
+So these are two critical components for us to grow into the space that we have and the capacity that we can achieve off of our automated line. Itâ€™s another one of these mesmerizing experiences for me when I go and look at this product working. The left hand side is in the factory producing and making that banging noise that you hear. The right hand side is at our supplier being factory acceptance tested to be shipped here.
+
+On the left hand side, you install one of those.
+
+On the right hand side, we install eight of those lines to get up to full capacity, and thatâ€™s going to be happening over the next sixty to ninety days. We feel really good about the performance that we see and our ability to scale the business. And with that, Iâ€™ll turn it over to Eric that will walk through the financial results in the first quarter. Thanks for listening.
+
+Eric Javidi
+Turning to our financials. We had a great start to 2025, delivering Eosâ€™ highest quarterly revenue to date. We reported $10.5 million in revenue, representing both a 58% year over year and 44% growth from prior quarter.
+
+As Joe mentioned earlier, this performance was driven by increased customer deliveries with Q1 achieving record output across all areas of our manufacturing processes. That momentum has continued into the second quarter with April records being set over March. Cost of goods sold came in at $35,000,000 resulting in a gross loss of $24,500,000. The increase in COGS was primarily driven by an increase in product shipment volumes and inefficiencies associated with our current manual subassembly process. These impacts were partially offset by 42% lower per unit product costs year over year.
+
+Looking ahead, we expect our transition to automated subassemblies to increase productivity as Joe discussed earlier, positively impacting our gross profit margins. Notably, our underlying gross margin improved compared to both the prior year and previous quarter by 93 percentage and 89 percentage points respectively, reflecting meaningful continued improvements in labor and overhead costs as we continue to scale production.
+
+We are driving down costs operationally and continuing to see improvements in margins across our customer contracts.
+
+As the year progresses, improved per unit economics are expected to increase the net realizable value of our inventory, thereby reducing the need for an inventory reserve on the balance sheet. With our current trajectory, this trend should continue delivering overall favorability to the P and L.
+
+Now turning to expenses. We recorded $28,400,000 in operating expenses.
+
+While operating expenses increased year over year, the growth was primarily driven by two factors: first, approximately 48% or 4,300,000 of the increase with noncash items such as stock based compensation, PP&E write downs related to manual sub assembly equipment and depreciation. The remaining 52% of the increase was driven by strategic headcount growth across several key business areas as we continue to build the foundation for future scalable growth. We reported net income of $15,100,000 positively impacted by $74,600,000 in non cash gains related to the fair value of the remeasurement of warrants and related derivatives, which were influenced by the end of quarter stock price. Adjusted EBITDA loss for the quarter was $43,200,000 but importantly, we had a margin improvement of 145 percentage points.
+
+Moving to cash. We ended the quarter with over $111,000,000 in total cash.
+
+We continue to make meaningful gains in operational efficiency and working capital management. Further, we received the last $40,500,000 from Cerberus, fully funding the term loan and had $7,000,000 in cash inflows from warrant exercises.
+
+As it relates to Cerberus, last week was our fourth and last measurement period under the term loan.
+
+For the April milestones, we successfully achieved three of the four while extending the fourth and final milestone. The milestones achieved for April related to material cost, Z3 technology performance and progress on our automated line. The final milestone that was extended is related to cash receipts. We were granted an extension through 07/31/2025 due to its linkage with the reduction in 2024 sales, which we announced last November. In aggregate, over the past 10 months, the team successfully delivered on 15 of 16 total milestones, and we fully expect to deliver on the final milestone. This is a huge accomplishment by the team. When you think about where we were a year ago and compare it to where we are now, itâ€™s truly outstanding execution across the board. Hitting these milestones allowed us to bring in the full $210,500,000 while also reducing Cerberusâ€™ maximum potential equity ownership in the company from 49% when the loan was first announced to now being a maximum of 34% if we donâ€™t meet the final milestone on the extended deadline.
+
+While our financial results reflect the ongoing cost of scaling, weâ€™ve made significant progress in positioning the business for long term success.
+
+We are well capitalized and our cost out roadmap is on track. In all, we feel very confident in our ability to scale our operations and execute in a very important year for the company.
+
+Lastly, Iâ€™d just like to note that Iâ€™m now sixty days into the CFO role here at Eos.
+
+Over the past two months, Iâ€™ve been able to spend considerable time meeting team members from across the company while also engaging with customers, suppliers and partners. With each day, Iâ€™ve become more excited about the opportunities ahead and Eosâ€™ ability to capture the growth for this market. Iâ€™m looking forward to continuing the mission and ascension while delivering value to our employees, customers and shareholders. With that, Iâ€™ll pass it over to Nathan for our commercial performance.
+
+Nathan Kroeker
+Before we get into our commercial results for the quarter, I would like to briefly address the topic of tariffs, which have been top in mind for many.
+
+As Joe highlighted earlier, tariffs should be a strong tailwind for our business, particularly on the commercial side. With tariffs driving up costs for some of our competitors, weâ€™re seeing incremental interest from prospective customers seeking a U. S.-based solution, and weâ€™ve had multiple new opportunities arise for projects originally scoped for incumbent technologies.
+
+Our American made product with 91 domestic content is becoming a key competitive advantage, and we expect this to be a significant growth driver moving forward. We saw strong momentum in our commercial pipeline during the first quarter, closing the quarter with $15,600,000,000 in opportunities, reflecting a 17% year over year improvement with a 10% increase from the prior quarter. This pipeline now represents 60 gigawatt hours of long duration energy storage. We experienced a net increase of $1,400,000,000 in Q1, primarily driven by large project opportunities in Puerto Rico, multiple eight hour projects in California, a series of projects with a traditional oil and gas player in ERCOT and new projects tied to both direct and indirect data center activity.
+
+While our pipeline includes a wide range of customer use cases, data centers remain a strong example of Eosâ€™ growth potential. These opportunities come from both traditional developers citing projects at existing interconnects, along with virtual power purchase agreements with developers selling to data center operators to improve their reliability, sustainability and generation mix. In the first quarter, we signed a 750-megawatt hour MOU with a large developer to supply energy storage through a virtual power purchase agreement to top tier data center operators. This agreement highlights the increasing role of long duration storage for todayâ€™s hyperscalers.
+
+During the quarter, we also saw strong growth in lead generation. Quarter over quarter lead gen increased by 32% to $13.5 billion, representing 55 gigawatt hours of storage. Of that, $5.4 billion was added in Q1, while $2.1 billion of prior quarter lead gen progressed into the opportunity pipeline.
+
+While most of our commercial focus remains on the U. S. Markets today, we are very excited about several other emerging opportunities.
+
+Specifically, last quarter, we discussed the UKâ€™s cap and floor program. Shortly after quarter end and not yet reflected in the numbers for Q1, we signed two important MOUs with strong developer partners.
+
+The first was a five gigawatt hour MOU with Frontier Power, a leading UK Developer founded by former National Grid executives. Under the MOU, Frontier plans to submit multiple bids utilizing the Eos technology in the first application window of Ofgemâ€™s long duration energy storage cap and floor framework. This program guarantees a minimum level of revenue for long duration energy storage operators, reducing price volatility risk and incentivizing investment in alternative technologies. This new program requires a minimum of eight hours in storage duration, making Eos technology a strong fit.
+
+We expect submissions to be submitted in June and anticipate projects to be selected and awarded before year end. This partnership also opens the door to developing local manufacturing in the UK should significant project volumes materialize.
+
+As we have discussed previously, our supply chain strategy was designed to be transportable, and we can co locate manufacturing capacity near customer demand.
+
+The second MOU is with Trip Ventures for a single 400 megawatt hour project in Puerto Rico.
+
+We expect this to become a firm order as soon as the governmental NEPA review is completed on the project. With this first project moving forward, we believe Eosâ€™ technology will become a significant part of enhancing the grid resiliency in this harsh island environment.
+
+Now transitioning to our backlog.
+
+Our 3/31 backlog stood at $681 million representing 2.6 gigawatt hours of storage, which is a 13% year-over-year increase increase.
+
+Although backlog was flat quarter over quarter, we signed two microgrid orders and delivered over $10.5 million in revenue for the quarter.
+
+You may recall that we announced the San Diego Navy project in March. Fully funded by the California Energy Commission, this strategic order provides essential energy resiliency to the U. S. Navyâ€™s Western fleet.
+
+As bases and other military applications rely on storage to ensure operational reliability and security, we believe that our American made technology will become the preferred solution. After quarter end, we also signed an order with one of the largest regulated utilities in the Southeast with a strong pipeline of storage projects, a name that many of you would recognize, to deliver on a microgrid project for a school district in Florida.
+
+While net growth in our backlog was flat from last quarter, weâ€™re very encouraged by market dynamics and the near term project demand that we see ahead. With that, I want to take a deeper dive into data centers and how Eos technology is uniquely positioned to serve this critical and fast growing customer segment. Data centers represent a compelling long term growth opportunity in our pipeline. The enormous and continuously increasing power demands of data centers make long duration energy storage the most efficient and immediate solution for reducing operating costs and increasing uptime. The Eos Z3 energy system was specifically designed to address the complex duty cycles and power challenges presented in data centers by enabling customers to address several critical operating requirements.
+
+First, the flexibility to support multiple and partial daily cycles to ensure consistent, reliable power without interruption. This flexibility also allows for peak shaving to reduce demand charges, solar shifting, energy arbitrage or the sale of ancillary services, all of which help to reduce the overall cost of electricity supply. The multi cycling capability also allows for additional storage capabilities with the same CapEx investment, reducing levelized cost of storage by 30% on representative projects.
+
+Second, being specifically designed for long duration discharge cycles, the Z3 system better aligns with intermittent generation resources or time of use pricing to lower total electricity costs by as much as 50%.
+
+While delivering this operating flexibility, the Z3 system requires minimal auxiliary power to operate and experiences very low system degradation.
+
+Our systems draw auxiliary power of just 1% to 2% of installed energy capacity, whereas incumbent technologies can be significantly higher, especially in warm climates or multi cycle use cases. Much of this additional OX Power is consumed by complex cooling systems that are required to maintain alternative technologies within a narrow operating temperature range. Without this critical cooling, these systems would experience lower performance, increased degradation and incremental risk of thermal runaway, potentially leading to catastrophic fires and loss of the entire system.
+
+Our lower OX Power requirements increased power available for annual computing by approximately 3.5% on a typical system.
+
+Finally, the low system degradation of the Z3 system means lower long term operating costs and more consistent performance over the life of the asset than other technologies that may require system augmentation every five to 10 years. This translates into approximately 50% lower operating costs over the life of the asset.
+
+Finally, many of the data center customers in our pipeline have sustainability goals that require economical storage paired with local renewable generation and the operating flexibility, safety profile and better lifetime economics of our technology are well suited to meet the diverse and evolving needs of todayâ€™s data center energy landscape. With that, I want to thank everyone for joining us today, and I will now hand over to the operator for Q and A.
+
+Operator
+Thank you. And we will now begin the question and answer session. [Operator Instructions] And your first question comes from the line of Chip Moore from Roth Capital.
+
+Alfred Moore
+I want to maybe ask about subassembly automation.
+
+I think you said your first terminal cell passed slight acceptance.
+
+Just any more color on early integration there? And then maybe help us think about that ramp in Q3 and how to think about the revenue trajectory baked into guidance?
+
+Joseph Mastrangelo
+You could hear it in the background here working and building parts.
+
+So itâ€™s up and running, and weâ€™re scaling into the production ramp. I mean, itâ€™s already at partial run rate producing more than we were producing on our semi automated line. Itâ€™s already having an impact on the production for the factory.
+
+I think when you think about where we are on subassemblies, as I said, weâ€™ve got the first station for subassemblies, the first of eight going through site acceptance testing at ACRO. From there, you follow on with the seven coming online here as we get through the second quarter, And weâ€™ll ramp into that , youâ€™ll start to see like a ramp as we install in May, June and then getting up into capacity in July and August.
+
+So I think as you think about as weâ€™ve said before, you should see quarter over quarter improvement in output.
+
+If you look at what weâ€™ve done in the month of April, we produced as many cubes in April, 75% of the first quarter volume. And as we said, weâ€™ve already, as we sit here today, produced as many cubes in 2025 as we did in 2024.
+
+So weâ€™re finding good old fashioned efficiencies. And I think as the subassemblies come in, weâ€™ll be able to run the automated line longer. And I think youâ€™ll see that revenue growth that dovetails into getting into the guidance range for the year.
+
+Alfred Moore
+And maybe a follow-up, just around all thatâ€™s going on in the world and tariffs and some of that uncertainty and understanding thatâ€™s going to be a positive for you guys. But I think you called out some of that near term uncertainty can shift project timing. Is that something youâ€™re seeing or is that sort of baked into the maybe the low end of the guidance range?
+
+Joseph Mastrangelo
+I think all the above, Chip. And I think, obviously, markets donâ€™t like uncertainty.
+
+I think the certain thing is we need energy storage for our power grid.
+
+So I think youâ€™re seeing projects moving forward.
+
+I think people are going to wait and see what happens with 45X with the investment tax credit. But weâ€™re still seeing other things move forward with regulated utilities and other areas where youâ€™re like co op developers and things like that. We just keep working forward to get things closed out, and weâ€™ll keep everybody updated on where we are. But I think the most important thing we always have to remember is energy demand is going to double, and you need long duration energy storage in order to meet that demand, and thatâ€™s what weâ€™re building towards.
+
+Operator
+And your next question comes from Thomas Boyes from TD Cowen.
+
+Thomas Boyes
+Maybe just a follow-up on Chipâ€™s initial point.
+
+With the sub assembly automation kind of well underway and then containerization slated for the second half of the year. Can you maybe frame for us just on the relative impact to labor between the two? I mean, my feeling obviously is that sub assembly is far more labor intense, but I just wanted to kind of understand how we get to the kind of the 1.3% scale on labor that youâ€™re targeting?
+
+Joseph Mastrangelo
+Weâ€™ve always talked about is that weâ€™ve used a flexible labor force as it relates to sub assembly manufacturing and that requirement for labor will go down significantly as we bring the sub assembly manufacturing online. Not only that, but quality and yield go up off of those as well.
+
+So itâ€™s not just about like in that labor number is production employees, but itâ€™s also time spent on part inspection and make sure that youâ€™re passing good parts in your manufacturing line.
+
+So that all comes down and thatâ€™s ultimately how we get to that labor number.
+
+On the container side, look, thatâ€™s another area that weâ€™ve got to work on.
+
+I think as weâ€™ve thought about and looked at containerization, itâ€™s an important thing that our thinking around this has evolved over time, where it is relatively labor intensive right now as far as wiring battery modules in the trays, integrating trays in the containers, and then testing and shipping. We think thereâ€™s ways that we can speed production up.
+
+So what really what youâ€™re talking about is your labor rate per unit comes down, but your total labor number will stay the same, like from an employee standpoint, but youâ€™re getting more throughput and youâ€™re able to do things faster, the same number of employees. And itâ€™s a huge productivity gain that weâ€™re going to gain on both sides of those. And on the containerization side, weâ€™re looking at incremental investment that allows us to get incremental output on the same asset base. And weâ€™ll come back with more info on that as we work through the bids from suppliers to be able to ramp up that automation.
+
+Thomas Boyes
+And then just a follow-up. I saw reports in the news that DOE had missed a $365 million funding deadline for energy storage projects in Puerto Rico. Is that something that your project specifically were being funded by? Is that related to the NEPA piece?
+
+Joseph Mastrangelo
+Well, they can add in, not that weâ€™re aware of.
+
+Just to be clear with NEPA, NEPA is an environmental review of the site. And I think like where weâ€™ve gotten with the customer is weâ€™ve laid out a really strong project that helps the island that delivers returns for the customer. But what youâ€™re talking about, I donâ€™t know, Nathan, if youâ€™ve heard anything on that, but I havenâ€™t seen that.
+
+Nathan Kroeker
+No, we have regular conversations with the customer as recently as yesterday. Everythingâ€™s moving forward with the project. Iâ€™m not aware that this would have any effect on the project we announced.
+
+Thomas Boyes
+And then maybe just sneak one more in before hopping back in queue. I was intrigued you had mentioned the second DOE loan reimbursement timing. Has that meaningfully shifted? How are you seeing that come down the pipe?
+
+Joseph Mastrangelo
+Weâ€™re in regular contact with DOE. Weâ€™re working through the process with them. When you have someone new coming into a job, theyâ€™re doing a portfolio review, and weâ€™re part of that portfolio review. And weâ€™re on track to submit for the reimbursement as scheduled.
+
+Operator
+And your next question comes from Martin Malloy from Johnson Rice.
+
+Martin Malloy
+First question, I just wanted to ask about potential expansion of capacity beyond the two gigawatt hours of annual capacity and lead times, whether it be at Turtle Creek or a Greenfield facility, how we should be thinking about the timing of ramping capacity expansions?
+
+Joseph Mastrangelo
+We talked about last earnings announcement, we're in the process of looking at a second site. The receptivity of locations hosting the second factory for Eos has been great. We're working through a couple of geographies and states to look at where we want to locate and what that means for us from the facility that we would have, the logistics around that facility and the workforce.
+
+As we have updates on that specific topic, we'll give them, but we're in the process of negotiating. We talked about on the last call about going out and instead of doing this line by line, doing a bulk order for the subassembly and battery module assembly lines.
+
+So basically what we have here in Turtle Creek right now. And we're in the final negotiations with suppliers on that to look at delivery times.
+
+I think what we would say is like given where we are, you're talking about year-end probably implementation Line 2 into next year for the ramp-up as far as timing for Line 2 would be concerned. And then on the second factory, we'll come back on that. We're really happy about right now is with Turtle Creek, every week, we set a record for production. Every week, the team increases from the week before.
+
+We also need to keep focused on optimizing what we have while expanding. And we'll come back with updates on that. But I would think about meaningful step-up in volume happening late this year, beginning of next year.
+
+Martin Malloy
+And for my second question, just wanted to ask about repeat orders and particularly from larger utilities or developers and kind of curious about the Florida order if that was from a utility company that had pilot tested the Z3 battery previously?
+
+Nathan Kroeker
+Yes. What I would say is that is an order that came through an existing relationship, one that weâ€™ve been working with for a long time.
+
+So yes, thatâ€™s a repeat order, I would say.
+
+Operator
+And your next question comes from Patrick Ouellette from Stifel.
+
+Patrick Ouellette
+You talked to some pricing variability in the backlog. Is it reasonable to assume the older orders are going to be fulfilled ahead of newer orders? And is there anything youâ€™re doing to smooth variability quarter to quarter? And any insight on pricing variability going into 2026 deliveries?
+
+Joseph Mastrangelo
+Older orders, lower price, so first off, letâ€™s take a step back, we scheduled orders to customer demand, not to price.
+
+So weâ€™re not as focused on quarter by quarter numbers as we are as getting the product up and running in the field per customer demand.
+
+So thatâ€™s the first prioritization. What I would say is, in 2Q, as we talked we talked about this the last time and we talked about it in the presentation, there are some projects coming through in 2Q that are in the lower end of our price range.
+
+I think Nathan can talk a little bit about what heâ€™s seeing out in the market on price in the last couple of months here.
+
+Nathan Kroeker
+Yes. Look, think with the increased focus on safety, operating cost, flexibility and tariffs, like we said earlier, these are tailwinds. And all of that I think is combined to one, continue to support the prices that weâ€™re seeing in our pipeline, right? So you can see what those are. But also to drive increased interest and increased demand for the product.
+
+If you look at whatâ€™s in our backlog and whatâ€™s in our pipeline, I think thatâ€™s a pretty good indication of where we see pricing shaking out for the next several years. A lot of whatâ€™s in the pipeline, like we said, has been added recently and itâ€™s at prices that weâ€™re seeing in the market.
+
+Joseph Mastrangelo
+The other thing weâ€™ve weâ€™ve always talked about is, like, I know we wanna simplify things and get to a levelized price point. It truly is apples and oranges when you look at us versus others. And what we spent a lot of time with the customers on is explaining to them that with Eosâ€™ technology, you can run multiple cycles a day.
+
+So the price to revenue is astronomically better, and thatâ€™s where LCOS comes out and where we have a lot of interest in the market today and thatâ€™s what we keep driving on is you hear the stories about being able to buy lithium in the low 100s, the mid 150s, not necessarily a DC Block, probably cells or packs that are going go into a block at that price range. But with Eos, when we sit down and talk to people about it, itâ€™s like, yes, thereâ€™s a CapEx number. But if you take the case study that Nathan laid out on data centers, thereâ€™s a couple of important things that we really want to talk about is multiple cycles drive down the levelized cost of storage because they can get more energy out of the same asset.
+
+You canâ€™t do that with other technologies because you canâ€™t cool it down.
+
+So yes, maybe you can run an eight hour cycle on lithium, but itâ€™s oversized or lower power, and youâ€™re gonna have to cool that. With ours, you can run a two and a six, a four and a four, or a six and a two. That gives you the flexibility you need given the the ups and downs that you have in demand for power.
+
+The other big thing to talk about is this, maximizing where Nathan talked about low auxiliary power, that not having to run a cooling system and a fire suppression system.
+
+You get 3.5% more computing on a data center because youâ€™re not sucking power out of your power generation to maintain your system. Those are two big things when you start talking about price versus competition. We really donâ€™t talk price, we talk value. And thereâ€™s a lot of value in an Eos system out in the market. Patrick Wallet, Analyst, Stifel: All right. Appreciate the perspective. Thank you.
+
+You had mentioned the potential for local manufacturing abroad if demand presents itself. Curious what sort of levels of demand youâ€™d need to see to pursue a sort of localized manufacturing strategy? Joe Mastrangelo, CEO, EOS Energy: It depends.
+
+So yes, what you need to what we need to always think about, and this is in my my experiences, is you donâ€™t wanna build a factory for a project because then afterwards, have a problem. Where you build the factories where you have a demand thatâ€™s gonna sustain a factory over time. And thatâ€™s the decision making process that weâ€™ll go through.
+
+We are very excited about whatâ€™s happening in The UK and the potential for that to be a market for us and other countries in the EU.
+
+Patrick Ouellette
+You had mentioned the potential for local manufacturing abroad if demand presents itself. Curious what sort of levels of demand youâ€™d need to see to pursue a sort of localized manufacturing strategy? And if you think you could roll out the abroad localized manufacturing before completing the eight gigawatt hours of capacity under Project AMAZE in the U. S?
+
+Joseph Mastrangelo
+It depends. What we need to always think about, and this is in my experiences, is you donâ€™t want build a factory for a project because then afterwards, have a problem. Where you build the factories where you have a demand thatâ€™s going to sustain a factory over time. And thatâ€™s the decision making process that weâ€™ll go through.
+
+We are very excited about whatâ€™s happening in The UK and the potential for that to be a market for us and other countries in the EU. Weâ€™ll see how that plays out. But like we have to have something thatâ€™s going to sustain itself over a period of time. Otherwise, you wind up with a stranded asset, and we donâ€™t really want to do that for the long term.
+
+Operator
+And your next question comes from Joseph Osha from Guggenheim.
+
+Joseph Osha
+If I look at the slide that shows your cost reductions across different categories and the targets for when you are at scale, Iâ€™m just trying to understand what scale means. Is that eight gigawatts once AMAZE is fully up and running? Just trying to use this as a way to get at the gross margin question.
+
+Joseph Mastrangelo
+Joe, as you look at the chart itself, it ramps down over time. What weâ€™re talking about when weâ€™re fully at scale is getting above that gigawatt hour of production number to be able to do that on the line.
+
+So they can remember each line is two gigawatt hours, like we have expanded the capacity we can get off a line.
+
+So thatâ€™s what we are working towards.
+
+Joseph Osha
+So I guess I am confused. Are you saying if you have got one two gigawatt hour line running and thatâ€™s at better than a gigawatt hour that scale? I guess I donâ€™t quite follow.
+
+Eric Javidi
+Yes, as it relates to this chart. And obviously scale is a relative term.
+
+So the greater the scale, right, gets a greater production capacity, youâ€™re going to get greater benefit as it relates to cost in each of these categories.
+
+Joseph Osha
+With that in mind, are there any comments youâ€™d be prepared to make today about what that chart tells us about how we should think about gross margins at the end of 2026? What it sounds like we could reasonably expect to have two gigawatt hour lines running by that point.
+
+Assuming everything goes well, how might that inform our thinking about what margin looks like, say coming out of the end of next year?
+
+Joseph Mastrangelo
+No, weâ€™re not going to give that guidance, Joe, you know that.
+
+Joseph Osha
+But I got to ask.
+
+Second question, I was going to ask a little bit about the LPO and then a question came up earlier. Joe, believe I heard you say portfolio review. What does that mean? Are they coming and asking you questions that they havenâ€™t asked you before? Tell me a bit about what the portfolio review process looks like for you guys.
+
+Eric Javidi
+Itâ€™s just their standard process. Weâ€™re engaged with them on a daily basis as we go through the process of getting of each draw and then just maintaining our compliance with the loan as itâ€™s documented. Thatâ€™s what Joe means, just consistent communication. Itâ€™s business as usual, no different questions, just continuing to work with them and business as usual.
+
+Joseph Mastrangelo
+Our rhythm hasnâ€™t changed, Joe, at all.
+
+I think what anybody thatâ€™s new in a job wants to look at what are you going to do and theyâ€™re just going through the normal looking at it and asking us question, maybe in a lot of instances questions that weâ€™ve probably already answered, but itâ€™s a new person in the job and youâ€™re just bringing them up to speed on where we are.
+
+Joseph Osha
+Obviously, thatâ€™s important. Theyâ€™re not sending any signals to you at this point that would cause you concern?
+
+Joseph Mastrangelo
+None at all. We would have said that.
+
+We have been very happy on the engagement.
+
+Eric Javidi
+Yes, thatâ€™s what I was going to add is itâ€™s not even business as usual. Theyâ€™ve been very collaborative working together. Theyâ€™re being incredibly good constructive partners, as Joe mentioned. Anytime you get any new boss, sometimes they may change things as it relates to just their process.
+
+We are getting everybody up to speed there and itâ€™s actually been a really good relationship since I have been here.
+
+Operator
+There are no further questions on the queue. I would now like to turn the call over back to Liz Higley.
+
+Elizabeth Higley
+Thanks, operator. We now want to get into some of our Sage technology questions. A few of them most commonly asked or already addressed on the call, but weâ€™ll go through a few more.
+
+So the first question, what is currently the biggest headwind to converting late Sage pipeline opportunities into signed contract orders? Are macro factors such as global tariff or tax credit uncertainty causing developers to delay finalizing orders?
+
+Nathan Kroeker
+I guess we should just start off and talk about some of the macro factors. I mean the world obviously needs energy storage. Energy consumption, energy demand is expected to double, right? Weâ€™re getting more intermittent generation resources on our grids and weâ€™ve got aging infrastructure on the grids. I mean, thereâ€™s some big fundamentals that say weâ€™re going to continue to need long duration storage for the foreseeable future.
+
+So then we bring it closer to home and say whatâ€™s causing uncertainty or is there uncertainty right now in converting opportunities. Think anytime you have folks watching the headlines to see whatâ€™s going to happen with the ITC, whatâ€™s going to happen with some of the other incentives, uncertainty kills deals, uncertainty slows deals. Customers weâ€™re seeing are rerunning their return models. Can they get to appropriate returns as Joe talked about earlier, weâ€™re going back having conversations with customers about multi cycle, double cycle, other things that they can extract value from these batteries in order to work with those return models.
+
+I think it slowed things down. I donâ€™t think it changes our long term view of what that pipeline opportunity is and how that converts to backlog over time.
+
+Joseph Mastrangelo
+I will just wrap up here.
+
+I think keep in front of us the long term macro factors of energy demand doubling by 2050, the need for long duration energy storage increasing to be able to meet that demand. Eos sitting with a product that we feel meets a very significant segment inside of energy storage. And as Iâ€™ve said all along in this journey, you need multiple technologies to get the job done. And weâ€™re one of those technologies that I think that are key to a safe, secure and flexible energy ecosystem. The team here, I think, there is a lot of uncertainty in the environment right now with whatâ€™s happening and tariffs and other factors. This team though has hardened as nails on how to navigate through uncertain times and get through things. And I think we feel really good about what weâ€™re doing to position the company for the long term and also deliver in the short term. What used to be our 08:00 in the morning call that we have where we go through production for the day prior than what we need to do that day. It does start off every day with we did more than we did the day before, and weâ€™re on track to do more than we did the week before. And we just need to keep building off of this. This is clearly coming up with a way that Eos will execute going forward. The Eos way will be finding ways to become more productive, finding ways to become more efficient and finding a way every day to be a little bit better than you were the day before, but not as good as weâ€™ll be tomorrow. And I really like the team that we have in place.
+
+Now Iâ€™d like to talk about that one second here to close out because you can have great technology, you can have all these great machinery, you can have everything, but youâ€™re nothing without great people. And when you look at my extended leadership team in the company, more than half of them have joined the company in the last twelve months. Thatâ€™s a testament to the type of talent that we can attract given where the company is and also a reason why youâ€™re seeing the performance that youâ€™re seeing. And itâ€™s more about being additive. Like what Iâ€™ve always talked about is weâ€™ve had a strong leadership team and now weâ€™re just adding into the middle of the organization to be able to manage the growth of the company and really starting to look at like when youâ€™re in a small startup mode, itâ€™s always about how many hats youâ€™re wearing during a day to get things done. And now itâ€™s about having people wear one or two hats, not five hats, so we can continue to grow and expand the company. And thatâ€™s one of the key things that weâ€™re focused on.
+
+So we feel really good about where we are both on the commercial side and understanding our value proposition to the market, being able to scale the company and bring the company up to a leader in long duration energy storage. And weâ€™ll keep working on that and keep everyone informed on that. And thanks, everyone, for the time today.

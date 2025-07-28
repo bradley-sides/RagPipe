@@ -1,0 +1,185 @@
+Call transcript
+Operator
+Good afternoon, everyone, and welcome to SharpLink Gaming Limited's 2023 Second Quarter Results Webcast. Presenting on today's webcast is SharpLink's Chief Executive Officer; Mr. Rob Phythian, who will be joined by Dodi Handy, the company's Director of Communications.
+
+Before I turn the floor over to them, I remind you that during today's call, statements that are not historical facts including any projections, statements regarding future events or future financial performance or statements of intent or belief, are forward-looking statements and are covered by the Safe Harbor disclaimers contained in the company's public filings with the SEC. Actual outcomes and results may differ materially from what is expressed in or implied by these forward-looking statements.
+
+At this time, I'd now like to introduce Dodi Handy. Please go ahead, Dodi.
+
+Dodi Handy
+Thank you, [ Karen ], and good morning, everyone, and thanks for joining us on this webcast.
+
+Your interest in and support of SharpLink is deeply appreciated, and we glad you're with us.
+
+Due to personal reasons, Bob DeLucia, our Chief Financial Officer, is not able to participate on today's webcast, but he will be back on air when we broadcast our third quarter results in November.
+
+So in Bob's absence, Rob will endeavor to cover all the key highlights of the second quarter results, and provide you with some meaningful insight into the company's progress and outlook for the remainder of this year.
+
+So let's begin. I'd like to first welcome Rob on to our call. Good morning, Rob.
+
+Robert Phythian
+Thanks, Dodi, and greetings to everyone listening in. We're pleased to again have this opportunity to connect with our fellow shareholders and hope that you find the time spent with us this morning helpful in understanding and appreciating where SharpLink is today and where we are working hard to get to in the future.
+
+Yesterday afternoon after the market closed, we filed our 2023 2nd quarter report on Form 10-Q with the SEC.
+
+If you haven't had a chance to review it, you may access it on sec.gov or via SharpLink Investor Relations section on our website, under SEC Filings. I'd like to encourage everyone to read our 10-Q and other filings with the SEC to ensure you have a full understanding of our business, financial results and other important information disclosed.
+
+First, looking at our income statement for 3 months ended June 30, 2023. Revenues nearly doubled, rising 86% to $3.26 million as compared to $1.75 million reported for the same 3-month period in 2022. The overall increase was largely attributable to new revenue contribution from SportsHub Gaming Network, which we merged on December 22, 2022, as well as higher sales from our affiliate marketing services group for both the U.S. and International divisions. More specifically, SportsHub's revenue totaled $1.13 million in Q2, which compared to $0 from the prior year Q2 due to the timing of the merger.
+
+Revenues for our Affiliate Marketing Services U.S. group increased 182% to approximately $306,000, up from $109,000. And sales from Affiliate Marketing Services International totaled $1.13 million, a 34% increase over revenues of approximately $840,000 for the 3 months ended June 30, 2022. Revenue contribution from our Sports Gaming Client Services division declined 13% to approximately $699,000 for Q2 of 2023, which compared to revenues of approximately $803,000 for the second quarter in the prior year.
+
+Now looking at the results for the first half of 2023. Total revenues rose 82% to $6.65 million, up from $3.65 million reported for the first 6 months of 2022. On a segmented basis, revenues increased across all business segments, with SportsHub contributing $2.17 million to overall sales compared to $0 the prior year. Affiliate Marketing Services U.S. revenues increased 244% to approximately $585,000 compared to $170,000 in the first half of 2022. Affiliate Marketing Services International saw revenues climbed 21% to $2.13 million, up from $1.76 million, and revenues from Sports Gaming Client Services improved 3% to $1.76 million from $1.71 million.
+
+Gross profit also greatly improved, increasing 972% to approximately $965,000 for the 3-month reporting period in 2023 and 222% to $2.31 million for the first 6 months of the year. This compared to gross profit of approximately $90,000 and $718,000 for the 3 and 6 months period ended June 30, 2022. Gross profit margin also improved, increasing to 30% from 5% for the comparable 3-month period ended June 30, 2023 and 2022, respectively, and to 35% and 20% for the comparable 6-month period ended June 30, 2023 and 2022, respectively. Both our gross profit and profit margins were positively impacted by the company's broader mix of higher-margin products and services resulting from our merger with SportsHub, along with expansion initiatives being successfully implemented by our Affiliate Marketing Services divisions.
+
+Moving down the income statement.
+
+For the 3 months ended June 30, 2023, total operating expenses remained relatively flat at $3.75 million when compared to total operating expenses of $3.73 million for the same 3 months in 2022.
+
+For the 6 months reporting period ending June 30, 2023 and 2022, total operating expenses declined 34% to $7.42 million from $11.29 million, respectively. The reduction in total operating expenses was primarily due to a $4.73 million noncash expense associated with goodwill and intangible asset impairment offset by lower selling, general and administrative costs reported for the 6 months ended June 30, 2022.
+
+As a result of the higher sales and lower operating expenses, our total operating loss decreased 24% to $2.73 million for the 3 months ended June 30, 2023 as compared to $3.65 million reported for the same 3 months in 2022.
+
+For the 6 months period in 2023 and 2022, operating losses declined 52% to $5.11 million from $10.59 million, respectively.
+
+For the aforementioned reasons and after factoring total other income and expense of approximately $503,000 and provision for income taxes of $6,400. Net loss from continuing operations for the 3 months ended June 30, 2023 totaled $3.29 million, a 10% decrease from $3.66 million reported for the same 3 months in the prior year after factoring total other income and expense of approximately $23,000 and provision for income taxes of $700.
+
+For the 6 months ended June 30, 2023, the company's net loss from continuing operations decreased 44% to $5.97 million after factoring approximately $823,000 in total other income and expense and provision for income taxes of $37,000. This compared to a net loss from continuing operations of $10.6 million for the 6 months ended June 30, 2022, after factoring roughly $31,000 in total other income and expense and a provision for income taxes of $700.
+
+During the 3 and 6 months reporting periods in 2023, total other income and expense was largely attributable to interest and other expenses associated with our bank lines of credit, coupled with accountings for the change in the fair value of our convertible debenture offset by higher interest income earned on its cash on hand.
+
+Net loss from discontinued operations of SharpLink's legacy Mer Telemanagement Solutions business declined 87% to $149,000 for the 3 months ended June 30, 2023, as compared to a net loss in discontinued operations of $1.15 million for the 3-month reporting period in 2022.
+
+For the 6 months ended June 30, 2023, net loss from discontinued operations of the legacy MTS business totaled $294,000, down 77% from $1,255,654 reported for the same 6 months in the prior year.
+
+Moving all the way down to net loss available to our ordinary shareholders, our net loss declined 28% to $3.49 million or $1.24 loss per basic and diluted share, which compared to a net loss of $4.81 million or $2.04 loss per basic and diluted share for the 3 months ended June 30, 2023 and 2022, respectively.
+
+For the 6 months ended June 30, 2023, net loss dropped 47% to $6.32 million or $2.24 loss per basic and diluted share, which compared to a net loss of $11.86 million or $5.02 loss per basic and diluted share for the 6 months ended June 30, 2022.
+
+Now pivoting to the balance sheet.
+
+As of June 30, 2023, SharpLink had $31.88 million in cash and $10.79 million in restricted cash as compared to cash of $39.33 million and restricted cash of $11.13 million as of December 31, 2022. Total stockholders' deficit was $1.78 million at June 30, 2023, which compared to total stockholders' equity of $2.99 million at December 31, 2022.
+
+That completes my review of the Q2 results.
+
+Now, why don't we talk about some other operational developments that have helped drive our strong second quarter financial performance. Several of our shareholders kindly submitted questions in advance of today's webcast. Dodi, would you mind kicking off our Q&A session?
+
+Dodi Handy
+Sure, Rob.
+
+Okay.
+
+So our first question relates to the recent announcement regarding SharpLink's introduction of C4 BetSense. Can you please share how generative artificial intelligence is being used by SharpLink to drive future growth of our business?
+
+Robert Phythian
+This is an important topic, Dodi. When compared to the personalized content experience of Spotify and Netflix or the robust e-commerce experience of Amazon, a sports fan experience on sports content and commerce platforms is relatively impersonal.
+
+In fact, it's very 1 dimensional and transactional. Unless the fan is a high roller or a corporate client, they generally do not receive the tailored experience that they're accustomed to on their favorite sites and apps. There is no VIP experience for all fans like there is for all consumers of Netflix or Amazon.
+
+With advances in AI, Know Your Customer data, or KYC, will greatly improve. Customer data has been leveraged for years to create retargeting strategy for consumers.
+
+For instance, if you buy a pair of shoes from Amazon, you'll be notified when those shoes go on sale or have new colors and inventory to choose from.
+
+However, with artificial intelligence, additional data sources like behavioral data and content can be fed into the system to further enhance the customer experience. By understanding behavioral as well as transactional data, we'll be able to target the customer where they are and who they uniquely are. The better the inputs, the more transformative the experience can be.
+
+Currently, in the sports betting industry, bettors typically aren't being targeted using customized data, but our Fed general mass marketing e-mail. With AI, the KYC data can be so precise, sports books are able to send a promotional notification to a bettor based on his or her favorite teams, players and past bets at the time the day the bettor typically makes bets while also providing that bettor with curated content to better inform their choices.
+
+On top of the call for action of making the bet, the behavioral data can provide a bettor with options for partner deals with restaurants, transportation or entertainment venues.
+
+Our expectations are for material boost across many key performance metrics, including visit frequency and broader engagement across more sports and bet types, leading to higher ARPU, average revenue per user, better marketing ROI, return on investment, and greater overall profitability.
+
+What would previously require substantial content resources and technical infrastructure will be available at a fraction of the cost to C4 BetSense, enabling enterprise companies from sports media to leagues and betting operators to efficiently engage and monetize their audience. Fan engagement and retention is playing catch-up to the other industries like e-commerce and streaming, where users expect a personalized menu of products and offers. Generative AI makes it possible for us to make being a sports betting enthusiast easy, from knowing your favorite teams and players to personalized bet recommendation.
+
+Dodi Handy
+So Rob, where are we at in commercializing C4 BetSense?
+
+Robert Phythian
+So first, it's important to note that we're still in the early development phase of the rollout of the platform, and we don't expect to see meaningful traction from a financial point of view until late Q3, early Q4 of next year, starting the 2024, '25 NFL season. But as part of our development process, we're currently ingesting data, a large operator, in interrogating that data to drive the critical insight required to know each sports bettor on a one-to-one basis. We're learning their favorite sports teams, bet types and amount of their average bet, among other insights.
+
+We already have access to trending bet, live game data streams, historical game data and related betting content.
+
+All of this data becomes central to ultimately delivering a personalized experience for fans which will provide for betting content written specifically to engage each bettor type. Bets will be displayed in a format most preferred and understood by each user through tailored e-mails, text, social media engagement and other user-centric communications that will be used to reach and effect a call to action.
+
+Dodi Handy
+So then what is the business model? How will SharpLink make money from BetSense?
+
+Robert Phythian
+We have a very flexible revenue model, Dodi, that will largely depend on the customer and its unique objectives and needs. Operators and sports betting platforms can outright license our technology or elect to pay a fee for every new customer we deliver to boost engagement, optimize their operations and ultimately increase their betting revenues.
+
+Dodi Handy
+Rob, you mentioned the development land for C4 BetSense that you expect will not be commercialized until the beginning of next year's NFL season.
+
+So how will the company drive revenue growth and move closer to positive cash flow before C4 BetSense is ready for frontend?
+
+Robert Phythian
+It's an easy answer, Dodi. It's 1 of the strengths of our business at SharpLink, and I wanted to get into that a little bit on this call, so I'm glad you asked.
+
+We have 4 primary business segments. Each business unit can actually stand alone and become high-growth businesses in their own rights, while also serving cross-functional roles to support and enhance the value proposition of their sister divisions.
+
+For instance, our Sports Gaming Client Services group, which already serves a long list of major sports teams, leagues, media operators and sports books, is working with our lead clients to use free-to-play games to educate and ultimately convert their fans to sports bettors. Client Services is also working with several of the largest sports books such as BetMGM to deploy sweeps and free-to-play games to retain and reengage their players.
+
+In fact, we worked with BetMGM to introduce a free Bracket Challenge at March Madness to their users this past spring. BetMGM users have clicked on information about the Bracket Challenge, created brackets to the tune of 76%. That is a conversion number that is unheard of in the betting promotion space.
+
+Our Sports Gaming Client Services group also is working in lockstep with our Affiliate Marketing Services group to deliver free-to-play games that provide for greater engagement on our state-specific, direct-to-player sites.
+
+Another example is SportsHub, which formed a strategic partnership with Footballguys, 1 of the nation's leading football advisory service providers, to [ cross for known ] player participation in fun, engaging fantasy football championships created and hosted by SportsHub. SportsHub is also working closely with our Client Services group to introduce white labeled free-to-play games with C4 conversion technology built in to drive players to our fantasy sport sites and offer opportunities to gauge in real sports betting.
+
+Each of our business segments represent strategic legs on our proverbial stool that both complement 1 another and strengthen SharpLink's overall growth opportunities. We couldn't be more pleased with the collaborative culture that we are building at SharpLink and the results that our teams are getting working together to create content and sports betting conversion solutions that engage both our clients' audience of users and our own proprietary audience of users.
+
+Dodi Handy
+Okay. That's all great information.
+
+Can you mind if we switch gears to other business matters of interest to our shareholders?
+
+Robert Phythian
+Sure.
+
+Let's do it.
+
+Dodi Handy
+Okay.
+
+So in June, SharpLink filed an S-4 registration statement with the SEC relating to the redomestication merger of SharpLink Gaming Limited, which is an Israeli Corporation currently, and providing for the company to become SharpLink Gaming Inc., a Delaware corporation. On past webcasts, you've explained the importance and benefits of this redomestication to the U.S.
+
+So what is the status of the S-4? And when can shareholders expect the redomestication merger to be completed?
+
+Robert Phythian
+So Dodi, we're currently working through the standard SEC review and commenting process on the S-4. Once the SEC clears it, then we will file a relative definitive proxy notice and statement providing for a record date and the date and time for the extraordinary general meeting of shareholders. This proxy statement will be mailed to shareholders so that we can get the boat to proceed with redomestication. Once approved by shareholders, then we'll need Israeli authorities to also approve the redomestication, which can take up to 30 more days. If all goes according to plan and assuming our shareholders approve the redomestication, which we're counting on they do, we hope to have this finally put to bed in late October, early November time frame.
+
+Dodi Handy
+Now can we talk about the NASDAQ listing, which we've been valiantly fighting to protect? So in May, shortly after regaining compliance with the minimum listing requirement through affecting a shareholder-approved reverse stock split, we received another notice from NASDAQ indicating that we were no longer in compliance with the equity standard for contingent listing due to our total stockholders' equity falling below the minimum $2.5 million requirement. What is our plan for regaining compliance?
+
+Robert Phythian
+So following the receipt of the notice from NASDAQ in May, we were provided with 45 calendar days to submit a plan to regain compliance. We submitted our plan along with relevant materials to NASDAQ and requested an extension through November 20, 2023 to evidence compliance with the continued listing requirements. On August 3, we received a determination notice from NASDAQ granting us the requested extension, subject to our taking the actions set forth in our plan. We've been provided 2 alternatives to evidence compliance, which were detailed in our Form 8-K filed with the SEC on August 9.
+
+Regardless of which alternative we choose, if we fail to evidence compliance upon filing our periodic report for the year-end December 31, 2023 with the SEC and NASDAQ, the company may receive a written notification from staff that security will be delisted. At that time, the company may appeal its past determination to a hearings panel.
+
+So simply put, we essentially have until the end of November to get this job done. I should add that this notice will have no effect on the listing of the company's ordinary shares, and they will continue to trade uninterrupted under our symbol SBET.
+
+Dodi Handy
+Okay.
+
+You covered a lot of ground on this call.
+
+Before we conclude and allow our listeners to return to their busy day, do you have any closing comments?
+
+Robert Phythian
+Sure.
+
+You know me, Dodi. I like to have the last word.
+
+SharpLink continues to be super focused on building our business into 1 of the leading sports betting and iGaming industries, preferred providers of highly effective fan engagement in sports betting conversion solutions.
+
+We are very proud of the strong top line growth we have delivered over the past few quarters, even against strong headwinds and very tough market divisions. I'd like to acknowledge our team members across the company for everything they've done and are doing to help us achieve our mission. I'm absolutely thrilled with them as we clearly accomplished a lot and as we position opportunities to strengthen SharpLink and build enduring shareholder value.
+
+So with that, I'd like to wish everyone a great day.
+
+Dodi Handy
+Thank you, Rob, and thanks again to everyone who has joined us today. We hope you have a great one.
+
+So, [ Karen ], back to you.
+
+Operator
+Ladies and gentlemen, this does conclude today's SharpLink webcast. We thank you for your participation.
+
+You may disconnect your lines at this time, and have a great day.

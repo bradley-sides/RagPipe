@@ -3,7 +3,7 @@ from src.vectorstore import init_index, upsert_chunks, query_index, client, INDE
 from src.rag import build_prompt, generate_answer, summarize_memory
 from src.search_utils import optimize_query, rerank_chunks
 
-def run_query(index, user_query, top_k = 10, history = None, company = None):
+def run_query(index, user_query, top_k = 10, history = None, company = None, quarter = None, fiscal_year = None):
     history = history or []
 
     memory = summarize_memory(history)
@@ -15,6 +15,10 @@ def run_query(index, user_query, top_k = 10, history = None, company = None):
     optimized_q = optimize_query(user_query, memory = memory)
     print(f"Optimized query: {optimized_q}\\n")
     search_filter = {"company": company.upper()} if company else None
+    if quarter:
+        search_filter["quarter"] = quarter.upper()
+    if fiscal_year:
+        search_filter["fiscal_year"] = int(fiscal_year)
     results = query_index(
         index,
         embed_query(optimized_q),

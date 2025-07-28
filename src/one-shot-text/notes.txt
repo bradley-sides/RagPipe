@@ -1,0 +1,98 @@
+## FINANCIALS
+
+- 3,109 vehicles DELIVERED, 58% YoY (5th consecutive record delivery quarter)
+    - even with limited deliveries to Saudi Arabia
+- 2,212 vehicles PRODUCED, 28% YoY
+- $235mm Rev, 36% YoY
+- GAAP GM, -97% vs -134% (ahead of guidance given in Feb)
+- CapEx
+    - $161mm
+- OpEx
+    - $251mm on R&D, down QoQ for lower Lucid Gravity dev expenses
+- SG&A
+    - $212mm, -13% QoQ (mostly due to one-off circumstance)
+- Adj EBITDA
+    - -563mm, 2% improve QoQ
+- Cash
+    - $4.56B (runway into 2026 H2)
+- Inventory
+    - $471mm, 15% QoQ as Lucid Gravity ramps
+- Liquidity
+    - in Feb, upsized GIB credit facility in SA but $240mm
+    - in Apr, closed $1.1B convertible 2030 Notes (repurchased 2026 notes with those proceeds)
+    - mostly from PIF
+
+## GUIDANCE
+
+- Significantly ramp the marketing campaigns through 2025
+    - signed a global ambassador for next phase of growth
+- Expect R&D to increase throughout the year as Midsize program and Atlas powertrain accelerates
+- Expect marketing and seasonal growth to increase SG&A going fwd
+- Increased GM headwind due to tariff from 7-12% to 8-15%
+- 20k produced vehicles in 2025
+- CapEx, $1.4B in 2025 (possibly lower given the Nikola acquisition)
+- ASPs will go up, as Lucid Gravity takes more of vehicle share than Lucid Air, which expect to be flat sales
+
+## PRODUCTS
+
+- Lucid Air
+    - Best Luxury EV by US News and Road REport, 4th consecutive year
+    - #1 Best Selling EV and 3rd best selling sedan overall in its segment in the US
+- Lucid Gravity
+    - getting stunning praise from MotorTrend and other publications
+    - 3/4 of orders are 1st time Lucid buyers
+    - currently producing next marketing campaign
+    - claims to have brought this to market faster than most are capable of (yet Q&A some are skeptical of this speed)
+- Lucid Atlas
+    - uses less rare earth materials than
+- Lucid Midsize (an even bigger game changer?)
+- Some issues in recent deliveries in technical issues re softare, and the heads-up display
+    - these were extra trim packages that are now decoupled so production can resume for base models
+
+## SUPPLY CHAIN
+
+### Suppliers
+
+- Nikola Acquisition
+    - paid $17mm and assumption of 2 Arizona leases (valued at “hundreds of millions of dollars”)
+    - Nikola assets might now allow for partnerships where Lucid can manufactur on OEM behalf
+- Re Tariffs
+    - all vehicles sold are produces in US, and major components like drive units, battery modules as well
+- Vertical Integration
+    - designing developing and manufacturing your own tech in-house
+    - Assembly plant in KSA, M2
+- KAUST
+    - R&D lab available in Saudi Arabia from the university
+    - material science, AI labs, etc. highly beneficial
+
+### Customers
+
+- NYC Stunt Activation Event
+    - 3k people visited in 1 weekend
+    - Social Media campaign reached 11mm people
+- OEMs
+    - new conversations with tech access and licensing side
+        - many currently preoccupied with tariffs, but company is named Lucid Group and not Lucid Motors, bc of intent to license
+    - powertrain hardware and software, and software-defined architecture are of interest to many
+    - also interest in our Arizona manufacturing capabtilities
+- Saudi Arabia
+    - MOU from the KAUST (university in SA)
+    - Lucid will have access to KAUST high-performance supercomputing capabilities, enhancing simulation for AD roadmap and tech
+- Autonomous Vehicle Customers
+    - partners have told them Lucid Gravity is best positioned AV capable platform on the market
+    - comes out of production at M1 with an AV capable sensor suite, redudnant electrical and controlled architecturs and latest SoC
+    - 2 Critical Requirements
+        - Asset Utilization
+            - longer range
+        - Operating Costs
+            - greater effiiency, via smaller battery
+    - multiple L4 focused sofware mobility companies have engaged Lucid about collaboration
+    - several companies on the L2++ and L3 development have engaged as well
+
+## LEADERSHIP
+
+- 
+
+## CATALYSTS
+
+-
