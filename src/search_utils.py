@@ -72,7 +72,7 @@ def rerank_chunks(chunks: list[dict], user_query: str, top_k: int = 10) -> list[
     Return ONLY the top {top_k} chunk numbers as a raw JSON array of integers, e.g., [3, 1, 5, 2]. Do not include any explanation or extra text.
     """
     resp = client.chat.completions.create(
-        model="gpt-4-mini",
+        model="gpt-4.1-mini-2025-04-14",
         messages=[{"role": "user", "content": prompt}],
         temperature=0
     )

@@ -718,5 +718,45 @@
     "fiscal_year": 2025,
     "quarter": "Q1",
     "call_date": "2025-04-23"
+  },
+  {
+    "file_path": "text\\EOSE_Q2_2025.txt",
+    "doc_id": "eose_q2_fy2025",
+    "company": "EOSE",
+    "fiscal_year": 2025,
+    "quarter": "Q2",
+    "call_date": "2025-07-31"
+  },
+  {
+    "file_path": "text\\NVTS_Q2_2025.txt",
+    "doc_id": "nvts_q2_fy2025",
+    "company": "NVTS",
+    "fiscal_year": 2025,
+    "quarter": "Q2",
+    "call_date": "2025-08-04"
+  },
+  {
+    "file_path": "text\\SNAP_Q2_2025.txt",
+    "doc_id": "snap_q2_fy2025",
+    "company": "SNAP",
+    "fiscal_year": 2025,
+    "quarter": "Q2",
+    "call_date": "2025-08-05"
+  },
+  {
+    "file_path": "text\\SNAP_Q1_2025.txt",
+    "doc_id": "snap_q1_fy2025",
+    "company": "SNAP",
+    "fiscal_year": 2025,
+    "quarter": "Q1",
+    "call_date": "2025-04-29"
+  },
+  {
+    "file_path": "text\\HIMS_Q2_2025.txt",
+    "doc_id": "hims_q2_fy2025",
+    "company": "HIMS",
+    "fiscal_year": 2025,
+    "quarter": "Q2",
+    "call_date": "2025-08-05"
   }
 ]

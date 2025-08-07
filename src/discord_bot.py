@@ -74,6 +74,7 @@ async def send_long_message(ctx, content, max_len=2000):
     if chunk.strip():
         await ctx.send(chunk)
 
+# deprecated
 @bot.command(name="ingest")
 async def ingest_docs(ctx, doc_id=None):
     if ctx.channel.id != CHANNEL_ID:
@@ -95,6 +96,7 @@ async def ingest_docs(ctx, doc_id=None):
 
     #await ctx.send(f"✅ Ingest for `{doc_id}` complete! Ready for queries.")
 
+# deprecated
 @bot.command(name="upload")
 async def upload_document(ctx):
     if ctx.channel.id != CHANNEL_ID:
@@ -123,6 +125,7 @@ async def upload_document(ctx):
     #await ctx.send("!meta formatting: COMPANY QUARTER FISCAL_YEAR CALL_DATE")
     #await ctx.send("example: !meta NVTS Q1 2024 2024-05-09")
 
+# deprecated
 @bot.command(name="meta")
 async def add_metadata(ctx, company, quarter, fiscal_year, call_date):
     if ctx.channel.id != CHANNEL_ID:
@@ -156,6 +159,7 @@ async def add_metadata(ctx, company, quarter, fiscal_year, call_date):
     #await ctx.send(f"run !ingest company_quarter_fyYear for a single file or !ingest all for batch processing")
     #await ctx.send(f"ex. !ingest nvts_q2_fy2024")
 
+# one-shot outline
 @bot.command(name="outline")
 async def oneshot(ctx, *, filename: str):
     path = os.path.join(DOCS_FOLDER, filename)
@@ -171,7 +175,8 @@ async def oneshot(ctx, *, filename: str):
 
         # Generate a clean PDF filename
         base_name = filename.replace(".txt", "").strip()
-        pdf_filename = f"{base_name}.pdf"
+        pdf_filename = os.path.join("reports", f"{base_name}.pdf")
+
 
         # Convert result to PDF
         render_text_to_pdf(result, output_path=pdf_filename)
@@ -181,6 +186,7 @@ async def oneshot(ctx, *, filename: str):
     except Exception as e:
         await ctx.send(f"❌ Error: {str(e)}")
 
+# deprecated
 @bot.command(name="timeline")
 async def timeline(ctx, *, user_query):
 
@@ -204,12 +210,11 @@ async def timeline(ctx, *, user_query):
     except Exception as e:
         await ctx.send(f"❌ Error generating timeline: {str(e)}")
 
-# Path to your document folder
-DOCS_FOLDER = "./text"
 
 # Regex to match formats like OPEN_Q3_2024 or 2024_Q2_OPEN
 doc_pattern = re.compile(r"(?:([A-Z]{1,5})_Q[1-4]_(\d{4})|(\d{4})_Q[1-4]_([A-Z]{1,5}))")
 
+# list all files for a given ticker
 @bot.command(name="list")
 async def list_docs(ctx, ticker: str):
     ticker = ticker.upper()
@@ -233,6 +238,7 @@ async def list_docs(ctx, ticker: str):
     else:
         await ctx.send(f"❌ No documents found for `{ticker}`.")
 
+# add documents to the corpus
 @bot.command(name="submit")
 async def submit(ctx, company: str, quarter: str, fiscal_year: str, call_date: str):
     if ctx.channel.id != CHANNEL_ID:
@@ -289,6 +295,7 @@ async def submit(ctx, company: str, quarter: str, fiscal_year: str, call_date: s
     except Exception as e:
         await ctx.send(f"❌ Error: {str(e)}")
 
+# track guidance over time for a ticker
 @bot.command(name="track_guidance")
 async def track_guidance(ctx, ticker: str):
     ticker = ticker.upper()
@@ -327,10 +334,12 @@ async def track_guidance(ctx, ticker: str):
         structured_transcripts.append((fname, structured))
 
     markdown_report = track_guidance_completion(structured_transcripts)
-    pdf_path = render_text_to_pdf(markdown_report, output_path="guidance_report.pdf")
+    pdf_path = os.path.join("reports", "guidance_report.pdf")
+    pdf_path = render_text_to_pdf(markdown_report, output_path=pdf_path)
 
     await ctx.send(f"📊 Guidance tracking report for `{ticker}`", file=discord.File(pdf_path))
 
+# track evolution of a topic over time
 @bot.command(name="track_topic")
 async def track_topic(ctx, *, arg_string: str):
     # Match --company TICKER followed by the topic (rest of the string)
@@ -363,12 +372,14 @@ async def track_topic(ctx, *, arg_string: str):
 
         analysis = track_topic_evolution(topic, structured_transcripts)
 
-        pdf_path = render_text_to_pdf(analysis, output_path="topic_evolution_report.pdf")
+        pdf_path = os.path.join("reports", "topic_evolution_report.pdf")
+        pdf_path = render_text_to_pdf(analysis, output_path=pdf_path)
         await ctx.send(file=discord.File(pdf_path))
 
     except Exception as e:
         await ctx.send(f"❌ Error during topic tracking: {str(e)}")
 
+# enhanced command F
 @bot.command(name='find')
 async def find_chunks(ctx):
     if ctx.channel.id != CHANNEL_ID:
@@ -427,6 +438,7 @@ async def find_chunks(ctx):
 
     await send_long_message(ctx, "\n\n".join(chunks))
 
+# similar to find, but with LLM rerank + analysis
 @bot.command(name='ask')
 async def ask_question(ctx):
     if ctx.channel.id != CHANNEL_ID:
@@ -485,4 +497,5 @@ async def ask_question(ctx):
 
     await send_long_message(ctx, answer)
 
+DOCS_FOLDER = "./text"
 bot.run(DISCORD_TOKEN)

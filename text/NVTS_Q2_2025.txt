@@ -1,0 +1,264 @@
+Full transcript - Navitas Semiconductor Corp (NVTS) Q2 2025:
+Conference Operator: Thank you for standing by, and welcome to the Navitas Semiconductor Q2 twenty five Earnings Call. All lines have been placed on mute to prevent any background noise. After the speakers’ remarks, there will be a question and answer Now I would like to turn the call over to Lori Parker, Investor Relations. Lori, please go ahead.
+
+Lori Barker, Investor Relations, Navitas Semiconductor: Good afternoon, everyone. I’m Lori Barker, Investor Relations for Navitas. Thank you for joining Navitas Semiconductor’s second quarter twenty twenty five results conference call. I’m joined today by Jean Sheridan, our President and CEO and Co Founder and Todd Glickman, CFO. A replay of this webcast will be available on our website approximately one hour following this conference call and available for thirty days.
+
+Additional information related to our business is also posted in the Investor Relations section of our website. Our earnings release includes non GAAP financial measures. Reconciliations of these non GAAP financial measures to the most directly comparable GAAP measures are included in our second quarter earnings release and also posted on our website in the Investor Relations section. Non GAAP expenses and operating margin exclude stock based compensation, amortization of intangible assets, and other non recurring items. In this conference call, we will make forward looking statements about future events or about future financial performance of Navitas.
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+You can identify these statements by words like we expect, we believe, or similar terms. We wish to caution you that such forward looking statements are subject to risks and uncertainties that could cause actual events or results to differ materially from expectations expressed in our forward looking statements. Important factors that can affect Navitas’ business, including factors that could cause actual results to differ from our forward looking statements, are described in our earnings release. Please also refer to the Risk Factors section in our most recent 10 ks and 10 Q. Our estimates or other forward looking statements may change and Navitas assumes no obligation to update forward looking statements to reflect actual results, changed assumptions or other events that may occur except as required by law.
+
+And now over to Gene Sheridan, CEO.
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Thanks, Lori. And thanks to all of you for joining our Q2 twenty twenty five earnings call. I’m pleased to announce Q2 revenues of $14,500,000 which are in line with our guidance despite a number of headwinds that continue to challenge near term results. Our industry is in a classic semiconductor downturn with a slowdown in projections for solar, industrial and EV sectors, the continued impact of tariff conflicts and now the removal of tax credits for the solar and EV industry. Despite the short term industry headwinds, Q2 was a very strategic quarter for our company.
+
+We’ve decided to more aggressively transition and invest in a leadership position for AI data centers. AI data centers represents an extraordinary opportunity and one that Navitas is uniquely positioned to capitalize on. In Q2, we announced that NVIDIA has selected Navitas to support their vision for next generation 800 volt data centers. We also raised nearly $100,000,000 of new capital in the quarter providing additional cash flow to support our plans for growth including investments needed to execute on development milestones over the coming quarters to support a significant ramp expected in late twenty six. Furthermore, in Q2, we announced our new GaN foundry partner PowerChet, which is enabling our next generation eight inches low cost manufacturing platform to support our cost and capacity goals for this expanded AI data center opportunity.
+
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+Our existing high voltage GaN supplier is TSMC, which is utilizing six inches wafers. Over the next two plus years, we expect our high voltage customers to transition to power chips eight inches factory, which can produce nearly 80% more chips per wafer compared to six inches for little incremental cost. We expect this will yield more attractive price points for our customers and higher gross margins for Navitas. We are already planning to ramp our medium voltage 80 to 200 volt can from PowerChips eight inches line. Last, we made the decision to sharpen our focus on the high end performance applications of the mobile consumer and appliance sectors.
+
+Subsequently going forward, we will reduce our focus, investment and revenue expectations around more mainstream price sensitive applications in these sectors. We expect this transition will allow Navitas to maintain its spending discipline with operating expenses at or below current levels while shifting significant customer acquisition and R and D investments to next generation AI data centers in the related and critically needed energy infrastructure markets. With that in mind, I’d like to share much more detail around the opportunities that we are targeting with this increased focus. AI is about to transform everything in our lives and on our planet. The impact will be felt in all sectors, but it starts with the cloud.
+
+The world’s most powerful AI processors are rapidly being developed and deployed in the cloud. And with this massive processing capability, we are also seeing an explosion in power requirements that has never been seen before. While we now have AI processors that are rapidly approaching the intelligence of a human brain, we should also consider that the energy consumption of the human brain is believed to be less than 20 watts, while AI processors may require over 1,000,000,000 watts to generate a similar level of intelligence. So this presents a very large scale power problem for our industry. In particular, total AI processor power consumption is projected to go from seven gigawatts in 2023 to over 70 gigawatts by 02/1930.
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+That 10x increase is creating a number of power challenges for our industry, but will also generate significant commercial opportunities for the suppliers that deliver leading solutions to these major power problems. In power electronics, when any system requires a significant increase in power capability, one of the most effective strategies is to increase the operating or system bus voltage. Since power distribution losses are inversely proportional to the square of the operating voltage, a 4x increase in voltage translates into a 16x reduction in power loss and a very dramatic improvement in energy efficiency. Before AI, traditional data centers operated with a 12 volt bus and achieved overall energy efficiencies in the 70% range. In the last two years with the deployment of the first AI chips, the data center industry has quickly transitioned to a 48 volt bus architecture, reducing power distribution losses by up to 16x and targeting overall efficiencies in the 80% range.
+
+These 48 volt data centers are also supporting a major upgrade from 10 to 20 kilowatts in a traditional server rack to 100 to 200 kilowatt rack in a 48 volt data center. While such a change is dramatic, it is far from adequate to handle the exponential growth in AI power requirements. Thankfully, NVIDIA has announced their intentions to enable 800 volt data centers in the future With a 15x increase in operating voltage, overall data center efficiency should improve significantly while targeting rack power that can achieve one megawatt or more. This is an important step and vision for the data center industry, but also poses significant challenges and opportunities for the power electronics industry and semiconductor suppliers such as Navitas. Traditional 12 volt data centers have moderate power semiconductor content and little or no demand for the ultra efficient gallium nitride and silicon carbide technology that NELITAS is producing.
+
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+The near term move to 48 volts has increased that power semiconductor content to around $10,000,000 to $20,000,000 per gigawatt of power demand, which may represent over $1,000,000,000 per year power semiconductor market opportunity globally over the next five years, but GaN and silicon carbide will be required only selectively in these lower voltage and lower power systems. However, as we look at 800 volt systems, these supercharged data centers will require three different stages of power conversion, all of which we believe will need a combination of gallium nitride and sodium carbide technologies to meet their power efficiency and density requirements. As a result, we expect power semiconductor content of AI data centers to expand to $30,000,000 to $50,000,000 per gigawatt of power delivered with the majority demanding gallium nitride or silicon carbide. When combining this growing content with the 10x increase in AI power projected in the future, we believe this could translate into a $2,600,000,000 per year opportunity by 2030 for gallium nitride and silicon carbide. Let me break down this opportunity further and explain Navitas capability and plans.
+
+There are three power conversion applications or stages for the 800 volt data center opportunity. The first stage starts with the power grid itself, which is not well prepared to handle this significant surge in energy demand. The existing grid was designed over one hundred years ago and is antiquated, inefficient, and lacks the stability needed to electrify our planet. The existing grid is built on low frequency transformers or LFTs, which have no semiconductor content and don’t offer good flexibility to deal with the growing instability of the grid itself and the fast charging power requirements of data centers and our planet. The answer is in solid state transformers or SSTs.
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+SSTs enable up to 75% reduction in size and weight and offer an inherent robust ability to efficiently deliver more power under a wide range of operating conditions. SSTs require the most efficient power semiconductors like silicon carbide and require silicon carbide that withstands ultra high voltages to interface directly with the grid, which operates at 10,000 volts or higher. Our Genstec technology is a leader in ultra high voltage or UHV silicon carbide technologies with voltage ratings up to 6.5 KV. This positions Navitas to support this megatrend to upgrade the grid with robust efficient solid state transformers. In the process, we expect to participate in creating a brand new billion dollar per year market opportunity for Navitas.
+
+We have completed initial sample evaluations with positive customer results. We are now developing engineering samples initially at two point three and three point three KV in our new SICTAC package optimized for these ultra high voltages and designed for very high reliability. We expect to deliver these final samples to customers in Q4 this year. Our target customers include major power system integrators such as Schneider, Eaton, Vertiv among others. We expect first customers will create system designs during 2026 with many targeting 2027 for mass production ramp up.
+
+We currently see limited competition in this exciting new market and we are aggressively investing in expanding our technology lead and forging strategic relationships with the early leaders that are creating these SSTs. These SSTs convert from the grid power from over 10,000 volts down to 800 volts needed for next generation data centers. We estimate this stage requires about 8,000,000 of power semis per gigawatt of power delivered, which translates to about a half a billion per year opportunity for our selling carbon technology in the next five years. But this is only the estimate for grid powered data centers. We see the same trends and opportunities to upgrade the grid to connect with large scale renewable energy and storage systems and also to power the rest of our increasingly electrified planet.
+
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+In total, we estimate SSTs and grid power reflects well over $1,000,000,000 per year total market for Navitas silicon carbide technology by 02/1930. This takes us to the second stage, which converts that incoming 800 volts from the grid down to 48 volts. This second stage requires 800 volts to 48 volt DC to DC converters that are integrated directly onto the server motherboard where real estate is at a premium and thermal management is critical. As a result, this second stage will require the highest frequency, efficiency and density technologies which GaN and silicon carbide can offer. Offer.
+
+While the 800 volt input of this stage can utilize high voltage GaN or silicon carbide, the 48 volt output of this stage is a perfect fit for our new mid voltage 80 to 200 volt GaN, which we expect to introduce beginning later this year. Our target customers for this stage include Threats, Light On and Delta among others. Similar to the first stage, initial engineering samples have been evaluated by our early customers with positive results and we are now developing final engineering samples for lead customers in Q4 and supporting them to finalize their system design and supplier selections in advance of early production ramps expected to start in late twenty twenty six. We are one of only two suppliers that can offer the full range of high voltage GaN, high voltage solid garment and the mid voltage GaN for this application. And we believe we offer the best performance versions of each.
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+We estimate this application represents a billion dollar per year TAM given $15,000,000 of power semis per gigawatt delivered. And finally, come to the third stage which takes the 48 volts from the second stage and converts it down to 12 volts or less to eventually power the AI processor itself. This 48 volt DC to DC converter has the most critical demands for high efficiency, density and reliability given it is the closest to the AI processor on the motherboard. For this stage Navitas will use our new 80 to 200 volt GaN technology. This technology offers industry leading frequency, efficiency and density and does it in an innovative new package which efficiently removes the heat from the top and the bottom of the package all in a very tiny five by six millimeter footprint.
+
+Initial customer evaluations are complete with positive results. As with the other stages, we plan to deliver final engineering samples in Q4 and expect customers to finalize their system design and supplier selections in advance of early production ramps in late twenty twenty six. We estimate this stage represents the largest of the three stages with a $1,200,000,000 per year TAM given $20,000,000 of power semis per gigawatt of power delivered. In aggregate, we believe that AI data center and related energy infrastructure opportunities represents a very sizable $2,600,000,000 per year market opportunity for our industry and for our company. We are pleased that our years of collaboration with industry leaders like NVIDIA have led Navitas to be recognized among this sector’s key ecosystem partners.
+
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+We are excited by the positive initial customer evaluations and look forward to developing the final technology for each of the three stages I described. We believe we’re at the right time and the right place with the right leading edge technology to establish a leadership position in this fast emerging AI data center and energy infrastructure market. While some of the market headwinds and our decision to sharpen our focus within the mobile and consumer segments will constrain our near term financial performance, we believe we’re making the important decisions and investments to capitalize on this exciting opportunity. We recognize a lot of important information and updates have been shared today. To assist investors to better understand Navitas plans and opportunities for AI data centers and related energy infrastructure we’re posting a short PowerPoint on our investor website today that further explains many of the opportunities I just covered.
+
+In addition, we will be holding a live presentation and Q and A event open to the public later in the week. Now let me turn it over to Todd to explain further of the strategies and initiatives that I have described.
+
+Todd Glickman, CFO, Navitas Semiconductor: Thank you, Gene. In my comments today I will take you through our second quarter twenty twenty five financial results and then I’ll walk you through our outlook for the third quarter and explain further on the financial implications of some of the important Q2 achievements, market dynamics and announcements that Gene has described. Revenue in the 2025 was at the midpoint of guidance at $14,500,000 As expected, revenue and the industry environment remained relatively static compared to the 2025. The decline compared to a year ago quarter was primarily the result of lower revenues in the China EV and industrial markets as semiconductor customers wait for improved economic indicators. Before addressing gross profit and expenses, I’d like to refer you to the GAAP to non GAAP reconciliations in our press release.
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+In the rest of my commentary, I will refer to non GAAP measures. Gross margin in the second quarter was 38.5%, which was up sequentially compared to 38.1% in the first quarter, primarily due to a slight favorable change in product mix. In the second quarter, we executed on further synergies and operational efficiencies associated with prior acquisitions as we reduced operating expenses sequentially from $17,200,000 to $16,100,000 Operating expenses were comprised of SG and A expenses of $6,900,000 and R and D expenses of $9,200,000 Expenses were slightly higher than projected as we incurred additional second quarter only R and D expenses related to our high power GaN development. Consolidating certain support groups and sites and further streamlining day to day functions has allowed us to significantly reduce SG and A by 17% or $1,400,000 from the first quarter, while we continue investing in next generation GaN and SiC technology platforms to serve the increasing power consumption across AI data center and energy infrastructure markets. Adding all this together, the second quarter twenty twenty five loss from operations improved sequentially to $10,600,000 from $11,800,000 in the 2025 by leveraging SG and A cost reductions.
+
+Our weighted average share count for the second quarter was 199,000,000 shares. Approximately 20,000,000 shares were issued yielding net cash proceeds of $97,000,000 through our at the market offerings that we concluded during the quarter. Turning to the balance sheet. Accounts receivable was relatively flat since last quarter at $12,500,000 Inventory is $15,100,000 down from $16,100,000 in the first quarter. We took an approximately $3,000,000 China SiC inventory reserve on U.
+
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+S. Produced SiC products given the impact of the unstable tariff environment on our sales into China. Ultimately, we believe our U. S. Manufacturing location for SiC wafers will provide Navitas with a significant strategic advantage with our U.
+
+S. Customers for our AI data center and energy infrastructure over time. Our balance sheet remains very strong as we exit Q2 twenty twenty five with high levels of liquidity and an improved working capital position. Cash and cash equivalents at quarter end were 161,000,000 and we continue to carry no debt. Moving on to guidance for the third quarter.
+
+We currently expect revenue of $10,000,000 plus or minus $500,000 This expected revenue reduction reflects both adverse impacts from China tariff risks for our silicon carbide business and our strategic decision to deprioritize lower margin China Mobile business while we accelerate our investment and leadership in AI data centers and associated new energy infrastructure. These applications have ever increasing power demands ideally served with Navitas differentiated GaN and SiC technologies that we expect to yield strong growth potential and higher margins over time. We believe this transition toward AI data center and energy infrastructure markets will take multiple quarters and we have set up our balance sheet accordingly. In addition to the completion of our $97,000,000 net capital raise, we have reduced operating expenses 25% from second quarter twenty twenty four. We believe we are well positioned with the resources and runway to execute on opportunities for our next wave of growth driven by increased scale and profitability.
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+Gross margin for the third quarter is expected to be flat compared to the second quarter with our guidance at 38.5% plus or minus 50 basis points as our expected mix remains consistent in the near term. Turning to operating expenses. We anticipate operating expenses of $15,500,000 in the third quarter, down from $16,100,000 in Q2 twenty twenty five as we continue to execute on our plan of focusing on fewer markets to drive capital efficiency across the business through the transition. For the 2025, we expect our weighted average share count to be approximately $214,000,000 shares. In closing, we are pleased with our Q2 results, particularly around the recognition of our technology attracting fresh investment, the announcement of strategic ecosystem partnerships and the acceleration of our focus and investment in data centers and energy infrastructure.
+
+Looking forward, while some industry headwinds continue and we will expect to further lessen our reliance on mobile revenues, we are confident these strategic moves position the company for its next wave of significant growth. Operator, let’s begin the Q and A session.
+
+Conference Operator: We will now begin the question and answer session. And your first question comes from the line of Ross Seymore with Deutsche Bank. Ross, please go ahead.
+
+Ross Seymore, Analyst, Deutsche Bank: Hi, guys. Thanks for letting me ask a question. Gene, in this transition, I guess let’s get the bad news out of the way first. How do you expect the revenues to behave between now and the time in, it sounds like second half of next year where the bigger ramp will occur in the data center side? So as we drop down first before we go back up on the other side, how should we think that shape looks?
+
+
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yeah, thanks, Ross. Good question, the obvious question, right? So as we make the transition, we’re going to both reduce dependency on mobile, as Todd and I described, which does involve reducing some revenues, being more selective in that market. At the same time, we’re layering in all new design wins, from other sectors and even the 48 volt data centers. So I think those net out, to some softer quarters, over the next one or two quarters, but sets us up well as we shift all of our investment or heavy investment into the AI data center, first 48 volt, but much bigger as we described at the 800 volt.
+
+So it’ll be a transitionary period, but some softer quarters in the near term, but setting us up well big growth as we get into 2026.
+
+Lori Barker, Investor Relations, Navitas Semiconductor: And then I guess that’s
+
+Ross Seymore, Analyst, Deutsche Bank: the perfect transition to the good side of the equation. When you get into 2026 and you say most of these ramps are late twenty twenty six, are you talking second half or fourth quarter? And then looking even further beyond that, what’s the sort of margin structure you think this business could offer, especially in your gross margin line? It seems like it would have significantly less pressure from competitors perhaps, but inherently a more performance centric market. So what sort of gross margin do you think that could deliver?
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yeah, let me so covering the first part, recognize the 800 volt data center is heavily a 2027 play. That’s a pretty extraordinary one with really high content, we believe GaN and silicon carbide across those three stages we talked about. 48 volts are still ramping, right? We previously announced 70 customer projects over 40 wins. They’re not as big, they’re not as significant, but those will be contributing and layering in to growth and help offset some of that reduced mobile dependency we talked about throughout ’26.
+
+So I think that’s the dynamic for 26 on the top line. I think on margin, we still have our same long term margin model north of 50 points. As you point out, the AI data center and the energy infrastructure markets should be very high value markets. They’re really driven around performance, efficiency, density, cost is secondary, even supply chain I would put as a higher issue than cost. And that’s also obviously part of what we’re doing with mobile and reducing that dependency being more selective.
+
+So I think all that sets us up well. I’d add in another factor, which is a big announcement in the quarter power chip, low cost eight inch, that’s also going to be layering in over the next twelve to twenty four months. That’s going to drive great cost reduction for us, better price points in the market, better upside on growth, but also add to the incremental gross margin as we go from high 30s, low 40s and head towards that longer term model of 50% and beyond.
+
+
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+Conference Operator: Thank you. Thanks, Ross. And your next question comes from the line of Blayne Curtis with Jefferies. Blayne, please go ahead.
+
+Blayne Curtis, Analyst, Jefferies: Hey, thanks for taking my question. Maybe just following up on Ross, I just want to understand the what portion of your mobile business historically are you deeming that kind of lower gross margin business you’re walking away? If you said a continued headwind, I’m just trying to understand, does the absolute amount per quarter go lower from here? Or is the remainder stuff you’ll stick with for a little bit longer?
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yeah, yeah. Good questions, Blaine. And so we’ve often highlighted how the value of GaN in chargers and in other applications goes up as you go up in power. Ultrafast chargers we’ve talked about in the past are really north of 100 watts. We’ve participated in things below that 45 watts, 65 watts.
+
+Those are popular power levels even with silicon chargers. There’s a lot of volume there. A lot of that volume is in China, but we don’t love the price points. We don’t love the margin profile and we don’t love the price kind of profile going forward. So we’re going to really refocus on those ultra fast chargers, 100 watt and plus.
+
+Case in point, we just announced a 90 watt Xiaomi aftermarket charger. That’s a great one in China. That’s a great brand and a great partner and an incredible power density. It’s the power that is on the upper end of most notebooks, but in the size of a typical 12 watt silicon charger. So that’s the kind of things we’ll keep going with.
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+We’re going to like that margin profile better, but admittedly it’s going to be less revenue base. The mainstream where we’re reducing is more China, more 65 watt and 45 watt and we see that being far more than offset as we start to ramp AI data centers later in 2026.
+
+Blayne Curtis, Analyst, Jefferies: Thanks. And then I just was curious on the transition of PowerChIP, I guess, can you just walk us through in terms of your ability to get any kind of volumes before power chip ramps? Is there any impact from that transition in your revenue outlook?
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yes. And you can kind of break it into two pieces. We’ve actually got the what we call the mid voltage GaN that’s brand new, 80 to 200 volts. That’s very important for 48 volt data centers today and 800 volt data centers tomorrow. And this is what I call the stage three.
+
+That’s starting out straight away from PowerChIP, we’re already sampling that next quarter from PowerChIP that will start ramping production in early twenty twenty six. The high voltage GaN we’re already shipping today from TSMC, we’ll start sampling that to customers, if not late this year, early next year, that will start ramping in late twenty twenty six. And we expect a lot of our customers to migrate quite quickly from TSMC to PowerChip, given the big advantages in technology cost and capacity.
+
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+Blayne Curtis, Analyst, Jefferies: Okay. So I guess, in short, there’s no supply issue. This is more the revenue headwind is purely because of where pricing and margin went in mobile.
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yeah, yeah, exactly. Yeah, thanks for clarifying. No supply at all. In fact, by bringing up eight inches, that gets you 80% more die per wafer, we’ll have a lot of capacity, no shortages or supply chain issues on our mobile decisions in the short term.
+
+Jon Tanwanteng, Analyst, CJS Securities: Thanks guys.
+
+: Thanks Blaine.
+
+Conference Operator: And your next question comes from the line of Kevin Cassidy with Roseland Securities. Kevin, please go ahead.
+
+Kevin Cassidy, Analyst, Roseland Securities: Hi. Thanks for taking my questions. Since the announcement from NVIDIA, have you seen any adoption increase just in the 48 volt data centers today for moving to gallium nitride? It seemed like ’re a little hesitant in the past, but does that help break a log, Jim?
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yeah, it’s a good thought, Kevin. And I think it will, it’s a little too early to call it fully, but it brings up an important point. While we see GaN designs already underway for the 48 volt system of an 800 volt data center, that same, what I was calling stage three, that 48 volt converter using GaN can also be used in 48 volt data centers. So we’re hopeful that as we prove it out with an eye towards 800 volt, we could get some upsides next year putting it in place even before the 800 volt ramp up with 48 volt data centers. But it’s a little too early to call it and we’ll sort of see how that plays out and obviously do what we can to support it.
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+Kevin Cassidy, Analyst, Roseland Securities: Okay, I see. And then also on the transition from TSMC to power chip, should we expect to see inventory build? Are you going to get a safety supply of TSMC wafers before making the transition?
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yes. So TSMC is committed to at least a two year supply through ’27. That might get extended. But even if it doesn’t, we can do additional last time buyers as you’re implying. Our message to our customers, if it takes them a little bit longer to transition a power chip, we can supply them through all of ’27, probably even into ’28 if it’s needed.
+
+I don’t think it will take anybody that close and there’s so many big advantages on cost, capacity and tech make that move, but that gives us a nice cushion and a high confidence on supply chain.
+
+Conference Operator: Okay, thank you.
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Thanks, Kevin.
+
+Conference Operator: And your next question comes from the line of Jack Eagan with Charter Equity Research. Research. So
+
+: just on the near term, I was hoping you could kind of go through the drivers for the big sequential decline in September. So you have a weaker demand environment, some tariff headwinds and then the narrowing of your product portfolio. So how much did each of those kind of contribute to the guidance for September?
+
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yes, you summarized it really well, Jack. And so they’re almost equal weight in the short term. We knew silicon carbide was a risk for us in China on the tariffs. We’re one of the few guys that does U. S.
+
+Manufacturing. And that’s a risk that is turning into reality. That same risk of having U. S. Manufacturing, of course, becomes a great strength as we look at AI data centers and energy infrastructure over time because our customers, which are heavily U.
+
+S. Based, love the idea of a U. S. Supply chain. But in the short term, that’s caused us some impact.
+
+I think that’s mostly our Q3 impact, maybe a little bit Q4. The other is the intention to be more selective in mobile, reduce our dependency. That’s going be a multi quarter effort as Todd applied. And then we’ve not seen ramp ups of new design wins given the industry slowdowns continuing, think for a couple quarters more, it’s a little hard to predict even by our larger competitors. So I’d kind of give them equal weight on driving some of sequential decline in Q3.
+
+: Okay. Thanks. That’s helpful. And then on data center side, has the 800 volt announcements with NVIDIA led to more engagement with other data center customers? And I mean, would Navitas have the design and support resources to handle those additional products?
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+Or I mean, would NVIDIA really just take the bulk of your focus for the foreseeable future?
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yes, it’s definitely open doors. We thought we’re well positioned already. There’s a lot of these customers we know very well around the world. Many of them are doing power supplies in markets where we’re already serving, whether it’s notebook or desktop or even early server work that we’ve already done. So we know the customers well, especially on SST, that’s the newest field, solid state transformer.
+
+So we’ve had a lot of inbound there and it’s opening up a lot of doors, which is exciting. To your point about opening doors too, we should mention NVIDIA is hugely influential and we’re super excited about their vision. They’re not the only guys looking to drive this move towards higher voltage data centers and those are opportunities that are also emerging. Nothing really to announce yet, but I think there’s other players that are going to be pushing the same direction, expanding the market opportunity.
+
+: Got it. Thank you.
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Thanks, Jack.
+
+Conference Operator: And your next question comes from the line of Joe Moore with Morgan Stanley. Joe, please go ahead.
+
+Joe Moore, Analyst, Morgan Stanley: Great. Thank you. I wonder if you could talk about the competition for these NVIDIA products. I mean, you’ve had 10 different companies announce their participation in this partnership. Obviously, you guys have a wider range of wide band gap products to address it with.
+
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+But can you just talk about when you talk about that, Sam, your position within that, Sam?
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yes, definitely, definitely, Joe. And you touched on the first point, which is this is a pretty extraordinary challenge from grid power at tens of thousands of volts to step it all the way down to GPU power at sub one volt and each of these three stages has a big demand on high efficiency and high density. So you’re going to need the best high performance, high reliability and high efficiency technology in each stage. We feel like we’re starting from a great place having it, not just having the range but on the silicon carbide, what we call ultra high voltage, 2.3 kilovolt all the way up to 6.5 kilovolt, very few suppliers in that space. We have the best performance, the best reliability in our opinion gives us a great starting point.
+
+And we’re investing aggressively to expand that lead generationally and in packages and portfolio. You go to that second stage of high voltage GaN, which companies have high voltage GaN, high voltage silicon carbide and it may take a combination of those two in the second stage and the output of that, the mid voltage GaN, 80 to 200 volt. Very, very few, even of the name suppliers that are participating have that combination. And then that third stage is all mid voltage GaN, 80 to 200 volt GaN with a 48 volt converter demanding the highest efficiency, highest density. And part of our strategic decision to defocus and reduce some of our dependency on mobile is shifting aggressively to accelerate that R and D, push that technology advantage, push the focus and increase the customer intimacy.
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+So I think those are all positives. Another big positive for us is our size. While we’re up against some big guys, I think our small size is our advantage. Speed, flexibility, innovation, risk taking and focus. It all comes back to focus.
+
+And so a lot of what you heard today is us really doubling down and increasing the focus in this critical fast moving market.
+
+Conference Operator: Great, thank you.
+
+Todd Glickman, CFO, Navitas Semiconductor: Thanks, Joe.
+
+Conference Operator: And your next question comes from the line of Jon Tanwanteng with CJS Securities. Jon, please go ahead.
+
+Jon Tanwanteng, Analyst, CJS Securities: Hi, Gene. Thank you for taking my question. I was wondering, since there’s obviously no design wins as part of the announcement, there’s a long time till you get there. You’re announcing this transition away from your core bread and butter markets. Are you getting any design and engineering revenue along the way?
+
+Or is it really just risking it all with the knowledge that you do think you have a performer product before we get there and how should we think about the cash flows along the way as well? Obviously nice to see the deep raise of capital, but what should we expect before the cash will start ramping again?
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yeah, it is an important point. I don’t as much as the 800 volt is exciting and there’s a lot to do and we’re off to a good start and we think we’re well positioned, but it’s mainly a 2027 play. 2026 is still ramping on 48 volt data centers. We’ve already announced the 40 design wins, over 70 in total customer projects that will be ramping. Yeah, those are being offset by some of this reduction in mobile dependency, but you’re going to see those shine through as we ramp up in ’26.
+
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+So you’re going to see those, I think great announcements, great design wins. We didn’t put a big spotlight on pipeline this quarter just because we had so much else to cover to better explain the AI data center opportunity. But you’ll definitely see those design wins and see those growth sort of proof points along the way throughout ’26. And then there was another I think question, Todd, for you.
+
+Todd Glickman, CFO, Navitas Semiconductor: Yeah, John, I think you mentioned something about cash flow. Yeah, this last quarter our operating cash flow was around 11,000,000 With the $160,000,000 on our balance sheet today, we expect to maintain cash flow usage of around 10,000,000 to $11,000,000 going forward. So that’s our profile going forward because we expect to also keep operating expenses pretty flat.
+
+Jon Tanwanteng, Analyst, CJS Securities: Okay, great. Thank you. And just to clarify, Gene, when you say things improving through ’26, are you talking about just data center or are expecting other markets to recover as well?
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yes, think that depends somewhat on the markets. We did enter this year with a strong pipeline, strong design wins. Some of those forecasts have come down or delayed a bit with the continued softness in the market. But I would certainly expect to see recovery, as I think most do going into 2026, and that’s going to add to some tailwinds for us.
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+Conference Operator: Okay, thank you.
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Thank you, John.
+
+Conference Operator: And your next question comes from the line of Richard Shannon with Craig Hallum Capital Group. Richard, please go ahead.
+
+Lori Barker, Investor Relations, Navitas Semiconductor0: Great. Thanks for letting me ask you a couple of questions here. Gene, curious to understand kind of the change in focus here and what’s driving this. Have we had a material change in pricing trends in certain markets here? Know you’ve got a fairly aggressive competitor, specifically in China with mobile, but wondering if there’s been any change here in the last quarter or two that’s dictated this or is it just a continuing trend that’s made it harder?
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Yes, know, I think you nailed it on the head, Richard. No big announcements here. We’ve seen this trend for a while. We’ve talked about the importance of ultrafast charging and where we bring the real value. We participated in some of the more mainstream price sensitive, as I said, 45, 65 watt decent volume there in China.
+
+But those trends continue. And when the market’s soft, people are gonna get more aggressive on price, it’s sort of normal, but we don’t like that pricing trend, we don’t like the margin profile. And frankly, we’re getting ready for a much more attractive pricing trend and margin profile and where we really want to put our investment and focus as you’re hearing throughout the call.
+
+
+
+3rd party Ad. Not an offer or recommendation by Investing.com. See disclosure here or remove ads.
+Lori Barker, Investor Relations, Navitas Semiconductor0: Okay, fair enough then. And if I missed this, I apologize, but I just want to get a sense of how you’re thinking of the trajectory in gross margins over the near term. Think it an earlier question about what to expect from a revenue perspective, which seems kind of maybe bumping along the bottom or whatever phrase you’d like to use. But how do we think about gross margins here, particularly as we deemphasize some of these lower margin markets? Will we get up to bump above 40 here fairly soon?
+
+Or does that really take the revenue inflection to make that happen?
+
+Todd Glickman, CFO, Navitas Semiconductor: Yes, it’s actually going take the revenue inflection to make that happen. To your point, we delivered 38.5%, we’re guiding to 38.5% in Q3 and we expect it to remain that level as some of the other businesses are experiencing some tariff pressure on their margins, mainly in our silicon carbide business. So you’re not going to see that gross margin profile increase until the other sectors kick in. Okay, great. Thanks guys.
+
+Gene Sheridan, President, CEO, and Co-Founder, Navitas Semiconductor: Thank you, Richard.
+
+Conference Operator: There is no further questions at this time. That concludes today’s call. Thank you all for joining. You may now disconnect. Please wait.
